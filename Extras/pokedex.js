@@ -32,11 +32,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/001.png",
+        "./Imagens/Pokedex/sprites/001.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/001.png",
+        "./Imagens/Pokedex/thumbnails/001.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/001.png",
+        "./Imagens/Pokedex/hires/001.png",
     },
   },
   {
@@ -72,11 +72,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/002.png",
+        "./Imagens/Pokedex/sprites/002.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/002.png",
+        "./Imagens/Pokedex/thumbnails/002.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/002.png",
+        "./Imagens/Pokedex/hires/002.png",
     },
   },
   {
@@ -112,11 +112,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/003.png",
+        "./Imagens/Pokedex/sprites/003.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/003.png",
+        "./Imagens/Pokedex/thumbnails/003.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/003.png",
+        "./Imagens/Pokedex/hires/003.png",
     },
   },
   {
@@ -152,11 +152,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/004.png",
+        "./Imagens/Pokedex/sprites/004.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/004.png",
+        "./Imagens/Pokedex/thumbnails/004.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/004.png",
+        "./Imagens/Pokedex/hires/004.png",
     },
   },
   {
@@ -192,11 +192,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/005.png",
+        "./Imagens/Pokedex/sprites/005.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/005.png",
+        "./Imagens/Pokedex/thumbnails/005.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/005.png",
+        "./Imagens/Pokedex/hires/005.png",
     },
   },
   {
@@ -232,11 +232,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/006.png",
+        "./Imagens/Pokedex/sprites/006.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/006.png",
+        "./Imagens/Pokedex/thumbnails/006.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/006.png",
+        "./Imagens/Pokedex/hires/006.png",
     },
   },
   {
@@ -272,11 +272,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/007.png",
+        "./Imagens/Pokedex/sprites/007.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/007.png",
+        "./Imagens/Pokedex/thumbnails/007.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/007.png",
+        "./Imagens/Pokedex/hires/007.png",
     },
   },
   {
@@ -312,11 +312,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/008.png",
+        "./Imagens/Pokedex/sprites/008.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/008.png",
+        "./Imagens/Pokedex/thumbnails/008.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/008.png",
+        "./Imagens/Pokedex/hires/008.png",
     },
   },
   {
@@ -352,11 +352,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/009.png",
+        "./Imagens/Pokedex/sprites/009.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/009.png",
+        "./Imagens/Pokedex/thumbnails/009.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/009.png",
+        "./Imagens/Pokedex/hires/009.png",
     },
   },
   {
@@ -392,11 +392,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/010.png",
+        "./Imagens/Pokedex/sprites/010.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/010.png",
+        "./Imagens/Pokedex/thumbnails/010.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/010.png",
+        "./Imagens/Pokedex/hires/010.png",
     },
   },
   {
@@ -429,11 +429,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/011.png",
+        "./Imagens/Pokedex/sprites/011.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/011.png",
+        "./Imagens/Pokedex/thumbnails/011.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/011.png",
+        "./Imagens/Pokedex/hires/011.png",
     },
   },
   {
@@ -469,11 +469,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/012.png",
+        "./Imagens/Pokedex/sprites/012.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/012.png",
+        "./Imagens/Pokedex/thumbnails/012.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/012.png",
+        "./Imagens/Pokedex/hires/012.png",
     },
   },
   {
@@ -509,11 +509,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/013.png",
+        "./Imagens/Pokedex/sprites/013.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/013.png",
+        "./Imagens/Pokedex/thumbnails/013.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/013.png",
+        "./Imagens/Pokedex/hires/013.png",
     },
   },
   {
@@ -546,11 +546,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/014.png",
+        "./Imagens/Pokedex/sprites/014.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/014.png",
+        "./Imagens/Pokedex/thumbnails/014.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/014.png",
+        "./Imagens/Pokedex/hires/014.png",
     },
   },
   {
@@ -586,11 +586,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/015.png",
+        "./Imagens/Pokedex/sprites/015.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/015.png",
+        "./Imagens/Pokedex/thumbnails/015.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/015.png",
+        "./Imagens/Pokedex/hires/015.png",
     },
   },
   {
@@ -627,11 +627,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/016.png",
+        "./Imagens/Pokedex/sprites/016.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/016.png",
+        "./Imagens/Pokedex/thumbnails/016.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/016.png",
+        "./Imagens/Pokedex/hires/016.png",
     },
   },
   {
@@ -668,11 +668,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/017.png",
+        "./Imagens/Pokedex/sprites/017.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/017.png",
+        "./Imagens/Pokedex/thumbnails/017.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/017.png",
+        "./Imagens/Pokedex/hires/017.png",
     },
   },
   {
@@ -709,11 +709,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/018.png",
+        "./Imagens/Pokedex/sprites/018.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/018.png",
+        "./Imagens/Pokedex/thumbnails/018.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/018.png",
+        "./Imagens/Pokedex/hires/018.png",
     },
   },
   {
@@ -750,11 +750,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/019.png",
+        "./Imagens/Pokedex/sprites/019.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/019.png",
+        "./Imagens/Pokedex/thumbnails/019.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/019.png",
+        "./Imagens/Pokedex/hires/019.png",
     },
   },
   {
@@ -791,11 +791,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/020.png",
+        "./Imagens/Pokedex/sprites/020.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/020.png",
+        "./Imagens/Pokedex/thumbnails/020.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/020.png",
+        "./Imagens/Pokedex/hires/020.png",
     },
   },
   {
@@ -831,11 +831,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/021.png",
+        "./Imagens/Pokedex/sprites/021.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/021.png",
+        "./Imagens/Pokedex/thumbnails/021.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/021.png",
+        "./Imagens/Pokedex/hires/021.png",
     },
   },
   {
@@ -871,11 +871,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/022.png",
+        "./Imagens/Pokedex/sprites/022.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/022.png",
+        "./Imagens/Pokedex/thumbnails/022.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/022.png",
+        "./Imagens/Pokedex/hires/022.png",
     },
   },
   {
@@ -912,11 +912,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/023.png",
+        "./Imagens/Pokedex/sprites/023.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/023.png",
+        "./Imagens/Pokedex/thumbnails/023.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/023.png",
+        "./Imagens/Pokedex/hires/023.png",
     },
   },
   {
@@ -953,11 +953,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/024.png",
+        "./Imagens/Pokedex/sprites/024.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/024.png",
+        "./Imagens/Pokedex/thumbnails/024.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/024.png",
+        "./Imagens/Pokedex/hires/024.png",
     },
   },
   {
@@ -996,11 +996,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/025.png",
+        "./Imagens/Pokedex/sprites/025.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/025.png",
+        "./Imagens/Pokedex/thumbnails/025.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png",
+        "./Imagens/Pokedex/hires/025.png",
     },
   },
   {
@@ -1036,11 +1036,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/026.png",
+        "./Imagens/Pokedex/sprites/026.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/026.png",
+        "./Imagens/Pokedex/thumbnails/026.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/026.png",
+        "./Imagens/Pokedex/hires/026.png",
     },
   },
   {
@@ -1076,11 +1076,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/027.png",
+        "./Imagens/Pokedex/sprites/027.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/027.png",
+        "./Imagens/Pokedex/thumbnails/027.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/027.png",
+        "./Imagens/Pokedex/hires/027.png",
     },
   },
   {
@@ -1116,11 +1116,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/028.png",
+        "./Imagens/Pokedex/sprites/028.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/028.png",
+        "./Imagens/Pokedex/thumbnails/028.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/028.png",
+        "./Imagens/Pokedex/hires/028.png",
     },
   },
   {
@@ -1157,11 +1157,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/029.png",
+        "./Imagens/Pokedex/sprites/029.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/029.png",
+        "./Imagens/Pokedex/thumbnails/029.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/029.png",
+        "./Imagens/Pokedex/hires/029.png",
     },
   },
   {
@@ -1201,11 +1201,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/030.png",
+        "./Imagens/Pokedex/sprites/030.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/030.png",
+        "./Imagens/Pokedex/thumbnails/030.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/030.png",
+        "./Imagens/Pokedex/hires/030.png",
     },
   },
   {
@@ -1242,11 +1242,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/031.png",
+        "./Imagens/Pokedex/sprites/031.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/031.png",
+        "./Imagens/Pokedex/thumbnails/031.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/031.png",
+        "./Imagens/Pokedex/hires/031.png",
     },
   },
   {
@@ -1283,11 +1283,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/032.png",
+        "./Imagens/Pokedex/sprites/032.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/032.png",
+        "./Imagens/Pokedex/thumbnails/032.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/032.png",
+        "./Imagens/Pokedex/hires/032.png",
     },
   },
   {
@@ -1327,11 +1327,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/033.png",
+        "./Imagens/Pokedex/sprites/033.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/033.png",
+        "./Imagens/Pokedex/thumbnails/033.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/033.png",
+        "./Imagens/Pokedex/hires/033.png",
     },
   },
   {
@@ -1368,11 +1368,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/034.png",
+        "./Imagens/Pokedex/sprites/034.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/034.png",
+        "./Imagens/Pokedex/thumbnails/034.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/034.png",
+        "./Imagens/Pokedex/hires/034.png",
     },
   },
   {
@@ -1412,11 +1412,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/035.png",
+        "./Imagens/Pokedex/sprites/035.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/035.png",
+        "./Imagens/Pokedex/thumbnails/035.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/035.png",
+        "./Imagens/Pokedex/hires/035.png",
     },
   },
   {
@@ -1453,11 +1453,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/036.png",
+        "./Imagens/Pokedex/sprites/036.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/036.png",
+        "./Imagens/Pokedex/thumbnails/036.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/036.png",
+        "./Imagens/Pokedex/hires/036.png",
     },
   },
   {
@@ -1493,11 +1493,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/037.png",
+        "./Imagens/Pokedex/sprites/037.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/037.png",
+        "./Imagens/Pokedex/thumbnails/037.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/037.png",
+        "./Imagens/Pokedex/hires/037.png",
     },
   },
   {
@@ -1533,11 +1533,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/038.png",
+        "./Imagens/Pokedex/sprites/038.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/038.png",
+        "./Imagens/Pokedex/thumbnails/038.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/038.png",
+        "./Imagens/Pokedex/hires/038.png",
     },
   },
   {
@@ -1577,11 +1577,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/039.png",
+        "./Imagens/Pokedex/sprites/039.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/039.png",
+        "./Imagens/Pokedex/thumbnails/039.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/039.png",
+        "./Imagens/Pokedex/hires/039.png",
     },
   },
   {
@@ -1618,11 +1618,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/040.png",
+        "./Imagens/Pokedex/sprites/040.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/040.png",
+        "./Imagens/Pokedex/thumbnails/040.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/040.png",
+        "./Imagens/Pokedex/hires/040.png",
     },
   },
   {
@@ -1658,11 +1658,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/041.png",
+        "./Imagens/Pokedex/sprites/041.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/041.png",
+        "./Imagens/Pokedex/thumbnails/041.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/041.png",
+        "./Imagens/Pokedex/hires/041.png",
     },
   },
   {
@@ -1701,11 +1701,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/042.png",
+        "./Imagens/Pokedex/sprites/042.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/042.png",
+        "./Imagens/Pokedex/thumbnails/042.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/042.png",
+        "./Imagens/Pokedex/hires/042.png",
     },
   },
   {
@@ -1741,11 +1741,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/043.png",
+        "./Imagens/Pokedex/sprites/043.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/043.png",
+        "./Imagens/Pokedex/thumbnails/043.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/043.png",
+        "./Imagens/Pokedex/hires/043.png",
     },
   },
   {
@@ -1787,11 +1787,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/044.png",
+        "./Imagens/Pokedex/sprites/044.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/044.png",
+        "./Imagens/Pokedex/thumbnails/044.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/044.png",
+        "./Imagens/Pokedex/hires/044.png",
     },
   },
   {
@@ -1827,11 +1827,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/045.png",
+        "./Imagens/Pokedex/sprites/045.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/045.png",
+        "./Imagens/Pokedex/thumbnails/045.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/045.png",
+        "./Imagens/Pokedex/hires/045.png",
     },
   },
   {
@@ -1868,11 +1868,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/046.png",
+        "./Imagens/Pokedex/sprites/046.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/046.png",
+        "./Imagens/Pokedex/thumbnails/046.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/046.png",
+        "./Imagens/Pokedex/hires/046.png",
     },
   },
   {
@@ -1909,11 +1909,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/047.png",
+        "./Imagens/Pokedex/sprites/047.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/047.png",
+        "./Imagens/Pokedex/thumbnails/047.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/047.png",
+        "./Imagens/Pokedex/hires/047.png",
     },
   },
   {
@@ -1950,11 +1950,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/048.png",
+        "./Imagens/Pokedex/sprites/048.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/048.png",
+        "./Imagens/Pokedex/thumbnails/048.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/048.png",
+        "./Imagens/Pokedex/hires/048.png",
     },
   },
   {
@@ -1991,11 +1991,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/049.png",
+        "./Imagens/Pokedex/sprites/049.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/049.png",
+        "./Imagens/Pokedex/thumbnails/049.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/049.png",
+        "./Imagens/Pokedex/hires/049.png",
     },
   },
   {
@@ -2032,11 +2032,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/050.png",
+        "./Imagens/Pokedex/sprites/050.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/050.png",
+        "./Imagens/Pokedex/thumbnails/050.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/050.png",
+        "./Imagens/Pokedex/hires/050.png",
     },
   },
   {
@@ -2073,11 +2073,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/051.png",
+        "./Imagens/Pokedex/sprites/051.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/051.png",
+        "./Imagens/Pokedex/thumbnails/051.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/051.png",
+        "./Imagens/Pokedex/hires/051.png",
     },
   },
   {
@@ -2114,11 +2114,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/052.png",
+        "./Imagens/Pokedex/sprites/052.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/052.png",
+        "./Imagens/Pokedex/thumbnails/052.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/052.png",
+        "./Imagens/Pokedex/hires/052.png",
     },
   },
   {
@@ -2155,11 +2155,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/053.png",
+        "./Imagens/Pokedex/sprites/053.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/053.png",
+        "./Imagens/Pokedex/thumbnails/053.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/053.png",
+        "./Imagens/Pokedex/hires/053.png",
     },
   },
   {
@@ -2196,11 +2196,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/054.png",
+        "./Imagens/Pokedex/sprites/054.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/054.png",
+        "./Imagens/Pokedex/thumbnails/054.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/054.png",
+        "./Imagens/Pokedex/hires/054.png",
     },
   },
   {
@@ -2237,11 +2237,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/055.png",
+        "./Imagens/Pokedex/sprites/055.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/055.png",
+        "./Imagens/Pokedex/thumbnails/055.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/055.png",
+        "./Imagens/Pokedex/hires/055.png",
     },
   },
   {
@@ -2278,11 +2278,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/056.png",
+        "./Imagens/Pokedex/sprites/056.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/056.png",
+        "./Imagens/Pokedex/thumbnails/056.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/056.png",
+        "./Imagens/Pokedex/hires/056.png",
     },
   },
   {
@@ -2319,11 +2319,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/057.png",
+        "./Imagens/Pokedex/sprites/057.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/057.png",
+        "./Imagens/Pokedex/thumbnails/057.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/057.png",
+        "./Imagens/Pokedex/hires/057.png",
     },
   },
   {
@@ -2360,11 +2360,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/058.png",
+        "./Imagens/Pokedex/sprites/058.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/058.png",
+        "./Imagens/Pokedex/thumbnails/058.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/058.png",
+        "./Imagens/Pokedex/hires/058.png",
     },
   },
   {
@@ -2401,11 +2401,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/059.png",
+        "./Imagens/Pokedex/sprites/059.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/059.png",
+        "./Imagens/Pokedex/thumbnails/059.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/059.png",
+        "./Imagens/Pokedex/hires/059.png",
     },
   },
   {
@@ -2442,11 +2442,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/060.png",
+        "./Imagens/Pokedex/sprites/060.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/060.png",
+        "./Imagens/Pokedex/thumbnails/060.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/060.png",
+        "./Imagens/Pokedex/hires/060.png",
     },
   },
   {
@@ -2489,11 +2489,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/061.png",
+        "./Imagens/Pokedex/sprites/061.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/061.png",
+        "./Imagens/Pokedex/thumbnails/061.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/061.png",
+        "./Imagens/Pokedex/hires/061.png",
     },
   },
   {
@@ -2530,11 +2530,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/062.png",
+        "./Imagens/Pokedex/sprites/062.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/062.png",
+        "./Imagens/Pokedex/thumbnails/062.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/062.png",
+        "./Imagens/Pokedex/hires/062.png",
     },
   },
   {
@@ -2571,11 +2571,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/063.png",
+        "./Imagens/Pokedex/sprites/063.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/063.png",
+        "./Imagens/Pokedex/thumbnails/063.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/063.png",
+        "./Imagens/Pokedex/hires/063.png",
     },
   },
   {
@@ -2612,11 +2612,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/064.png",
+        "./Imagens/Pokedex/sprites/064.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/064.png",
+        "./Imagens/Pokedex/thumbnails/064.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/064.png",
+        "./Imagens/Pokedex/hires/064.png",
     },
   },
   {
@@ -2653,11 +2653,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/065.png",
+        "./Imagens/Pokedex/sprites/065.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/065.png",
+        "./Imagens/Pokedex/thumbnails/065.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/065.png",
+        "./Imagens/Pokedex/hires/065.png",
     },
   },
   {
@@ -2694,11 +2694,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/066.png",
+        "./Imagens/Pokedex/sprites/066.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/066.png",
+        "./Imagens/Pokedex/thumbnails/066.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/066.png",
+        "./Imagens/Pokedex/hires/066.png",
     },
   },
   {
@@ -2735,11 +2735,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/067.png",
+        "./Imagens/Pokedex/sprites/067.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/067.png",
+        "./Imagens/Pokedex/thumbnails/067.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/067.png",
+        "./Imagens/Pokedex/hires/067.png",
     },
   },
   {
@@ -2776,11 +2776,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/068.png",
+        "./Imagens/Pokedex/sprites/068.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/068.png",
+        "./Imagens/Pokedex/thumbnails/068.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/068.png",
+        "./Imagens/Pokedex/hires/068.png",
     },
   },
   {
@@ -2816,11 +2816,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/069.png",
+        "./Imagens/Pokedex/sprites/069.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/069.png",
+        "./Imagens/Pokedex/thumbnails/069.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/069.png",
+        "./Imagens/Pokedex/hires/069.png",
     },
   },
   {
@@ -2859,11 +2859,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/070.png",
+        "./Imagens/Pokedex/sprites/070.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/070.png",
+        "./Imagens/Pokedex/thumbnails/070.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/070.png",
+        "./Imagens/Pokedex/hires/070.png",
     },
   },
   {
@@ -2899,11 +2899,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/071.png",
+        "./Imagens/Pokedex/sprites/071.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/071.png",
+        "./Imagens/Pokedex/thumbnails/071.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/071.png",
+        "./Imagens/Pokedex/hires/071.png",
     },
   },
   {
@@ -2940,11 +2940,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/072.png",
+        "./Imagens/Pokedex/sprites/072.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/072.png",
+        "./Imagens/Pokedex/thumbnails/072.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/072.png",
+        "./Imagens/Pokedex/hires/072.png",
     },
   },
   {
@@ -2981,11 +2981,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/073.png",
+        "./Imagens/Pokedex/sprites/073.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/073.png",
+        "./Imagens/Pokedex/thumbnails/073.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/073.png",
+        "./Imagens/Pokedex/hires/073.png",
     },
   },
   {
@@ -3022,11 +3022,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/074.png",
+        "./Imagens/Pokedex/sprites/074.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/074.png",
+        "./Imagens/Pokedex/thumbnails/074.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/074.png",
+        "./Imagens/Pokedex/hires/074.png",
     },
   },
   {
@@ -3063,11 +3063,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/075.png",
+        "./Imagens/Pokedex/sprites/075.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/075.png",
+        "./Imagens/Pokedex/thumbnails/075.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/075.png",
+        "./Imagens/Pokedex/hires/075.png",
     },
   },
   {
@@ -3104,11 +3104,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/076.png",
+        "./Imagens/Pokedex/sprites/076.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/076.png",
+        "./Imagens/Pokedex/thumbnails/076.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/076.png",
+        "./Imagens/Pokedex/hires/076.png",
     },
   },
   {
@@ -3145,11 +3145,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/077.png",
+        "./Imagens/Pokedex/sprites/077.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/077.png",
+        "./Imagens/Pokedex/thumbnails/077.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/077.png",
+        "./Imagens/Pokedex/hires/077.png",
     },
   },
   {
@@ -3186,11 +3186,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/078.png",
+        "./Imagens/Pokedex/sprites/078.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/078.png",
+        "./Imagens/Pokedex/thumbnails/078.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/078.png",
+        "./Imagens/Pokedex/hires/078.png",
     },
   },
   {
@@ -3232,11 +3232,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/079.png",
+        "./Imagens/Pokedex/sprites/079.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/079.png",
+        "./Imagens/Pokedex/thumbnails/079.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/079.png",
+        "./Imagens/Pokedex/hires/079.png",
     },
   },
   {
@@ -3273,11 +3273,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/080.png",
+        "./Imagens/Pokedex/sprites/080.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/080.png",
+        "./Imagens/Pokedex/thumbnails/080.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/080.png",
+        "./Imagens/Pokedex/hires/080.png",
     },
   },
   {
@@ -3314,11 +3314,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/081.png",
+        "./Imagens/Pokedex/sprites/081.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/081.png",
+        "./Imagens/Pokedex/thumbnails/081.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/081.png",
+        "./Imagens/Pokedex/hires/081.png",
     },
   },
   {
@@ -3358,11 +3358,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/082.png",
+        "./Imagens/Pokedex/sprites/082.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/082.png",
+        "./Imagens/Pokedex/thumbnails/082.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/082.png",
+        "./Imagens/Pokedex/hires/082.png",
     },
   },
   {
@@ -3399,11 +3399,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/083.png",
+        "./Imagens/Pokedex/sprites/083.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/083.png",
+        "./Imagens/Pokedex/thumbnails/083.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/083.png",
+        "./Imagens/Pokedex/hires/083.png",
     },
   },
   {
@@ -3440,11 +3440,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/084.png",
+        "./Imagens/Pokedex/sprites/084.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/084.png",
+        "./Imagens/Pokedex/thumbnails/084.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/084.png",
+        "./Imagens/Pokedex/hires/084.png",
     },
   },
   {
@@ -3481,11 +3481,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/085.png",
+        "./Imagens/Pokedex/sprites/085.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/085.png",
+        "./Imagens/Pokedex/thumbnails/085.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/085.png",
+        "./Imagens/Pokedex/hires/085.png",
     },
   },
   {
@@ -3522,11 +3522,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/086.png",
+        "./Imagens/Pokedex/sprites/086.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/086.png",
+        "./Imagens/Pokedex/thumbnails/086.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/086.png",
+        "./Imagens/Pokedex/hires/086.png",
     },
   },
   {
@@ -3563,11 +3563,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/087.png",
+        "./Imagens/Pokedex/sprites/087.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/087.png",
+        "./Imagens/Pokedex/thumbnails/087.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/087.png",
+        "./Imagens/Pokedex/hires/087.png",
     },
   },
   {
@@ -3604,11 +3604,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/088.png",
+        "./Imagens/Pokedex/sprites/088.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/088.png",
+        "./Imagens/Pokedex/thumbnails/088.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/088.png",
+        "./Imagens/Pokedex/hires/088.png",
     },
   },
   {
@@ -3645,11 +3645,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/089.png",
+        "./Imagens/Pokedex/sprites/089.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/089.png",
+        "./Imagens/Pokedex/thumbnails/089.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/089.png",
+        "./Imagens/Pokedex/hires/089.png",
     },
   },
   {
@@ -3686,11 +3686,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/090.png",
+        "./Imagens/Pokedex/sprites/090.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/090.png",
+        "./Imagens/Pokedex/thumbnails/090.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/090.png",
+        "./Imagens/Pokedex/hires/090.png",
     },
   },
   {
@@ -3727,11 +3727,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/091.png",
+        "./Imagens/Pokedex/sprites/091.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/091.png",
+        "./Imagens/Pokedex/thumbnails/091.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/091.png",
+        "./Imagens/Pokedex/hires/091.png",
     },
   },
   {
@@ -3764,11 +3764,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/092.png",
+        "./Imagens/Pokedex/sprites/092.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/092.png",
+        "./Imagens/Pokedex/thumbnails/092.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/092.png",
+        "./Imagens/Pokedex/hires/092.png",
     },
   },
   {
@@ -3801,11 +3801,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/093.png",
+        "./Imagens/Pokedex/sprites/093.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/093.png",
+        "./Imagens/Pokedex/thumbnails/093.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/093.png",
+        "./Imagens/Pokedex/hires/093.png",
     },
   },
   {
@@ -3838,11 +3838,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/094.png",
+        "./Imagens/Pokedex/sprites/094.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/094.png",
+        "./Imagens/Pokedex/thumbnails/094.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/094.png",
+        "./Imagens/Pokedex/hires/094.png",
     },
   },
   {
@@ -3879,11 +3879,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/095.png",
+        "./Imagens/Pokedex/sprites/095.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/095.png",
+        "./Imagens/Pokedex/thumbnails/095.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/095.png",
+        "./Imagens/Pokedex/hires/095.png",
     },
   },
   {
@@ -3920,11 +3920,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/096.png",
+        "./Imagens/Pokedex/sprites/096.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/096.png",
+        "./Imagens/Pokedex/thumbnails/096.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/096.png",
+        "./Imagens/Pokedex/hires/096.png",
     },
   },
   {
@@ -3961,11 +3961,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/097.png",
+        "./Imagens/Pokedex/sprites/097.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/097.png",
+        "./Imagens/Pokedex/thumbnails/097.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/097.png",
+        "./Imagens/Pokedex/hires/097.png",
     },
   },
   {
@@ -4002,11 +4002,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/098.png",
+        "./Imagens/Pokedex/sprites/098.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/098.png",
+        "./Imagens/Pokedex/thumbnails/098.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/098.png",
+        "./Imagens/Pokedex/hires/098.png",
     },
   },
   {
@@ -4043,11 +4043,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/099.png",
+        "./Imagens/Pokedex/sprites/099.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/099.png",
+        "./Imagens/Pokedex/thumbnails/099.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/099.png",
+        "./Imagens/Pokedex/hires/099.png",
     },
   },
   {
@@ -4084,11 +4084,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/100.png",
+        "./Imagens/Pokedex/sprites/100.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/100.png",
+        "./Imagens/Pokedex/thumbnails/100.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/100.png",
+        "./Imagens/Pokedex/hires/100.png",
     },
   },
   {
@@ -4125,11 +4125,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/101.png",
+        "./Imagens/Pokedex/sprites/101.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/101.png",
+        "./Imagens/Pokedex/thumbnails/101.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/101.png",
+        "./Imagens/Pokedex/hires/101.png",
     },
   },
   {
@@ -4165,11 +4165,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/102.png",
+        "./Imagens/Pokedex/sprites/102.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/102.png",
+        "./Imagens/Pokedex/thumbnails/102.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/102.png",
+        "./Imagens/Pokedex/hires/102.png",
     },
   },
   {
@@ -4205,11 +4205,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/103.png",
+        "./Imagens/Pokedex/sprites/103.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/103.png",
+        "./Imagens/Pokedex/thumbnails/103.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/103.png",
+        "./Imagens/Pokedex/hires/103.png",
     },
   },
   {
@@ -4246,11 +4246,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/104.png",
+        "./Imagens/Pokedex/sprites/104.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/104.png",
+        "./Imagens/Pokedex/thumbnails/104.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/104.png",
+        "./Imagens/Pokedex/hires/104.png",
     },
   },
   {
@@ -4287,11 +4287,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/105.png",
+        "./Imagens/Pokedex/sprites/105.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/105.png",
+        "./Imagens/Pokedex/thumbnails/105.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/105.png",
+        "./Imagens/Pokedex/hires/105.png",
     },
   },
   {
@@ -4328,11 +4328,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/106.png",
+        "./Imagens/Pokedex/sprites/106.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/106.png",
+        "./Imagens/Pokedex/thumbnails/106.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/106.png",
+        "./Imagens/Pokedex/hires/106.png",
     },
   },
   {
@@ -4369,11 +4369,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/107.png",
+        "./Imagens/Pokedex/sprites/107.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/107.png",
+        "./Imagens/Pokedex/thumbnails/107.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/107.png",
+        "./Imagens/Pokedex/hires/107.png",
     },
   },
   {
@@ -4410,11 +4410,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/108.png",
+        "./Imagens/Pokedex/sprites/108.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/108.png",
+        "./Imagens/Pokedex/thumbnails/108.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/108.png",
+        "./Imagens/Pokedex/hires/108.png",
     },
   },
   {
@@ -4447,11 +4447,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/109.png",
+        "./Imagens/Pokedex/sprites/109.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/109.png",
+        "./Imagens/Pokedex/thumbnails/109.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/109.png",
+        "./Imagens/Pokedex/hires/109.png",
     },
   },
   {
@@ -4484,11 +4484,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/110.png",
+        "./Imagens/Pokedex/sprites/110.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/110.png",
+        "./Imagens/Pokedex/thumbnails/110.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/110.png",
+        "./Imagens/Pokedex/hires/110.png",
     },
   },
   {
@@ -4525,11 +4525,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/111.png",
+        "./Imagens/Pokedex/sprites/111.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/111.png",
+        "./Imagens/Pokedex/thumbnails/111.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/111.png",
+        "./Imagens/Pokedex/hires/111.png",
     },
   },
   {
@@ -4569,11 +4569,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/112.png",
+        "./Imagens/Pokedex/sprites/112.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/112.png",
+        "./Imagens/Pokedex/thumbnails/112.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/112.png",
+        "./Imagens/Pokedex/hires/112.png",
     },
   },
   {
@@ -4613,11 +4613,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/113.png",
+        "./Imagens/Pokedex/sprites/113.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/113.png",
+        "./Imagens/Pokedex/thumbnails/113.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/113.png",
+        "./Imagens/Pokedex/hires/113.png",
     },
   },
   {
@@ -4654,11 +4654,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/114.png",
+        "./Imagens/Pokedex/sprites/114.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/114.png",
+        "./Imagens/Pokedex/thumbnails/114.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/114.png",
+        "./Imagens/Pokedex/hires/114.png",
     },
   },
   {
@@ -4695,11 +4695,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/115.png",
+        "./Imagens/Pokedex/sprites/115.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/115.png",
+        "./Imagens/Pokedex/thumbnails/115.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/115.png",
+        "./Imagens/Pokedex/hires/115.png",
     },
   },
   {
@@ -4736,11 +4736,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/116.png",
+        "./Imagens/Pokedex/sprites/116.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/116.png",
+        "./Imagens/Pokedex/thumbnails/116.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/116.png",
+        "./Imagens/Pokedex/hires/116.png",
     },
   },
   {
@@ -4780,11 +4780,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/117.png",
+        "./Imagens/Pokedex/sprites/117.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/117.png",
+        "./Imagens/Pokedex/thumbnails/117.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/117.png",
+        "./Imagens/Pokedex/hires/117.png",
     },
   },
   {
@@ -4821,11 +4821,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/118.png",
+        "./Imagens/Pokedex/sprites/118.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/118.png",
+        "./Imagens/Pokedex/thumbnails/118.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/118.png",
+        "./Imagens/Pokedex/hires/118.png",
     },
   },
   {
@@ -4862,11 +4862,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/119.png",
+        "./Imagens/Pokedex/sprites/119.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/119.png",
+        "./Imagens/Pokedex/thumbnails/119.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/119.png",
+        "./Imagens/Pokedex/hires/119.png",
     },
   },
   {
@@ -4903,11 +4903,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/120.png",
+        "./Imagens/Pokedex/sprites/120.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/120.png",
+        "./Imagens/Pokedex/thumbnails/120.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/120.png",
+        "./Imagens/Pokedex/hires/120.png",
     },
   },
   {
@@ -4944,11 +4944,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/121.png",
+        "./Imagens/Pokedex/sprites/121.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/121.png",
+        "./Imagens/Pokedex/thumbnails/121.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/121.png",
+        "./Imagens/Pokedex/hires/121.png",
     },
   },
   {
@@ -4985,11 +4985,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/122.png",
+        "./Imagens/Pokedex/sprites/122.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/122.png",
+        "./Imagens/Pokedex/thumbnails/122.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/122.png",
+        "./Imagens/Pokedex/hires/122.png",
     },
   },
   {
@@ -5026,11 +5026,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/123.png",
+        "./Imagens/Pokedex/sprites/123.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/123.png",
+        "./Imagens/Pokedex/thumbnails/123.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/123.png",
+        "./Imagens/Pokedex/hires/123.png",
     },
   },
   {
@@ -5067,11 +5067,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/124.png",
+        "./Imagens/Pokedex/sprites/124.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/124.png",
+        "./Imagens/Pokedex/thumbnails/124.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/124.png",
+        "./Imagens/Pokedex/hires/124.png",
     },
   },
   {
@@ -5110,11 +5110,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/125.png",
+        "./Imagens/Pokedex/sprites/125.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/125.png",
+        "./Imagens/Pokedex/thumbnails/125.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/125.png",
+        "./Imagens/Pokedex/hires/125.png",
     },
   },
   {
@@ -5153,11 +5153,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/126.png",
+        "./Imagens/Pokedex/sprites/126.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/126.png",
+        "./Imagens/Pokedex/thumbnails/126.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/126.png",
+        "./Imagens/Pokedex/hires/126.png",
     },
   },
   {
@@ -5194,11 +5194,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/127.png",
+        "./Imagens/Pokedex/sprites/127.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/127.png",
+        "./Imagens/Pokedex/thumbnails/127.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/127.png",
+        "./Imagens/Pokedex/hires/127.png",
     },
   },
   {
@@ -5235,11 +5235,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/128.png",
+        "./Imagens/Pokedex/sprites/128.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/128.png",
+        "./Imagens/Pokedex/thumbnails/128.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/128.png",
+        "./Imagens/Pokedex/hires/128.png",
     },
   },
   {
@@ -5275,11 +5275,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/129.png",
+        "./Imagens/Pokedex/sprites/129.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/129.png",
+        "./Imagens/Pokedex/thumbnails/129.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/129.png",
+        "./Imagens/Pokedex/hires/129.png",
     },
   },
   {
@@ -5315,11 +5315,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/130.png",
+        "./Imagens/Pokedex/sprites/130.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/130.png",
+        "./Imagens/Pokedex/thumbnails/130.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/130.png",
+        "./Imagens/Pokedex/hires/130.png",
     },
   },
   {
@@ -5356,11 +5356,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/131.png",
+        "./Imagens/Pokedex/sprites/131.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/131.png",
+        "./Imagens/Pokedex/thumbnails/131.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/131.png",
+        "./Imagens/Pokedex/hires/131.png",
     },
   },
   {
@@ -5396,11 +5396,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/132.png",
+        "./Imagens/Pokedex/sprites/132.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/132.png",
+        "./Imagens/Pokedex/thumbnails/132.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/132.png",
+        "./Imagens/Pokedex/hires/132.png",
     },
   },
   {
@@ -5448,11 +5448,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/133.png",
+        "./Imagens/Pokedex/sprites/133.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/133.png",
+        "./Imagens/Pokedex/thumbnails/133.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/133.png",
+        "./Imagens/Pokedex/hires/133.png",
     },
   },
   {
@@ -5488,11 +5488,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/134.png",
+        "./Imagens/Pokedex/sprites/134.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/134.png",
+        "./Imagens/Pokedex/thumbnails/134.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/134.png",
+        "./Imagens/Pokedex/hires/134.png",
     },
   },
   {
@@ -5528,11 +5528,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/135.png",
+        "./Imagens/Pokedex/sprites/135.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/135.png",
+        "./Imagens/Pokedex/thumbnails/135.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/135.png",
+        "./Imagens/Pokedex/hires/135.png",
     },
   },
   {
@@ -5568,11 +5568,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/136.png",
+        "./Imagens/Pokedex/sprites/136.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/136.png",
+        "./Imagens/Pokedex/thumbnails/136.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/136.png",
+        "./Imagens/Pokedex/hires/136.png",
     },
   },
   {
@@ -5609,11 +5609,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/137.png",
+        "./Imagens/Pokedex/sprites/137.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/137.png",
+        "./Imagens/Pokedex/thumbnails/137.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/137.png",
+        "./Imagens/Pokedex/hires/137.png",
     },
   },
   {
@@ -5650,11 +5650,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/138.png",
+        "./Imagens/Pokedex/sprites/138.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/138.png",
+        "./Imagens/Pokedex/thumbnails/138.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/138.png",
+        "./Imagens/Pokedex/hires/138.png",
     },
   },
   {
@@ -5691,11 +5691,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/139.png",
+        "./Imagens/Pokedex/sprites/139.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/139.png",
+        "./Imagens/Pokedex/thumbnails/139.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/139.png",
+        "./Imagens/Pokedex/hires/139.png",
     },
   },
   {
@@ -5732,11 +5732,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/140.png",
+        "./Imagens/Pokedex/sprites/140.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/140.png",
+        "./Imagens/Pokedex/thumbnails/140.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/140.png",
+        "./Imagens/Pokedex/hires/140.png",
     },
   },
   {
@@ -5773,11 +5773,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/141.png",
+        "./Imagens/Pokedex/sprites/141.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/141.png",
+        "./Imagens/Pokedex/thumbnails/141.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/141.png",
+        "./Imagens/Pokedex/hires/141.png",
     },
   },
   {
@@ -5814,11 +5814,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/142.png",
+        "./Imagens/Pokedex/sprites/142.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/142.png",
+        "./Imagens/Pokedex/thumbnails/142.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/142.png",
+        "./Imagens/Pokedex/hires/142.png",
     },
   },
   {
@@ -5855,11 +5855,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/143.png",
+        "./Imagens/Pokedex/sprites/143.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/143.png",
+        "./Imagens/Pokedex/thumbnails/143.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/143.png",
+        "./Imagens/Pokedex/hires/143.png",
     },
   },
   {
@@ -5895,11 +5895,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/144.png",
+        "./Imagens/Pokedex/sprites/144.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/144.png",
+        "./Imagens/Pokedex/thumbnails/144.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/144.png",
+        "./Imagens/Pokedex/hires/144.png",
     },
   },
   {
@@ -5935,11 +5935,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/145.png",
+        "./Imagens/Pokedex/sprites/145.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/145.png",
+        "./Imagens/Pokedex/thumbnails/145.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/145.png",
+        "./Imagens/Pokedex/hires/145.png",
     },
   },
   {
@@ -5975,11 +5975,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/146.png",
+        "./Imagens/Pokedex/sprites/146.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/146.png",
+        "./Imagens/Pokedex/thumbnails/146.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/146.png",
+        "./Imagens/Pokedex/hires/146.png",
     },
   },
   {
@@ -6015,11 +6015,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/147.png",
+        "./Imagens/Pokedex/sprites/147.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/147.png",
+        "./Imagens/Pokedex/thumbnails/147.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/147.png",
+        "./Imagens/Pokedex/hires/147.png",
     },
   },
   {
@@ -6055,11 +6055,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/148.png",
+        "./Imagens/Pokedex/sprites/148.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/148.png",
+        "./Imagens/Pokedex/thumbnails/148.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/148.png",
+        "./Imagens/Pokedex/hires/148.png",
     },
   },
   {
@@ -6095,11 +6095,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/149.png",
+        "./Imagens/Pokedex/sprites/149.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/149.png",
+        "./Imagens/Pokedex/thumbnails/149.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/149.png",
+        "./Imagens/Pokedex/hires/149.png",
     },
   },
   {
@@ -6135,11 +6135,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/150.png",
+        "./Imagens/Pokedex/sprites/150.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/150.png",
+        "./Imagens/Pokedex/thumbnails/150.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/150.png",
+        "./Imagens/Pokedex/hires/150.png",
     },
   },
   {
@@ -6172,11 +6172,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/151.png",
+        "./Imagens/Pokedex/sprites/151.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/151.png",
+        "./Imagens/Pokedex/thumbnails/151.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/151.png",
+        "./Imagens/Pokedex/hires/151.png",
     },
   },
   {
@@ -6212,11 +6212,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/152.png",
+        "./Imagens/Pokedex/sprites/152.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/152.png",
+        "./Imagens/Pokedex/thumbnails/152.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/152.png",
+        "./Imagens/Pokedex/hires/152.png",
     },
   },
   {
@@ -6252,11 +6252,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/153.png",
+        "./Imagens/Pokedex/sprites/153.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/153.png",
+        "./Imagens/Pokedex/thumbnails/153.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/153.png",
+        "./Imagens/Pokedex/hires/153.png",
     },
   },
   {
@@ -6292,11 +6292,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/154.png",
+        "./Imagens/Pokedex/sprites/154.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/154.png",
+        "./Imagens/Pokedex/thumbnails/154.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/154.png",
+        "./Imagens/Pokedex/hires/154.png",
     },
   },
   {
@@ -6332,11 +6332,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/155.png",
+        "./Imagens/Pokedex/sprites/155.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/155.png",
+        "./Imagens/Pokedex/thumbnails/155.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/155.png",
+        "./Imagens/Pokedex/hires/155.png",
     },
   },
   {
@@ -6372,11 +6372,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/156.png",
+        "./Imagens/Pokedex/sprites/156.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/156.png",
+        "./Imagens/Pokedex/thumbnails/156.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/156.png",
+        "./Imagens/Pokedex/hires/156.png",
     },
   },
   {
@@ -6412,11 +6412,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/157.png",
+        "./Imagens/Pokedex/sprites/157.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/157.png",
+        "./Imagens/Pokedex/thumbnails/157.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/157.png",
+        "./Imagens/Pokedex/hires/157.png",
     },
   },
   {
@@ -6452,11 +6452,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/158.png",
+        "./Imagens/Pokedex/sprites/158.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/158.png",
+        "./Imagens/Pokedex/thumbnails/158.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/158.png",
+        "./Imagens/Pokedex/hires/158.png",
     },
   },
   {
@@ -6492,11 +6492,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/159.png",
+        "./Imagens/Pokedex/sprites/159.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/159.png",
+        "./Imagens/Pokedex/thumbnails/159.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/159.png",
+        "./Imagens/Pokedex/hires/159.png",
     },
   },
   {
@@ -6532,11 +6532,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/160.png",
+        "./Imagens/Pokedex/sprites/160.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/160.png",
+        "./Imagens/Pokedex/thumbnails/160.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/160.png",
+        "./Imagens/Pokedex/hires/160.png",
     },
   },
   {
@@ -6573,11 +6573,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/161.png",
+        "./Imagens/Pokedex/sprites/161.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/161.png",
+        "./Imagens/Pokedex/thumbnails/161.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/161.png",
+        "./Imagens/Pokedex/hires/161.png",
     },
   },
   {
@@ -6614,11 +6614,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/162.png",
+        "./Imagens/Pokedex/sprites/162.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/162.png",
+        "./Imagens/Pokedex/thumbnails/162.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/162.png",
+        "./Imagens/Pokedex/hires/162.png",
     },
   },
   {
@@ -6655,11 +6655,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/163.png",
+        "./Imagens/Pokedex/sprites/163.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/163.png",
+        "./Imagens/Pokedex/thumbnails/163.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/163.png",
+        "./Imagens/Pokedex/hires/163.png",
     },
   },
   {
@@ -6696,11 +6696,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/164.png",
+        "./Imagens/Pokedex/sprites/164.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/164.png",
+        "./Imagens/Pokedex/thumbnails/164.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/164.png",
+        "./Imagens/Pokedex/hires/164.png",
     },
   },
   {
@@ -6737,11 +6737,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/165.png",
+        "./Imagens/Pokedex/sprites/165.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/165.png",
+        "./Imagens/Pokedex/thumbnails/165.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/165.png",
+        "./Imagens/Pokedex/hires/165.png",
     },
   },
   {
@@ -6778,11 +6778,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/166.png",
+        "./Imagens/Pokedex/sprites/166.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/166.png",
+        "./Imagens/Pokedex/thumbnails/166.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/166.png",
+        "./Imagens/Pokedex/hires/166.png",
     },
   },
   {
@@ -6819,11 +6819,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/167.png",
+        "./Imagens/Pokedex/sprites/167.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/167.png",
+        "./Imagens/Pokedex/thumbnails/167.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/167.png",
+        "./Imagens/Pokedex/hires/167.png",
     },
   },
   {
@@ -6860,11 +6860,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/168.png",
+        "./Imagens/Pokedex/sprites/168.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/168.png",
+        "./Imagens/Pokedex/thumbnails/168.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/168.png",
+        "./Imagens/Pokedex/hires/168.png",
     },
   },
   {
@@ -6900,11 +6900,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/169.png",
+        "./Imagens/Pokedex/sprites/169.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/169.png",
+        "./Imagens/Pokedex/thumbnails/169.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/169.png",
+        "./Imagens/Pokedex/hires/169.png",
     },
   },
   {
@@ -6941,11 +6941,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/170.png",
+        "./Imagens/Pokedex/sprites/170.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/170.png",
+        "./Imagens/Pokedex/thumbnails/170.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/170.png",
+        "./Imagens/Pokedex/hires/170.png",
     },
   },
   {
@@ -6982,11 +6982,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/171.png",
+        "./Imagens/Pokedex/sprites/171.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/171.png",
+        "./Imagens/Pokedex/thumbnails/171.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/171.png",
+        "./Imagens/Pokedex/hires/171.png",
     },
   },
   {
@@ -7022,11 +7022,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/172.png",
+        "./Imagens/Pokedex/sprites/172.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/172.png",
+        "./Imagens/Pokedex/thumbnails/172.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/172.png",
+        "./Imagens/Pokedex/hires/172.png",
     },
   },
   {
@@ -7063,11 +7063,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/173.png",
+        "./Imagens/Pokedex/sprites/173.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/173.png",
+        "./Imagens/Pokedex/thumbnails/173.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/173.png",
+        "./Imagens/Pokedex/hires/173.png",
     },
   },
   {
@@ -7104,11 +7104,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/174.png",
+        "./Imagens/Pokedex/sprites/174.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/174.png",
+        "./Imagens/Pokedex/thumbnails/174.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/174.png",
+        "./Imagens/Pokedex/hires/174.png",
     },
   },
   {
@@ -7145,11 +7145,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/175.png",
+        "./Imagens/Pokedex/sprites/175.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/175.png",
+        "./Imagens/Pokedex/thumbnails/175.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/175.png",
+        "./Imagens/Pokedex/hires/175.png",
     },
   },
   {
@@ -7189,11 +7189,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/176.png",
+        "./Imagens/Pokedex/sprites/176.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/176.png",
+        "./Imagens/Pokedex/thumbnails/176.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/176.png",
+        "./Imagens/Pokedex/hires/176.png",
     },
   },
   {
@@ -7230,11 +7230,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/177.png",
+        "./Imagens/Pokedex/sprites/177.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/177.png",
+        "./Imagens/Pokedex/thumbnails/177.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/177.png",
+        "./Imagens/Pokedex/hires/177.png",
     },
   },
   {
@@ -7271,11 +7271,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/178.png",
+        "./Imagens/Pokedex/sprites/178.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/178.png",
+        "./Imagens/Pokedex/thumbnails/178.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/178.png",
+        "./Imagens/Pokedex/hires/178.png",
     },
   },
   {
@@ -7311,11 +7311,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/179.png",
+        "./Imagens/Pokedex/sprites/179.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/179.png",
+        "./Imagens/Pokedex/thumbnails/179.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/179.png",
+        "./Imagens/Pokedex/hires/179.png",
     },
   },
   {
@@ -7351,11 +7351,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/180.png",
+        "./Imagens/Pokedex/sprites/180.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/180.png",
+        "./Imagens/Pokedex/thumbnails/180.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/180.png",
+        "./Imagens/Pokedex/hires/180.png",
     },
   },
   {
@@ -7391,11 +7391,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/181.png",
+        "./Imagens/Pokedex/sprites/181.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/181.png",
+        "./Imagens/Pokedex/thumbnails/181.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/181.png",
+        "./Imagens/Pokedex/hires/181.png",
     },
   },
   {
@@ -7431,11 +7431,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/182.png",
+        "./Imagens/Pokedex/sprites/182.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/182.png",
+        "./Imagens/Pokedex/thumbnails/182.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/182.png",
+        "./Imagens/Pokedex/hires/182.png",
     },
   },
   {
@@ -7475,11 +7475,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/183.png",
+        "./Imagens/Pokedex/sprites/183.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/183.png",
+        "./Imagens/Pokedex/thumbnails/183.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/183.png",
+        "./Imagens/Pokedex/hires/183.png",
     },
   },
   {
@@ -7516,11 +7516,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/184.png",
+        "./Imagens/Pokedex/sprites/184.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/184.png",
+        "./Imagens/Pokedex/thumbnails/184.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/184.png",
+        "./Imagens/Pokedex/hires/184.png",
     },
   },
   {
@@ -7557,11 +7557,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/185.png",
+        "./Imagens/Pokedex/sprites/185.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/185.png",
+        "./Imagens/Pokedex/thumbnails/185.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/185.png",
+        "./Imagens/Pokedex/hires/185.png",
     },
   },
   {
@@ -7598,11 +7598,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/186.png",
+        "./Imagens/Pokedex/sprites/186.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/186.png",
+        "./Imagens/Pokedex/thumbnails/186.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/186.png",
+        "./Imagens/Pokedex/hires/186.png",
     },
   },
   {
@@ -7639,11 +7639,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/187.png",
+        "./Imagens/Pokedex/sprites/187.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/187.png",
+        "./Imagens/Pokedex/thumbnails/187.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/187.png",
+        "./Imagens/Pokedex/hires/187.png",
     },
   },
   {
@@ -7680,11 +7680,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/188.png",
+        "./Imagens/Pokedex/sprites/188.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/188.png",
+        "./Imagens/Pokedex/thumbnails/188.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/188.png",
+        "./Imagens/Pokedex/hires/188.png",
     },
   },
   {
@@ -7721,11 +7721,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/189.png",
+        "./Imagens/Pokedex/sprites/189.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/189.png",
+        "./Imagens/Pokedex/thumbnails/189.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/189.png",
+        "./Imagens/Pokedex/hires/189.png",
     },
   },
   {
@@ -7762,11 +7762,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/190.png",
+        "./Imagens/Pokedex/sprites/190.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/190.png",
+        "./Imagens/Pokedex/thumbnails/190.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/190.png",
+        "./Imagens/Pokedex/hires/190.png",
     },
   },
   {
@@ -7803,11 +7803,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/191.png",
+        "./Imagens/Pokedex/sprites/191.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/191.png",
+        "./Imagens/Pokedex/thumbnails/191.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/191.png",
+        "./Imagens/Pokedex/hires/191.png",
     },
   },
   {
@@ -7844,11 +7844,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/192.png",
+        "./Imagens/Pokedex/sprites/192.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/192.png",
+        "./Imagens/Pokedex/thumbnails/192.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/192.png",
+        "./Imagens/Pokedex/hires/192.png",
     },
   },
   {
@@ -7885,11 +7885,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/193.png",
+        "./Imagens/Pokedex/sprites/193.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/193.png",
+        "./Imagens/Pokedex/thumbnails/193.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/193.png",
+        "./Imagens/Pokedex/hires/193.png",
     },
   },
   {
@@ -7926,11 +7926,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/194.png",
+        "./Imagens/Pokedex/sprites/194.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/194.png",
+        "./Imagens/Pokedex/thumbnails/194.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/194.png",
+        "./Imagens/Pokedex/hires/194.png",
     },
   },
   {
@@ -7967,11 +7967,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/195.png",
+        "./Imagens/Pokedex/sprites/195.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/195.png",
+        "./Imagens/Pokedex/thumbnails/195.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/195.png",
+        "./Imagens/Pokedex/hires/195.png",
     },
   },
   {
@@ -8007,11 +8007,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/196.png",
+        "./Imagens/Pokedex/sprites/196.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/196.png",
+        "./Imagens/Pokedex/thumbnails/196.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/196.png",
+        "./Imagens/Pokedex/hires/196.png",
     },
   },
   {
@@ -8047,11 +8047,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/197.png",
+        "./Imagens/Pokedex/sprites/197.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/197.png",
+        "./Imagens/Pokedex/thumbnails/197.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/197.png",
+        "./Imagens/Pokedex/hires/197.png",
     },
   },
   {
@@ -8088,11 +8088,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/198.png",
+        "./Imagens/Pokedex/sprites/198.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/198.png",
+        "./Imagens/Pokedex/thumbnails/198.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/198.png",
+        "./Imagens/Pokedex/hires/198.png",
     },
   },
   {
@@ -8129,11 +8129,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/199.png",
+        "./Imagens/Pokedex/sprites/199.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/199.png",
+        "./Imagens/Pokedex/thumbnails/199.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/199.png",
+        "./Imagens/Pokedex/hires/199.png",
     },
   },
   {
@@ -8166,11 +8166,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/200.png",
+        "./Imagens/Pokedex/sprites/200.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/200.png",
+        "./Imagens/Pokedex/thumbnails/200.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/200.png",
+        "./Imagens/Pokedex/hires/200.png",
     },
   },
   {
@@ -8203,11 +8203,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/201.png",
+        "./Imagens/Pokedex/sprites/201.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/201.png",
+        "./Imagens/Pokedex/thumbnails/201.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/201.png",
+        "./Imagens/Pokedex/hires/201.png",
     },
   },
   {
@@ -8243,11 +8243,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/202.png",
+        "./Imagens/Pokedex/sprites/202.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/202.png",
+        "./Imagens/Pokedex/thumbnails/202.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/202.png",
+        "./Imagens/Pokedex/hires/202.png",
     },
   },
   {
@@ -8284,11 +8284,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/203.png",
+        "./Imagens/Pokedex/sprites/203.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/203.png",
+        "./Imagens/Pokedex/thumbnails/203.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/203.png",
+        "./Imagens/Pokedex/hires/203.png",
     },
   },
   {
@@ -8324,11 +8324,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/204.png",
+        "./Imagens/Pokedex/sprites/204.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/204.png",
+        "./Imagens/Pokedex/thumbnails/204.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/204.png",
+        "./Imagens/Pokedex/hires/204.png",
     },
   },
   {
@@ -8364,11 +8364,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/205.png",
+        "./Imagens/Pokedex/sprites/205.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/205.png",
+        "./Imagens/Pokedex/thumbnails/205.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/205.png",
+        "./Imagens/Pokedex/hires/205.png",
     },
   },
   {
@@ -8405,11 +8405,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/206.png",
+        "./Imagens/Pokedex/sprites/206.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/206.png",
+        "./Imagens/Pokedex/thumbnails/206.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/206.png",
+        "./Imagens/Pokedex/hires/206.png",
     },
   },
   {
@@ -8446,11 +8446,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/207.png",
+        "./Imagens/Pokedex/sprites/207.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/207.png",
+        "./Imagens/Pokedex/thumbnails/207.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/207.png",
+        "./Imagens/Pokedex/hires/207.png",
     },
   },
   {
@@ -8487,11 +8487,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/208.png",
+        "./Imagens/Pokedex/sprites/208.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/208.png",
+        "./Imagens/Pokedex/thumbnails/208.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/208.png",
+        "./Imagens/Pokedex/hires/208.png",
     },
   },
   {
@@ -8528,11 +8528,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/209.png",
+        "./Imagens/Pokedex/sprites/209.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/209.png",
+        "./Imagens/Pokedex/thumbnails/209.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/209.png",
+        "./Imagens/Pokedex/hires/209.png",
     },
   },
   {
@@ -8569,11 +8569,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/210.png",
+        "./Imagens/Pokedex/sprites/210.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/210.png",
+        "./Imagens/Pokedex/thumbnails/210.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/210.png",
+        "./Imagens/Pokedex/hires/210.png",
     },
   },
   {
@@ -8610,11 +8610,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/211.png",
+        "./Imagens/Pokedex/sprites/211.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/211.png",
+        "./Imagens/Pokedex/thumbnails/211.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/211.png",
+        "./Imagens/Pokedex/hires/211.png",
     },
   },
   {
@@ -8651,11 +8651,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/212.png",
+        "./Imagens/Pokedex/sprites/212.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/212.png",
+        "./Imagens/Pokedex/thumbnails/212.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/212.png",
+        "./Imagens/Pokedex/hires/212.png",
     },
   },
   {
@@ -8692,11 +8692,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/213.png",
+        "./Imagens/Pokedex/sprites/213.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/213.png",
+        "./Imagens/Pokedex/thumbnails/213.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/213.png",
+        "./Imagens/Pokedex/hires/213.png",
     },
   },
   {
@@ -8733,11 +8733,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/214.png",
+        "./Imagens/Pokedex/sprites/214.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/214.png",
+        "./Imagens/Pokedex/thumbnails/214.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/214.png",
+        "./Imagens/Pokedex/hires/214.png",
     },
   },
   {
@@ -8774,11 +8774,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/215.png",
+        "./Imagens/Pokedex/sprites/215.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/215.png",
+        "./Imagens/Pokedex/thumbnails/215.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/215.png",
+        "./Imagens/Pokedex/hires/215.png",
     },
   },
   {
@@ -8815,11 +8815,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/216.png",
+        "./Imagens/Pokedex/sprites/216.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/216.png",
+        "./Imagens/Pokedex/thumbnails/216.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/216.png",
+        "./Imagens/Pokedex/hires/216.png",
     },
   },
   {
@@ -8856,11 +8856,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/217.png",
+        "./Imagens/Pokedex/sprites/217.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/217.png",
+        "./Imagens/Pokedex/thumbnails/217.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/217.png",
+        "./Imagens/Pokedex/hires/217.png",
     },
   },
   {
@@ -8897,11 +8897,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/218.png",
+        "./Imagens/Pokedex/sprites/218.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/218.png",
+        "./Imagens/Pokedex/thumbnails/218.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/218.png",
+        "./Imagens/Pokedex/hires/218.png",
     },
   },
   {
@@ -8938,11 +8938,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/219.png",
+        "./Imagens/Pokedex/sprites/219.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/219.png",
+        "./Imagens/Pokedex/thumbnails/219.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/219.png",
+        "./Imagens/Pokedex/hires/219.png",
     },
   },
   {
@@ -8979,11 +8979,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/220.png",
+        "./Imagens/Pokedex/sprites/220.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/220.png",
+        "./Imagens/Pokedex/thumbnails/220.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/220.png",
+        "./Imagens/Pokedex/hires/220.png",
     },
   },
   {
@@ -9023,11 +9023,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/221.png",
+        "./Imagens/Pokedex/sprites/221.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/221.png",
+        "./Imagens/Pokedex/thumbnails/221.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/221.png",
+        "./Imagens/Pokedex/hires/221.png",
     },
   },
   {
@@ -9064,11 +9064,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/222.png",
+        "./Imagens/Pokedex/sprites/222.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/222.png",
+        "./Imagens/Pokedex/thumbnails/222.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/222.png",
+        "./Imagens/Pokedex/hires/222.png",
     },
   },
   {
@@ -9105,11 +9105,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/223.png",
+        "./Imagens/Pokedex/sprites/223.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/223.png",
+        "./Imagens/Pokedex/thumbnails/223.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/223.png",
+        "./Imagens/Pokedex/hires/223.png",
     },
   },
   {
@@ -9146,11 +9146,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/224.png",
+        "./Imagens/Pokedex/sprites/224.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/224.png",
+        "./Imagens/Pokedex/thumbnails/224.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/224.png",
+        "./Imagens/Pokedex/hires/224.png",
     },
   },
   {
@@ -9187,11 +9187,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/225.png",
+        "./Imagens/Pokedex/sprites/225.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/225.png",
+        "./Imagens/Pokedex/thumbnails/225.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/225.png",
+        "./Imagens/Pokedex/hires/225.png",
     },
   },
   {
@@ -9228,11 +9228,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/226.png",
+        "./Imagens/Pokedex/sprites/226.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/226.png",
+        "./Imagens/Pokedex/thumbnails/226.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/226.png",
+        "./Imagens/Pokedex/hires/226.png",
     },
   },
   {
@@ -9269,11 +9269,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/227.png",
+        "./Imagens/Pokedex/sprites/227.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/227.png",
+        "./Imagens/Pokedex/thumbnails/227.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/227.png",
+        "./Imagens/Pokedex/hires/227.png",
     },
   },
   {
@@ -9310,11 +9310,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/228.png",
+        "./Imagens/Pokedex/sprites/228.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/228.png",
+        "./Imagens/Pokedex/thumbnails/228.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/228.png",
+        "./Imagens/Pokedex/hires/228.png",
     },
   },
   {
@@ -9351,11 +9351,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/229.png",
+        "./Imagens/Pokedex/sprites/229.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/229.png",
+        "./Imagens/Pokedex/thumbnails/229.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/229.png",
+        "./Imagens/Pokedex/hires/229.png",
     },
   },
   {
@@ -9392,11 +9392,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/230.png",
+        "./Imagens/Pokedex/sprites/230.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/230.png",
+        "./Imagens/Pokedex/thumbnails/230.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/230.png",
+        "./Imagens/Pokedex/hires/230.png",
     },
   },
   {
@@ -9432,11 +9432,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/231.png",
+        "./Imagens/Pokedex/sprites/231.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/231.png",
+        "./Imagens/Pokedex/thumbnails/231.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/231.png",
+        "./Imagens/Pokedex/hires/231.png",
     },
   },
   {
@@ -9472,11 +9472,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/232.png",
+        "./Imagens/Pokedex/sprites/232.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/232.png",
+        "./Imagens/Pokedex/thumbnails/232.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/232.png",
+        "./Imagens/Pokedex/hires/232.png",
     },
   },
   {
@@ -9516,11 +9516,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/233.png",
+        "./Imagens/Pokedex/sprites/233.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/233.png",
+        "./Imagens/Pokedex/thumbnails/233.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/233.png",
+        "./Imagens/Pokedex/hires/233.png",
     },
   },
   {
@@ -9557,11 +9557,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/234.png",
+        "./Imagens/Pokedex/sprites/234.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/234.png",
+        "./Imagens/Pokedex/thumbnails/234.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/234.png",
+        "./Imagens/Pokedex/hires/234.png",
     },
   },
   {
@@ -9598,11 +9598,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/235.png",
+        "./Imagens/Pokedex/sprites/235.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/235.png",
+        "./Imagens/Pokedex/thumbnails/235.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/235.png",
+        "./Imagens/Pokedex/hires/235.png",
     },
   },
   {
@@ -9645,11 +9645,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/236.png",
+        "./Imagens/Pokedex/sprites/236.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/236.png",
+        "./Imagens/Pokedex/thumbnails/236.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/236.png",
+        "./Imagens/Pokedex/hires/236.png",
     },
   },
   {
@@ -9686,11 +9686,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/237.png",
+        "./Imagens/Pokedex/sprites/237.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/237.png",
+        "./Imagens/Pokedex/thumbnails/237.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/237.png",
+        "./Imagens/Pokedex/hires/237.png",
     },
   },
   {
@@ -9727,11 +9727,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/238.png",
+        "./Imagens/Pokedex/sprites/238.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/238.png",
+        "./Imagens/Pokedex/thumbnails/238.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/238.png",
+        "./Imagens/Pokedex/hires/238.png",
     },
   },
   {
@@ -9767,11 +9767,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/239.png",
+        "./Imagens/Pokedex/sprites/239.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/239.png",
+        "./Imagens/Pokedex/thumbnails/239.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/239.png",
+        "./Imagens/Pokedex/hires/239.png",
     },
   },
   {
@@ -9807,11 +9807,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/240.png",
+        "./Imagens/Pokedex/sprites/240.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/240.png",
+        "./Imagens/Pokedex/thumbnails/240.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/240.png",
+        "./Imagens/Pokedex/hires/240.png",
     },
   },
   {
@@ -9848,11 +9848,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/241.png",
+        "./Imagens/Pokedex/sprites/241.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/241.png",
+        "./Imagens/Pokedex/thumbnails/241.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/241.png",
+        "./Imagens/Pokedex/hires/241.png",
     },
   },
   {
@@ -9889,11 +9889,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/242.png",
+        "./Imagens/Pokedex/sprites/242.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/242.png",
+        "./Imagens/Pokedex/thumbnails/242.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/242.png",
+        "./Imagens/Pokedex/hires/242.png",
     },
   },
   {
@@ -9929,11 +9929,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/243.png",
+        "./Imagens/Pokedex/sprites/243.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/243.png",
+        "./Imagens/Pokedex/thumbnails/243.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/243.png",
+        "./Imagens/Pokedex/hires/243.png",
     },
   },
   {
@@ -9969,11 +9969,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/244.png",
+        "./Imagens/Pokedex/sprites/244.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/244.png",
+        "./Imagens/Pokedex/thumbnails/244.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/244.png",
+        "./Imagens/Pokedex/hires/244.png",
     },
   },
   {
@@ -10009,11 +10009,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/245.png",
+        "./Imagens/Pokedex/sprites/245.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/245.png",
+        "./Imagens/Pokedex/thumbnails/245.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/245.png",
+        "./Imagens/Pokedex/hires/245.png",
     },
   },
   {
@@ -10049,11 +10049,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/246.png",
+        "./Imagens/Pokedex/sprites/246.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/246.png",
+        "./Imagens/Pokedex/thumbnails/246.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/246.png",
+        "./Imagens/Pokedex/hires/246.png",
     },
   },
   {
@@ -10086,11 +10086,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/247.png",
+        "./Imagens/Pokedex/sprites/247.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/247.png",
+        "./Imagens/Pokedex/thumbnails/247.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/247.png",
+        "./Imagens/Pokedex/hires/247.png",
     },
   },
   {
@@ -10126,11 +10126,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/248.png",
+        "./Imagens/Pokedex/sprites/248.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/248.png",
+        "./Imagens/Pokedex/thumbnails/248.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/248.png",
+        "./Imagens/Pokedex/hires/248.png",
     },
   },
   {
@@ -10166,11 +10166,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/249.png",
+        "./Imagens/Pokedex/sprites/249.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/249.png",
+        "./Imagens/Pokedex/thumbnails/249.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/249.png",
+        "./Imagens/Pokedex/hires/249.png",
     },
   },
   {
@@ -10206,11 +10206,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/250.png",
+        "./Imagens/Pokedex/sprites/250.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/250.png",
+        "./Imagens/Pokedex/thumbnails/250.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/250.png",
+        "./Imagens/Pokedex/hires/250.png",
     },
   },
   {
@@ -10243,11 +10243,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/251.png",
+        "./Imagens/Pokedex/sprites/251.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/251.png",
+        "./Imagens/Pokedex/thumbnails/251.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/251.png",
+        "./Imagens/Pokedex/hires/251.png",
     },
   },
   {
@@ -10283,11 +10283,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/252.png",
+        "./Imagens/Pokedex/sprites/252.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/252.png",
+        "./Imagens/Pokedex/thumbnails/252.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/252.png",
+        "./Imagens/Pokedex/hires/252.png",
     },
   },
   {
@@ -10323,11 +10323,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/253.png",
+        "./Imagens/Pokedex/sprites/253.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/253.png",
+        "./Imagens/Pokedex/thumbnails/253.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/253.png",
+        "./Imagens/Pokedex/hires/253.png",
     },
   },
   {
@@ -10363,11 +10363,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/254.png",
+        "./Imagens/Pokedex/sprites/254.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/254.png",
+        "./Imagens/Pokedex/thumbnails/254.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/254.png",
+        "./Imagens/Pokedex/hires/254.png",
     },
   },
   {
@@ -10403,11 +10403,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/255.png",
+        "./Imagens/Pokedex/sprites/255.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/255.png",
+        "./Imagens/Pokedex/thumbnails/255.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/255.png",
+        "./Imagens/Pokedex/hires/255.png",
     },
   },
   {
@@ -10443,11 +10443,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/256.png",
+        "./Imagens/Pokedex/sprites/256.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/256.png",
+        "./Imagens/Pokedex/thumbnails/256.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/256.png",
+        "./Imagens/Pokedex/hires/256.png",
     },
   },
   {
@@ -10483,11 +10483,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/257.png",
+        "./Imagens/Pokedex/sprites/257.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/257.png",
+        "./Imagens/Pokedex/thumbnails/257.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/257.png",
+        "./Imagens/Pokedex/hires/257.png",
     },
   },
   {
@@ -10523,11 +10523,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/258.png",
+        "./Imagens/Pokedex/sprites/258.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/258.png",
+        "./Imagens/Pokedex/thumbnails/258.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/258.png",
+        "./Imagens/Pokedex/hires/258.png",
     },
   },
   {
@@ -10563,11 +10563,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/259.png",
+        "./Imagens/Pokedex/sprites/259.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/259.png",
+        "./Imagens/Pokedex/thumbnails/259.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/259.png",
+        "./Imagens/Pokedex/hires/259.png",
     },
   },
   {
@@ -10603,11 +10603,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/260.png",
+        "./Imagens/Pokedex/sprites/260.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/260.png",
+        "./Imagens/Pokedex/thumbnails/260.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/260.png",
+        "./Imagens/Pokedex/hires/260.png",
     },
   },
   {
@@ -10644,11 +10644,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/261.png",
+        "./Imagens/Pokedex/sprites/261.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/261.png",
+        "./Imagens/Pokedex/thumbnails/261.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/261.png",
+        "./Imagens/Pokedex/hires/261.png",
     },
   },
   {
@@ -10685,11 +10685,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/262.png",
+        "./Imagens/Pokedex/sprites/262.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/262.png",
+        "./Imagens/Pokedex/thumbnails/262.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/262.png",
+        "./Imagens/Pokedex/hires/262.png",
     },
   },
   {
@@ -10726,11 +10726,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/263.png",
+        "./Imagens/Pokedex/sprites/263.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/263.png",
+        "./Imagens/Pokedex/thumbnails/263.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/263.png",
+        "./Imagens/Pokedex/hires/263.png",
     },
   },
   {
@@ -10770,11 +10770,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/264.png",
+        "./Imagens/Pokedex/sprites/264.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/264.png",
+        "./Imagens/Pokedex/thumbnails/264.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/264.png",
+        "./Imagens/Pokedex/hires/264.png",
     },
   },
   {
@@ -10815,11 +10815,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/265.png",
+        "./Imagens/Pokedex/sprites/265.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/265.png",
+        "./Imagens/Pokedex/thumbnails/265.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/265.png",
+        "./Imagens/Pokedex/hires/265.png",
     },
   },
   {
@@ -10855,11 +10855,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/266.png",
+        "./Imagens/Pokedex/sprites/266.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/266.png",
+        "./Imagens/Pokedex/thumbnails/266.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/266.png",
+        "./Imagens/Pokedex/hires/266.png",
     },
   },
   {
@@ -10895,11 +10895,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/267.png",
+        "./Imagens/Pokedex/sprites/267.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/267.png",
+        "./Imagens/Pokedex/thumbnails/267.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/267.png",
+        "./Imagens/Pokedex/hires/267.png",
     },
   },
   {
@@ -10935,11 +10935,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/268.png",
+        "./Imagens/Pokedex/sprites/268.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/268.png",
+        "./Imagens/Pokedex/thumbnails/268.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/268.png",
+        "./Imagens/Pokedex/hires/268.png",
     },
   },
   {
@@ -10975,11 +10975,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/269.png",
+        "./Imagens/Pokedex/sprites/269.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/269.png",
+        "./Imagens/Pokedex/thumbnails/269.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/269.png",
+        "./Imagens/Pokedex/hires/269.png",
     },
   },
   {
@@ -11016,11 +11016,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/270.png",
+        "./Imagens/Pokedex/sprites/270.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/270.png",
+        "./Imagens/Pokedex/thumbnails/270.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/270.png",
+        "./Imagens/Pokedex/hires/270.png",
     },
   },
   {
@@ -11060,11 +11060,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/271.png",
+        "./Imagens/Pokedex/sprites/271.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/271.png",
+        "./Imagens/Pokedex/thumbnails/271.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/271.png",
+        "./Imagens/Pokedex/hires/271.png",
     },
   },
   {
@@ -11101,11 +11101,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/272.png",
+        "./Imagens/Pokedex/sprites/272.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/272.png",
+        "./Imagens/Pokedex/thumbnails/272.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/272.png",
+        "./Imagens/Pokedex/hires/272.png",
     },
   },
   {
@@ -11142,11 +11142,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/273.png",
+        "./Imagens/Pokedex/sprites/273.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/273.png",
+        "./Imagens/Pokedex/thumbnails/273.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/273.png",
+        "./Imagens/Pokedex/hires/273.png",
     },
   },
   {
@@ -11186,11 +11186,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/274.png",
+        "./Imagens/Pokedex/sprites/274.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/274.png",
+        "./Imagens/Pokedex/thumbnails/274.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/274.png",
+        "./Imagens/Pokedex/hires/274.png",
     },
   },
   {
@@ -11227,11 +11227,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/275.png",
+        "./Imagens/Pokedex/sprites/275.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/275.png",
+        "./Imagens/Pokedex/thumbnails/275.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/275.png",
+        "./Imagens/Pokedex/hires/275.png",
     },
   },
   {
@@ -11267,11 +11267,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/276.png",
+        "./Imagens/Pokedex/sprites/276.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/276.png",
+        "./Imagens/Pokedex/thumbnails/276.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/276.png",
+        "./Imagens/Pokedex/hires/276.png",
     },
   },
   {
@@ -11307,11 +11307,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/277.png",
+        "./Imagens/Pokedex/sprites/277.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/277.png",
+        "./Imagens/Pokedex/thumbnails/277.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/277.png",
+        "./Imagens/Pokedex/hires/277.png",
     },
   },
   {
@@ -11348,11 +11348,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/278.png",
+        "./Imagens/Pokedex/sprites/278.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/278.png",
+        "./Imagens/Pokedex/thumbnails/278.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/278.png",
+        "./Imagens/Pokedex/hires/278.png",
     },
   },
   {
@@ -11389,11 +11389,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/279.png",
+        "./Imagens/Pokedex/sprites/279.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/279.png",
+        "./Imagens/Pokedex/thumbnails/279.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/279.png",
+        "./Imagens/Pokedex/hires/279.png",
     },
   },
   {
@@ -11430,11 +11430,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/280.png",
+        "./Imagens/Pokedex/sprites/280.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/280.png",
+        "./Imagens/Pokedex/thumbnails/280.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/280.png",
+        "./Imagens/Pokedex/hires/280.png",
     },
   },
   {
@@ -11471,11 +11471,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/281.png",
+        "./Imagens/Pokedex/sprites/281.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/281.png",
+        "./Imagens/Pokedex/thumbnails/281.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/281.png",
+        "./Imagens/Pokedex/hires/281.png",
     },
   },
   {
@@ -11512,11 +11512,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/282.png",
+        "./Imagens/Pokedex/sprites/282.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/282.png",
+        "./Imagens/Pokedex/thumbnails/282.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/282.png",
+        "./Imagens/Pokedex/hires/282.png",
     },
   },
   {
@@ -11552,11 +11552,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/283.png",
+        "./Imagens/Pokedex/sprites/283.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/283.png",
+        "./Imagens/Pokedex/thumbnails/283.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/283.png",
+        "./Imagens/Pokedex/hires/283.png",
     },
   },
   {
@@ -11592,11 +11592,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/284.png",
+        "./Imagens/Pokedex/sprites/284.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/284.png",
+        "./Imagens/Pokedex/thumbnails/284.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/284.png",
+        "./Imagens/Pokedex/hires/284.png",
     },
   },
   {
@@ -11633,11 +11633,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/285.png",
+        "./Imagens/Pokedex/sprites/285.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/285.png",
+        "./Imagens/Pokedex/thumbnails/285.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/285.png",
+        "./Imagens/Pokedex/hires/285.png",
     },
   },
   {
@@ -11674,11 +11674,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/286.png",
+        "./Imagens/Pokedex/sprites/286.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/286.png",
+        "./Imagens/Pokedex/thumbnails/286.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/286.png",
+        "./Imagens/Pokedex/hires/286.png",
     },
   },
   {
@@ -11711,11 +11711,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/287.png",
+        "./Imagens/Pokedex/sprites/287.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/287.png",
+        "./Imagens/Pokedex/thumbnails/287.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/287.png",
+        "./Imagens/Pokedex/hires/287.png",
     },
   },
   {
@@ -11748,11 +11748,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/288.png",
+        "./Imagens/Pokedex/sprites/288.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/288.png",
+        "./Imagens/Pokedex/thumbnails/288.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/288.png",
+        "./Imagens/Pokedex/hires/288.png",
     },
   },
   {
@@ -11785,11 +11785,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/289.png",
+        "./Imagens/Pokedex/sprites/289.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/289.png",
+        "./Imagens/Pokedex/thumbnails/289.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/289.png",
+        "./Imagens/Pokedex/hires/289.png",
     },
   },
   {
@@ -11830,11 +11830,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/290.png",
+        "./Imagens/Pokedex/sprites/290.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/290.png",
+        "./Imagens/Pokedex/thumbnails/290.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/290.png",
+        "./Imagens/Pokedex/hires/290.png",
     },
   },
   {
@@ -11870,11 +11870,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/291.png",
+        "./Imagens/Pokedex/sprites/291.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/291.png",
+        "./Imagens/Pokedex/thumbnails/291.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/291.png",
+        "./Imagens/Pokedex/hires/291.png",
     },
   },
   {
@@ -11909,11 +11909,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/292.png",
+        "./Imagens/Pokedex/sprites/292.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/292.png",
+        "./Imagens/Pokedex/thumbnails/292.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/292.png",
+        "./Imagens/Pokedex/hires/292.png",
     },
   },
   {
@@ -11949,11 +11949,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/293.png",
+        "./Imagens/Pokedex/sprites/293.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/293.png",
+        "./Imagens/Pokedex/thumbnails/293.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/293.png",
+        "./Imagens/Pokedex/hires/293.png",
     },
   },
   {
@@ -11989,11 +11989,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/294.png",
+        "./Imagens/Pokedex/sprites/294.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/294.png",
+        "./Imagens/Pokedex/thumbnails/294.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/294.png",
+        "./Imagens/Pokedex/hires/294.png",
     },
   },
   {
@@ -12029,11 +12029,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/295.png",
+        "./Imagens/Pokedex/sprites/295.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/295.png",
+        "./Imagens/Pokedex/thumbnails/295.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/295.png",
+        "./Imagens/Pokedex/hires/295.png",
     },
   },
   {
@@ -12070,11 +12070,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/296.png",
+        "./Imagens/Pokedex/sprites/296.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/296.png",
+        "./Imagens/Pokedex/thumbnails/296.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/296.png",
+        "./Imagens/Pokedex/hires/296.png",
     },
   },
   {
@@ -12111,11 +12111,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/297.png",
+        "./Imagens/Pokedex/sprites/297.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/297.png",
+        "./Imagens/Pokedex/thumbnails/297.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/297.png",
+        "./Imagens/Pokedex/hires/297.png",
     },
   },
   {
@@ -12152,11 +12152,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/298.png",
+        "./Imagens/Pokedex/sprites/298.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/298.png",
+        "./Imagens/Pokedex/thumbnails/298.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/298.png",
+        "./Imagens/Pokedex/hires/298.png",
     },
   },
   {
@@ -12193,11 +12193,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/299.png",
+        "./Imagens/Pokedex/sprites/299.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/299.png",
+        "./Imagens/Pokedex/thumbnails/299.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/299.png",
+        "./Imagens/Pokedex/hires/299.png",
     },
   },
   {
@@ -12234,11 +12234,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/300.png",
+        "./Imagens/Pokedex/sprites/300.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/300.png",
+        "./Imagens/Pokedex/thumbnails/300.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/300.png",
+        "./Imagens/Pokedex/hires/300.png",
     },
   },
   {
@@ -12275,11 +12275,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/301.png",
+        "./Imagens/Pokedex/sprites/301.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/301.png",
+        "./Imagens/Pokedex/thumbnails/301.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/301.png",
+        "./Imagens/Pokedex/hires/301.png",
     },
   },
   {
@@ -12316,11 +12316,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/302.png",
+        "./Imagens/Pokedex/sprites/302.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/302.png",
+        "./Imagens/Pokedex/thumbnails/302.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/302.png",
+        "./Imagens/Pokedex/hires/302.png",
     },
   },
   {
@@ -12357,11 +12357,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/303.png",
+        "./Imagens/Pokedex/sprites/303.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/303.png",
+        "./Imagens/Pokedex/thumbnails/303.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/303.png",
+        "./Imagens/Pokedex/hires/303.png",
     },
   },
   {
@@ -12398,11 +12398,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/304.png",
+        "./Imagens/Pokedex/sprites/304.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/304.png",
+        "./Imagens/Pokedex/thumbnails/304.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/304.png",
+        "./Imagens/Pokedex/hires/304.png",
     },
   },
   {
@@ -12439,11 +12439,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/305.png",
+        "./Imagens/Pokedex/sprites/305.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/305.png",
+        "./Imagens/Pokedex/thumbnails/305.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/305.png",
+        "./Imagens/Pokedex/hires/305.png",
     },
   },
   {
@@ -12480,11 +12480,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/306.png",
+        "./Imagens/Pokedex/sprites/306.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/306.png",
+        "./Imagens/Pokedex/thumbnails/306.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/306.png",
+        "./Imagens/Pokedex/hires/306.png",
     },
   },
   {
@@ -12520,11 +12520,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/307.png",
+        "./Imagens/Pokedex/sprites/307.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/307.png",
+        "./Imagens/Pokedex/thumbnails/307.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/307.png",
+        "./Imagens/Pokedex/hires/307.png",
     },
   },
   {
@@ -12560,11 +12560,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/308.png",
+        "./Imagens/Pokedex/sprites/308.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/308.png",
+        "./Imagens/Pokedex/thumbnails/308.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/308.png",
+        "./Imagens/Pokedex/hires/308.png",
     },
   },
   {
@@ -12601,11 +12601,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/309.png",
+        "./Imagens/Pokedex/sprites/309.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/309.png",
+        "./Imagens/Pokedex/thumbnails/309.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/309.png",
+        "./Imagens/Pokedex/hires/309.png",
     },
   },
   {
@@ -12642,11 +12642,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/310.png",
+        "./Imagens/Pokedex/sprites/310.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/310.png",
+        "./Imagens/Pokedex/thumbnails/310.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/310.png",
+        "./Imagens/Pokedex/hires/310.png",
     },
   },
   {
@@ -12682,11 +12682,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/311.png",
+        "./Imagens/Pokedex/sprites/311.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/311.png",
+        "./Imagens/Pokedex/thumbnails/311.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/311.png",
+        "./Imagens/Pokedex/hires/311.png",
     },
   },
   {
@@ -12722,11 +12722,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/312.png",
+        "./Imagens/Pokedex/sprites/312.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/312.png",
+        "./Imagens/Pokedex/thumbnails/312.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/312.png",
+        "./Imagens/Pokedex/hires/312.png",
     },
   },
   {
@@ -12763,11 +12763,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/313.png",
+        "./Imagens/Pokedex/sprites/313.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/313.png",
+        "./Imagens/Pokedex/thumbnails/313.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/313.png",
+        "./Imagens/Pokedex/hires/313.png",
     },
   },
   {
@@ -12804,11 +12804,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/314.png",
+        "./Imagens/Pokedex/sprites/314.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/314.png",
+        "./Imagens/Pokedex/thumbnails/314.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/314.png",
+        "./Imagens/Pokedex/hires/314.png",
     },
   },
   {
@@ -12848,11 +12848,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/315.png",
+        "./Imagens/Pokedex/sprites/315.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/315.png",
+        "./Imagens/Pokedex/thumbnails/315.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/315.png",
+        "./Imagens/Pokedex/hires/315.png",
     },
   },
   {
@@ -12889,11 +12889,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/316.png",
+        "./Imagens/Pokedex/sprites/316.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/316.png",
+        "./Imagens/Pokedex/thumbnails/316.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/316.png",
+        "./Imagens/Pokedex/hires/316.png",
     },
   },
   {
@@ -12930,11 +12930,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/317.png",
+        "./Imagens/Pokedex/sprites/317.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/317.png",
+        "./Imagens/Pokedex/thumbnails/317.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/317.png",
+        "./Imagens/Pokedex/hires/317.png",
     },
   },
   {
@@ -12970,11 +12970,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/318.png",
+        "./Imagens/Pokedex/sprites/318.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/318.png",
+        "./Imagens/Pokedex/thumbnails/318.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/318.png",
+        "./Imagens/Pokedex/hires/318.png",
     },
   },
   {
@@ -13010,11 +13010,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/319.png",
+        "./Imagens/Pokedex/sprites/319.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/319.png",
+        "./Imagens/Pokedex/thumbnails/319.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/319.png",
+        "./Imagens/Pokedex/hires/319.png",
     },
   },
   {
@@ -13051,11 +13051,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/320.png",
+        "./Imagens/Pokedex/sprites/320.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/320.png",
+        "./Imagens/Pokedex/thumbnails/320.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/320.png",
+        "./Imagens/Pokedex/hires/320.png",
     },
   },
   {
@@ -13092,11 +13092,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/321.png",
+        "./Imagens/Pokedex/sprites/321.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/321.png",
+        "./Imagens/Pokedex/thumbnails/321.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/321.png",
+        "./Imagens/Pokedex/hires/321.png",
     },
   },
   {
@@ -13133,11 +13133,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/322.png",
+        "./Imagens/Pokedex/sprites/322.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/322.png",
+        "./Imagens/Pokedex/thumbnails/322.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/322.png",
+        "./Imagens/Pokedex/hires/322.png",
     },
   },
   {
@@ -13174,11 +13174,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/323.png",
+        "./Imagens/Pokedex/sprites/323.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/323.png",
+        "./Imagens/Pokedex/thumbnails/323.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/323.png",
+        "./Imagens/Pokedex/hires/323.png",
     },
   },
   {
@@ -13215,11 +13215,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/324.png",
+        "./Imagens/Pokedex/sprites/324.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/324.png",
+        "./Imagens/Pokedex/thumbnails/324.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/324.png",
+        "./Imagens/Pokedex/hires/324.png",
     },
   },
   {
@@ -13256,11 +13256,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/325.png",
+        "./Imagens/Pokedex/sprites/325.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/325.png",
+        "./Imagens/Pokedex/thumbnails/325.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/325.png",
+        "./Imagens/Pokedex/hires/325.png",
     },
   },
   {
@@ -13297,11 +13297,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/326.png",
+        "./Imagens/Pokedex/sprites/326.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/326.png",
+        "./Imagens/Pokedex/thumbnails/326.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/326.png",
+        "./Imagens/Pokedex/hires/326.png",
     },
   },
   {
@@ -13338,11 +13338,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/327.png",
+        "./Imagens/Pokedex/sprites/327.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/327.png",
+        "./Imagens/Pokedex/thumbnails/327.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/327.png",
+        "./Imagens/Pokedex/hires/327.png",
     },
   },
   {
@@ -13379,11 +13379,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/328.png",
+        "./Imagens/Pokedex/sprites/328.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/328.png",
+        "./Imagens/Pokedex/thumbnails/328.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/328.png",
+        "./Imagens/Pokedex/hires/328.png",
     },
   },
   {
@@ -13416,11 +13416,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/329.png",
+        "./Imagens/Pokedex/sprites/329.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/329.png",
+        "./Imagens/Pokedex/thumbnails/329.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/329.png",
+        "./Imagens/Pokedex/hires/329.png",
     },
   },
   {
@@ -13453,11 +13453,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/330.png",
+        "./Imagens/Pokedex/sprites/330.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/330.png",
+        "./Imagens/Pokedex/thumbnails/330.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/330.png",
+        "./Imagens/Pokedex/hires/330.png",
     },
   },
   {
@@ -13493,11 +13493,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/331.png",
+        "./Imagens/Pokedex/sprites/331.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/331.png",
+        "./Imagens/Pokedex/thumbnails/331.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/331.png",
+        "./Imagens/Pokedex/hires/331.png",
     },
   },
   {
@@ -13533,11 +13533,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/332.png",
+        "./Imagens/Pokedex/sprites/332.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/332.png",
+        "./Imagens/Pokedex/thumbnails/332.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/332.png",
+        "./Imagens/Pokedex/hires/332.png",
     },
   },
   {
@@ -13573,11 +13573,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/333.png",
+        "./Imagens/Pokedex/sprites/333.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/333.png",
+        "./Imagens/Pokedex/thumbnails/333.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/333.png",
+        "./Imagens/Pokedex/hires/333.png",
     },
   },
   {
@@ -13613,11 +13613,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/334.png",
+        "./Imagens/Pokedex/sprites/334.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/334.png",
+        "./Imagens/Pokedex/thumbnails/334.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/334.png",
+        "./Imagens/Pokedex/hires/334.png",
     },
   },
   {
@@ -13653,11 +13653,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/335.png",
+        "./Imagens/Pokedex/sprites/335.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/335.png",
+        "./Imagens/Pokedex/thumbnails/335.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/335.png",
+        "./Imagens/Pokedex/hires/335.png",
     },
   },
   {
@@ -13693,11 +13693,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/336.png",
+        "./Imagens/Pokedex/sprites/336.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/336.png",
+        "./Imagens/Pokedex/thumbnails/336.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/336.png",
+        "./Imagens/Pokedex/hires/336.png",
     },
   },
   {
@@ -13730,11 +13730,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/337.png",
+        "./Imagens/Pokedex/sprites/337.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/337.png",
+        "./Imagens/Pokedex/thumbnails/337.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/337.png",
+        "./Imagens/Pokedex/hires/337.png",
     },
   },
   {
@@ -13767,11 +13767,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/338.png",
+        "./Imagens/Pokedex/sprites/338.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/338.png",
+        "./Imagens/Pokedex/thumbnails/338.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/338.png",
+        "./Imagens/Pokedex/hires/338.png",
     },
   },
   {
@@ -13808,11 +13808,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/339.png",
+        "./Imagens/Pokedex/sprites/339.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/339.png",
+        "./Imagens/Pokedex/thumbnails/339.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/339.png",
+        "./Imagens/Pokedex/hires/339.png",
     },
   },
   {
@@ -13849,11 +13849,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/340.png",
+        "./Imagens/Pokedex/sprites/340.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/340.png",
+        "./Imagens/Pokedex/thumbnails/340.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/340.png",
+        "./Imagens/Pokedex/hires/340.png",
     },
   },
   {
@@ -13890,11 +13890,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/341.png",
+        "./Imagens/Pokedex/sprites/341.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/341.png",
+        "./Imagens/Pokedex/thumbnails/341.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/341.png",
+        "./Imagens/Pokedex/hires/341.png",
     },
   },
   {
@@ -13931,11 +13931,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/342.png",
+        "./Imagens/Pokedex/sprites/342.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/342.png",
+        "./Imagens/Pokedex/thumbnails/342.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/342.png",
+        "./Imagens/Pokedex/hires/342.png",
     },
   },
   {
@@ -13968,11 +13968,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/343.png",
+        "./Imagens/Pokedex/sprites/343.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/343.png",
+        "./Imagens/Pokedex/thumbnails/343.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/343.png",
+        "./Imagens/Pokedex/hires/343.png",
     },
   },
   {
@@ -14005,11 +14005,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/344.png",
+        "./Imagens/Pokedex/sprites/344.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/344.png",
+        "./Imagens/Pokedex/thumbnails/344.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/344.png",
+        "./Imagens/Pokedex/hires/344.png",
     },
   },
   {
@@ -14045,11 +14045,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/345.png",
+        "./Imagens/Pokedex/sprites/345.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/345.png",
+        "./Imagens/Pokedex/thumbnails/345.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/345.png",
+        "./Imagens/Pokedex/hires/345.png",
     },
   },
   {
@@ -14085,11 +14085,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/346.png",
+        "./Imagens/Pokedex/sprites/346.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/346.png",
+        "./Imagens/Pokedex/thumbnails/346.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/346.png",
+        "./Imagens/Pokedex/hires/346.png",
     },
   },
   {
@@ -14125,11 +14125,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/347.png",
+        "./Imagens/Pokedex/sprites/347.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/347.png",
+        "./Imagens/Pokedex/thumbnails/347.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/347.png",
+        "./Imagens/Pokedex/hires/347.png",
     },
   },
   {
@@ -14165,11 +14165,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/348.png",
+        "./Imagens/Pokedex/sprites/348.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/348.png",
+        "./Imagens/Pokedex/thumbnails/348.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/348.png",
+        "./Imagens/Pokedex/hires/348.png",
     },
   },
   {
@@ -14208,11 +14208,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/349.png",
+        "./Imagens/Pokedex/sprites/349.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/349.png",
+        "./Imagens/Pokedex/thumbnails/349.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/349.png",
+        "./Imagens/Pokedex/hires/349.png",
     },
   },
   {
@@ -14251,11 +14251,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/350.png",
+        "./Imagens/Pokedex/sprites/350.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/350.png",
+        "./Imagens/Pokedex/thumbnails/350.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/350.png",
+        "./Imagens/Pokedex/hires/350.png",
     },
   },
   {
@@ -14288,11 +14288,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/351.png",
+        "./Imagens/Pokedex/sprites/351.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/351.png",
+        "./Imagens/Pokedex/thumbnails/351.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/351.png",
+        "./Imagens/Pokedex/hires/351.png",
     },
   },
   {
@@ -14328,11 +14328,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/352.png",
+        "./Imagens/Pokedex/sprites/352.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/352.png",
+        "./Imagens/Pokedex/thumbnails/352.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/352.png",
+        "./Imagens/Pokedex/hires/352.png",
     },
   },
   {
@@ -14369,11 +14369,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/353.png",
+        "./Imagens/Pokedex/sprites/353.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/353.png",
+        "./Imagens/Pokedex/thumbnails/353.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/353.png",
+        "./Imagens/Pokedex/hires/353.png",
     },
   },
   {
@@ -14410,11 +14410,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/354.png",
+        "./Imagens/Pokedex/sprites/354.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/354.png",
+        "./Imagens/Pokedex/thumbnails/354.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/354.png",
+        "./Imagens/Pokedex/hires/354.png",
     },
   },
   {
@@ -14450,11 +14450,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/355.png",
+        "./Imagens/Pokedex/sprites/355.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/355.png",
+        "./Imagens/Pokedex/thumbnails/355.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/355.png",
+        "./Imagens/Pokedex/hires/355.png",
     },
   },
   {
@@ -14493,11 +14493,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/356.png",
+        "./Imagens/Pokedex/sprites/356.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/356.png",
+        "./Imagens/Pokedex/thumbnails/356.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/356.png",
+        "./Imagens/Pokedex/hires/356.png",
     },
   },
   {
@@ -14534,11 +14534,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/357.png",
+        "./Imagens/Pokedex/sprites/357.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/357.png",
+        "./Imagens/Pokedex/thumbnails/357.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/357.png",
+        "./Imagens/Pokedex/hires/357.png",
     },
   },
   {
@@ -14571,11 +14571,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/358.png",
+        "./Imagens/Pokedex/sprites/358.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/358.png",
+        "./Imagens/Pokedex/thumbnails/358.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/358.png",
+        "./Imagens/Pokedex/hires/358.png",
     },
   },
   {
@@ -14612,11 +14612,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/359.png",
+        "./Imagens/Pokedex/sprites/359.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/359.png",
+        "./Imagens/Pokedex/thumbnails/359.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/359.png",
+        "./Imagens/Pokedex/hires/359.png",
     },
   },
   {
@@ -14652,11 +14652,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/360.png",
+        "./Imagens/Pokedex/sprites/360.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/360.png",
+        "./Imagens/Pokedex/thumbnails/360.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/360.png",
+        "./Imagens/Pokedex/hires/360.png",
     },
   },
   {
@@ -14698,11 +14698,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/361.png",
+        "./Imagens/Pokedex/sprites/361.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/361.png",
+        "./Imagens/Pokedex/thumbnails/361.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/361.png",
+        "./Imagens/Pokedex/hires/361.png",
     },
   },
   {
@@ -14739,11 +14739,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/362.png",
+        "./Imagens/Pokedex/sprites/362.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/362.png",
+        "./Imagens/Pokedex/thumbnails/362.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/362.png",
+        "./Imagens/Pokedex/hires/362.png",
     },
   },
   {
@@ -14780,11 +14780,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/363.png",
+        "./Imagens/Pokedex/sprites/363.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/363.png",
+        "./Imagens/Pokedex/thumbnails/363.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/363.png",
+        "./Imagens/Pokedex/hires/363.png",
     },
   },
   {
@@ -14821,11 +14821,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/364.png",
+        "./Imagens/Pokedex/sprites/364.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/364.png",
+        "./Imagens/Pokedex/thumbnails/364.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/364.png",
+        "./Imagens/Pokedex/hires/364.png",
     },
   },
   {
@@ -14862,11 +14862,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/365.png",
+        "./Imagens/Pokedex/sprites/365.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/365.png",
+        "./Imagens/Pokedex/thumbnails/365.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/365.png",
+        "./Imagens/Pokedex/hires/365.png",
     },
   },
   {
@@ -14907,11 +14907,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/366.png",
+        "./Imagens/Pokedex/sprites/366.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/366.png",
+        "./Imagens/Pokedex/thumbnails/366.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/366.png",
+        "./Imagens/Pokedex/hires/366.png",
     },
   },
   {
@@ -14947,11 +14947,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/367.png",
+        "./Imagens/Pokedex/sprites/367.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/367.png",
+        "./Imagens/Pokedex/thumbnails/367.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/367.png",
+        "./Imagens/Pokedex/hires/367.png",
     },
   },
   {
@@ -14987,11 +14987,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/368.png",
+        "./Imagens/Pokedex/sprites/368.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/368.png",
+        "./Imagens/Pokedex/thumbnails/368.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/368.png",
+        "./Imagens/Pokedex/hires/368.png",
     },
   },
   {
@@ -15028,11 +15028,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/369.png",
+        "./Imagens/Pokedex/sprites/369.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/369.png",
+        "./Imagens/Pokedex/thumbnails/369.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/369.png",
+        "./Imagens/Pokedex/hires/369.png",
     },
   },
   {
@@ -15068,11 +15068,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/370.png",
+        "./Imagens/Pokedex/sprites/370.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/370.png",
+        "./Imagens/Pokedex/thumbnails/370.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/370.png",
+        "./Imagens/Pokedex/hires/370.png",
     },
   },
   {
@@ -15108,11 +15108,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/371.png",
+        "./Imagens/Pokedex/sprites/371.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/371.png",
+        "./Imagens/Pokedex/thumbnails/371.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/371.png",
+        "./Imagens/Pokedex/hires/371.png",
     },
   },
   {
@@ -15148,11 +15148,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/372.png",
+        "./Imagens/Pokedex/sprites/372.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/372.png",
+        "./Imagens/Pokedex/thumbnails/372.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/372.png",
+        "./Imagens/Pokedex/hires/372.png",
     },
   },
   {
@@ -15188,11 +15188,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/373.png",
+        "./Imagens/Pokedex/sprites/373.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/373.png",
+        "./Imagens/Pokedex/thumbnails/373.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/373.png",
+        "./Imagens/Pokedex/hires/373.png",
     },
   },
   {
@@ -15228,11 +15228,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/374.png",
+        "./Imagens/Pokedex/sprites/374.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/374.png",
+        "./Imagens/Pokedex/thumbnails/374.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/374.png",
+        "./Imagens/Pokedex/hires/374.png",
     },
   },
   {
@@ -15268,11 +15268,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/375.png",
+        "./Imagens/Pokedex/sprites/375.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/375.png",
+        "./Imagens/Pokedex/thumbnails/375.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/375.png",
+        "./Imagens/Pokedex/hires/375.png",
     },
   },
   {
@@ -15308,11 +15308,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/376.png",
+        "./Imagens/Pokedex/sprites/376.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/376.png",
+        "./Imagens/Pokedex/thumbnails/376.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/376.png",
+        "./Imagens/Pokedex/hires/376.png",
     },
   },
   {
@@ -15348,11 +15348,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/377.png",
+        "./Imagens/Pokedex/sprites/377.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/377.png",
+        "./Imagens/Pokedex/thumbnails/377.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/377.png",
+        "./Imagens/Pokedex/hires/377.png",
     },
   },
   {
@@ -15388,11 +15388,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/378.png",
+        "./Imagens/Pokedex/sprites/378.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/378.png",
+        "./Imagens/Pokedex/thumbnails/378.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/378.png",
+        "./Imagens/Pokedex/hires/378.png",
     },
   },
   {
@@ -15428,11 +15428,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/379.png",
+        "./Imagens/Pokedex/sprites/379.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/379.png",
+        "./Imagens/Pokedex/thumbnails/379.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/379.png",
+        "./Imagens/Pokedex/hires/379.png",
     },
   },
   {
@@ -15465,11 +15465,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/380.png",
+        "./Imagens/Pokedex/sprites/380.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/380.png",
+        "./Imagens/Pokedex/thumbnails/380.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/380.png",
+        "./Imagens/Pokedex/hires/380.png",
     },
   },
   {
@@ -15502,11 +15502,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/381.png",
+        "./Imagens/Pokedex/sprites/381.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/381.png",
+        "./Imagens/Pokedex/thumbnails/381.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/381.png",
+        "./Imagens/Pokedex/hires/381.png",
     },
   },
   {
@@ -15539,11 +15539,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/382.png",
+        "./Imagens/Pokedex/sprites/382.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/382.png",
+        "./Imagens/Pokedex/thumbnails/382.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/382.png",
+        "./Imagens/Pokedex/hires/382.png",
     },
   },
   {
@@ -15576,11 +15576,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/383.png",
+        "./Imagens/Pokedex/sprites/383.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/383.png",
+        "./Imagens/Pokedex/thumbnails/383.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/383.png",
+        "./Imagens/Pokedex/hires/383.png",
     },
   },
   {
@@ -15613,11 +15613,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/384.png",
+        "./Imagens/Pokedex/sprites/384.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/384.png",
+        "./Imagens/Pokedex/thumbnails/384.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/384.png",
+        "./Imagens/Pokedex/hires/384.png",
     },
   },
   {
@@ -15650,11 +15650,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/385.png",
+        "./Imagens/Pokedex/sprites/385.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/385.png",
+        "./Imagens/Pokedex/thumbnails/385.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/385.png",
+        "./Imagens/Pokedex/hires/385.png",
     },
   },
   {
@@ -15687,11 +15687,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/386.png",
+        "./Imagens/Pokedex/sprites/386.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/386.png",
+        "./Imagens/Pokedex/thumbnails/386.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/386.png",
+        "./Imagens/Pokedex/hires/386.png",
     },
   },
   {
@@ -15727,11 +15727,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/387.png",
+        "./Imagens/Pokedex/sprites/387.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/387.png",
+        "./Imagens/Pokedex/thumbnails/387.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/387.png",
+        "./Imagens/Pokedex/hires/387.png",
     },
   },
   {
@@ -15767,11 +15767,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/388.png",
+        "./Imagens/Pokedex/sprites/388.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/388.png",
+        "./Imagens/Pokedex/thumbnails/388.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/388.png",
+        "./Imagens/Pokedex/hires/388.png",
     },
   },
   {
@@ -15807,11 +15807,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/389.png",
+        "./Imagens/Pokedex/sprites/389.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/389.png",
+        "./Imagens/Pokedex/thumbnails/389.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/389.png",
+        "./Imagens/Pokedex/hires/389.png",
     },
   },
   {
@@ -15847,11 +15847,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/390.png",
+        "./Imagens/Pokedex/sprites/390.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/390.png",
+        "./Imagens/Pokedex/thumbnails/390.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/390.png",
+        "./Imagens/Pokedex/hires/390.png",
     },
   },
   {
@@ -15887,11 +15887,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/391.png",
+        "./Imagens/Pokedex/sprites/391.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/391.png",
+        "./Imagens/Pokedex/thumbnails/391.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/391.png",
+        "./Imagens/Pokedex/hires/391.png",
     },
   },
   {
@@ -15927,11 +15927,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/392.png",
+        "./Imagens/Pokedex/sprites/392.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/392.png",
+        "./Imagens/Pokedex/thumbnails/392.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/392.png",
+        "./Imagens/Pokedex/hires/392.png",
     },
   },
   {
@@ -15967,11 +15967,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/393.png",
+        "./Imagens/Pokedex/sprites/393.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/393.png",
+        "./Imagens/Pokedex/thumbnails/393.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/393.png",
+        "./Imagens/Pokedex/hires/393.png",
     },
   },
   {
@@ -16007,11 +16007,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/394.png",
+        "./Imagens/Pokedex/sprites/394.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/394.png",
+        "./Imagens/Pokedex/thumbnails/394.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/394.png",
+        "./Imagens/Pokedex/hires/394.png",
     },
   },
   {
@@ -16047,11 +16047,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/395.png",
+        "./Imagens/Pokedex/sprites/395.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/395.png",
+        "./Imagens/Pokedex/thumbnails/395.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/395.png",
+        "./Imagens/Pokedex/hires/395.png",
     },
   },
   {
@@ -16087,11 +16087,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/396.png",
+        "./Imagens/Pokedex/sprites/396.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/396.png",
+        "./Imagens/Pokedex/thumbnails/396.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/396.png",
+        "./Imagens/Pokedex/hires/396.png",
     },
   },
   {
@@ -16127,11 +16127,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/397.png",
+        "./Imagens/Pokedex/sprites/397.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/397.png",
+        "./Imagens/Pokedex/thumbnails/397.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/397.png",
+        "./Imagens/Pokedex/hires/397.png",
     },
   },
   {
@@ -16167,11 +16167,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/398.png",
+        "./Imagens/Pokedex/sprites/398.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/398.png",
+        "./Imagens/Pokedex/thumbnails/398.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/398.png",
+        "./Imagens/Pokedex/hires/398.png",
     },
   },
   {
@@ -16208,11 +16208,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/399.png",
+        "./Imagens/Pokedex/sprites/399.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/399.png",
+        "./Imagens/Pokedex/thumbnails/399.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/399.png",
+        "./Imagens/Pokedex/hires/399.png",
     },
   },
   {
@@ -16249,11 +16249,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/400.png",
+        "./Imagens/Pokedex/sprites/400.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/400.png",
+        "./Imagens/Pokedex/thumbnails/400.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/400.png",
+        "./Imagens/Pokedex/hires/400.png",
     },
   },
   {
@@ -16289,11 +16289,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/401.png",
+        "./Imagens/Pokedex/sprites/401.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/401.png",
+        "./Imagens/Pokedex/thumbnails/401.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/401.png",
+        "./Imagens/Pokedex/hires/401.png",
     },
   },
   {
@@ -16329,11 +16329,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/402.png",
+        "./Imagens/Pokedex/sprites/402.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/402.png",
+        "./Imagens/Pokedex/thumbnails/402.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/402.png",
+        "./Imagens/Pokedex/hires/402.png",
     },
   },
   {
@@ -16370,11 +16370,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/403.png",
+        "./Imagens/Pokedex/sprites/403.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/403.png",
+        "./Imagens/Pokedex/thumbnails/403.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/403.png",
+        "./Imagens/Pokedex/hires/403.png",
     },
   },
   {
@@ -16411,11 +16411,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/404.png",
+        "./Imagens/Pokedex/sprites/404.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/404.png",
+        "./Imagens/Pokedex/thumbnails/404.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/404.png",
+        "./Imagens/Pokedex/hires/404.png",
     },
   },
   {
@@ -16452,11 +16452,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/405.png",
+        "./Imagens/Pokedex/sprites/405.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/405.png",
+        "./Imagens/Pokedex/thumbnails/405.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/405.png",
+        "./Imagens/Pokedex/hires/405.png",
     },
   },
   {
@@ -16493,11 +16493,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/406.png",
+        "./Imagens/Pokedex/sprites/406.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/406.png",
+        "./Imagens/Pokedex/thumbnails/406.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/406.png",
+        "./Imagens/Pokedex/hires/406.png",
     },
   },
   {
@@ -16534,11 +16534,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/407.png",
+        "./Imagens/Pokedex/sprites/407.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/407.png",
+        "./Imagens/Pokedex/thumbnails/407.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/407.png",
+        "./Imagens/Pokedex/hires/407.png",
     },
   },
   {
@@ -16574,11 +16574,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/408.png",
+        "./Imagens/Pokedex/sprites/408.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/408.png",
+        "./Imagens/Pokedex/thumbnails/408.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/408.png",
+        "./Imagens/Pokedex/hires/408.png",
     },
   },
   {
@@ -16614,11 +16614,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/409.png",
+        "./Imagens/Pokedex/sprites/409.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/409.png",
+        "./Imagens/Pokedex/thumbnails/409.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/409.png",
+        "./Imagens/Pokedex/hires/409.png",
     },
   },
   {
@@ -16654,11 +16654,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/410.png",
+        "./Imagens/Pokedex/sprites/410.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/410.png",
+        "./Imagens/Pokedex/thumbnails/410.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/410.png",
+        "./Imagens/Pokedex/hires/410.png",
     },
   },
   {
@@ -16694,11 +16694,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/411.png",
+        "./Imagens/Pokedex/sprites/411.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/411.png",
+        "./Imagens/Pokedex/thumbnails/411.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/411.png",
+        "./Imagens/Pokedex/hires/411.png",
     },
   },
   {
@@ -16739,11 +16739,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/412.png",
+        "./Imagens/Pokedex/sprites/412.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/412.png",
+        "./Imagens/Pokedex/thumbnails/412.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/412.png",
+        "./Imagens/Pokedex/hires/412.png",
     },
   },
   {
@@ -16779,11 +16779,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/413.png",
+        "./Imagens/Pokedex/sprites/413.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/413.png",
+        "./Imagens/Pokedex/thumbnails/413.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/413.png",
+        "./Imagens/Pokedex/hires/413.png",
     },
   },
   {
@@ -16819,11 +16819,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/414.png",
+        "./Imagens/Pokedex/sprites/414.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/414.png",
+        "./Imagens/Pokedex/thumbnails/414.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/414.png",
+        "./Imagens/Pokedex/hires/414.png",
     },
   },
   {
@@ -16859,11 +16859,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/415.png",
+        "./Imagens/Pokedex/sprites/415.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/415.png",
+        "./Imagens/Pokedex/thumbnails/415.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/415.png",
+        "./Imagens/Pokedex/hires/415.png",
     },
   },
   {
@@ -16899,11 +16899,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/416.png",
+        "./Imagens/Pokedex/sprites/416.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/416.png",
+        "./Imagens/Pokedex/thumbnails/416.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/416.png",
+        "./Imagens/Pokedex/hires/416.png",
     },
   },
   {
@@ -16940,11 +16940,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/417.png",
+        "./Imagens/Pokedex/sprites/417.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/417.png",
+        "./Imagens/Pokedex/thumbnails/417.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/417.png",
+        "./Imagens/Pokedex/hires/417.png",
     },
   },
   {
@@ -16980,11 +16980,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/418.png",
+        "./Imagens/Pokedex/sprites/418.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/418.png",
+        "./Imagens/Pokedex/thumbnails/418.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/418.png",
+        "./Imagens/Pokedex/hires/418.png",
     },
   },
   {
@@ -17020,11 +17020,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/419.png",
+        "./Imagens/Pokedex/sprites/419.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/419.png",
+        "./Imagens/Pokedex/thumbnails/419.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/419.png",
+        "./Imagens/Pokedex/hires/419.png",
     },
   },
   {
@@ -17057,11 +17057,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/420.png",
+        "./Imagens/Pokedex/sprites/420.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/420.png",
+        "./Imagens/Pokedex/thumbnails/420.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/420.png",
+        "./Imagens/Pokedex/hires/420.png",
     },
   },
   {
@@ -17094,11 +17094,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/421.png",
+        "./Imagens/Pokedex/sprites/421.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/421.png",
+        "./Imagens/Pokedex/thumbnails/421.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/421.png",
+        "./Imagens/Pokedex/hires/421.png",
     },
   },
   {
@@ -17135,11 +17135,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/422.png",
+        "./Imagens/Pokedex/sprites/422.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/422.png",
+        "./Imagens/Pokedex/thumbnails/422.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/422.png",
+        "./Imagens/Pokedex/hires/422.png",
     },
   },
   {
@@ -17176,11 +17176,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/423.png",
+        "./Imagens/Pokedex/sprites/423.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/423.png",
+        "./Imagens/Pokedex/thumbnails/423.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/423.png",
+        "./Imagens/Pokedex/hires/423.png",
     },
   },
   {
@@ -17217,11 +17217,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/424.png",
+        "./Imagens/Pokedex/sprites/424.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/424.png",
+        "./Imagens/Pokedex/thumbnails/424.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/424.png",
+        "./Imagens/Pokedex/hires/424.png",
     },
   },
   {
@@ -17258,11 +17258,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/425.png",
+        "./Imagens/Pokedex/sprites/425.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/425.png",
+        "./Imagens/Pokedex/thumbnails/425.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/425.png",
+        "./Imagens/Pokedex/hires/425.png",
     },
   },
   {
@@ -17299,11 +17299,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/426.png",
+        "./Imagens/Pokedex/sprites/426.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/426.png",
+        "./Imagens/Pokedex/thumbnails/426.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/426.png",
+        "./Imagens/Pokedex/hires/426.png",
     },
   },
   {
@@ -17340,11 +17340,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/427.png",
+        "./Imagens/Pokedex/sprites/427.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/427.png",
+        "./Imagens/Pokedex/thumbnails/427.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/427.png",
+        "./Imagens/Pokedex/hires/427.png",
     },
   },
   {
@@ -17381,11 +17381,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/428.png",
+        "./Imagens/Pokedex/sprites/428.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/428.png",
+        "./Imagens/Pokedex/thumbnails/428.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/428.png",
+        "./Imagens/Pokedex/hires/428.png",
     },
   },
   {
@@ -17418,11 +17418,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/429.png",
+        "./Imagens/Pokedex/sprites/429.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/429.png",
+        "./Imagens/Pokedex/thumbnails/429.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/429.png",
+        "./Imagens/Pokedex/hires/429.png",
     },
   },
   {
@@ -17459,11 +17459,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/430.png",
+        "./Imagens/Pokedex/sprites/430.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/430.png",
+        "./Imagens/Pokedex/thumbnails/430.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/430.png",
+        "./Imagens/Pokedex/hires/430.png",
     },
   },
   {
@@ -17500,11 +17500,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/431.png",
+        "./Imagens/Pokedex/sprites/431.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/431.png",
+        "./Imagens/Pokedex/thumbnails/431.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/431.png",
+        "./Imagens/Pokedex/hires/431.png",
     },
   },
   {
@@ -17541,11 +17541,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/432.png",
+        "./Imagens/Pokedex/sprites/432.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/432.png",
+        "./Imagens/Pokedex/thumbnails/432.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/432.png",
+        "./Imagens/Pokedex/hires/432.png",
     },
   },
   {
@@ -17578,11 +17578,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/433.png",
+        "./Imagens/Pokedex/sprites/433.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/433.png",
+        "./Imagens/Pokedex/thumbnails/433.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/433.png",
+        "./Imagens/Pokedex/hires/433.png",
     },
   },
   {
@@ -17619,11 +17619,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/434.png",
+        "./Imagens/Pokedex/sprites/434.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/434.png",
+        "./Imagens/Pokedex/thumbnails/434.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/434.png",
+        "./Imagens/Pokedex/hires/434.png",
     },
   },
   {
@@ -17660,11 +17660,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/435.png",
+        "./Imagens/Pokedex/sprites/435.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/435.png",
+        "./Imagens/Pokedex/thumbnails/435.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/435.png",
+        "./Imagens/Pokedex/hires/435.png",
     },
   },
   {
@@ -17701,11 +17701,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/436.png",
+        "./Imagens/Pokedex/sprites/436.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/436.png",
+        "./Imagens/Pokedex/thumbnails/436.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/436.png",
+        "./Imagens/Pokedex/hires/436.png",
     },
   },
   {
@@ -17742,11 +17742,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/437.png",
+        "./Imagens/Pokedex/sprites/437.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/437.png",
+        "./Imagens/Pokedex/thumbnails/437.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/437.png",
+        "./Imagens/Pokedex/hires/437.png",
     },
   },
   {
@@ -17783,11 +17783,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/438.png",
+        "./Imagens/Pokedex/sprites/438.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/438.png",
+        "./Imagens/Pokedex/thumbnails/438.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/438.png",
+        "./Imagens/Pokedex/hires/438.png",
     },
   },
   {
@@ -17824,11 +17824,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/439.png",
+        "./Imagens/Pokedex/sprites/439.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/439.png",
+        "./Imagens/Pokedex/thumbnails/439.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/439.png",
+        "./Imagens/Pokedex/hires/439.png",
     },
   },
   {
@@ -17865,11 +17865,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/440.png",
+        "./Imagens/Pokedex/sprites/440.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/440.png",
+        "./Imagens/Pokedex/thumbnails/440.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/440.png",
+        "./Imagens/Pokedex/hires/440.png",
     },
   },
   {
@@ -17906,11 +17906,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/441.png",
+        "./Imagens/Pokedex/sprites/441.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/441.png",
+        "./Imagens/Pokedex/thumbnails/441.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/441.png",
+        "./Imagens/Pokedex/hires/441.png",
     },
   },
   {
@@ -17946,11 +17946,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/442.png",
+        "./Imagens/Pokedex/sprites/442.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/442.png",
+        "./Imagens/Pokedex/thumbnails/442.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/442.png",
+        "./Imagens/Pokedex/hires/442.png",
     },
   },
   {
@@ -17986,11 +17986,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/443.png",
+        "./Imagens/Pokedex/sprites/443.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/443.png",
+        "./Imagens/Pokedex/thumbnails/443.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/443.png",
+        "./Imagens/Pokedex/hires/443.png",
     },
   },
   {
@@ -18026,11 +18026,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/444.png",
+        "./Imagens/Pokedex/sprites/444.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/444.png",
+        "./Imagens/Pokedex/thumbnails/444.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/444.png",
+        "./Imagens/Pokedex/hires/444.png",
     },
   },
   {
@@ -18066,11 +18066,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/445.png",
+        "./Imagens/Pokedex/sprites/445.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/445.png",
+        "./Imagens/Pokedex/thumbnails/445.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/445.png",
+        "./Imagens/Pokedex/hires/445.png",
     },
   },
   {
@@ -18107,11 +18107,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/446.png",
+        "./Imagens/Pokedex/sprites/446.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/446.png",
+        "./Imagens/Pokedex/thumbnails/446.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/446.png",
+        "./Imagens/Pokedex/hires/446.png",
     },
   },
   {
@@ -18148,11 +18148,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/447.png",
+        "./Imagens/Pokedex/sprites/447.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/447.png",
+        "./Imagens/Pokedex/thumbnails/447.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/447.png",
+        "./Imagens/Pokedex/hires/447.png",
     },
   },
   {
@@ -18189,11 +18189,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/448.png",
+        "./Imagens/Pokedex/sprites/448.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/448.png",
+        "./Imagens/Pokedex/thumbnails/448.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/448.png",
+        "./Imagens/Pokedex/hires/448.png",
     },
   },
   {
@@ -18229,11 +18229,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/449.png",
+        "./Imagens/Pokedex/sprites/449.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/449.png",
+        "./Imagens/Pokedex/thumbnails/449.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/449.png",
+        "./Imagens/Pokedex/hires/449.png",
     },
   },
   {
@@ -18269,11 +18269,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/450.png",
+        "./Imagens/Pokedex/sprites/450.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/450.png",
+        "./Imagens/Pokedex/thumbnails/450.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/450.png",
+        "./Imagens/Pokedex/hires/450.png",
     },
   },
   {
@@ -18310,11 +18310,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/451.png",
+        "./Imagens/Pokedex/sprites/451.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/451.png",
+        "./Imagens/Pokedex/thumbnails/451.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/451.png",
+        "./Imagens/Pokedex/hires/451.png",
     },
   },
   {
@@ -18351,11 +18351,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/452.png",
+        "./Imagens/Pokedex/sprites/452.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/452.png",
+        "./Imagens/Pokedex/thumbnails/452.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/452.png",
+        "./Imagens/Pokedex/hires/452.png",
     },
   },
   {
@@ -18392,11 +18392,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/453.png",
+        "./Imagens/Pokedex/sprites/453.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/453.png",
+        "./Imagens/Pokedex/thumbnails/453.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/453.png",
+        "./Imagens/Pokedex/hires/453.png",
     },
   },
   {
@@ -18433,11 +18433,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/454.png",
+        "./Imagens/Pokedex/sprites/454.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/454.png",
+        "./Imagens/Pokedex/thumbnails/454.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/454.png",
+        "./Imagens/Pokedex/hires/454.png",
     },
   },
   {
@@ -18470,11 +18470,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/455.png",
+        "./Imagens/Pokedex/sprites/455.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/455.png",
+        "./Imagens/Pokedex/thumbnails/455.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/455.png",
+        "./Imagens/Pokedex/hires/455.png",
     },
   },
   {
@@ -18511,11 +18511,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/456.png",
+        "./Imagens/Pokedex/sprites/456.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/456.png",
+        "./Imagens/Pokedex/thumbnails/456.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/456.png",
+        "./Imagens/Pokedex/hires/456.png",
     },
   },
   {
@@ -18552,11 +18552,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/457.png",
+        "./Imagens/Pokedex/sprites/457.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/457.png",
+        "./Imagens/Pokedex/thumbnails/457.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/457.png",
+        "./Imagens/Pokedex/hires/457.png",
     },
   },
   {
@@ -18593,11 +18593,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/458.png",
+        "./Imagens/Pokedex/sprites/458.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/458.png",
+        "./Imagens/Pokedex/thumbnails/458.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/458.png",
+        "./Imagens/Pokedex/hires/458.png",
     },
   },
   {
@@ -18633,11 +18633,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/459.png",
+        "./Imagens/Pokedex/sprites/459.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/459.png",
+        "./Imagens/Pokedex/thumbnails/459.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/459.png",
+        "./Imagens/Pokedex/hires/459.png",
     },
   },
   {
@@ -18673,11 +18673,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/460.png",
+        "./Imagens/Pokedex/sprites/460.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/460.png",
+        "./Imagens/Pokedex/thumbnails/460.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/460.png",
+        "./Imagens/Pokedex/hires/460.png",
     },
   },
   {
@@ -18713,11 +18713,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/461.png",
+        "./Imagens/Pokedex/sprites/461.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/461.png",
+        "./Imagens/Pokedex/thumbnails/461.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/461.png",
+        "./Imagens/Pokedex/hires/461.png",
     },
   },
   {
@@ -18754,11 +18754,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/462.png",
+        "./Imagens/Pokedex/sprites/462.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/462.png",
+        "./Imagens/Pokedex/thumbnails/462.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/462.png",
+        "./Imagens/Pokedex/hires/462.png",
     },
   },
   {
@@ -18795,11 +18795,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/463.png",
+        "./Imagens/Pokedex/sprites/463.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/463.png",
+        "./Imagens/Pokedex/thumbnails/463.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/463.png",
+        "./Imagens/Pokedex/hires/463.png",
     },
   },
   {
@@ -18836,11 +18836,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/464.png",
+        "./Imagens/Pokedex/sprites/464.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/464.png",
+        "./Imagens/Pokedex/thumbnails/464.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/464.png",
+        "./Imagens/Pokedex/hires/464.png",
     },
   },
   {
@@ -18877,11 +18877,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/465.png",
+        "./Imagens/Pokedex/sprites/465.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/465.png",
+        "./Imagens/Pokedex/thumbnails/465.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/465.png",
+        "./Imagens/Pokedex/hires/465.png",
     },
   },
   {
@@ -18917,11 +18917,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/466.png",
+        "./Imagens/Pokedex/sprites/466.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/466.png",
+        "./Imagens/Pokedex/thumbnails/466.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/466.png",
+        "./Imagens/Pokedex/hires/466.png",
     },
   },
   {
@@ -18957,11 +18957,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/467.png",
+        "./Imagens/Pokedex/sprites/467.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/467.png",
+        "./Imagens/Pokedex/thumbnails/467.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/467.png",
+        "./Imagens/Pokedex/hires/467.png",
     },
   },
   {
@@ -18998,11 +18998,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/468.png",
+        "./Imagens/Pokedex/sprites/468.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/468.png",
+        "./Imagens/Pokedex/thumbnails/468.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/468.png",
+        "./Imagens/Pokedex/hires/468.png",
     },
   },
   {
@@ -19039,11 +19039,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/469.png",
+        "./Imagens/Pokedex/sprites/469.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/469.png",
+        "./Imagens/Pokedex/thumbnails/469.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/469.png",
+        "./Imagens/Pokedex/hires/469.png",
     },
   },
   {
@@ -19079,11 +19079,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/470.png",
+        "./Imagens/Pokedex/sprites/470.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/470.png",
+        "./Imagens/Pokedex/thumbnails/470.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/470.png",
+        "./Imagens/Pokedex/hires/470.png",
     },
   },
   {
@@ -19119,11 +19119,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/471.png",
+        "./Imagens/Pokedex/sprites/471.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/471.png",
+        "./Imagens/Pokedex/thumbnails/471.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/471.png",
+        "./Imagens/Pokedex/hires/471.png",
     },
   },
   {
@@ -19160,11 +19160,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/472.png",
+        "./Imagens/Pokedex/sprites/472.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/472.png",
+        "./Imagens/Pokedex/thumbnails/472.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/472.png",
+        "./Imagens/Pokedex/hires/472.png",
     },
   },
   {
@@ -19201,11 +19201,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/473.png",
+        "./Imagens/Pokedex/sprites/473.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/473.png",
+        "./Imagens/Pokedex/thumbnails/473.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/473.png",
+        "./Imagens/Pokedex/hires/473.png",
     },
   },
   {
@@ -19242,11 +19242,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/474.png",
+        "./Imagens/Pokedex/sprites/474.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/474.png",
+        "./Imagens/Pokedex/thumbnails/474.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/474.png",
+        "./Imagens/Pokedex/hires/474.png",
     },
   },
   {
@@ -19282,11 +19282,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/475.png",
+        "./Imagens/Pokedex/sprites/475.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/475.png",
+        "./Imagens/Pokedex/thumbnails/475.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/475.png",
+        "./Imagens/Pokedex/hires/475.png",
     },
   },
   {
@@ -19323,11 +19323,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/476.png",
+        "./Imagens/Pokedex/sprites/476.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/476.png",
+        "./Imagens/Pokedex/thumbnails/476.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/476.png",
+        "./Imagens/Pokedex/hires/476.png",
     },
   },
   {
@@ -19363,11 +19363,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/477.png",
+        "./Imagens/Pokedex/sprites/477.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/477.png",
+        "./Imagens/Pokedex/thumbnails/477.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/477.png",
+        "./Imagens/Pokedex/hires/477.png",
     },
   },
   {
@@ -19403,11 +19403,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/478.png",
+        "./Imagens/Pokedex/sprites/478.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/478.png",
+        "./Imagens/Pokedex/thumbnails/478.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/478.png",
+        "./Imagens/Pokedex/hires/478.png",
     },
   },
   {
@@ -19440,11 +19440,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/479.png",
+        "./Imagens/Pokedex/sprites/479.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/479.png",
+        "./Imagens/Pokedex/thumbnails/479.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/479.png",
+        "./Imagens/Pokedex/hires/479.png",
     },
   },
   {
@@ -19477,11 +19477,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/480.png",
+        "./Imagens/Pokedex/sprites/480.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/480.png",
+        "./Imagens/Pokedex/thumbnails/480.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/480.png",
+        "./Imagens/Pokedex/hires/480.png",
     },
   },
   {
@@ -19514,11 +19514,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/481.png",
+        "./Imagens/Pokedex/sprites/481.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/481.png",
+        "./Imagens/Pokedex/thumbnails/481.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/481.png",
+        "./Imagens/Pokedex/hires/481.png",
     },
   },
   {
@@ -19551,11 +19551,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/482.png",
+        "./Imagens/Pokedex/sprites/482.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/482.png",
+        "./Imagens/Pokedex/thumbnails/482.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/482.png",
+        "./Imagens/Pokedex/hires/482.png",
     },
   },
   {
@@ -19591,11 +19591,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/483.png",
+        "./Imagens/Pokedex/sprites/483.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/483.png",
+        "./Imagens/Pokedex/thumbnails/483.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/483.png",
+        "./Imagens/Pokedex/hires/483.png",
     },
   },
   {
@@ -19631,11 +19631,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/484.png",
+        "./Imagens/Pokedex/sprites/484.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/484.png",
+        "./Imagens/Pokedex/thumbnails/484.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/484.png",
+        "./Imagens/Pokedex/hires/484.png",
     },
   },
   {
@@ -19671,11 +19671,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/485.png",
+        "./Imagens/Pokedex/sprites/485.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/485.png",
+        "./Imagens/Pokedex/thumbnails/485.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/485.png",
+        "./Imagens/Pokedex/hires/485.png",
     },
   },
   {
@@ -19708,11 +19708,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/486.png",
+        "./Imagens/Pokedex/sprites/486.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/486.png",
+        "./Imagens/Pokedex/thumbnails/486.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/486.png",
+        "./Imagens/Pokedex/hires/486.png",
     },
   },
   {
@@ -19748,11 +19748,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/487.png",
+        "./Imagens/Pokedex/sprites/487.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/487.png",
+        "./Imagens/Pokedex/thumbnails/487.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/487.png",
+        "./Imagens/Pokedex/hires/487.png",
     },
   },
   {
@@ -19785,11 +19785,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/488.png",
+        "./Imagens/Pokedex/sprites/488.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/488.png",
+        "./Imagens/Pokedex/thumbnails/488.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/488.png",
+        "./Imagens/Pokedex/hires/488.png",
     },
   },
   {
@@ -19822,11 +19822,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/489.png",
+        "./Imagens/Pokedex/sprites/489.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/489.png",
+        "./Imagens/Pokedex/thumbnails/489.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/489.png",
+        "./Imagens/Pokedex/hires/489.png",
     },
   },
   {
@@ -19859,11 +19859,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/490.png",
+        "./Imagens/Pokedex/sprites/490.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/490.png",
+        "./Imagens/Pokedex/thumbnails/490.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/490.png",
+        "./Imagens/Pokedex/hires/490.png",
     },
   },
   {
@@ -19896,11 +19896,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/491.png",
+        "./Imagens/Pokedex/sprites/491.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/491.png",
+        "./Imagens/Pokedex/thumbnails/491.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/491.png",
+        "./Imagens/Pokedex/hires/491.png",
     },
   },
   {
@@ -19933,11 +19933,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/492.png",
+        "./Imagens/Pokedex/sprites/492.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/492.png",
+        "./Imagens/Pokedex/thumbnails/492.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/492.png",
+        "./Imagens/Pokedex/hires/492.png",
     },
   },
   {
@@ -19970,11 +19970,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/493.png",
+        "./Imagens/Pokedex/sprites/493.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/493.png",
+        "./Imagens/Pokedex/thumbnails/493.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/493.png",
+        "./Imagens/Pokedex/hires/493.png",
     },
   },
   {
@@ -20007,11 +20007,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/494.png",
+        "./Imagens/Pokedex/sprites/494.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/494.png",
+        "./Imagens/Pokedex/thumbnails/494.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/494.png",
+        "./Imagens/Pokedex/hires/494.png",
     },
   },
   {
@@ -20047,11 +20047,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/495.png",
+        "./Imagens/Pokedex/sprites/495.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/495.png",
+        "./Imagens/Pokedex/thumbnails/495.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/495.png",
+        "./Imagens/Pokedex/hires/495.png",
     },
   },
   {
@@ -20087,11 +20087,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/496.png",
+        "./Imagens/Pokedex/sprites/496.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/496.png",
+        "./Imagens/Pokedex/thumbnails/496.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/496.png",
+        "./Imagens/Pokedex/hires/496.png",
     },
   },
   {
@@ -20127,11 +20127,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/497.png",
+        "./Imagens/Pokedex/sprites/497.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/497.png",
+        "./Imagens/Pokedex/thumbnails/497.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/497.png",
+        "./Imagens/Pokedex/hires/497.png",
     },
   },
   {
@@ -20167,11 +20167,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/498.png",
+        "./Imagens/Pokedex/sprites/498.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/498.png",
+        "./Imagens/Pokedex/thumbnails/498.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/498.png",
+        "./Imagens/Pokedex/hires/498.png",
     },
   },
   {
@@ -20207,11 +20207,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/499.png",
+        "./Imagens/Pokedex/sprites/499.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/499.png",
+        "./Imagens/Pokedex/thumbnails/499.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/499.png",
+        "./Imagens/Pokedex/hires/499.png",
     },
   },
   {
@@ -20247,11 +20247,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/500.png",
+        "./Imagens/Pokedex/sprites/500.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/500.png",
+        "./Imagens/Pokedex/thumbnails/500.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/500.png",
+        "./Imagens/Pokedex/hires/500.png",
     },
   },
   {
@@ -20287,11 +20287,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/501.png",
+        "./Imagens/Pokedex/sprites/501.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/501.png",
+        "./Imagens/Pokedex/thumbnails/501.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/501.png",
+        "./Imagens/Pokedex/hires/501.png",
     },
   },
   {
@@ -20327,11 +20327,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/502.png",
+        "./Imagens/Pokedex/sprites/502.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/502.png",
+        "./Imagens/Pokedex/thumbnails/502.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/502.png",
+        "./Imagens/Pokedex/hires/502.png",
     },
   },
   {
@@ -20367,11 +20367,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/503.png",
+        "./Imagens/Pokedex/sprites/503.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/503.png",
+        "./Imagens/Pokedex/thumbnails/503.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/503.png",
+        "./Imagens/Pokedex/hires/503.png",
     },
   },
   {
@@ -20408,11 +20408,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/504.png",
+        "./Imagens/Pokedex/sprites/504.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/504.png",
+        "./Imagens/Pokedex/thumbnails/504.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/504.png",
+        "./Imagens/Pokedex/hires/504.png",
     },
   },
   {
@@ -20449,11 +20449,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/505.png",
+        "./Imagens/Pokedex/sprites/505.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/505.png",
+        "./Imagens/Pokedex/thumbnails/505.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/505.png",
+        "./Imagens/Pokedex/hires/505.png",
     },
   },
   {
@@ -20490,11 +20490,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/506.png",
+        "./Imagens/Pokedex/sprites/506.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/506.png",
+        "./Imagens/Pokedex/thumbnails/506.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/506.png",
+        "./Imagens/Pokedex/hires/506.png",
     },
   },
   {
@@ -20531,11 +20531,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/507.png",
+        "./Imagens/Pokedex/sprites/507.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/507.png",
+        "./Imagens/Pokedex/thumbnails/507.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/507.png",
+        "./Imagens/Pokedex/hires/507.png",
     },
   },
   {
@@ -20572,11 +20572,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/508.png",
+        "./Imagens/Pokedex/sprites/508.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/508.png",
+        "./Imagens/Pokedex/thumbnails/508.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/508.png",
+        "./Imagens/Pokedex/hires/508.png",
     },
   },
   {
@@ -20613,11 +20613,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/509.png",
+        "./Imagens/Pokedex/sprites/509.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/509.png",
+        "./Imagens/Pokedex/thumbnails/509.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/509.png",
+        "./Imagens/Pokedex/hires/509.png",
     },
   },
   {
@@ -20654,11 +20654,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/510.png",
+        "./Imagens/Pokedex/sprites/510.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/510.png",
+        "./Imagens/Pokedex/thumbnails/510.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/510.png",
+        "./Imagens/Pokedex/hires/510.png",
     },
   },
   {
@@ -20694,11 +20694,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/511.png",
+        "./Imagens/Pokedex/sprites/511.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/511.png",
+        "./Imagens/Pokedex/thumbnails/511.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/511.png",
+        "./Imagens/Pokedex/hires/511.png",
     },
   },
   {
@@ -20734,11 +20734,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/512.png",
+        "./Imagens/Pokedex/sprites/512.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/512.png",
+        "./Imagens/Pokedex/thumbnails/512.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/512.png",
+        "./Imagens/Pokedex/hires/512.png",
     },
   },
   {
@@ -20774,11 +20774,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/513.png",
+        "./Imagens/Pokedex/sprites/513.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/513.png",
+        "./Imagens/Pokedex/thumbnails/513.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/513.png",
+        "./Imagens/Pokedex/hires/513.png",
     },
   },
   {
@@ -20814,11 +20814,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/514.png",
+        "./Imagens/Pokedex/sprites/514.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/514.png",
+        "./Imagens/Pokedex/thumbnails/514.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/514.png",
+        "./Imagens/Pokedex/hires/514.png",
     },
   },
   {
@@ -20854,11 +20854,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/515.png",
+        "./Imagens/Pokedex/sprites/515.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/515.png",
+        "./Imagens/Pokedex/thumbnails/515.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/515.png",
+        "./Imagens/Pokedex/hires/515.png",
     },
   },
   {
@@ -20894,11 +20894,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/516.png",
+        "./Imagens/Pokedex/sprites/516.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/516.png",
+        "./Imagens/Pokedex/thumbnails/516.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/516.png",
+        "./Imagens/Pokedex/hires/516.png",
     },
   },
   {
@@ -20935,11 +20935,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/517.png",
+        "./Imagens/Pokedex/sprites/517.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/517.png",
+        "./Imagens/Pokedex/thumbnails/517.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/517.png",
+        "./Imagens/Pokedex/hires/517.png",
     },
   },
   {
@@ -20976,11 +20976,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/518.png",
+        "./Imagens/Pokedex/sprites/518.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/518.png",
+        "./Imagens/Pokedex/thumbnails/518.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/518.png",
+        "./Imagens/Pokedex/hires/518.png",
     },
   },
   {
@@ -21017,11 +21017,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/519.png",
+        "./Imagens/Pokedex/sprites/519.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/519.png",
+        "./Imagens/Pokedex/thumbnails/519.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/519.png",
+        "./Imagens/Pokedex/hires/519.png",
     },
   },
   {
@@ -21058,11 +21058,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/520.png",
+        "./Imagens/Pokedex/sprites/520.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/520.png",
+        "./Imagens/Pokedex/thumbnails/520.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/520.png",
+        "./Imagens/Pokedex/hires/520.png",
     },
   },
   {
@@ -21099,11 +21099,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/521.png",
+        "./Imagens/Pokedex/sprites/521.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/521.png",
+        "./Imagens/Pokedex/thumbnails/521.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/521.png",
+        "./Imagens/Pokedex/hires/521.png",
     },
   },
   {
@@ -21140,11 +21140,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/522.png",
+        "./Imagens/Pokedex/sprites/522.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/522.png",
+        "./Imagens/Pokedex/thumbnails/522.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/522.png",
+        "./Imagens/Pokedex/hires/522.png",
     },
   },
   {
@@ -21181,11 +21181,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/523.png",
+        "./Imagens/Pokedex/sprites/523.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/523.png",
+        "./Imagens/Pokedex/thumbnails/523.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/523.png",
+        "./Imagens/Pokedex/hires/523.png",
     },
   },
   {
@@ -21222,11 +21222,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/524.png",
+        "./Imagens/Pokedex/sprites/524.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/524.png",
+        "./Imagens/Pokedex/thumbnails/524.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/524.png",
+        "./Imagens/Pokedex/hires/524.png",
     },
   },
   {
@@ -21263,11 +21263,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/525.png",
+        "./Imagens/Pokedex/sprites/525.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/525.png",
+        "./Imagens/Pokedex/thumbnails/525.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/525.png",
+        "./Imagens/Pokedex/hires/525.png",
     },
   },
   {
@@ -21304,11 +21304,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/526.png",
+        "./Imagens/Pokedex/sprites/526.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/526.png",
+        "./Imagens/Pokedex/thumbnails/526.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/526.png",
+        "./Imagens/Pokedex/hires/526.png",
     },
   },
   {
@@ -21345,11 +21345,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/527.png",
+        "./Imagens/Pokedex/sprites/527.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/527.png",
+        "./Imagens/Pokedex/thumbnails/527.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/527.png",
+        "./Imagens/Pokedex/hires/527.png",
     },
   },
   {
@@ -21386,11 +21386,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/528.png",
+        "./Imagens/Pokedex/sprites/528.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/528.png",
+        "./Imagens/Pokedex/thumbnails/528.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/528.png",
+        "./Imagens/Pokedex/hires/528.png",
     },
   },
   {
@@ -21427,11 +21427,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/529.png",
+        "./Imagens/Pokedex/sprites/529.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/529.png",
+        "./Imagens/Pokedex/thumbnails/529.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/529.png",
+        "./Imagens/Pokedex/hires/529.png",
     },
   },
   {
@@ -21468,11 +21468,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/530.png",
+        "./Imagens/Pokedex/sprites/530.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/530.png",
+        "./Imagens/Pokedex/thumbnails/530.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/530.png",
+        "./Imagens/Pokedex/hires/530.png",
     },
   },
   {
@@ -21509,11 +21509,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/531.png",
+        "./Imagens/Pokedex/sprites/531.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/531.png",
+        "./Imagens/Pokedex/thumbnails/531.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/531.png",
+        "./Imagens/Pokedex/hires/531.png",
     },
   },
   {
@@ -21550,11 +21550,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/532.png",
+        "./Imagens/Pokedex/sprites/532.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/532.png",
+        "./Imagens/Pokedex/thumbnails/532.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/532.png",
+        "./Imagens/Pokedex/hires/532.png",
     },
   },
   {
@@ -21591,11 +21591,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/533.png",
+        "./Imagens/Pokedex/sprites/533.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/533.png",
+        "./Imagens/Pokedex/thumbnails/533.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/533.png",
+        "./Imagens/Pokedex/hires/533.png",
     },
   },
   {
@@ -21632,11 +21632,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/534.png",
+        "./Imagens/Pokedex/sprites/534.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/534.png",
+        "./Imagens/Pokedex/thumbnails/534.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/534.png",
+        "./Imagens/Pokedex/hires/534.png",
     },
   },
   {
@@ -21673,11 +21673,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/535.png",
+        "./Imagens/Pokedex/sprites/535.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/535.png",
+        "./Imagens/Pokedex/thumbnails/535.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/535.png",
+        "./Imagens/Pokedex/hires/535.png",
     },
   },
   {
@@ -21714,11 +21714,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/536.png",
+        "./Imagens/Pokedex/sprites/536.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/536.png",
+        "./Imagens/Pokedex/thumbnails/536.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/536.png",
+        "./Imagens/Pokedex/hires/536.png",
     },
   },
   {
@@ -21755,11 +21755,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/537.png",
+        "./Imagens/Pokedex/sprites/537.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/537.png",
+        "./Imagens/Pokedex/thumbnails/537.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/537.png",
+        "./Imagens/Pokedex/hires/537.png",
     },
   },
   {
@@ -21796,11 +21796,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/538.png",
+        "./Imagens/Pokedex/sprites/538.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/538.png",
+        "./Imagens/Pokedex/thumbnails/538.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/538.png",
+        "./Imagens/Pokedex/hires/538.png",
     },
   },
   {
@@ -21837,11 +21837,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/539.png",
+        "./Imagens/Pokedex/sprites/539.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/539.png",
+        "./Imagens/Pokedex/thumbnails/539.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/539.png",
+        "./Imagens/Pokedex/hires/539.png",
     },
   },
   {
@@ -21878,11 +21878,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/540.png",
+        "./Imagens/Pokedex/sprites/540.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/540.png",
+        "./Imagens/Pokedex/thumbnails/540.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/540.png",
+        "./Imagens/Pokedex/hires/540.png",
     },
   },
   {
@@ -21922,11 +21922,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/541.png",
+        "./Imagens/Pokedex/sprites/541.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/541.png",
+        "./Imagens/Pokedex/thumbnails/541.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/541.png",
+        "./Imagens/Pokedex/hires/541.png",
     },
   },
   {
@@ -21963,11 +21963,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/542.png",
+        "./Imagens/Pokedex/sprites/542.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/542.png",
+        "./Imagens/Pokedex/thumbnails/542.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/542.png",
+        "./Imagens/Pokedex/hires/542.png",
     },
   },
   {
@@ -22004,11 +22004,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/543.png",
+        "./Imagens/Pokedex/sprites/543.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/543.png",
+        "./Imagens/Pokedex/thumbnails/543.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/543.png",
+        "./Imagens/Pokedex/hires/543.png",
     },
   },
   {
@@ -22045,11 +22045,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/544.png",
+        "./Imagens/Pokedex/sprites/544.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/544.png",
+        "./Imagens/Pokedex/thumbnails/544.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/544.png",
+        "./Imagens/Pokedex/hires/544.png",
     },
   },
   {
@@ -22086,11 +22086,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/545.png",
+        "./Imagens/Pokedex/sprites/545.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/545.png",
+        "./Imagens/Pokedex/thumbnails/545.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/545.png",
+        "./Imagens/Pokedex/hires/545.png",
     },
   },
   {
@@ -22127,11 +22127,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/546.png",
+        "./Imagens/Pokedex/sprites/546.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/546.png",
+        "./Imagens/Pokedex/thumbnails/546.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/546.png",
+        "./Imagens/Pokedex/hires/546.png",
     },
   },
   {
@@ -22168,11 +22168,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/547.png",
+        "./Imagens/Pokedex/sprites/547.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/547.png",
+        "./Imagens/Pokedex/thumbnails/547.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/547.png",
+        "./Imagens/Pokedex/hires/547.png",
     },
   },
   {
@@ -22209,11 +22209,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/548.png",
+        "./Imagens/Pokedex/sprites/548.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/548.png",
+        "./Imagens/Pokedex/thumbnails/548.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/548.png",
+        "./Imagens/Pokedex/hires/548.png",
     },
   },
   {
@@ -22250,11 +22250,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/549.png",
+        "./Imagens/Pokedex/sprites/549.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/549.png",
+        "./Imagens/Pokedex/thumbnails/549.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/549.png",
+        "./Imagens/Pokedex/hires/549.png",
     },
   },
   {
@@ -22291,11 +22291,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/550.png",
+        "./Imagens/Pokedex/sprites/550.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/550.png",
+        "./Imagens/Pokedex/thumbnails/550.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/550.png",
+        "./Imagens/Pokedex/hires/550.png",
     },
   },
   {
@@ -22332,11 +22332,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/551.png",
+        "./Imagens/Pokedex/sprites/551.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/551.png",
+        "./Imagens/Pokedex/thumbnails/551.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/551.png",
+        "./Imagens/Pokedex/hires/551.png",
     },
   },
   {
@@ -22373,11 +22373,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/552.png",
+        "./Imagens/Pokedex/sprites/552.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/552.png",
+        "./Imagens/Pokedex/thumbnails/552.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/552.png",
+        "./Imagens/Pokedex/hires/552.png",
     },
   },
   {
@@ -22414,11 +22414,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/553.png",
+        "./Imagens/Pokedex/sprites/553.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/553.png",
+        "./Imagens/Pokedex/thumbnails/553.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/553.png",
+        "./Imagens/Pokedex/hires/553.png",
     },
   },
   {
@@ -22454,11 +22454,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/554.png",
+        "./Imagens/Pokedex/sprites/554.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/554.png",
+        "./Imagens/Pokedex/thumbnails/554.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/554.png",
+        "./Imagens/Pokedex/hires/554.png",
     },
   },
   {
@@ -22494,11 +22494,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/555.png",
+        "./Imagens/Pokedex/sprites/555.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/555.png",
+        "./Imagens/Pokedex/thumbnails/555.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/555.png",
+        "./Imagens/Pokedex/hires/555.png",
     },
   },
   {
@@ -22535,11 +22535,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/556.png",
+        "./Imagens/Pokedex/sprites/556.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/556.png",
+        "./Imagens/Pokedex/thumbnails/556.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/556.png",
+        "./Imagens/Pokedex/hires/556.png",
     },
   },
   {
@@ -22576,11 +22576,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/557.png",
+        "./Imagens/Pokedex/sprites/557.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/557.png",
+        "./Imagens/Pokedex/thumbnails/557.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/557.png",
+        "./Imagens/Pokedex/hires/557.png",
     },
   },
   {
@@ -22617,11 +22617,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/558.png",
+        "./Imagens/Pokedex/sprites/558.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/558.png",
+        "./Imagens/Pokedex/thumbnails/558.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/558.png",
+        "./Imagens/Pokedex/hires/558.png",
     },
   },
   {
@@ -22658,11 +22658,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/559.png",
+        "./Imagens/Pokedex/sprites/559.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/559.png",
+        "./Imagens/Pokedex/thumbnails/559.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/559.png",
+        "./Imagens/Pokedex/hires/559.png",
     },
   },
   {
@@ -22699,11 +22699,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/560.png",
+        "./Imagens/Pokedex/sprites/560.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/560.png",
+        "./Imagens/Pokedex/thumbnails/560.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/560.png",
+        "./Imagens/Pokedex/hires/560.png",
     },
   },
   {
@@ -22740,11 +22740,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/561.png",
+        "./Imagens/Pokedex/sprites/561.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/561.png",
+        "./Imagens/Pokedex/thumbnails/561.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/561.png",
+        "./Imagens/Pokedex/hires/561.png",
     },
   },
   {
@@ -22777,11 +22777,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/562.png",
+        "./Imagens/Pokedex/sprites/562.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/562.png",
+        "./Imagens/Pokedex/thumbnails/562.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/562.png",
+        "./Imagens/Pokedex/hires/562.png",
     },
   },
   {
@@ -22814,11 +22814,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/563.png",
+        "./Imagens/Pokedex/sprites/563.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/563.png",
+        "./Imagens/Pokedex/thumbnails/563.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/563.png",
+        "./Imagens/Pokedex/hires/563.png",
     },
   },
   {
@@ -22855,11 +22855,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/564.png",
+        "./Imagens/Pokedex/sprites/564.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/564.png",
+        "./Imagens/Pokedex/thumbnails/564.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/564.png",
+        "./Imagens/Pokedex/hires/564.png",
     },
   },
   {
@@ -22896,11 +22896,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/565.png",
+        "./Imagens/Pokedex/sprites/565.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/565.png",
+        "./Imagens/Pokedex/thumbnails/565.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/565.png",
+        "./Imagens/Pokedex/hires/565.png",
     },
   },
   {
@@ -22933,11 +22933,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/566.png",
+        "./Imagens/Pokedex/sprites/566.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/566.png",
+        "./Imagens/Pokedex/thumbnails/566.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/566.png",
+        "./Imagens/Pokedex/hires/566.png",
     },
   },
   {
@@ -22970,11 +22970,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/567.png",
+        "./Imagens/Pokedex/sprites/567.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/567.png",
+        "./Imagens/Pokedex/thumbnails/567.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/567.png",
+        "./Imagens/Pokedex/hires/567.png",
     },
   },
   {
@@ -23011,11 +23011,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/568.png",
+        "./Imagens/Pokedex/sprites/568.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/568.png",
+        "./Imagens/Pokedex/thumbnails/568.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/568.png",
+        "./Imagens/Pokedex/hires/568.png",
     },
   },
   {
@@ -23052,11 +23052,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/569.png",
+        "./Imagens/Pokedex/sprites/569.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/569.png",
+        "./Imagens/Pokedex/thumbnails/569.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/569.png",
+        "./Imagens/Pokedex/hires/569.png",
     },
   },
   {
@@ -23089,11 +23089,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/570.png",
+        "./Imagens/Pokedex/sprites/570.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/570.png",
+        "./Imagens/Pokedex/thumbnails/570.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/570.png",
+        "./Imagens/Pokedex/hires/570.png",
     },
   },
   {
@@ -23126,11 +23126,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/571.png",
+        "./Imagens/Pokedex/sprites/571.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/571.png",
+        "./Imagens/Pokedex/thumbnails/571.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/571.png",
+        "./Imagens/Pokedex/hires/571.png",
     },
   },
   {
@@ -23167,11 +23167,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/572.png",
+        "./Imagens/Pokedex/sprites/572.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/572.png",
+        "./Imagens/Pokedex/thumbnails/572.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/572.png",
+        "./Imagens/Pokedex/hires/572.png",
     },
   },
   {
@@ -23208,11 +23208,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/573.png",
+        "./Imagens/Pokedex/sprites/573.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/573.png",
+        "./Imagens/Pokedex/thumbnails/573.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/573.png",
+        "./Imagens/Pokedex/hires/573.png",
     },
   },
   {
@@ -23249,11 +23249,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/574.png",
+        "./Imagens/Pokedex/sprites/574.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/574.png",
+        "./Imagens/Pokedex/thumbnails/574.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/574.png",
+        "./Imagens/Pokedex/hires/574.png",
     },
   },
   {
@@ -23290,11 +23290,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/575.png",
+        "./Imagens/Pokedex/sprites/575.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/575.png",
+        "./Imagens/Pokedex/thumbnails/575.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/575.png",
+        "./Imagens/Pokedex/hires/575.png",
     },
   },
   {
@@ -23331,11 +23331,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/576.png",
+        "./Imagens/Pokedex/sprites/576.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/576.png",
+        "./Imagens/Pokedex/thumbnails/576.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/576.png",
+        "./Imagens/Pokedex/hires/576.png",
     },
   },
   {
@@ -23372,11 +23372,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/577.png",
+        "./Imagens/Pokedex/sprites/577.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/577.png",
+        "./Imagens/Pokedex/thumbnails/577.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/577.png",
+        "./Imagens/Pokedex/hires/577.png",
     },
   },
   {
@@ -23413,11 +23413,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/578.png",
+        "./Imagens/Pokedex/sprites/578.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/578.png",
+        "./Imagens/Pokedex/thumbnails/578.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/578.png",
+        "./Imagens/Pokedex/hires/578.png",
     },
   },
   {
@@ -23454,11 +23454,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/579.png",
+        "./Imagens/Pokedex/sprites/579.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/579.png",
+        "./Imagens/Pokedex/thumbnails/579.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/579.png",
+        "./Imagens/Pokedex/hires/579.png",
     },
   },
   {
@@ -23495,11 +23495,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/580.png",
+        "./Imagens/Pokedex/sprites/580.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/580.png",
+        "./Imagens/Pokedex/thumbnails/580.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/580.png",
+        "./Imagens/Pokedex/hires/580.png",
     },
   },
   {
@@ -23536,11 +23536,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/581.png",
+        "./Imagens/Pokedex/sprites/581.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/581.png",
+        "./Imagens/Pokedex/thumbnails/581.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/581.png",
+        "./Imagens/Pokedex/hires/581.png",
     },
   },
   {
@@ -23577,11 +23577,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/582.png",
+        "./Imagens/Pokedex/sprites/582.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/582.png",
+        "./Imagens/Pokedex/thumbnails/582.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/582.png",
+        "./Imagens/Pokedex/hires/582.png",
     },
   },
   {
@@ -23618,11 +23618,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/583.png",
+        "./Imagens/Pokedex/sprites/583.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/583.png",
+        "./Imagens/Pokedex/thumbnails/583.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/583.png",
+        "./Imagens/Pokedex/hires/583.png",
     },
   },
   {
@@ -23659,11 +23659,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/584.png",
+        "./Imagens/Pokedex/sprites/584.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/584.png",
+        "./Imagens/Pokedex/thumbnails/584.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/584.png",
+        "./Imagens/Pokedex/hires/584.png",
     },
   },
   {
@@ -23700,11 +23700,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/585.png",
+        "./Imagens/Pokedex/sprites/585.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/585.png",
+        "./Imagens/Pokedex/thumbnails/585.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/585.png",
+        "./Imagens/Pokedex/hires/585.png",
     },
   },
   {
@@ -23741,11 +23741,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/586.png",
+        "./Imagens/Pokedex/sprites/586.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/586.png",
+        "./Imagens/Pokedex/thumbnails/586.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/586.png",
+        "./Imagens/Pokedex/hires/586.png",
     },
   },
   {
@@ -23781,11 +23781,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/587.png",
+        "./Imagens/Pokedex/sprites/587.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/587.png",
+        "./Imagens/Pokedex/thumbnails/587.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/587.png",
+        "./Imagens/Pokedex/hires/587.png",
     },
   },
   {
@@ -23822,11 +23822,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/588.png",
+        "./Imagens/Pokedex/sprites/588.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/588.png",
+        "./Imagens/Pokedex/thumbnails/588.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/588.png",
+        "./Imagens/Pokedex/hires/588.png",
     },
   },
   {
@@ -23863,11 +23863,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/589.png",
+        "./Imagens/Pokedex/sprites/589.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/589.png",
+        "./Imagens/Pokedex/thumbnails/589.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/589.png",
+        "./Imagens/Pokedex/hires/589.png",
     },
   },
   {
@@ -23903,11 +23903,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/590.png",
+        "./Imagens/Pokedex/sprites/590.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/590.png",
+        "./Imagens/Pokedex/thumbnails/590.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/590.png",
+        "./Imagens/Pokedex/hires/590.png",
     },
   },
   {
@@ -23943,11 +23943,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/591.png",
+        "./Imagens/Pokedex/sprites/591.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/591.png",
+        "./Imagens/Pokedex/thumbnails/591.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/591.png",
+        "./Imagens/Pokedex/hires/591.png",
     },
   },
   {
@@ -23984,11 +23984,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/592.png",
+        "./Imagens/Pokedex/sprites/592.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/592.png",
+        "./Imagens/Pokedex/thumbnails/592.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/592.png",
+        "./Imagens/Pokedex/hires/592.png",
     },
   },
   {
@@ -24025,11 +24025,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/593.png",
+        "./Imagens/Pokedex/sprites/593.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/593.png",
+        "./Imagens/Pokedex/thumbnails/593.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/593.png",
+        "./Imagens/Pokedex/hires/593.png",
     },
   },
   {
@@ -24066,11 +24066,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/594.png",
+        "./Imagens/Pokedex/sprites/594.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/594.png",
+        "./Imagens/Pokedex/thumbnails/594.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/594.png",
+        "./Imagens/Pokedex/hires/594.png",
     },
   },
   {
@@ -24107,11 +24107,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/595.png",
+        "./Imagens/Pokedex/sprites/595.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/595.png",
+        "./Imagens/Pokedex/thumbnails/595.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/595.png",
+        "./Imagens/Pokedex/hires/595.png",
     },
   },
   {
@@ -24148,11 +24148,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/596.png",
+        "./Imagens/Pokedex/sprites/596.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/596.png",
+        "./Imagens/Pokedex/thumbnails/596.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/596.png",
+        "./Imagens/Pokedex/hires/596.png",
     },
   },
   {
@@ -24185,11 +24185,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/597.png",
+        "./Imagens/Pokedex/sprites/597.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/597.png",
+        "./Imagens/Pokedex/thumbnails/597.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/597.png",
+        "./Imagens/Pokedex/hires/597.png",
     },
   },
   {
@@ -24225,11 +24225,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/598.png",
+        "./Imagens/Pokedex/sprites/598.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/598.png",
+        "./Imagens/Pokedex/thumbnails/598.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/598.png",
+        "./Imagens/Pokedex/hires/598.png",
     },
   },
   {
@@ -24266,11 +24266,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/599.png",
+        "./Imagens/Pokedex/sprites/599.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/599.png",
+        "./Imagens/Pokedex/thumbnails/599.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/599.png",
+        "./Imagens/Pokedex/hires/599.png",
     },
   },
   {
@@ -24307,11 +24307,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/600.png",
+        "./Imagens/Pokedex/sprites/600.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/600.png",
+        "./Imagens/Pokedex/thumbnails/600.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/600.png",
+        "./Imagens/Pokedex/hires/600.png",
     },
   },
   {
@@ -24348,11 +24348,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/601.png",
+        "./Imagens/Pokedex/sprites/601.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/601.png",
+        "./Imagens/Pokedex/thumbnails/601.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/601.png",
+        "./Imagens/Pokedex/hires/601.png",
     },
   },
   {
@@ -24385,11 +24385,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/602.png",
+        "./Imagens/Pokedex/sprites/602.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/602.png",
+        "./Imagens/Pokedex/thumbnails/602.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/602.png",
+        "./Imagens/Pokedex/hires/602.png",
     },
   },
   {
@@ -24425,11 +24425,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/603.png",
+        "./Imagens/Pokedex/sprites/603.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/603.png",
+        "./Imagens/Pokedex/thumbnails/603.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/603.png",
+        "./Imagens/Pokedex/hires/603.png",
     },
   },
   {
@@ -24462,11 +24462,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/604.png",
+        "./Imagens/Pokedex/sprites/604.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/604.png",
+        "./Imagens/Pokedex/thumbnails/604.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/604.png",
+        "./Imagens/Pokedex/hires/604.png",
     },
   },
   {
@@ -24503,11 +24503,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/605.png",
+        "./Imagens/Pokedex/sprites/605.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/605.png",
+        "./Imagens/Pokedex/thumbnails/605.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/605.png",
+        "./Imagens/Pokedex/hires/605.png",
     },
   },
   {
@@ -24544,11 +24544,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/606.png",
+        "./Imagens/Pokedex/sprites/606.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/606.png",
+        "./Imagens/Pokedex/thumbnails/606.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/606.png",
+        "./Imagens/Pokedex/hires/606.png",
     },
   },
   {
@@ -24585,11 +24585,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/607.png",
+        "./Imagens/Pokedex/sprites/607.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/607.png",
+        "./Imagens/Pokedex/thumbnails/607.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/607.png",
+        "./Imagens/Pokedex/hires/607.png",
     },
   },
   {
@@ -24629,11 +24629,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/608.png",
+        "./Imagens/Pokedex/sprites/608.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/608.png",
+        "./Imagens/Pokedex/thumbnails/608.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/608.png",
+        "./Imagens/Pokedex/hires/608.png",
     },
   },
   {
@@ -24670,11 +24670,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/609.png",
+        "./Imagens/Pokedex/sprites/609.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/609.png",
+        "./Imagens/Pokedex/thumbnails/609.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/609.png",
+        "./Imagens/Pokedex/hires/609.png",
     },
   },
   {
@@ -24711,11 +24711,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/610.png",
+        "./Imagens/Pokedex/sprites/610.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/610.png",
+        "./Imagens/Pokedex/thumbnails/610.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/610.png",
+        "./Imagens/Pokedex/hires/610.png",
     },
   },
   {
@@ -24752,11 +24752,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/611.png",
+        "./Imagens/Pokedex/sprites/611.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/611.png",
+        "./Imagens/Pokedex/thumbnails/611.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/611.png",
+        "./Imagens/Pokedex/hires/611.png",
     },
   },
   {
@@ -24793,11 +24793,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/612.png",
+        "./Imagens/Pokedex/sprites/612.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/612.png",
+        "./Imagens/Pokedex/thumbnails/612.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/612.png",
+        "./Imagens/Pokedex/hires/612.png",
     },
   },
   {
@@ -24834,11 +24834,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/613.png",
+        "./Imagens/Pokedex/sprites/613.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/613.png",
+        "./Imagens/Pokedex/thumbnails/613.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/613.png",
+        "./Imagens/Pokedex/hires/613.png",
     },
   },
   {
@@ -24875,11 +24875,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/614.png",
+        "./Imagens/Pokedex/sprites/614.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/614.png",
+        "./Imagens/Pokedex/thumbnails/614.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/614.png",
+        "./Imagens/Pokedex/hires/614.png",
     },
   },
   {
@@ -24912,11 +24912,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/615.png",
+        "./Imagens/Pokedex/sprites/615.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/615.png",
+        "./Imagens/Pokedex/thumbnails/615.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/615.png",
+        "./Imagens/Pokedex/hires/615.png",
     },
   },
   {
@@ -24953,11 +24953,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/616.png",
+        "./Imagens/Pokedex/sprites/616.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/616.png",
+        "./Imagens/Pokedex/thumbnails/616.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/616.png",
+        "./Imagens/Pokedex/hires/616.png",
     },
   },
   {
@@ -24994,11 +24994,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/617.png",
+        "./Imagens/Pokedex/sprites/617.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/617.png",
+        "./Imagens/Pokedex/thumbnails/617.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/617.png",
+        "./Imagens/Pokedex/hires/617.png",
     },
   },
   {
@@ -25035,11 +25035,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/618.png",
+        "./Imagens/Pokedex/sprites/618.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/618.png",
+        "./Imagens/Pokedex/thumbnails/618.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/618.png",
+        "./Imagens/Pokedex/hires/618.png",
     },
   },
   {
@@ -25076,11 +25076,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/619.png",
+        "./Imagens/Pokedex/sprites/619.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/619.png",
+        "./Imagens/Pokedex/thumbnails/619.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/619.png",
+        "./Imagens/Pokedex/hires/619.png",
     },
   },
   {
@@ -25117,11 +25117,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/620.png",
+        "./Imagens/Pokedex/sprites/620.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/620.png",
+        "./Imagens/Pokedex/thumbnails/620.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/620.png",
+        "./Imagens/Pokedex/hires/620.png",
     },
   },
   {
@@ -25158,11 +25158,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/621.png",
+        "./Imagens/Pokedex/sprites/621.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/621.png",
+        "./Imagens/Pokedex/thumbnails/621.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/621.png",
+        "./Imagens/Pokedex/hires/621.png",
     },
   },
   {
@@ -25199,11 +25199,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/622.png",
+        "./Imagens/Pokedex/sprites/622.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/622.png",
+        "./Imagens/Pokedex/thumbnails/622.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/622.png",
+        "./Imagens/Pokedex/hires/622.png",
     },
   },
   {
@@ -25240,11 +25240,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/623.png",
+        "./Imagens/Pokedex/sprites/623.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/623.png",
+        "./Imagens/Pokedex/thumbnails/623.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/623.png",
+        "./Imagens/Pokedex/hires/623.png",
     },
   },
   {
@@ -25281,11 +25281,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/624.png",
+        "./Imagens/Pokedex/sprites/624.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/624.png",
+        "./Imagens/Pokedex/thumbnails/624.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/624.png",
+        "./Imagens/Pokedex/hires/624.png",
     },
   },
   {
@@ -25322,11 +25322,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/625.png",
+        "./Imagens/Pokedex/sprites/625.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/625.png",
+        "./Imagens/Pokedex/thumbnails/625.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/625.png",
+        "./Imagens/Pokedex/hires/625.png",
     },
   },
   {
@@ -25363,11 +25363,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/626.png",
+        "./Imagens/Pokedex/sprites/626.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/626.png",
+        "./Imagens/Pokedex/thumbnails/626.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/626.png",
+        "./Imagens/Pokedex/hires/626.png",
     },
   },
   {
@@ -25404,11 +25404,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/627.png",
+        "./Imagens/Pokedex/sprites/627.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/627.png",
+        "./Imagens/Pokedex/thumbnails/627.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/627.png",
+        "./Imagens/Pokedex/hires/627.png",
     },
   },
   {
@@ -25445,11 +25445,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/628.png",
+        "./Imagens/Pokedex/sprites/628.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/628.png",
+        "./Imagens/Pokedex/thumbnails/628.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/628.png",
+        "./Imagens/Pokedex/hires/628.png",
     },
   },
   {
@@ -25486,11 +25486,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/629.png",
+        "./Imagens/Pokedex/sprites/629.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/629.png",
+        "./Imagens/Pokedex/thumbnails/629.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/629.png",
+        "./Imagens/Pokedex/hires/629.png",
     },
   },
   {
@@ -25527,11 +25527,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/630.png",
+        "./Imagens/Pokedex/sprites/630.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/630.png",
+        "./Imagens/Pokedex/thumbnails/630.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/630.png",
+        "./Imagens/Pokedex/hires/630.png",
     },
   },
   {
@@ -25568,11 +25568,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/631.png",
+        "./Imagens/Pokedex/sprites/631.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/631.png",
+        "./Imagens/Pokedex/thumbnails/631.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/631.png",
+        "./Imagens/Pokedex/hires/631.png",
     },
   },
   {
@@ -25609,11 +25609,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/632.png",
+        "./Imagens/Pokedex/sprites/632.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/632.png",
+        "./Imagens/Pokedex/thumbnails/632.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/632.png",
+        "./Imagens/Pokedex/hires/632.png",
     },
   },
   {
@@ -25646,11 +25646,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/633.png",
+        "./Imagens/Pokedex/sprites/633.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/633.png",
+        "./Imagens/Pokedex/thumbnails/633.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/633.png",
+        "./Imagens/Pokedex/hires/633.png",
     },
   },
   {
@@ -25683,11 +25683,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/634.png",
+        "./Imagens/Pokedex/sprites/634.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/634.png",
+        "./Imagens/Pokedex/thumbnails/634.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/634.png",
+        "./Imagens/Pokedex/hires/634.png",
     },
   },
   {
@@ -25720,11 +25720,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/635.png",
+        "./Imagens/Pokedex/sprites/635.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/635.png",
+        "./Imagens/Pokedex/thumbnails/635.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/635.png",
+        "./Imagens/Pokedex/hires/635.png",
     },
   },
   {
@@ -25760,11 +25760,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/636.png",
+        "./Imagens/Pokedex/sprites/636.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/636.png",
+        "./Imagens/Pokedex/thumbnails/636.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/636.png",
+        "./Imagens/Pokedex/hires/636.png",
     },
   },
   {
@@ -25800,11 +25800,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/637.png",
+        "./Imagens/Pokedex/sprites/637.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/637.png",
+        "./Imagens/Pokedex/thumbnails/637.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/637.png",
+        "./Imagens/Pokedex/hires/637.png",
     },
   },
   {
@@ -25837,11 +25837,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/638.png",
+        "./Imagens/Pokedex/sprites/638.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/638.png",
+        "./Imagens/Pokedex/thumbnails/638.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/638.png",
+        "./Imagens/Pokedex/hires/638.png",
     },
   },
   {
@@ -25874,11 +25874,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/639.png",
+        "./Imagens/Pokedex/sprites/639.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/639.png",
+        "./Imagens/Pokedex/thumbnails/639.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/639.png",
+        "./Imagens/Pokedex/hires/639.png",
     },
   },
   {
@@ -25911,11 +25911,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/640.png",
+        "./Imagens/Pokedex/sprites/640.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/640.png",
+        "./Imagens/Pokedex/thumbnails/640.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/640.png",
+        "./Imagens/Pokedex/hires/640.png",
     },
   },
   {
@@ -25951,11 +25951,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/641.png",
+        "./Imagens/Pokedex/sprites/641.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/641.png",
+        "./Imagens/Pokedex/thumbnails/641.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/641.png",
+        "./Imagens/Pokedex/hires/641.png",
     },
   },
   {
@@ -25991,11 +25991,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/642.png",
+        "./Imagens/Pokedex/sprites/642.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/642.png",
+        "./Imagens/Pokedex/thumbnails/642.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/642.png",
+        "./Imagens/Pokedex/hires/642.png",
     },
   },
   {
@@ -26028,11 +26028,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/643.png",
+        "./Imagens/Pokedex/sprites/643.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/643.png",
+        "./Imagens/Pokedex/thumbnails/643.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/643.png",
+        "./Imagens/Pokedex/hires/643.png",
     },
   },
   {
@@ -26065,11 +26065,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/644.png",
+        "./Imagens/Pokedex/sprites/644.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/644.png",
+        "./Imagens/Pokedex/thumbnails/644.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/644.png",
+        "./Imagens/Pokedex/hires/644.png",
     },
   },
   {
@@ -26105,11 +26105,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/645.png",
+        "./Imagens/Pokedex/sprites/645.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/645.png",
+        "./Imagens/Pokedex/thumbnails/645.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/645.png",
+        "./Imagens/Pokedex/hires/645.png",
     },
   },
   {
@@ -26142,11 +26142,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/646.png",
+        "./Imagens/Pokedex/sprites/646.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/646.png",
+        "./Imagens/Pokedex/thumbnails/646.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/646.png",
+        "./Imagens/Pokedex/hires/646.png",
     },
   },
   {
@@ -26179,11 +26179,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/647.png",
+        "./Imagens/Pokedex/sprites/647.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/647.png",
+        "./Imagens/Pokedex/thumbnails/647.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/647.png",
+        "./Imagens/Pokedex/hires/647.png",
     },
   },
   {
@@ -26216,11 +26216,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/648.png",
+        "./Imagens/Pokedex/sprites/648.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/648.png",
+        "./Imagens/Pokedex/thumbnails/648.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/648.png",
+        "./Imagens/Pokedex/hires/648.png",
     },
   },
   {
@@ -26253,11 +26253,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/649.png",
+        "./Imagens/Pokedex/sprites/649.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/649.png",
+        "./Imagens/Pokedex/thumbnails/649.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/649.png",
+        "./Imagens/Pokedex/hires/649.png",
     },
   },
   {
@@ -26293,11 +26293,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/650.png",
+        "./Imagens/Pokedex/sprites/650.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/650.png",
+        "./Imagens/Pokedex/thumbnails/650.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/650.png",
+        "./Imagens/Pokedex/hires/650.png",
     },
   },
   {
@@ -26333,11 +26333,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/651.png",
+        "./Imagens/Pokedex/sprites/651.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/651.png",
+        "./Imagens/Pokedex/thumbnails/651.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/651.png",
+        "./Imagens/Pokedex/hires/651.png",
     },
   },
   {
@@ -26373,11 +26373,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/652.png",
+        "./Imagens/Pokedex/sprites/652.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/652.png",
+        "./Imagens/Pokedex/thumbnails/652.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/652.png",
+        "./Imagens/Pokedex/hires/652.png",
     },
   },
   {
@@ -26413,11 +26413,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/653.png",
+        "./Imagens/Pokedex/sprites/653.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/653.png",
+        "./Imagens/Pokedex/thumbnails/653.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/653.png",
+        "./Imagens/Pokedex/hires/653.png",
     },
   },
   {
@@ -26453,11 +26453,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/654.png",
+        "./Imagens/Pokedex/sprites/654.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/654.png",
+        "./Imagens/Pokedex/thumbnails/654.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/654.png",
+        "./Imagens/Pokedex/hires/654.png",
     },
   },
   {
@@ -26493,11 +26493,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/655.png",
+        "./Imagens/Pokedex/sprites/655.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/655.png",
+        "./Imagens/Pokedex/thumbnails/655.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/655.png",
+        "./Imagens/Pokedex/hires/655.png",
     },
   },
   {
@@ -26533,11 +26533,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/656.png",
+        "./Imagens/Pokedex/sprites/656.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/656.png",
+        "./Imagens/Pokedex/thumbnails/656.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/656.png",
+        "./Imagens/Pokedex/hires/656.png",
     },
   },
   {
@@ -26573,11 +26573,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/657.png",
+        "./Imagens/Pokedex/sprites/657.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/657.png",
+        "./Imagens/Pokedex/thumbnails/657.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/657.png",
+        "./Imagens/Pokedex/hires/657.png",
     },
   },
   {
@@ -26613,11 +26613,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/658.png",
+        "./Imagens/Pokedex/sprites/658.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/658.png",
+        "./Imagens/Pokedex/thumbnails/658.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/658.png",
+        "./Imagens/Pokedex/hires/658.png",
     },
   },
   {
@@ -26654,11 +26654,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/659.png",
+        "./Imagens/Pokedex/sprites/659.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/659.png",
+        "./Imagens/Pokedex/thumbnails/659.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/659.png",
+        "./Imagens/Pokedex/hires/659.png",
     },
   },
   {
@@ -26695,11 +26695,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/660.png",
+        "./Imagens/Pokedex/sprites/660.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/660.png",
+        "./Imagens/Pokedex/thumbnails/660.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/660.png",
+        "./Imagens/Pokedex/hires/660.png",
     },
   },
   {
@@ -26735,11 +26735,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/661.png",
+        "./Imagens/Pokedex/sprites/661.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/661.png",
+        "./Imagens/Pokedex/thumbnails/661.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/661.png",
+        "./Imagens/Pokedex/hires/661.png",
     },
   },
   {
@@ -26775,11 +26775,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/662.png",
+        "./Imagens/Pokedex/sprites/662.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/662.png",
+        "./Imagens/Pokedex/thumbnails/662.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/662.png",
+        "./Imagens/Pokedex/hires/662.png",
     },
   },
   {
@@ -26815,11 +26815,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/663.png",
+        "./Imagens/Pokedex/sprites/663.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/663.png",
+        "./Imagens/Pokedex/thumbnails/663.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/663.png",
+        "./Imagens/Pokedex/hires/663.png",
     },
   },
   {
@@ -26856,11 +26856,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/664.png",
+        "./Imagens/Pokedex/sprites/664.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/664.png",
+        "./Imagens/Pokedex/thumbnails/664.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/664.png",
+        "./Imagens/Pokedex/hires/664.png",
     },
   },
   {
@@ -26896,11 +26896,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/665.png",
+        "./Imagens/Pokedex/sprites/665.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/665.png",
+        "./Imagens/Pokedex/thumbnails/665.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/665.png",
+        "./Imagens/Pokedex/hires/665.png",
     },
   },
   {
@@ -26937,11 +26937,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/666.png",
+        "./Imagens/Pokedex/sprites/666.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/666.png",
+        "./Imagens/Pokedex/thumbnails/666.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/666.png",
+        "./Imagens/Pokedex/hires/666.png",
     },
   },
   {
@@ -26978,11 +26978,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/667.png",
+        "./Imagens/Pokedex/sprites/667.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/667.png",
+        "./Imagens/Pokedex/thumbnails/667.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/667.png",
+        "./Imagens/Pokedex/hires/667.png",
     },
   },
   {
@@ -27019,11 +27019,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/668.png",
+        "./Imagens/Pokedex/sprites/668.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/668.png",
+        "./Imagens/Pokedex/thumbnails/668.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/668.png",
+        "./Imagens/Pokedex/hires/668.png",
     },
   },
   {
@@ -27059,11 +27059,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/669.png",
+        "./Imagens/Pokedex/sprites/669.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/669.png",
+        "./Imagens/Pokedex/thumbnails/669.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/669.png",
+        "./Imagens/Pokedex/hires/669.png",
     },
   },
   {
@@ -27102,11 +27102,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/670.png",
+        "./Imagens/Pokedex/sprites/670.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/670.png",
+        "./Imagens/Pokedex/thumbnails/670.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/670.png",
+        "./Imagens/Pokedex/hires/670.png",
     },
   },
   {
@@ -27142,11 +27142,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/671.png",
+        "./Imagens/Pokedex/sprites/671.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/671.png",
+        "./Imagens/Pokedex/thumbnails/671.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/671.png",
+        "./Imagens/Pokedex/hires/671.png",
     },
   },
   {
@@ -27182,11 +27182,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/672.png",
+        "./Imagens/Pokedex/sprites/672.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/672.png",
+        "./Imagens/Pokedex/thumbnails/672.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/672.png",
+        "./Imagens/Pokedex/hires/672.png",
     },
   },
   {
@@ -27222,11 +27222,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/673.png",
+        "./Imagens/Pokedex/sprites/673.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/673.png",
+        "./Imagens/Pokedex/thumbnails/673.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/673.png",
+        "./Imagens/Pokedex/hires/673.png",
     },
   },
   {
@@ -27263,11 +27263,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/674.png",
+        "./Imagens/Pokedex/sprites/674.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/674.png",
+        "./Imagens/Pokedex/thumbnails/674.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/674.png",
+        "./Imagens/Pokedex/hires/674.png",
     },
   },
   {
@@ -27304,11 +27304,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/675.png",
+        "./Imagens/Pokedex/sprites/675.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/675.png",
+        "./Imagens/Pokedex/thumbnails/675.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/675.png",
+        "./Imagens/Pokedex/hires/675.png",
     },
   },
   {
@@ -27341,11 +27341,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/676.png",
+        "./Imagens/Pokedex/sprites/676.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/676.png",
+        "./Imagens/Pokedex/thumbnails/676.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/676.png",
+        "./Imagens/Pokedex/hires/676.png",
     },
   },
   {
@@ -27382,11 +27382,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/677.png",
+        "./Imagens/Pokedex/sprites/677.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/677.png",
+        "./Imagens/Pokedex/thumbnails/677.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/677.png",
+        "./Imagens/Pokedex/hires/677.png",
     },
   },
   {
@@ -27423,11 +27423,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/678.png",
+        "./Imagens/Pokedex/sprites/678.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/678.png",
+        "./Imagens/Pokedex/thumbnails/678.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/678.png",
+        "./Imagens/Pokedex/hires/678.png",
     },
   },
   {
@@ -27460,11 +27460,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/679.png",
+        "./Imagens/Pokedex/sprites/679.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/679.png",
+        "./Imagens/Pokedex/thumbnails/679.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/679.png",
+        "./Imagens/Pokedex/hires/679.png",
     },
   },
   {
@@ -27500,11 +27500,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/680.png",
+        "./Imagens/Pokedex/sprites/680.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/680.png",
+        "./Imagens/Pokedex/thumbnails/680.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/680.png",
+        "./Imagens/Pokedex/hires/680.png",
     },
   },
   {
@@ -27537,11 +27537,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/681.png",
+        "./Imagens/Pokedex/sprites/681.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/681.png",
+        "./Imagens/Pokedex/thumbnails/681.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/681.png",
+        "./Imagens/Pokedex/hires/681.png",
     },
   },
   {
@@ -27577,11 +27577,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/682.png",
+        "./Imagens/Pokedex/sprites/682.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/682.png",
+        "./Imagens/Pokedex/thumbnails/682.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/682.png",
+        "./Imagens/Pokedex/hires/682.png",
     },
   },
   {
@@ -27617,11 +27617,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/683.png",
+        "./Imagens/Pokedex/sprites/683.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/683.png",
+        "./Imagens/Pokedex/thumbnails/683.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/683.png",
+        "./Imagens/Pokedex/hires/683.png",
     },
   },
   {
@@ -27657,11 +27657,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/684.png",
+        "./Imagens/Pokedex/sprites/684.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/684.png",
+        "./Imagens/Pokedex/thumbnails/684.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/684.png",
+        "./Imagens/Pokedex/hires/684.png",
     },
   },
   {
@@ -27697,11 +27697,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/685.png",
+        "./Imagens/Pokedex/sprites/685.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/685.png",
+        "./Imagens/Pokedex/thumbnails/685.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/685.png",
+        "./Imagens/Pokedex/hires/685.png",
     },
   },
   {
@@ -27738,11 +27738,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/686.png",
+        "./Imagens/Pokedex/sprites/686.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/686.png",
+        "./Imagens/Pokedex/thumbnails/686.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/686.png",
+        "./Imagens/Pokedex/hires/686.png",
     },
   },
   {
@@ -27779,11 +27779,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/687.png",
+        "./Imagens/Pokedex/sprites/687.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/687.png",
+        "./Imagens/Pokedex/thumbnails/687.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/687.png",
+        "./Imagens/Pokedex/hires/687.png",
     },
   },
   {
@@ -27820,11 +27820,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/688.png",
+        "./Imagens/Pokedex/sprites/688.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/688.png",
+        "./Imagens/Pokedex/thumbnails/688.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/688.png",
+        "./Imagens/Pokedex/hires/688.png",
     },
   },
   {
@@ -27861,11 +27861,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/689.png",
+        "./Imagens/Pokedex/sprites/689.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/689.png",
+        "./Imagens/Pokedex/thumbnails/689.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/689.png",
+        "./Imagens/Pokedex/hires/689.png",
     },
   },
   {
@@ -27902,11 +27902,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/690.png",
+        "./Imagens/Pokedex/sprites/690.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/690.png",
+        "./Imagens/Pokedex/thumbnails/690.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/690.png",
+        "./Imagens/Pokedex/hires/690.png",
     },
   },
   {
@@ -27943,11 +27943,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/691.png",
+        "./Imagens/Pokedex/sprites/691.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/691.png",
+        "./Imagens/Pokedex/thumbnails/691.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/691.png",
+        "./Imagens/Pokedex/hires/691.png",
     },
   },
   {
@@ -27980,11 +27980,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/692.png",
+        "./Imagens/Pokedex/sprites/692.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/692.png",
+        "./Imagens/Pokedex/thumbnails/692.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/692.png",
+        "./Imagens/Pokedex/hires/692.png",
     },
   },
   {
@@ -28017,11 +28017,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/693.png",
+        "./Imagens/Pokedex/sprites/693.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/693.png",
+        "./Imagens/Pokedex/thumbnails/693.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/693.png",
+        "./Imagens/Pokedex/hires/693.png",
     },
   },
   {
@@ -28058,11 +28058,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/694.png",
+        "./Imagens/Pokedex/sprites/694.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/694.png",
+        "./Imagens/Pokedex/thumbnails/694.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/694.png",
+        "./Imagens/Pokedex/hires/694.png",
     },
   },
   {
@@ -28099,11 +28099,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/695.png",
+        "./Imagens/Pokedex/sprites/695.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/695.png",
+        "./Imagens/Pokedex/thumbnails/695.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/695.png",
+        "./Imagens/Pokedex/hires/695.png",
     },
   },
   {
@@ -28139,11 +28139,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/696.png",
+        "./Imagens/Pokedex/sprites/696.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/696.png",
+        "./Imagens/Pokedex/thumbnails/696.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/696.png",
+        "./Imagens/Pokedex/hires/696.png",
     },
   },
   {
@@ -28179,11 +28179,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/697.png",
+        "./Imagens/Pokedex/sprites/697.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/697.png",
+        "./Imagens/Pokedex/thumbnails/697.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/697.png",
+        "./Imagens/Pokedex/hires/697.png",
     },
   },
   {
@@ -28219,11 +28219,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/698.png",
+        "./Imagens/Pokedex/sprites/698.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/698.png",
+        "./Imagens/Pokedex/thumbnails/698.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/698.png",
+        "./Imagens/Pokedex/hires/698.png",
     },
   },
   {
@@ -28259,11 +28259,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/699.png",
+        "./Imagens/Pokedex/sprites/699.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/699.png",
+        "./Imagens/Pokedex/thumbnails/699.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/699.png",
+        "./Imagens/Pokedex/hires/699.png",
     },
   },
   {
@@ -28299,11 +28299,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/700.png",
+        "./Imagens/Pokedex/sprites/700.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/700.png",
+        "./Imagens/Pokedex/thumbnails/700.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/700.png",
+        "./Imagens/Pokedex/hires/700.png",
     },
   },
   {
@@ -28340,11 +28340,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/701.png",
+        "./Imagens/Pokedex/sprites/701.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/701.png",
+        "./Imagens/Pokedex/thumbnails/701.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/701.png",
+        "./Imagens/Pokedex/hires/701.png",
     },
   },
   {
@@ -28381,11 +28381,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/702.png",
+        "./Imagens/Pokedex/sprites/702.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/702.png",
+        "./Imagens/Pokedex/thumbnails/702.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/702.png",
+        "./Imagens/Pokedex/hires/702.png",
     },
   },
   {
@@ -28421,11 +28421,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/703.png",
+        "./Imagens/Pokedex/sprites/703.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/703.png",
+        "./Imagens/Pokedex/thumbnails/703.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/703.png",
+        "./Imagens/Pokedex/hires/703.png",
     },
   },
   {
@@ -28462,11 +28462,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/704.png",
+        "./Imagens/Pokedex/sprites/704.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/704.png",
+        "./Imagens/Pokedex/thumbnails/704.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/704.png",
+        "./Imagens/Pokedex/hires/704.png",
     },
   },
   {
@@ -28506,11 +28506,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/705.png",
+        "./Imagens/Pokedex/sprites/705.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/705.png",
+        "./Imagens/Pokedex/thumbnails/705.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/705.png",
+        "./Imagens/Pokedex/hires/705.png",
     },
   },
   {
@@ -28547,11 +28547,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/706.png",
+        "./Imagens/Pokedex/sprites/706.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/706.png",
+        "./Imagens/Pokedex/thumbnails/706.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/706.png",
+        "./Imagens/Pokedex/hires/706.png",
     },
   },
   {
@@ -28587,11 +28587,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/707.png",
+        "./Imagens/Pokedex/sprites/707.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/707.png",
+        "./Imagens/Pokedex/thumbnails/707.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/707.png",
+        "./Imagens/Pokedex/hires/707.png",
     },
   },
   {
@@ -28628,11 +28628,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/708.png",
+        "./Imagens/Pokedex/sprites/708.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/708.png",
+        "./Imagens/Pokedex/thumbnails/708.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/708.png",
+        "./Imagens/Pokedex/hires/708.png",
     },
   },
   {
@@ -28669,11 +28669,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/709.png",
+        "./Imagens/Pokedex/sprites/709.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/709.png",
+        "./Imagens/Pokedex/thumbnails/709.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/709.png",
+        "./Imagens/Pokedex/hires/709.png",
     },
   },
   {
@@ -28710,11 +28710,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/710.png",
+        "./Imagens/Pokedex/sprites/710.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/710.png",
+        "./Imagens/Pokedex/thumbnails/710.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/710.png",
+        "./Imagens/Pokedex/hires/710.png",
     },
   },
   {
@@ -28751,11 +28751,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/711.png",
+        "./Imagens/Pokedex/sprites/711.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/711.png",
+        "./Imagens/Pokedex/thumbnails/711.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/711.png",
+        "./Imagens/Pokedex/hires/711.png",
     },
   },
   {
@@ -28792,11 +28792,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/712.png",
+        "./Imagens/Pokedex/sprites/712.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/712.png",
+        "./Imagens/Pokedex/thumbnails/712.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/712.png",
+        "./Imagens/Pokedex/hires/712.png",
     },
   },
   {
@@ -28833,11 +28833,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/713.png",
+        "./Imagens/Pokedex/sprites/713.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/713.png",
+        "./Imagens/Pokedex/thumbnails/713.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/713.png",
+        "./Imagens/Pokedex/hires/713.png",
     },
   },
   {
@@ -28874,11 +28874,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/714.png",
+        "./Imagens/Pokedex/sprites/714.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/714.png",
+        "./Imagens/Pokedex/thumbnails/714.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/714.png",
+        "./Imagens/Pokedex/hires/714.png",
     },
   },
   {
@@ -28915,11 +28915,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/715.png",
+        "./Imagens/Pokedex/sprites/715.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/715.png",
+        "./Imagens/Pokedex/thumbnails/715.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/715.png",
+        "./Imagens/Pokedex/hires/715.png",
     },
   },
   {
@@ -28952,11 +28952,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/716.png",
+        "./Imagens/Pokedex/sprites/716.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/716.png",
+        "./Imagens/Pokedex/thumbnails/716.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/716.png",
+        "./Imagens/Pokedex/hires/716.png",
     },
   },
   {
@@ -28989,11 +28989,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/717.png",
+        "./Imagens/Pokedex/sprites/717.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/717.png",
+        "./Imagens/Pokedex/thumbnails/717.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/717.png",
+        "./Imagens/Pokedex/hires/717.png",
     },
   },
   {
@@ -29026,11 +29026,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/718.png",
+        "./Imagens/Pokedex/sprites/718.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/718.png",
+        "./Imagens/Pokedex/thumbnails/718.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/718.png",
+        "./Imagens/Pokedex/hires/718.png",
     },
   },
   {
@@ -29063,11 +29063,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/719.png",
+        "./Imagens/Pokedex/sprites/719.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/719.png",
+        "./Imagens/Pokedex/thumbnails/719.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/719.png",
+        "./Imagens/Pokedex/hires/719.png",
     },
   },
   {
@@ -29100,11 +29100,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/720.png",
+        "./Imagens/Pokedex/sprites/720.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/720.png",
+        "./Imagens/Pokedex/thumbnails/720.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/720.png",
+        "./Imagens/Pokedex/hires/720.png",
     },
   },
   {
@@ -29137,11 +29137,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/721.png",
+        "./Imagens/Pokedex/sprites/721.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/721.png",
+        "./Imagens/Pokedex/thumbnails/721.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/721.png",
+        "./Imagens/Pokedex/hires/721.png",
     },
   },
   {
@@ -29177,11 +29177,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/722.png",
+        "./Imagens/Pokedex/sprites/722.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/722.png",
+        "./Imagens/Pokedex/thumbnails/722.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/722.png",
+        "./Imagens/Pokedex/hires/722.png",
     },
   },
   {
@@ -29217,11 +29217,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/723.png",
+        "./Imagens/Pokedex/sprites/723.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/723.png",
+        "./Imagens/Pokedex/thumbnails/723.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/723.png",
+        "./Imagens/Pokedex/hires/723.png",
     },
   },
   {
@@ -29257,11 +29257,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/724.png",
+        "./Imagens/Pokedex/sprites/724.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/724.png",
+        "./Imagens/Pokedex/thumbnails/724.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/724.png",
+        "./Imagens/Pokedex/hires/724.png",
     },
   },
   {
@@ -29297,11 +29297,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/725.png",
+        "./Imagens/Pokedex/sprites/725.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/725.png",
+        "./Imagens/Pokedex/thumbnails/725.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/725.png",
+        "./Imagens/Pokedex/hires/725.png",
     },
   },
   {
@@ -29337,11 +29337,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/726.png",
+        "./Imagens/Pokedex/sprites/726.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/726.png",
+        "./Imagens/Pokedex/thumbnails/726.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/726.png",
+        "./Imagens/Pokedex/hires/726.png",
     },
   },
   {
@@ -29377,11 +29377,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/727.png",
+        "./Imagens/Pokedex/sprites/727.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/727.png",
+        "./Imagens/Pokedex/thumbnails/727.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/727.png",
+        "./Imagens/Pokedex/hires/727.png",
     },
   },
   {
@@ -29417,11 +29417,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/728.png",
+        "./Imagens/Pokedex/sprites/728.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/728.png",
+        "./Imagens/Pokedex/thumbnails/728.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/728.png",
+        "./Imagens/Pokedex/hires/728.png",
     },
   },
   {
@@ -29457,11 +29457,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/729.png",
+        "./Imagens/Pokedex/sprites/729.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/729.png",
+        "./Imagens/Pokedex/thumbnails/729.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/729.png",
+        "./Imagens/Pokedex/hires/729.png",
     },
   },
   {
@@ -29497,11 +29497,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/730.png",
+        "./Imagens/Pokedex/sprites/730.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/730.png",
+        "./Imagens/Pokedex/thumbnails/730.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/730.png",
+        "./Imagens/Pokedex/hires/730.png",
     },
   },
   {
@@ -29538,11 +29538,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/731.png",
+        "./Imagens/Pokedex/sprites/731.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/731.png",
+        "./Imagens/Pokedex/thumbnails/731.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/731.png",
+        "./Imagens/Pokedex/hires/731.png",
     },
   },
   {
@@ -29579,11 +29579,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/732.png",
+        "./Imagens/Pokedex/sprites/732.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/732.png",
+        "./Imagens/Pokedex/thumbnails/732.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/732.png",
+        "./Imagens/Pokedex/hires/732.png",
     },
   },
   {
@@ -29620,11 +29620,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/733.png",
+        "./Imagens/Pokedex/sprites/733.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/733.png",
+        "./Imagens/Pokedex/thumbnails/733.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/733.png",
+        "./Imagens/Pokedex/hires/733.png",
     },
   },
   {
@@ -29661,11 +29661,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/734.png",
+        "./Imagens/Pokedex/sprites/734.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/734.png",
+        "./Imagens/Pokedex/thumbnails/734.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/734.png",
+        "./Imagens/Pokedex/hires/734.png",
     },
   },
   {
@@ -29702,11 +29702,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/735.png",
+        "./Imagens/Pokedex/sprites/735.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/735.png",
+        "./Imagens/Pokedex/thumbnails/735.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/735.png",
+        "./Imagens/Pokedex/hires/735.png",
     },
   },
   {
@@ -29739,11 +29739,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/736.png",
+        "./Imagens/Pokedex/sprites/736.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/736.png",
+        "./Imagens/Pokedex/thumbnails/736.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/736.png",
+        "./Imagens/Pokedex/hires/736.png",
     },
   },
   {
@@ -29779,11 +29779,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/737.png",
+        "./Imagens/Pokedex/sprites/737.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/737.png",
+        "./Imagens/Pokedex/thumbnails/737.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/737.png",
+        "./Imagens/Pokedex/hires/737.png",
     },
   },
   {
@@ -29821,11 +29821,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/738.png",
+        "./Imagens/Pokedex/sprites/738.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/738.png",
+        "./Imagens/Pokedex/thumbnails/738.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/738.png",
+        "./Imagens/Pokedex/hires/738.png",
     },
   },
   {
@@ -29862,11 +29862,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/739.png",
+        "./Imagens/Pokedex/sprites/739.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/739.png",
+        "./Imagens/Pokedex/thumbnails/739.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/739.png",
+        "./Imagens/Pokedex/hires/739.png",
     },
   },
   {
@@ -29903,11 +29903,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/740.png",
+        "./Imagens/Pokedex/sprites/740.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/740.png",
+        "./Imagens/Pokedex/thumbnails/740.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/740.png",
+        "./Imagens/Pokedex/hires/740.png",
     },
   },
   {
@@ -29940,11 +29940,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/741.png",
+        "./Imagens/Pokedex/sprites/741.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/741.png",
+        "./Imagens/Pokedex/thumbnails/741.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/741.png",
+        "./Imagens/Pokedex/hires/741.png",
     },
   },
   {
@@ -29981,11 +29981,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/742.png",
+        "./Imagens/Pokedex/sprites/742.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/742.png",
+        "./Imagens/Pokedex/thumbnails/742.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/742.png",
+        "./Imagens/Pokedex/hires/742.png",
     },
   },
   {
@@ -30022,11 +30022,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/743.png",
+        "./Imagens/Pokedex/sprites/743.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/743.png",
+        "./Imagens/Pokedex/thumbnails/743.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/743.png",
+        "./Imagens/Pokedex/hires/743.png",
     },
   },
   {
@@ -30063,11 +30063,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/744.png",
+        "./Imagens/Pokedex/sprites/744.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/744.png",
+        "./Imagens/Pokedex/thumbnails/744.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/744.png",
+        "./Imagens/Pokedex/hires/744.png",
     },
   },
   {
@@ -30104,11 +30104,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/745.png",
+        "./Imagens/Pokedex/sprites/745.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/745.png",
+        "./Imagens/Pokedex/thumbnails/745.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/745.png",
+        "./Imagens/Pokedex/hires/745.png",
     },
   },
   {
@@ -30141,11 +30141,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/746.png",
+        "./Imagens/Pokedex/sprites/746.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/746.png",
+        "./Imagens/Pokedex/thumbnails/746.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/746.png",
+        "./Imagens/Pokedex/hires/746.png",
     },
   },
   {
@@ -30182,11 +30182,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/747.png",
+        "./Imagens/Pokedex/sprites/747.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/747.png",
+        "./Imagens/Pokedex/thumbnails/747.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/747.png",
+        "./Imagens/Pokedex/hires/747.png",
     },
   },
   {
@@ -30223,11 +30223,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/748.png",
+        "./Imagens/Pokedex/sprites/748.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/748.png",
+        "./Imagens/Pokedex/thumbnails/748.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/748.png",
+        "./Imagens/Pokedex/hires/748.png",
     },
   },
   {
@@ -30264,11 +30264,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/749.png",
+        "./Imagens/Pokedex/sprites/749.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/749.png",
+        "./Imagens/Pokedex/thumbnails/749.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/749.png",
+        "./Imagens/Pokedex/hires/749.png",
     },
   },
   {
@@ -30305,11 +30305,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/750.png",
+        "./Imagens/Pokedex/sprites/750.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/750.png",
+        "./Imagens/Pokedex/thumbnails/750.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/750.png",
+        "./Imagens/Pokedex/hires/750.png",
     },
   },
   {
@@ -30345,11 +30345,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/751.png",
+        "./Imagens/Pokedex/sprites/751.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/751.png",
+        "./Imagens/Pokedex/thumbnails/751.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/751.png",
+        "./Imagens/Pokedex/hires/751.png",
     },
   },
   {
@@ -30385,11 +30385,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/752.png",
+        "./Imagens/Pokedex/sprites/752.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/752.png",
+        "./Imagens/Pokedex/thumbnails/752.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/752.png",
+        "./Imagens/Pokedex/hires/752.png",
     },
   },
   {
@@ -30425,11 +30425,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/753.png",
+        "./Imagens/Pokedex/sprites/753.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/753.png",
+        "./Imagens/Pokedex/thumbnails/753.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/753.png",
+        "./Imagens/Pokedex/hires/753.png",
     },
   },
   {
@@ -30465,11 +30465,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/754.png",
+        "./Imagens/Pokedex/sprites/754.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/754.png",
+        "./Imagens/Pokedex/thumbnails/754.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/754.png",
+        "./Imagens/Pokedex/hires/754.png",
     },
   },
   {
@@ -30506,11 +30506,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/755.png",
+        "./Imagens/Pokedex/sprites/755.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/755.png",
+        "./Imagens/Pokedex/thumbnails/755.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/755.png",
+        "./Imagens/Pokedex/hires/755.png",
     },
   },
   {
@@ -30547,11 +30547,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/756.png",
+        "./Imagens/Pokedex/sprites/756.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/756.png",
+        "./Imagens/Pokedex/thumbnails/756.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/756.png",
+        "./Imagens/Pokedex/hires/756.png",
     },
   },
   {
@@ -30587,11 +30587,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/757.png",
+        "./Imagens/Pokedex/sprites/757.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/757.png",
+        "./Imagens/Pokedex/thumbnails/757.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/757.png",
+        "./Imagens/Pokedex/hires/757.png",
     },
   },
   {
@@ -30627,11 +30627,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/758.png",
+        "./Imagens/Pokedex/sprites/758.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/758.png",
+        "./Imagens/Pokedex/thumbnails/758.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/758.png",
+        "./Imagens/Pokedex/hires/758.png",
     },
   },
   {
@@ -30668,11 +30668,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/759.png",
+        "./Imagens/Pokedex/sprites/759.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/759.png",
+        "./Imagens/Pokedex/thumbnails/759.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/759.png",
+        "./Imagens/Pokedex/hires/759.png",
     },
   },
   {
@@ -30709,11 +30709,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/760.png",
+        "./Imagens/Pokedex/sprites/760.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/760.png",
+        "./Imagens/Pokedex/thumbnails/760.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/760.png",
+        "./Imagens/Pokedex/hires/760.png",
     },
   },
   {
@@ -30750,11 +30750,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/761.png",
+        "./Imagens/Pokedex/sprites/761.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/761.png",
+        "./Imagens/Pokedex/thumbnails/761.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/761.png",
+        "./Imagens/Pokedex/hires/761.png",
     },
   },
   {
@@ -30794,11 +30794,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/762.png",
+        "./Imagens/Pokedex/sprites/762.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/762.png",
+        "./Imagens/Pokedex/thumbnails/762.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/762.png",
+        "./Imagens/Pokedex/hires/762.png",
     },
   },
   {
@@ -30835,11 +30835,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/763.png",
+        "./Imagens/Pokedex/sprites/763.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/763.png",
+        "./Imagens/Pokedex/thumbnails/763.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/763.png",
+        "./Imagens/Pokedex/hires/763.png",
     },
   },
   {
@@ -30876,11 +30876,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/764.png",
+        "./Imagens/Pokedex/sprites/764.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/764.png",
+        "./Imagens/Pokedex/thumbnails/764.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/764.png",
+        "./Imagens/Pokedex/hires/764.png",
     },
   },
   {
@@ -30917,11 +30917,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/765.png",
+        "./Imagens/Pokedex/sprites/765.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/765.png",
+        "./Imagens/Pokedex/thumbnails/765.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/765.png",
+        "./Imagens/Pokedex/hires/765.png",
     },
   },
   {
@@ -30957,11 +30957,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/766.png",
+        "./Imagens/Pokedex/sprites/766.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/766.png",
+        "./Imagens/Pokedex/thumbnails/766.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/766.png",
+        "./Imagens/Pokedex/hires/766.png",
     },
   },
   {
@@ -30994,11 +30994,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/767.png",
+        "./Imagens/Pokedex/sprites/767.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/767.png",
+        "./Imagens/Pokedex/thumbnails/767.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/767.png",
+        "./Imagens/Pokedex/hires/767.png",
     },
   },
   {
@@ -31031,11 +31031,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/768.png",
+        "./Imagens/Pokedex/sprites/768.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/768.png",
+        "./Imagens/Pokedex/thumbnails/768.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/768.png",
+        "./Imagens/Pokedex/hires/768.png",
     },
   },
   {
@@ -31071,11 +31071,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/769.png",
+        "./Imagens/Pokedex/sprites/769.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/769.png",
+        "./Imagens/Pokedex/thumbnails/769.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/769.png",
+        "./Imagens/Pokedex/hires/769.png",
     },
   },
   {
@@ -31111,11 +31111,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/770.png",
+        "./Imagens/Pokedex/sprites/770.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/770.png",
+        "./Imagens/Pokedex/thumbnails/770.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/770.png",
+        "./Imagens/Pokedex/hires/770.png",
     },
   },
   {
@@ -31151,11 +31151,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/771.png",
+        "./Imagens/Pokedex/sprites/771.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/771.png",
+        "./Imagens/Pokedex/thumbnails/771.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/771.png",
+        "./Imagens/Pokedex/hires/771.png",
     },
   },
   {
@@ -31188,11 +31188,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/772.png",
+        "./Imagens/Pokedex/sprites/772.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/772.png",
+        "./Imagens/Pokedex/thumbnails/772.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/772.png",
+        "./Imagens/Pokedex/hires/772.png",
     },
   },
   {
@@ -31225,11 +31225,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/773.png",
+        "./Imagens/Pokedex/sprites/773.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/773.png",
+        "./Imagens/Pokedex/thumbnails/773.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/773.png",
+        "./Imagens/Pokedex/hires/773.png",
     },
   },
   {
@@ -31262,11 +31262,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/774.png",
+        "./Imagens/Pokedex/sprites/774.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/774.png",
+        "./Imagens/Pokedex/thumbnails/774.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/774.png",
+        "./Imagens/Pokedex/hires/774.png",
     },
   },
   {
@@ -31299,11 +31299,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/775.png",
+        "./Imagens/Pokedex/sprites/775.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/775.png",
+        "./Imagens/Pokedex/thumbnails/775.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/775.png",
+        "./Imagens/Pokedex/hires/775.png",
     },
   },
   {
@@ -31336,11 +31336,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/776.png",
+        "./Imagens/Pokedex/sprites/776.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/776.png",
+        "./Imagens/Pokedex/thumbnails/776.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/776.png",
+        "./Imagens/Pokedex/hires/776.png",
     },
   },
   {
@@ -31377,11 +31377,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/777.png",
+        "./Imagens/Pokedex/sprites/777.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/777.png",
+        "./Imagens/Pokedex/thumbnails/777.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/777.png",
+        "./Imagens/Pokedex/hires/777.png",
     },
   },
   {
@@ -31414,11 +31414,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/778.png",
+        "./Imagens/Pokedex/sprites/778.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/778.png",
+        "./Imagens/Pokedex/thumbnails/778.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/778.png",
+        "./Imagens/Pokedex/hires/778.png",
     },
   },
   {
@@ -31455,11 +31455,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/779.png",
+        "./Imagens/Pokedex/sprites/779.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/779.png",
+        "./Imagens/Pokedex/thumbnails/779.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/779.png",
+        "./Imagens/Pokedex/hires/779.png",
     },
   },
   {
@@ -31496,11 +31496,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/780.png",
+        "./Imagens/Pokedex/sprites/780.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/780.png",
+        "./Imagens/Pokedex/thumbnails/780.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/780.png",
+        "./Imagens/Pokedex/hires/780.png",
     },
   },
   {
@@ -31533,11 +31533,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/781.png",
+        "./Imagens/Pokedex/sprites/781.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/781.png",
+        "./Imagens/Pokedex/thumbnails/781.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/781.png",
+        "./Imagens/Pokedex/hires/781.png",
     },
   },
   {
@@ -31574,11 +31574,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/782.png",
+        "./Imagens/Pokedex/sprites/782.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/782.png",
+        "./Imagens/Pokedex/thumbnails/782.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/782.png",
+        "./Imagens/Pokedex/hires/782.png",
     },
   },
   {
@@ -31615,11 +31615,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/783.png",
+        "./Imagens/Pokedex/sprites/783.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/783.png",
+        "./Imagens/Pokedex/thumbnails/783.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/783.png",
+        "./Imagens/Pokedex/hires/783.png",
     },
   },
   {
@@ -31656,11 +31656,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/784.png",
+        "./Imagens/Pokedex/sprites/784.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/784.png",
+        "./Imagens/Pokedex/thumbnails/784.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/784.png",
+        "./Imagens/Pokedex/hires/784.png",
     },
   },
   {
@@ -31696,11 +31696,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/785.png",
+        "./Imagens/Pokedex/sprites/785.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/785.png",
+        "./Imagens/Pokedex/thumbnails/785.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/785.png",
+        "./Imagens/Pokedex/hires/785.png",
     },
   },
   {
@@ -31736,11 +31736,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/786.png",
+        "./Imagens/Pokedex/sprites/786.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/786.png",
+        "./Imagens/Pokedex/thumbnails/786.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/786.png",
+        "./Imagens/Pokedex/hires/786.png",
     },
   },
   {
@@ -31776,11 +31776,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/787.png",
+        "./Imagens/Pokedex/sprites/787.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/787.png",
+        "./Imagens/Pokedex/thumbnails/787.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/787.png",
+        "./Imagens/Pokedex/hires/787.png",
     },
   },
   {
@@ -31816,11 +31816,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/788.png",
+        "./Imagens/Pokedex/sprites/788.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/788.png",
+        "./Imagens/Pokedex/thumbnails/788.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/788.png",
+        "./Imagens/Pokedex/hires/788.png",
     },
   },
   {
@@ -31853,11 +31853,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/789.png",
+        "./Imagens/Pokedex/sprites/789.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/789.png",
+        "./Imagens/Pokedex/thumbnails/789.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/789.png",
+        "./Imagens/Pokedex/hires/789.png",
     },
   },
   {
@@ -31896,11 +31896,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/790.png",
+        "./Imagens/Pokedex/sprites/790.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/790.png",
+        "./Imagens/Pokedex/thumbnails/790.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/790.png",
+        "./Imagens/Pokedex/hires/790.png",
     },
   },
   {
@@ -31933,11 +31933,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/791.png",
+        "./Imagens/Pokedex/sprites/791.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/791.png",
+        "./Imagens/Pokedex/thumbnails/791.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/791.png",
+        "./Imagens/Pokedex/hires/791.png",
     },
   },
   {
@@ -31970,11 +31970,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/792.png",
+        "./Imagens/Pokedex/sprites/792.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/792.png",
+        "./Imagens/Pokedex/thumbnails/792.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/792.png",
+        "./Imagens/Pokedex/hires/792.png",
     },
   },
   {
@@ -32007,11 +32007,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/793.png",
+        "./Imagens/Pokedex/sprites/793.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/793.png",
+        "./Imagens/Pokedex/thumbnails/793.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/793.png",
+        "./Imagens/Pokedex/hires/793.png",
     },
   },
   {
@@ -32044,11 +32044,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/794.png",
+        "./Imagens/Pokedex/sprites/794.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/794.png",
+        "./Imagens/Pokedex/thumbnails/794.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/794.png",
+        "./Imagens/Pokedex/hires/794.png",
     },
   },
   {
@@ -32081,11 +32081,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/795.png",
+        "./Imagens/Pokedex/sprites/795.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/795.png",
+        "./Imagens/Pokedex/thumbnails/795.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/795.png",
+        "./Imagens/Pokedex/hires/795.png",
     },
   },
   {
@@ -32118,11 +32118,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/796.png",
+        "./Imagens/Pokedex/sprites/796.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/796.png",
+        "./Imagens/Pokedex/thumbnails/796.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/796.png",
+        "./Imagens/Pokedex/hires/796.png",
     },
   },
   {
@@ -32155,11 +32155,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/797.png",
+        "./Imagens/Pokedex/sprites/797.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/797.png",
+        "./Imagens/Pokedex/thumbnails/797.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/797.png",
+        "./Imagens/Pokedex/hires/797.png",
     },
   },
   {
@@ -32192,11 +32192,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/798.png",
+        "./Imagens/Pokedex/sprites/798.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/798.png",
+        "./Imagens/Pokedex/thumbnails/798.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/798.png",
+        "./Imagens/Pokedex/hires/798.png",
     },
   },
   {
@@ -32229,11 +32229,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/799.png",
+        "./Imagens/Pokedex/sprites/799.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/799.png",
+        "./Imagens/Pokedex/thumbnails/799.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/799.png",
+        "./Imagens/Pokedex/hires/799.png",
     },
   },
   {
@@ -32266,11 +32266,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/800.png",
+        "./Imagens/Pokedex/sprites/800.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/800.png",
+        "./Imagens/Pokedex/thumbnails/800.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/800.png",
+        "./Imagens/Pokedex/hires/800.png",
     },
   },
   {
@@ -32303,11 +32303,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/801.png",
+        "./Imagens/Pokedex/sprites/801.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/801.png",
+        "./Imagens/Pokedex/thumbnails/801.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/801.png",
+        "./Imagens/Pokedex/hires/801.png",
     },
   },
   {
@@ -32340,11 +32340,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/802.png",
+        "./Imagens/Pokedex/sprites/802.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/802.png",
+        "./Imagens/Pokedex/thumbnails/802.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/802.png",
+        "./Imagens/Pokedex/hires/802.png",
     },
   },
   {
@@ -32377,11 +32377,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/803.png",
+        "./Imagens/Pokedex/sprites/803.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/803.png",
+        "./Imagens/Pokedex/thumbnails/803.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/803.png",
+        "./Imagens/Pokedex/hires/803.png",
     },
   },
   {
@@ -32414,11 +32414,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/804.png",
+        "./Imagens/Pokedex/sprites/804.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/804.png",
+        "./Imagens/Pokedex/thumbnails/804.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/804.png",
+        "./Imagens/Pokedex/hires/804.png",
     },
   },
   {
@@ -32451,11 +32451,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/805.png",
+        "./Imagens/Pokedex/sprites/805.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/805.png",
+        "./Imagens/Pokedex/thumbnails/805.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/805.png",
+        "./Imagens/Pokedex/hires/805.png",
     },
   },
   {
@@ -32488,11 +32488,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/806.png",
+        "./Imagens/Pokedex/sprites/806.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/806.png",
+        "./Imagens/Pokedex/thumbnails/806.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/806.png",
+        "./Imagens/Pokedex/hires/806.png",
     },
   },
   {
@@ -32525,11 +32525,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/807.png",
+        "./Imagens/Pokedex/sprites/807.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/807.png",
+        "./Imagens/Pokedex/thumbnails/807.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/807.png",
+        "./Imagens/Pokedex/hires/807.png",
     },
   },
   {
@@ -32562,11 +32562,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/808.png",
+        "./Imagens/Pokedex/sprites/808.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/808.png",
+        "./Imagens/Pokedex/thumbnails/808.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/808.png",
+        "./Imagens/Pokedex/hires/808.png",
     },
   },
   {
@@ -32599,11 +32599,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/809.png",
+        "./Imagens/Pokedex/sprites/809.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/809.png",
+        "./Imagens/Pokedex/thumbnails/809.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/809.png",
+        "./Imagens/Pokedex/hires/809.png",
     },
   },
   {
@@ -32630,11 +32630,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/810.png",
+        "./Imagens/Pokedex/sprites/810.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/810.png",
+        "./Imagens/Pokedex/thumbnails/810.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/810.png",
+        "./Imagens/Pokedex/hires/810.png",
     },
   },
   {
@@ -32661,11 +32661,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/811.png",
+        "./Imagens/Pokedex/sprites/811.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/811.png",
+        "./Imagens/Pokedex/thumbnails/811.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/811.png",
+        "./Imagens/Pokedex/hires/811.png",
     },
   },
   {
@@ -32692,11 +32692,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/812.png",
+        "./Imagens/Pokedex/sprites/812.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/812.png",
+        "./Imagens/Pokedex/thumbnails/812.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/812.png",
+        "./Imagens/Pokedex/hires/812.png",
     },
   },
   {
@@ -32723,11 +32723,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/813.png",
+        "./Imagens/Pokedex/sprites/813.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/813.png",
+        "./Imagens/Pokedex/thumbnails/813.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/813.png",
+        "./Imagens/Pokedex/hires/813.png",
     },
   },
   {
@@ -32754,11 +32754,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/814.png",
+        "./Imagens/Pokedex/sprites/814.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/814.png",
+        "./Imagens/Pokedex/thumbnails/814.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/814.png",
+        "./Imagens/Pokedex/hires/814.png",
     },
   },
   {
@@ -32785,11 +32785,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/815.png",
+        "./Imagens/Pokedex/sprites/815.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/815.png",
+        "./Imagens/Pokedex/thumbnails/815.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/815.png",
+        "./Imagens/Pokedex/hires/815.png",
     },
   },
   {
@@ -32816,11 +32816,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/816.png",
+        "./Imagens/Pokedex/sprites/816.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/816.png",
+        "./Imagens/Pokedex/thumbnails/816.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/816.png",
+        "./Imagens/Pokedex/hires/816.png",
     },
   },
   {
@@ -32847,11 +32847,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/817.png",
+        "./Imagens/Pokedex/sprites/817.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/817.png",
+        "./Imagens/Pokedex/thumbnails/817.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/817.png",
+        "./Imagens/Pokedex/hires/817.png",
     },
   },
   {
@@ -32878,11 +32878,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/818.png",
+        "./Imagens/Pokedex/sprites/818.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/818.png",
+        "./Imagens/Pokedex/thumbnails/818.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/818.png",
+        "./Imagens/Pokedex/hires/818.png",
     },
   },
   {
@@ -32909,11 +32909,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/819.png",
+        "./Imagens/Pokedex/sprites/819.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/819.png",
+        "./Imagens/Pokedex/thumbnails/819.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/819.png",
+        "./Imagens/Pokedex/hires/819.png",
     },
   },
   {
@@ -32940,11 +32940,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/820.png",
+        "./Imagens/Pokedex/sprites/820.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/820.png",
+        "./Imagens/Pokedex/thumbnails/820.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/820.png",
+        "./Imagens/Pokedex/hires/820.png",
     },
   },
   {
@@ -32972,11 +32972,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/821.png",
+        "./Imagens/Pokedex/sprites/821.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/821.png",
+        "./Imagens/Pokedex/thumbnails/821.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/821.png",
+        "./Imagens/Pokedex/hires/821.png",
     },
   },
   {
@@ -33004,11 +33004,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/822.png",
+        "./Imagens/Pokedex/sprites/822.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/822.png",
+        "./Imagens/Pokedex/thumbnails/822.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/822.png",
+        "./Imagens/Pokedex/hires/822.png",
     },
   },
   {
@@ -33036,11 +33036,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/823.png",
+        "./Imagens/Pokedex/sprites/823.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/823.png",
+        "./Imagens/Pokedex/thumbnails/823.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/823.png",
+        "./Imagens/Pokedex/hires/823.png",
     },
   },
   {
@@ -33068,11 +33068,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/824.png",
+        "./Imagens/Pokedex/sprites/824.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/824.png",
+        "./Imagens/Pokedex/thumbnails/824.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/824.png",
+        "./Imagens/Pokedex/hires/824.png",
     },
   },
   {
@@ -33100,11 +33100,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/825.png",
+        "./Imagens/Pokedex/sprites/825.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/825.png",
+        "./Imagens/Pokedex/thumbnails/825.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/825.png",
+        "./Imagens/Pokedex/hires/825.png",
     },
   },
   {
@@ -33132,11 +33132,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/826.png",
+        "./Imagens/Pokedex/sprites/826.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/826.png",
+        "./Imagens/Pokedex/thumbnails/826.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/826.png",
+        "./Imagens/Pokedex/hires/826.png",
     },
   },
   {
@@ -33164,11 +33164,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/827.png",
+        "./Imagens/Pokedex/sprites/827.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/827.png",
+        "./Imagens/Pokedex/thumbnails/827.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/827.png",
+        "./Imagens/Pokedex/hires/827.png",
     },
   },
   {
@@ -33196,11 +33196,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/828.png",
+        "./Imagens/Pokedex/sprites/828.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/828.png",
+        "./Imagens/Pokedex/thumbnails/828.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/828.png",
+        "./Imagens/Pokedex/hires/828.png",
     },
   },
   {
@@ -33228,11 +33228,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/829.png",
+        "./Imagens/Pokedex/sprites/829.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/829.png",
+        "./Imagens/Pokedex/thumbnails/829.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/829.png",
+        "./Imagens/Pokedex/hires/829.png",
     },
   },
   {
@@ -33260,11 +33260,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/830.png",
+        "./Imagens/Pokedex/sprites/830.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/830.png",
+        "./Imagens/Pokedex/thumbnails/830.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/830.png",
+        "./Imagens/Pokedex/hires/830.png",
     },
   },
   {
@@ -33292,11 +33292,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/831.png",
+        "./Imagens/Pokedex/sprites/831.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/831.png",
+        "./Imagens/Pokedex/thumbnails/831.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/831.png",
+        "./Imagens/Pokedex/hires/831.png",
     },
   },
   {
@@ -33324,11 +33324,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/832.png",
+        "./Imagens/Pokedex/sprites/832.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/832.png",
+        "./Imagens/Pokedex/thumbnails/832.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/832.png",
+        "./Imagens/Pokedex/hires/832.png",
     },
   },
   {
@@ -33356,11 +33356,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/833.png",
+        "./Imagens/Pokedex/sprites/833.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/833.png",
+        "./Imagens/Pokedex/thumbnails/833.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/833.png",
+        "./Imagens/Pokedex/hires/833.png",
     },
   },
   {
@@ -33388,11 +33388,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/834.png",
+        "./Imagens/Pokedex/sprites/834.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/834.png",
+        "./Imagens/Pokedex/thumbnails/834.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/834.png",
+        "./Imagens/Pokedex/hires/834.png",
     },
   },
   {
@@ -33419,11 +33419,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/835.png",
+        "./Imagens/Pokedex/sprites/835.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/835.png",
+        "./Imagens/Pokedex/thumbnails/835.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/835.png",
+        "./Imagens/Pokedex/hires/835.png",
     },
   },
   {
@@ -33450,11 +33450,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/836.png",
+        "./Imagens/Pokedex/sprites/836.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/836.png",
+        "./Imagens/Pokedex/thumbnails/836.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/836.png",
+        "./Imagens/Pokedex/hires/836.png",
     },
   },
   {
@@ -33482,11 +33482,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/837.png",
+        "./Imagens/Pokedex/sprites/837.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/837.png",
+        "./Imagens/Pokedex/thumbnails/837.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/837.png",
+        "./Imagens/Pokedex/hires/837.png",
     },
   },
   {
@@ -33514,11 +33514,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/838.png",
+        "./Imagens/Pokedex/sprites/838.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/838.png",
+        "./Imagens/Pokedex/thumbnails/838.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/838.png",
+        "./Imagens/Pokedex/hires/838.png",
     },
   },
   {
@@ -33546,11 +33546,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/839.png",
+        "./Imagens/Pokedex/sprites/839.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/839.png",
+        "./Imagens/Pokedex/thumbnails/839.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/839.png",
+        "./Imagens/Pokedex/hires/839.png",
     },
   },
   {
@@ -33583,11 +33583,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/840.png",
+        "./Imagens/Pokedex/sprites/840.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/840.png",
+        "./Imagens/Pokedex/thumbnails/840.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/840.png",
+        "./Imagens/Pokedex/hires/840.png",
     },
   },
   {
@@ -33615,11 +33615,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/841.png",
+        "./Imagens/Pokedex/sprites/841.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/841.png",
+        "./Imagens/Pokedex/thumbnails/841.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/841.png",
+        "./Imagens/Pokedex/hires/841.png",
     },
   },
   {
@@ -33647,11 +33647,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/842.png",
+        "./Imagens/Pokedex/sprites/842.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/842.png",
+        "./Imagens/Pokedex/thumbnails/842.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/842.png",
+        "./Imagens/Pokedex/hires/842.png",
     },
   },
   {
@@ -33679,11 +33679,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/843.png",
+        "./Imagens/Pokedex/sprites/843.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/843.png",
+        "./Imagens/Pokedex/thumbnails/843.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/843.png",
+        "./Imagens/Pokedex/hires/843.png",
     },
   },
   {
@@ -33711,11 +33711,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/844.png",
+        "./Imagens/Pokedex/sprites/844.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/844.png",
+        "./Imagens/Pokedex/thumbnails/844.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/844.png",
+        "./Imagens/Pokedex/hires/844.png",
     },
   },
   {
@@ -33739,11 +33739,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/845.png",
+        "./Imagens/Pokedex/sprites/845.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/845.png",
+        "./Imagens/Pokedex/thumbnails/845.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/845.png",
+        "./Imagens/Pokedex/hires/845.png",
     },
   },
   {
@@ -33770,11 +33770,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/846.png",
+        "./Imagens/Pokedex/sprites/846.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/846.png",
+        "./Imagens/Pokedex/thumbnails/846.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/846.png",
+        "./Imagens/Pokedex/hires/846.png",
     },
   },
   {
@@ -33801,11 +33801,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/847.png",
+        "./Imagens/Pokedex/sprites/847.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/847.png",
+        "./Imagens/Pokedex/thumbnails/847.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/847.png",
+        "./Imagens/Pokedex/hires/847.png",
     },
   },
   {
@@ -33833,11 +33833,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/848.png",
+        "./Imagens/Pokedex/sprites/848.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/848.png",
+        "./Imagens/Pokedex/thumbnails/848.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/848.png",
+        "./Imagens/Pokedex/hires/848.png",
     },
   },
   {
@@ -33865,11 +33865,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/849.png",
+        "./Imagens/Pokedex/sprites/849.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/849.png",
+        "./Imagens/Pokedex/thumbnails/849.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/849.png",
+        "./Imagens/Pokedex/hires/849.png",
     },
   },
   {
@@ -33897,11 +33897,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/850.png",
+        "./Imagens/Pokedex/sprites/850.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/850.png",
+        "./Imagens/Pokedex/thumbnails/850.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/850.png",
+        "./Imagens/Pokedex/hires/850.png",
     },
   },
   {
@@ -33929,11 +33929,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/851.png",
+        "./Imagens/Pokedex/sprites/851.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/851.png",
+        "./Imagens/Pokedex/thumbnails/851.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/851.png",
+        "./Imagens/Pokedex/hires/851.png",
     },
   },
   {
@@ -33960,11 +33960,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/852.png",
+        "./Imagens/Pokedex/sprites/852.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/852.png",
+        "./Imagens/Pokedex/thumbnails/852.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/852.png",
+        "./Imagens/Pokedex/hires/852.png",
     },
   },
   {
@@ -33991,11 +33991,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/853.png",
+        "./Imagens/Pokedex/sprites/853.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/853.png",
+        "./Imagens/Pokedex/thumbnails/853.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/853.png",
+        "./Imagens/Pokedex/hires/853.png",
     },
   },
   {
@@ -34022,11 +34022,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/854.png",
+        "./Imagens/Pokedex/sprites/854.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/854.png",
+        "./Imagens/Pokedex/thumbnails/854.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/854.png",
+        "./Imagens/Pokedex/hires/854.png",
     },
   },
   {
@@ -34053,11 +34053,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/855.png",
+        "./Imagens/Pokedex/sprites/855.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/855.png",
+        "./Imagens/Pokedex/thumbnails/855.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/855.png",
+        "./Imagens/Pokedex/hires/855.png",
     },
   },
   {
@@ -34085,11 +34085,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/856.png",
+        "./Imagens/Pokedex/sprites/856.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/856.png",
+        "./Imagens/Pokedex/thumbnails/856.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/856.png",
+        "./Imagens/Pokedex/hires/856.png",
     },
   },
   {
@@ -34117,11 +34117,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/857.png",
+        "./Imagens/Pokedex/sprites/857.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/857.png",
+        "./Imagens/Pokedex/thumbnails/857.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/857.png",
+        "./Imagens/Pokedex/hires/857.png",
     },
   },
   {
@@ -34149,11 +34149,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/858.png",
+        "./Imagens/Pokedex/sprites/858.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/858.png",
+        "./Imagens/Pokedex/thumbnails/858.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/858.png",
+        "./Imagens/Pokedex/hires/858.png",
     },
   },
   {
@@ -34181,11 +34181,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/859.png",
+        "./Imagens/Pokedex/sprites/859.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/859.png",
+        "./Imagens/Pokedex/thumbnails/859.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/859.png",
+        "./Imagens/Pokedex/hires/859.png",
     },
   },
   {
@@ -34213,11 +34213,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/860.png",
+        "./Imagens/Pokedex/sprites/860.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/860.png",
+        "./Imagens/Pokedex/thumbnails/860.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/860.png",
+        "./Imagens/Pokedex/hires/860.png",
     },
   },
   {
@@ -34245,11 +34245,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/861.png",
+        "./Imagens/Pokedex/sprites/861.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/861.png",
+        "./Imagens/Pokedex/thumbnails/861.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/861.png",
+        "./Imagens/Pokedex/hires/861.png",
     },
   },
   {
@@ -34277,11 +34277,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/862.png",
+        "./Imagens/Pokedex/sprites/862.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/862.png",
+        "./Imagens/Pokedex/thumbnails/862.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/862.png",
+        "./Imagens/Pokedex/hires/862.png",
     },
   },
   {
@@ -34309,11 +34309,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/863.png",
+        "./Imagens/Pokedex/sprites/863.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/863.png",
+        "./Imagens/Pokedex/thumbnails/863.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/863.png",
+        "./Imagens/Pokedex/hires/863.png",
     },
   },
   {
@@ -34340,11 +34340,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/864.png",
+        "./Imagens/Pokedex/sprites/864.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/864.png",
+        "./Imagens/Pokedex/thumbnails/864.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/864.png",
+        "./Imagens/Pokedex/hires/864.png",
     },
   },
   {
@@ -34371,11 +34371,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/865.png",
+        "./Imagens/Pokedex/sprites/865.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/865.png",
+        "./Imagens/Pokedex/thumbnails/865.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/865.png",
+        "./Imagens/Pokedex/hires/865.png",
     },
   },
   {
@@ -34403,11 +34403,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/866.png",
+        "./Imagens/Pokedex/sprites/866.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/866.png",
+        "./Imagens/Pokedex/thumbnails/866.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/866.png",
+        "./Imagens/Pokedex/hires/866.png",
     },
   },
   {
@@ -34431,11 +34431,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/867.png",
+        "./Imagens/Pokedex/sprites/867.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/867.png",
+        "./Imagens/Pokedex/thumbnails/867.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/867.png",
+        "./Imagens/Pokedex/hires/867.png",
     },
   },
   {
@@ -34462,11 +34462,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/868.png",
+        "./Imagens/Pokedex/sprites/868.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/868.png",
+        "./Imagens/Pokedex/thumbnails/868.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/868.png",
+        "./Imagens/Pokedex/hires/868.png",
     },
   },
   {
@@ -34493,11 +34493,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/869.png",
+        "./Imagens/Pokedex/sprites/869.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/869.png",
+        "./Imagens/Pokedex/thumbnails/869.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/869.png",
+        "./Imagens/Pokedex/hires/869.png",
     },
   },
   {
@@ -34524,11 +34524,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/870.png",
+        "./Imagens/Pokedex/sprites/870.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/870.png",
+        "./Imagens/Pokedex/thumbnails/870.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/870.png",
+        "./Imagens/Pokedex/hires/870.png",
     },
   },
   {
@@ -34555,11 +34555,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/871.png",
+        "./Imagens/Pokedex/sprites/871.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/871.png",
+        "./Imagens/Pokedex/thumbnails/871.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/871.png",
+        "./Imagens/Pokedex/hires/871.png",
     },
   },
   {
@@ -34586,11 +34586,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/872.png",
+        "./Imagens/Pokedex/sprites/872.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/872.png",
+        "./Imagens/Pokedex/thumbnails/872.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/872.png",
+        "./Imagens/Pokedex/hires/872.png",
     },
   },
   {
@@ -34617,11 +34617,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/873.png",
+        "./Imagens/Pokedex/sprites/873.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/873.png",
+        "./Imagens/Pokedex/thumbnails/873.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/873.png",
+        "./Imagens/Pokedex/hires/873.png",
     },
   },
   {
@@ -34645,11 +34645,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/874.png",
+        "./Imagens/Pokedex/sprites/874.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/874.png",
+        "./Imagens/Pokedex/thumbnails/874.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/874.png",
+        "./Imagens/Pokedex/hires/874.png",
     },
   },
   {
@@ -34673,11 +34673,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/875.png",
+        "./Imagens/Pokedex/sprites/875.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/875.png",
+        "./Imagens/Pokedex/thumbnails/875.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/875.png",
+        "./Imagens/Pokedex/hires/875.png",
     },
   },
   {
@@ -34705,11 +34705,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/876.png",
+        "./Imagens/Pokedex/sprites/876.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/876.png",
+        "./Imagens/Pokedex/thumbnails/876.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/876.png",
+        "./Imagens/Pokedex/hires/876.png",
     },
   },
   {
@@ -34733,9 +34733,9 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/877.png",
+        "./Imagens/Pokedex/sprites/877.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/877.png",
+        "./Imagens/Pokedex/thumbnails/877.png",
     },
   },
   {
@@ -34762,11 +34762,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/878.png",
+        "./Imagens/Pokedex/sprites/878.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/878.png",
+        "./Imagens/Pokedex/thumbnails/878.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/878.png",
+        "./Imagens/Pokedex/hires/878.png",
     },
   },
   {
@@ -34793,11 +34793,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/879.png",
+        "./Imagens/Pokedex/sprites/879.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/879.png",
+        "./Imagens/Pokedex/thumbnails/879.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/879.png",
+        "./Imagens/Pokedex/hires/879.png",
     },
   },
   {
@@ -34825,11 +34825,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/880.png",
+        "./Imagens/Pokedex/sprites/880.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/880.png",
+        "./Imagens/Pokedex/thumbnails/880.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/880.png",
+        "./Imagens/Pokedex/hires/880.png",
     },
   },
   {
@@ -34857,11 +34857,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/881.png",
+        "./Imagens/Pokedex/sprites/881.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/881.png",
+        "./Imagens/Pokedex/thumbnails/881.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/881.png",
+        "./Imagens/Pokedex/hires/881.png",
     },
   },
   {
@@ -34889,11 +34889,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/882.png",
+        "./Imagens/Pokedex/sprites/882.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/882.png",
+        "./Imagens/Pokedex/thumbnails/882.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/882.png",
+        "./Imagens/Pokedex/hires/882.png",
     },
   },
   {
@@ -34921,11 +34921,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/883.png",
+        "./Imagens/Pokedex/sprites/883.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/883.png",
+        "./Imagens/Pokedex/thumbnails/883.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/883.png",
+        "./Imagens/Pokedex/hires/883.png",
     },
   },
   {
@@ -34953,11 +34953,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/884.png",
+        "./Imagens/Pokedex/sprites/884.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/884.png",
+        "./Imagens/Pokedex/thumbnails/884.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/884.png",
+        "./Imagens/Pokedex/hires/884.png",
     },
   },
   {
@@ -34985,11 +34985,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/885.png",
+        "./Imagens/Pokedex/sprites/885.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/885.png",
+        "./Imagens/Pokedex/thumbnails/885.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/885.png",
+        "./Imagens/Pokedex/hires/885.png",
     },
   },
   {
@@ -35017,11 +35017,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/886.png",
+        "./Imagens/Pokedex/sprites/886.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/886.png",
+        "./Imagens/Pokedex/thumbnails/886.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/886.png",
+        "./Imagens/Pokedex/hires/886.png",
     },
   },
   {
@@ -35049,11 +35049,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/887.png",
+        "./Imagens/Pokedex/sprites/887.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/887.png",
+        "./Imagens/Pokedex/thumbnails/887.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/887.png",
+        "./Imagens/Pokedex/hires/887.png",
     },
   },
   {
@@ -35077,11 +35077,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/888.png",
+        "./Imagens/Pokedex/sprites/888.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/888.png",
+        "./Imagens/Pokedex/thumbnails/888.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/888.png",
+        "./Imagens/Pokedex/hires/888.png",
     },
   },
   {
@@ -35105,11 +35105,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/889.png",
+        "./Imagens/Pokedex/sprites/889.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/889.png",
+        "./Imagens/Pokedex/thumbnails/889.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/889.png",
+        "./Imagens/Pokedex/hires/889.png",
     },
   },
   {
@@ -35133,11 +35133,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/890.png",
+        "./Imagens/Pokedex/sprites/890.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/890.png",
+        "./Imagens/Pokedex/thumbnails/890.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/890.png",
+        "./Imagens/Pokedex/hires/890.png",
     },
   },
   {
@@ -35166,11 +35166,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/891.png",
+        "./Imagens/Pokedex/sprites/891.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/891.png",
+        "./Imagens/Pokedex/thumbnails/891.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/891.png",
+        "./Imagens/Pokedex/hires/891.png",
     },
   },
   {
@@ -35194,11 +35194,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/892.png",
+        "./Imagens/Pokedex/sprites/892.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/892.png",
+        "./Imagens/Pokedex/thumbnails/892.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/892.png",
+        "./Imagens/Pokedex/hires/892.png",
     },
   },
   {
@@ -35222,11 +35222,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/893.png",
+        "./Imagens/Pokedex/sprites/893.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/893.png",
+        "./Imagens/Pokedex/thumbnails/893.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/893.png",
+        "./Imagens/Pokedex/hires/893.png",
     },
   },
   {
@@ -35250,11 +35250,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/894.png",
+        "./Imagens/Pokedex/sprites/894.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/894.png",
+        "./Imagens/Pokedex/thumbnails/894.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/894.png",
+        "./Imagens/Pokedex/hires/894.png",
     },
   },
   {
@@ -35278,11 +35278,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/895.png",
+        "./Imagens/Pokedex/sprites/895.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/895.png",
+        "./Imagens/Pokedex/thumbnails/895.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/895.png",
+        "./Imagens/Pokedex/hires/895.png",
     },
   },
   {
@@ -35306,11 +35306,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/896.png",
+        "./Imagens/Pokedex/sprites/896.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/896.png",
+        "./Imagens/Pokedex/thumbnails/896.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/896.png",
+        "./Imagens/Pokedex/hires/896.png",
     },
   },
   {
@@ -35334,11 +35334,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/897.png",
+        "./Imagens/Pokedex/sprites/897.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/897.png",
+        "./Imagens/Pokedex/thumbnails/897.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/897.png",
+        "./Imagens/Pokedex/hires/897.png",
     },
   },
   {
@@ -35362,11 +35362,11 @@ const POKEDEX_JSON = [
     },
     image: {
       sprite:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/898.png",
+        "./Imagens/Pokedex/sprites/898.png",
       thumbnail:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/thumbnails/898.png",
+        "./Imagens/Pokedex/thumbnails/898.png",
       hires:
-        "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/898.png",
+        "./Imagens/Pokedex/hires/898.png",
     },
   },
 ];

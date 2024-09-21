@@ -21,7 +21,7 @@ search_pokemon.addEventListener("submit", (event) => {
   }
   else
   {
-    image_pokemon.src = pokemon.image.thumbnail;
+    image_pokemon.src = pokemon.image.hires;
     desc_pokemon.textContent = pokemon.description;
     return true;
   }
