@@ -18,8 +18,10 @@ const POKEDEX_JSON = [
     },
     species: "Seed Pokémon",
     description:
-      "Bulbasaur can be seen napping in bright sunlight. There is a seed on its back. By soaking up the sun’s rays, the seed grows progressively larger.",
-    evolution: { next: [["2", "Level 16"]] },
+      "Bulbasaur pode ser visto cochilando sob a luz brilhante do sol. Há uma semente em suas costas. Ao absorver os raios solares, a semente cresce progressivamente maior.",
+    evolution: {
+      next: [["2", "Level 16"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "6.9 kg",
@@ -31,12 +33,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/001.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/001.png",
-      hires:
-        "./Imagens/Pokedex/hires/001.png",
+      sprite: "./Imagens/Pokedex/sprites/001.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/001.png",
+      hires: "./Imagens/Pokedex/hires/001.png",
     },
   },
   {
@@ -58,8 +57,11 @@ const POKEDEX_JSON = [
     },
     species: "Seed Pokémon",
     description:
-      "There is a bud on this Pokémon’s back. To support its weight, Ivysaur’s legs and trunk grow thick and strong. If it starts spending more time lying in the sunlight, it’s a sign that the bud will bloom into a large flower soon.",
-    evolution: { prev: ["1", "Level 16"], next: [["3", "Level 32"]] },
+      "Há um botão nas costas deste Pokémon. Para suportar seu peso, as pernas e o tronco de Ivysaur crescem grossos e fortes. Se começar a passar mais tempo deitado ao sol, é sinal de que o botão logo florescerá em uma grande flor.",
+    evolution: {
+      prev: ["1", "Level 16"],
+      next: [["3", "Level 32"]],
+    },
     profile: {
       height: "1 m",
       weight: "13 kg",
@@ -71,12 +73,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/002.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/002.png",
-      hires:
-        "./Imagens/Pokedex/hires/002.png",
+      sprite: "./Imagens/Pokedex/sprites/002.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/002.png",
+      hires: "./Imagens/Pokedex/hires/002.png",
     },
   },
   {
@@ -98,8 +97,10 @@ const POKEDEX_JSON = [
     },
     species: "Seed Pokémon",
     description:
-      "There is a large flower on Venusaur’s back. The flower is said to take on vivid colors if it gets plenty of nutrition and sunlight. The flower’s aroma soothes the emotions of people.",
-    evolution: { prev: ["2", "Level 32"] },
+      "Há uma grande flor nas costas de Venusaur. Diz-se que a flor adquire cores vivas se receber muita nutrição e luz solar. O aroma da flor acalma as emoções das pessoas.",
+    evolution: {
+      prev: ["2", "Level 32"],
+    },
     profile: {
       height: "2 m",
       weight: "100 kg",
@@ -111,12 +112,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/003.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/003.png",
-      hires:
-        "./Imagens/Pokedex/hires/003.png",
+      sprite: "./Imagens/Pokedex/sprites/003.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/003.png",
+      hires: "./Imagens/Pokedex/hires/003.png",
     },
   },
   {
@@ -138,8 +136,10 @@ const POKEDEX_JSON = [
     },
     species: "Lizard Pokémon",
     description:
-      "The flame that burns at the tip of its tail is an indication of its emotions. The flame wavers when Charmander is enjoying itself. If the Pokémon becomes enraged, the flame burns fiercely.",
-    evolution: { next: [["5", "Level 16"]] },
+      "A chama que queima na ponta de sua cauda é uma indicação de suas emoções. A chama vacila quando Charmander está se divertindo. Se o Pokémon ficar furioso, a chama queima ferozmente.",
+    evolution: {
+      next: [["5", "Level 16"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "8.5 kg",
@@ -151,12 +151,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/004.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/004.png",
-      hires:
-        "./Imagens/Pokedex/hires/004.png",
+      sprite: "./Imagens/Pokedex/sprites/004.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/004.png",
+      hires: "./Imagens/Pokedex/hires/004.png",
     },
   },
   {
@@ -178,8 +175,11 @@ const POKEDEX_JSON = [
     },
     species: "Flame Pokémon",
     description:
-      "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
-    evolution: { prev: ["4", "Level 16"], next: [["6", "Level 36"]] },
+      "Charmeleon destrói impiedosamente seus inimigos usando suas garras afiadas. Se encontrar um inimigo forte, ele fica agressivo. Nesse estado excitado, a chama na ponta de sua cauda brilha com uma cor branco azulada.",
+    evolution: {
+      prev: ["4", "Level 16"],
+      next: [["6", "Level 36"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "19 kg",
@@ -191,12 +191,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/005.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/005.png",
-      hires:
-        "./Imagens/Pokedex/hires/005.png",
+      sprite: "./Imagens/Pokedex/sprites/005.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/005.png",
+      hires: "./Imagens/Pokedex/hires/005.png",
     },
   },
   {
@@ -218,8 +215,10 @@ const POKEDEX_JSON = [
     },
     species: "Flame Pokémon",
     description:
-      "Charizard flies around the sky in search of powerful opponents. It breathes fire of such great heat that it melts anything. However, it never turns its fiery breath on any opponent weaker than itself.",
-    evolution: { prev: ["5", "Level 36"] },
+      "Charizard voa pelo céu em busca de oponentes poderosos. Ele respira fogo de um calor tão grande que derrete qualquer coisa. No entanto, ele nunca vira sua respiração de fogo contra nenhum oponente mais fraco que ele.",
+    evolution: {
+      prev: ["5", "Level 36"],
+    },
     profile: {
       height: "1.7 m",
       weight: "90.5 kg",
@@ -231,12 +230,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/006.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/006.png",
-      hires:
-        "./Imagens/Pokedex/hires/006.png",
+      sprite: "./Imagens/Pokedex/sprites/006.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/006.png",
+      hires: "./Imagens/Pokedex/hires/006.png",
     },
   },
   {
@@ -258,8 +254,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Turtle Pokémon",
     description:
-      "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
-    evolution: { next: [["8", "Level 16"]] },
+      "A casca de Squirtle não é usada apenas para proteção. A forma arredondada da casca e os sulcos em sua superfície ajudam a minimizar a resistência na água, permitindo que este Pokémon nade em altas velocidades.",
+    evolution: {
+      next: [["8", "Level 16"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9 kg",
@@ -271,12 +269,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/007.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/007.png",
-      hires:
-        "./Imagens/Pokedex/hires/007.png",
+      sprite: "./Imagens/Pokedex/sprites/007.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/007.png",
+      hires: "./Imagens/Pokedex/hires/007.png",
     },
   },
   {
@@ -298,8 +293,11 @@ const POKEDEX_JSON = [
     },
     species: "Turtle Pokémon",
     description:
-      "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler.",
-    evolution: { prev: ["7", "Level 16"], next: [["9", "Level 36"]] },
+      "Sua cauda é grande e coberta por uma pelagem rica e espessa. A cauda fica cada vez mais escura à medida que Wartortle envelhece. Os arranhões em sua casca são evidência da resistência deste Pokémon como lutador.",
+    evolution: {
+      prev: ["7", "Level 16"],
+      next: [["9", "Level 36"]],
+    },
     profile: {
       height: "1 m",
       weight: "22.5 kg",
@@ -311,12 +309,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/008.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/008.png",
-      hires:
-        "./Imagens/Pokedex/hires/008.png",
+      sprite: "./Imagens/Pokedex/sprites/008.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/008.png",
+      hires: "./Imagens/Pokedex/hires/008.png",
     },
   },
   {
@@ -338,8 +333,10 @@ const POKEDEX_JSON = [
     },
     species: "Shellfish Pokémon",
     description:
-      "Blastoise has water spouts that protrude from its shell. The water spouts are very accurate. They can shoot bullets of water with enough accuracy to strike empty cans from a distance of over 160 feet.",
-    evolution: { prev: ["8", "Level 36"] },
+      "Blastoise possui jatos de água que saem de sua casca. Os jatos de água são muito precisos. Eles podem disparar balas de água com precisão suficiente para atingir latas vazias a uma distância de mais de 50 metros.",
+    evolution: {
+      prev: ["8", "Level 36"],
+    },
     profile: {
       height: "1.6 m",
       weight: "85.5 kg",
@@ -351,12 +348,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/009.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/009.png",
-      hires:
-        "./Imagens/Pokedex/hires/009.png",
+      sprite: "./Imagens/Pokedex/sprites/009.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/009.png",
+      hires: "./Imagens/Pokedex/hires/009.png",
     },
   },
   {
@@ -378,8 +372,10 @@ const POKEDEX_JSON = [
     },
     species: "Worm Pokémon",
     description:
-      "Its body is soft and weak. In nature, its perpetual fate is to be seen by others as food.",
-    evolution: { next: [["11", "Level 7"]] },
+      "Seu corpo é macio e fraco. Na natureza, seu destino perpétuo é ser visto pelos outros como alimento.",
+    evolution: {
+      next: [["11", "Level 7"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.9 kg",
@@ -391,12 +387,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/010.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/010.png",
-      hires:
-        "./Imagens/Pokedex/hires/010.png",
+      sprite: "./Imagens/Pokedex/sprites/010.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/010.png",
+      hires: "./Imagens/Pokedex/hires/010.png",
     },
   },
   {
@@ -418,8 +411,11 @@ const POKEDEX_JSON = [
     },
     species: "Cocoon Pokémon",
     description:
-      "Its hard shell doesn’t crack a bit even if Pikipek pecks at it, but it will tip over, spilling out its insides.",
-    evolution: { prev: ["10", "Level 7"], next: [["12", "Level 10"]] },
+      "Sua casca dura não se racha nem um pouco, mesmo que Pikipek a bicar, mas ela vai tombar, derramando suas entranhas.",
+    evolution: {
+      prev: ["10", "Level 7"],
+      next: [["12", "Level 10"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "9.9 kg",
@@ -428,12 +424,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/011.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/011.png",
-      hires:
-        "./Imagens/Pokedex/hires/011.png",
+      sprite: "./Imagens/Pokedex/sprites/011.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/011.png",
+      hires: "./Imagens/Pokedex/hires/011.png",
     },
   },
   {
@@ -455,8 +448,10 @@ const POKEDEX_JSON = [
     },
     species: "Butterfly Pokémon",
     description:
-      "Nectar from pretty flowers is its favorite food. In fields of flowers, it has heated battles with Cutiefly for territory.",
-    evolution: { prev: ["11", "Level 10"] },
+      "Néctar de flores bonitas é sua comida favorita. Em campos de flores, ele tem batalhas acirradas com Cutiefly por território.",
+    evolution: {
+      prev: ["11", "Level 10"],
+    },
     profile: {
       height: "1.1 m",
       weight: "32 kg",
@@ -468,12 +463,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/012.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/012.png",
-      hires:
-        "./Imagens/Pokedex/hires/012.png",
+      sprite: "./Imagens/Pokedex/sprites/012.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/012.png",
+      hires: "./Imagens/Pokedex/hires/012.png",
     },
   },
   {
@@ -495,8 +487,10 @@ const POKEDEX_JSON = [
     },
     species: "Hairy Bug Pokémon",
     description:
-      "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-    evolution: { next: [["14", "Level 7"]] },
+      "Weedle possui um olfato extremamente aguçado. É capaz de distinguir seus tipos favoritos de folhas daquelas que não gosta apenas cheirando com seu grande probóscide vermelho (nariz).",
+    evolution: {
+      next: [["14", "Level 7"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "3.2 kg",
@@ -508,12 +502,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/013.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/013.png",
-      hires:
-        "./Imagens/Pokedex/hires/013.png",
+      sprite: "./Imagens/Pokedex/sprites/013.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/013.png",
+      hires: "./Imagens/Pokedex/hires/013.png",
     },
   },
   {
@@ -535,8 +526,11 @@ const POKEDEX_JSON = [
     },
     species: "Cocoon Pokémon",
     description:
-      "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-    evolution: { prev: ["13", "Level 7"], next: [["15", "Level 10"]] },
+      "Kakuna permanece praticamente imóvel enquanto se agarra a uma árvore. No entanto, por dentro, está extremamente ocupado enquanto se prepara para sua evolução futura. Isso é evidente pela quão quente a casca fica ao toque.",
+    evolution: {
+      prev: ["13", "Level 7"],
+      next: [["15", "Level 10"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "10 kg",
@@ -545,12 +539,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/014.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/014.png",
-      hires:
-        "./Imagens/Pokedex/hires/014.png",
+      sprite: "./Imagens/Pokedex/sprites/014.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/014.png",
+      hires: "./Imagens/Pokedex/hires/014.png",
     },
   },
   {
@@ -572,8 +563,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Bee Pokémon",
     description:
-      "Beedrill is extremely territorial. No one should ever approach its nest—this is for their own safety. If angered, they will attack in a furious swarm.",
-    evolution: { prev: ["14", "Level 10"] },
+      "Beedrill é extremamente territorial. Ninguém deve se aproximar de seu ninho - isso é para sua própria segurança. Se enfurecido, eles atacarão em um enxame furioso.",
+    evolution: {
+      prev: ["14", "Level 10"],
+    },
     profile: {
       height: "1 m",
       weight: "29.5 kg",
@@ -585,12 +578,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/015.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/015.png",
-      hires:
-        "./Imagens/Pokedex/hires/015.png",
+      sprite: "./Imagens/Pokedex/sprites/015.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/015.png",
+      hires: "./Imagens/Pokedex/hires/015.png",
     },
   },
   {
@@ -612,8 +602,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Bird Pokémon",
     description:
-      "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
-    evolution: { next: [["17", "Level 18"]] },
+      "Pidgey possui um sentido de direção extremamente aguçado. É capaz de retornar invariavelmente para casa, em seu ninho, não importa quão longe esteja de seus arredores familiares.",
+    evolution: {
+      next: [["17", "Level 18"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.8 kg",
@@ -626,12 +618,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/016.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/016.png",
-      hires:
-        "./Imagens/Pokedex/hires/016.png",
+      sprite: "./Imagens/Pokedex/sprites/016.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/016.png",
+      hires: "./Imagens/Pokedex/hires/016.png",
     },
   },
   {
@@ -653,8 +642,11 @@ const POKEDEX_JSON = [
     },
     species: "Bird Pokémon",
     description:
-      "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-    evolution: { prev: ["16", "Level 18"], next: [["18", "Level 36"]] },
+      "Pidgeotto reivindica uma grande área como seu território próprio. Este Pokémon voa ao redor, patrulhando seu espaço vital. Se seu território for violado, ele não mostra nenhuma piedade em punir completamente o inimigo com suas garras afiadas.",
+    evolution: {
+      prev: ["16", "Level 18"],
+      next: [["18", "Level 36"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "30 kg",
@@ -667,12 +659,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/017.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/017.png",
-      hires:
-        "./Imagens/Pokedex/hires/017.png",
+      sprite: "./Imagens/Pokedex/sprites/017.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/017.png",
+      hires: "./Imagens/Pokedex/hires/017.png",
     },
   },
   {
@@ -694,8 +683,10 @@ const POKEDEX_JSON = [
     },
     species: "Bird Pokémon",
     description:
-      "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
-    evolution: { prev: ["17", "Level 36"] },
+      "Este Pokémon possui uma plumagem deslumbrante de penas lindamente brilhantes. Muitos Treinadores são cativados pela impressionante beleza das penas em sua cabeça, levando-os a escolher Pidgeot como seu Pokémon.",
+    evolution: {
+      prev: ["17", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "39.5 kg",
@@ -708,12 +699,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/018.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/018.png",
-      hires:
-        "./Imagens/Pokedex/hires/018.png",
+      sprite: "./Imagens/Pokedex/sprites/018.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/018.png",
+      hires: "./Imagens/Pokedex/hires/018.png",
     },
   },
   {
@@ -735,8 +723,10 @@ const POKEDEX_JSON = [
     },
     species: "Mouse Pokémon",
     description:
-      "This Pokémon is common but hazardous. Its sharp incisors can easily cut right through hard wood.",
-    evolution: { next: [["20", "Level 20"]] },
+      "Este Pokémon é comum, mas perigoso. Seus incisivos afiados podem cortar facilmente a madeira dura.",
+    evolution: {
+      next: [["20", "Level 20"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "3.5 kg",
@@ -749,12 +739,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/019.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/019.png",
-      hires:
-        "./Imagens/Pokedex/hires/019.png",
+      sprite: "./Imagens/Pokedex/sprites/019.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/019.png",
+      hires: "./Imagens/Pokedex/hires/019.png",
     },
   },
   {
@@ -776,8 +763,10 @@ const POKEDEX_JSON = [
     },
     species: "Mouse Pokémon",
     description:
-      "Its whiskers are essential for maintaining its balance. No matter how friendly you are, it will get angry and bite you if you touch its whiskers.",
-    evolution: { prev: ["19", "Level 20"] },
+      "Seus bigodes são essenciais para manter seu equilíbrio. Não importa quão amigável você seja, ele ficará com raiva e morderá você se você tocar seus bigodes.",
+    evolution: {
+      prev: ["19", "Level 20"],
+    },
     profile: {
       height: "0.7 m",
       weight: "18.5 kg",
@@ -790,12 +779,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/020.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/020.png",
-      hires:
-        "./Imagens/Pokedex/hires/020.png",
+      sprite: "./Imagens/Pokedex/sprites/020.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/020.png",
+      hires: "./Imagens/Pokedex/hires/020.png",
     },
   },
   {
@@ -817,8 +803,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Bird Pokémon",
     description:
-      "Due to its short wings, it can’t fly long distances. It wanders about restlessly and pecks at bug Pokémon.",
-    evolution: { next: [["22", "Level 20"]] },
+      "Devido às suas asas curtas, não pode voar longas distâncias. Ele vagueia inquieto e bicada Pokémon inseto.",
+    evolution: {
+      next: [["22", "Level 20"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2 kg",
@@ -830,12 +818,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/021.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/021.png",
-      hires:
-        "./Imagens/Pokedex/hires/021.png",
+      sprite: "./Imagens/Pokedex/sprites/021.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/021.png",
+      hires: "./Imagens/Pokedex/hires/021.png",
     },
   },
   {
@@ -857,8 +842,10 @@ const POKEDEX_JSON = [
     },
     species: "Beak Pokémon",
     description:
-      "In Alola, fish Pokémon are its prey. It can be seen circling above the ocean searching for food.",
-    evolution: { prev: ["21", "Level 20"] },
+      "Em Alola, Pokémon peixe são suas presas. Pode ser visto circulando acima do oceano em busca de comida.",
+    evolution: {
+      prev: ["21", "Level 20"],
+    },
     profile: {
       height: "1.2 m",
       weight: "38 kg",
@@ -870,12 +857,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/022.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/022.png",
-      hires:
-        "./Imagens/Pokedex/hires/022.png",
+      sprite: "./Imagens/Pokedex/sprites/022.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/022.png",
+      hires: "./Imagens/Pokedex/hires/022.png",
     },
   },
   {
@@ -897,8 +881,10 @@ const POKEDEX_JSON = [
     },
     species: "Snake Pokémon",
     description:
-      "The eggs of bird Pokémon are its favorite food. It swallows eggs whole, so sometimes an egg gets stuck, and Ekans faints.",
-    evolution: { next: [["24", "Level 22"]] },
+      "Os ovos de Pokémon pássaro são sua comida favorita. Ele engole os ovos inteiros, então às vezes um ovo fica preso e Ekans desmaia.",
+    evolution: {
+      next: [["24", "Level 22"]],
+    },
     profile: {
       height: "2 m",
       weight: "6.9 kg",
@@ -911,12 +897,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/023.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/023.png",
-      hires:
-        "./Imagens/Pokedex/hires/023.png",
+      sprite: "./Imagens/Pokedex/sprites/023.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/023.png",
+      hires: "./Imagens/Pokedex/hires/023.png",
     },
   },
   {
@@ -938,8 +921,10 @@ const POKEDEX_JSON = [
     },
     species: "Cobra Pokémon",
     description:
-      "After stunning its opponents with the pattern on its stomach, it quickly wraps them up in its body and waits for them to stop moving.",
-    evolution: { prev: ["23", "Level 22"] },
+      "Após atordoar seus oponentes com o padrão em seu estômago, ele rapidamente os envolve em seu corpo e espera que parem de se mover.",
+    evolution: {
+      prev: ["23", "Level 22"],
+    },
     profile: {
       height: "3.5 m",
       weight: "65 kg",
@@ -952,12 +937,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/024.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/024.png",
-      hires:
-        "./Imagens/Pokedex/hires/024.png",
+      sprite: "./Imagens/Pokedex/sprites/024.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/024.png",
+      hires: "./Imagens/Pokedex/hires/024.png",
     },
   },
   {
@@ -979,7 +961,7 @@ const POKEDEX_JSON = [
     },
     species: "Mouse Pokémon",
     description:
-      "While sleeping, it generates electricity in the sacs in its cheeks. If it’s not getting enough sleep, it will be able to use only weak electricity.",
+      "Enquanto dorme, gera eletricidade nos sacos em suas bochechas. Se não estiver dormindo o suficiente, só poderá usar eletricidade fraca.",
     evolution: {
       prev: ["172", "high Friendship"],
       next: [["26", "use Thunder Stone"]],
@@ -995,12 +977,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/025.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/025.png",
-      hires:
-        "./Imagens/Pokedex/hires/025.png",
+      sprite: "./Imagens/Pokedex/sprites/025.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/025.png",
+      hires: "./Imagens/Pokedex/hires/025.png",
     },
   },
   {
@@ -1022,8 +1001,10 @@ const POKEDEX_JSON = [
     },
     species: "Mouse Pokémon",
     description:
-      "Because so many Trainers like the way Pikachu looks, you don’t see this Pokémon very often.",
-    evolution: { prev: ["25", "use Thunder Stone"] },
+      "Como muitos Treinadores gostam da aparência de Pikachu, você não vê muito este Pokémon.",
+    evolution: {
+      prev: ["25", "use Thunder Stone"],
+    },
     profile: {
       height: "0.8 m",
       weight: "30 kg",
@@ -1035,12 +1016,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/026.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/026.png",
-      hires:
-        "./Imagens/Pokedex/hires/026.png",
+      sprite: "./Imagens/Pokedex/sprites/026.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/026.png",
+      hires: "./Imagens/Pokedex/hires/026.png",
     },
   },
   {
@@ -1062,8 +1040,10 @@ const POKEDEX_JSON = [
     },
     species: "Mouse Pokémon",
     description:
-      "When its skin gets wrinkled from moisture, it heads for a volcano. It lies flat on a spot with a lot of geothermal heat and dries itself out.",
-    evolution: { next: [["28", "Level 22"]] },
+      "Quando sua pele fica enrugada pela umidade, ele se dirige para um vulcão. Ele deita-se em um lugar com muito calor geotérmico e seca-se.",
+    evolution: {
+      next: [["28", "Level 22"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "12 kg",
@@ -1075,12 +1055,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/027.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/027.png",
-      hires:
-        "./Imagens/Pokedex/hires/027.png",
+      sprite: "./Imagens/Pokedex/sprites/027.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/027.png",
+      hires: "./Imagens/Pokedex/hires/027.png",
     },
   },
   {
@@ -1102,8 +1079,10 @@ const POKEDEX_JSON = [
     },
     species: "Mouse Pokémon",
     description:
-      "Thanks to its thick claws, it’s good at climbing trees. There are plenty of Sandslash that park themselves in trees and go right to sleep.",
-    evolution: { prev: ["27", "Level 22"] },
+      "Graças às suas garras grossas, é bom em escalar árvores. Há muitos Sandslash que se estacionam em árvores e vão direto para dormir.",
+    evolution: {
+      prev: ["27", "Level 22"],
+    },
     profile: {
       height: "1 m",
       weight: "29.5 kg",
@@ -1115,12 +1094,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/028.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/028.png",
-      hires:
-        "./Imagens/Pokedex/hires/028.png",
+      sprite: "./Imagens/Pokedex/sprites/028.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/028.png",
+      hires: "./Imagens/Pokedex/hires/028.png",
     },
   },
   {
@@ -1142,8 +1118,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Pin Pokémon",
     description:
-      "Nidoran♀ has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
-    evolution: { next: [["30", "Level 16"]] },
+      "Nidoran♀ possui farpas que secretam um veneno poderoso. Acredita-se que se desenvolveram como proteção para este Pokémon de corpo pequeno. Quando enfurecido, ele libera uma toxina horrível de seu chifre.",
+    evolution: {
+      next: [["30", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7 kg",
@@ -1156,12 +1134,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/029.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/029.png",
-      hires:
-        "./Imagens/Pokedex/hires/029.png",
+      sprite: "./Imagens/Pokedex/sprites/029.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/029.png",
+      hires: "./Imagens/Pokedex/hires/029.png",
     },
   },
   {
@@ -1183,7 +1158,7 @@ const POKEDEX_JSON = [
     },
     species: "Poison Pin Pokémon",
     description:
-      "When Nidorina are with their friends or family, they keep their barbs tucked away to prevent hurting each other. This Pokémon appears to become nervous if separated from the others.",
+      "Quando Nidorina estão com seus amigos ou família, mantêm suas farpas escondidas para evitar machucar um ao outro. Este Pokémon parece ficar nervoso se separado dos outros.",
     evolution: {
       prev: ["29", "Level 16"],
       next: [["31", "use Moon Stone"]],
@@ -1200,12 +1175,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/030.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/030.png",
-      hires:
-        "./Imagens/Pokedex/hires/030.png",
+      sprite: "./Imagens/Pokedex/sprites/030.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/030.png",
+      hires: "./Imagens/Pokedex/hires/030.png",
     },
   },
   {
@@ -1227,8 +1199,10 @@ const POKEDEX_JSON = [
     },
     species: "Drill Pokémon",
     description:
-      "Nidoqueen’s body is encased in extremely hard scales. It is adept at sending foes flying with harsh tackles. This Pokémon is at its strongest when it is defending its young.",
-    evolution: { prev: ["30", "use Moon Stone"] },
+      "O corpo de Nidoqueen é revestido por escamas extremamente duras. É adepta em enviar inimigos voando com ataques brutais. Este Pokémon está em seu auge quando está defendendo seus filhotes.",
+    evolution: {
+      prev: ["30", "use Moon Stone"],
+    },
     profile: {
       height: "1.3 m",
       weight: "60 kg",
@@ -1241,12 +1215,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/031.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/031.png",
-      hires:
-        "./Imagens/Pokedex/hires/031.png",
+      sprite: "./Imagens/Pokedex/sprites/031.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/031.png",
+      hires: "./Imagens/Pokedex/hires/031.png",
     },
   },
   {
@@ -1268,8 +1239,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Pin Pokémon",
     description:
-      "Nidoran♂ has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon’s notice.",
-    evolution: { next: [["33", "Level 16"]] },
+      "Nidoran♂ desenvolveu músculos para mover seus ouvidos. Graças a eles, os ouvidos podem ser livremente movidos em qualquer direção. Nem mesmo o menor som escapa da atenção deste Pokémon.",
+    evolution: {
+      next: [["33", "Level 16"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9 kg",
@@ -1282,12 +1255,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/032.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/032.png",
-      hires:
-        "./Imagens/Pokedex/hires/032.png",
+      sprite: "./Imagens/Pokedex/sprites/032.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/032.png",
+      hires: "./Imagens/Pokedex/hires/032.png",
     },
   },
   {
@@ -1309,7 +1279,7 @@ const POKEDEX_JSON = [
     },
     species: "Poison Pin Pokémon",
     description:
-      "Nidorino has a horn that is harder than a diamond. If it senses a hostile presence, all the barbs on its back bristle up at once, and it challenges the foe with all its might.",
+      "Nidorino possui um chifre mais duro que um diamante. Se sentir uma presença hostil, todas as farpas em suas costas se eriçam de uma vez e ele desafia o inimigo com todas as suas forças.",
     evolution: {
       prev: ["32", "Level 16"],
       next: [["34", "use Moon Stone"]],
@@ -1326,12 +1296,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/033.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/033.png",
-      hires:
-        "./Imagens/Pokedex/hires/033.png",
+      sprite: "./Imagens/Pokedex/sprites/033.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/033.png",
+      hires: "./Imagens/Pokedex/hires/033.png",
     },
   },
   {
@@ -1353,8 +1320,10 @@ const POKEDEX_JSON = [
     },
     species: "Drill Pokémon",
     description:
-      "Nidoking’s thick tail packs enormously destructive power. With one swing, it can topple a metal transmission tower. Once this Pokémon goes on a rampage, there is no stopping it.",
-    evolution: { prev: ["33", "use Moon Stone"] },
+      "A cauda grossa de Nidoking possui um poder destrutivo enorme. Com um balanço, pode derrubar uma torre de transmissão de metal. Uma vez que este Pokémon entra em uma onda de fúria, não há como pará-lo.",
+    evolution: {
+      prev: ["33", "use Moon Stone"],
+    },
     profile: {
       height: "1.4 m",
       weight: "62 kg",
@@ -1367,12 +1336,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/034.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/034.png",
-      hires:
-        "./Imagens/Pokedex/hires/034.png",
+      sprite: "./Imagens/Pokedex/sprites/034.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/034.png",
+      hires: "./Imagens/Pokedex/hires/034.png",
     },
   },
   {
@@ -1394,7 +1360,7 @@ const POKEDEX_JSON = [
     },
     species: "Fairy Pokémon",
     description:
-      "Bathed in moonlight, its wings glow faintly. Without even flapping, Clefairy rises into the air, where it dances around.",
+      "Banhado pelo luar, suas asas brilham levemente. Sem nem mesmo bater, Clefairy sobe no ar, onde dança ao redor.",
     evolution: {
       prev: ["173", "high Friendship"],
       next: [["36", "use Moon Stone"]],
@@ -1411,12 +1377,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/035.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/035.png",
-      hires:
-        "./Imagens/Pokedex/hires/035.png",
+      sprite: "./Imagens/Pokedex/sprites/035.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/035.png",
+      hires: "./Imagens/Pokedex/hires/035.png",
     },
   },
   {
@@ -1438,8 +1401,10 @@ const POKEDEX_JSON = [
     },
     species: "Fairy Pokémon",
     description:
-      "Some scientists believe that it gazes intently at the sky on nights with a full moon because it’s homesick.",
-    evolution: { prev: ["35", "use Moon Stone"] },
+      "Alguns cientistas acreditam que ele olha intensamente para o céu nas noites de lua cheia porque está com saudades de casa.",
+    evolution: {
+      prev: ["35", "use Moon Stone"],
+    },
     profile: {
       height: "1.3 m",
       weight: "40 kg",
@@ -1452,12 +1417,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/036.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/036.png",
-      hires:
-        "./Imagens/Pokedex/hires/036.png",
+      sprite: "./Imagens/Pokedex/sprites/036.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/036.png",
+      hires: "./Imagens/Pokedex/hires/036.png",
     },
   },
   {
@@ -1479,8 +1441,10 @@ const POKEDEX_JSON = [
     },
     species: "Fox Pokémon",
     description:
-      "It manipulates balls of fire to catch its prey. If you raise one from when it’s young, it will grow close to you like a puppy Pokémon.",
-    evolution: { next: [["38", "use Fire Stone"]] },
+      "Ele manipula bolas de fogo para capturar sua presa. Se você criar um desde quando é jovem, ele crescerá perto de você como um Pokémon filhote.",
+    evolution: {
+      next: [["38", "use Fire Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "9.9 kg",
@@ -1492,12 +1456,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/037.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/037.png",
-      hires:
-        "./Imagens/Pokedex/hires/037.png",
+      sprite: "./Imagens/Pokedex/sprites/037.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/037.png",
+      hires: "./Imagens/Pokedex/hires/037.png",
     },
   },
   {
@@ -1519,8 +1480,10 @@ const POKEDEX_JSON = [
     },
     species: "Fox Pokémon",
     description:
-      "The flickering flames it spews from its mouth leave its opponents hypnotized. Then, this extremely intelligent Pokémon attacks.",
-    evolution: { prev: ["37", "use Fire Stone"] },
+      "As chamas flutuantes que ele expele de sua boca deixam seus oponentes hipnotizados. Então, este Pokémon extremamente inteligente ataca.",
+    evolution: {
+      prev: ["37", "use Fire Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "19.9 kg",
@@ -1532,12 +1495,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/038.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/038.png",
-      hires:
-        "./Imagens/Pokedex/hires/038.png",
+      sprite: "./Imagens/Pokedex/sprites/038.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/038.png",
+      hires: "./Imagens/Pokedex/hires/038.png",
     },
   },
   {
@@ -1559,7 +1519,7 @@ const POKEDEX_JSON = [
     },
     species: "Balloon Pokémon",
     description:
-      "The songs they sing are totally different depending on the region they live in. Some even sound like they’re shouting!",
+      "As canções que eles cantam são totalmente diferentes dependendo da região em que vivem. Algumas até soam como se estivessem gritando!",
     evolution: {
       prev: ["174", "high Friendship"],
       next: [["40", "use Moon Stone"]],
@@ -1576,12 +1536,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/039.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/039.png",
-      hires:
-        "./Imagens/Pokedex/hires/039.png",
+      sprite: "./Imagens/Pokedex/sprites/039.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/039.png",
+      hires: "./Imagens/Pokedex/hires/039.png",
     },
   },
   {
@@ -1603,8 +1560,10 @@ const POKEDEX_JSON = [
     },
     species: "Balloon Pokémon",
     description:
-      "When it gets angry, it inhales with all its might, and its body gradually inflates. Sometimes they can grow 20 times larger!",
-    evolution: { prev: ["39", "use Moon Stone"] },
+      "Quando fica com raiva, inala com todas as forças e seu corpo se infla gradualmente. Às vezes podem crescer 20 vezes mais!",
+    evolution: {
+      prev: ["39", "use Moon Stone"],
+    },
     profile: {
       height: "1 m",
       weight: "12 kg",
@@ -1617,12 +1576,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/040.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/040.png",
-      hires:
-        "./Imagens/Pokedex/hires/040.png",
+      sprite: "./Imagens/Pokedex/sprites/040.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/040.png",
+      hires: "./Imagens/Pokedex/hires/040.png",
     },
   },
   {
@@ -1644,8 +1600,10 @@ const POKEDEX_JSON = [
     },
     species: "Bat Pokémon",
     description:
-      "Their skin is so thin that they’ll be burned if sunlight hits them. When it gets cold out, they gather together to warm one another’s bodies.",
-    evolution: { next: [["42", "Level 22"]] },
+      "Sua pele é tão fina que eles serão queimados se a luz solar atingi-los. Quando fica frio lá fora, eles se reúnem para aquecer os corpos uns dos outros.",
+    evolution: {
+      next: [["42", "Level 22"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "7.5 kg",
@@ -1657,12 +1615,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/041.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/041.png",
-      hires:
-        "./Imagens/Pokedex/hires/041.png",
+      sprite: "./Imagens/Pokedex/sprites/041.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/041.png",
+      hires: "./Imagens/Pokedex/hires/041.png",
     },
   },
   {
@@ -1684,7 +1639,7 @@ const POKEDEX_JSON = [
     },
     species: "Bat Pokémon",
     description:
-      "They can suck down over 10 ounces of blood in one go. They have been known to drink so much blood that they can no longer fly.",
+      "Eles podem sugar mais de 10 onças de sangue de uma vez. Sabe-se que eles bebem tanto sangue que não podem mais voar.",
     evolution: {
       prev: ["41", "Level 22"],
       next: [["169", "high Friendship"]],
@@ -1700,12 +1655,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/042.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/042.png",
-      hires:
-        "./Imagens/Pokedex/hires/042.png",
+      sprite: "./Imagens/Pokedex/sprites/042.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/042.png",
+      hires: "./Imagens/Pokedex/hires/042.png",
     },
   },
   {
@@ -1727,8 +1679,10 @@ const POKEDEX_JSON = [
     },
     species: "Weed Pokémon",
     description:
-      "Oddish searches for fertile, nutrient-rich soil, then plants itself. During the daytime, while it is planted, this Pokémon’s feet are thought to change shape and become similar to the roots of trees.",
-    evolution: { next: [["44", "Level 21"]] },
+      "Oddish procura um solo fértil e rico em nutrientes, depois se planta. Durante o dia, enquanto está plantado, acredita-se que os pés deste Pokémon mudam de forma e se tornam semelhantes às raízes das árvores.",
+    evolution: {
+      next: [["44", "Level 21"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "5.4 kg",
@@ -1740,12 +1694,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/043.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/043.png",
-      hires:
-        "./Imagens/Pokedex/hires/043.png",
+      sprite: "./Imagens/Pokedex/sprites/043.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/043.png",
+      hires: "./Imagens/Pokedex/hires/043.png",
     },
   },
   {
@@ -1767,7 +1718,7 @@ const POKEDEX_JSON = [
     },
     species: "Weed Pokémon",
     description:
-      "From its mouth Gloom drips honey that smells absolutely horrible. Apparently, it loves the horrid stench. It sniffs the noxious fumes and then drools even more of its honey.",
+      "De sua boca, Gloom goteja mel que cheira absolutamente horrível. Aparentemente, ele adora o fedor horrível. Ele cheira os vapores nojentos e depois babam ainda mais de seu mel.",
     evolution: {
       prev: ["43", "Level 21"],
       next: [
@@ -1786,12 +1737,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/044.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/044.png",
-      hires:
-        "./Imagens/Pokedex/hires/044.png",
+      sprite: "./Imagens/Pokedex/sprites/044.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/044.png",
+      hires: "./Imagens/Pokedex/hires/044.png",
     },
   },
   {
@@ -1813,8 +1761,10 @@ const POKEDEX_JSON = [
     },
     species: "Flower Pokémon",
     description:
-      "Vileplume has the world’s largest petals. They are used to attract prey that are then doused with toxic spores. Once the prey are immobilized, this Pokémon catches and devours them.",
-    evolution: { prev: ["44", "use Leaf Stone"] },
+      "Vileplume possui as maiores pétalas do mundo. Elas são usadas para atrair presas que são então aspergidas com esporos tóxicos. Uma vez que as presas são imobilizadas, este Pokémon as captura e devora.",
+    evolution: {
+      prev: ["44", "use Leaf Stone"],
+    },
     profile: {
       height: "1.2 m",
       weight: "18.6 kg",
@@ -1826,12 +1776,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/045.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/045.png",
-      hires:
-        "./Imagens/Pokedex/hires/045.png",
+      sprite: "./Imagens/Pokedex/sprites/045.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/045.png",
+      hires: "./Imagens/Pokedex/hires/045.png",
     },
   },
   {
@@ -1853,8 +1800,10 @@ const POKEDEX_JSON = [
     },
     species: "Mushroom Pokémon",
     description:
-      "The mushrooms, known as tochukaso, are controlling the bug. Even if the bug bugs the mushrooms, they tell it to bug off.",
-    evolution: { next: [["47", "Level 24"]] },
+      "Os cogumelos, conhecidos como tochukaso, estão controlando o inseto. Mesmo que o inseto incomode os cogumelos, eles mandam-no desaparecer.",
+    evolution: {
+      next: [["47", "Level 24"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "5.4 kg",
@@ -1867,12 +1816,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/046.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/046.png",
-      hires:
-        "./Imagens/Pokedex/hires/046.png",
+      sprite: "./Imagens/Pokedex/sprites/046.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/046.png",
+      hires: "./Imagens/Pokedex/hires/046.png",
     },
   },
   {
@@ -1894,8 +1840,10 @@ const POKEDEX_JSON = [
     },
     species: "Mushroom Pokémon",
     description:
-      "Its poisonous spores are also used in traditional medicine. Apparently, spores produced in Alola are not of very good quality.",
-    evolution: { prev: ["46", "Level 24"] },
+      "Seus esporos venenosos também são usados na medicina tradicional. Aparentemente, os esporos produzidos em Alola não são de qualidade muito boa.",
+    evolution: {
+      prev: ["46", "Level 24"],
+    },
     profile: {
       height: "1 m",
       weight: "29.5 kg",
@@ -1908,12 +1856,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/047.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/047.png",
-      hires:
-        "./Imagens/Pokedex/hires/047.png",
+      sprite: "./Imagens/Pokedex/sprites/047.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/047.png",
+      hires: "./Imagens/Pokedex/hires/047.png",
     },
   },
   {
@@ -1935,8 +1880,10 @@ const POKEDEX_JSON = [
     },
     species: "Insect Pokémon",
     description:
-      "Venonat is said to have evolved with a coat of thin, stiff hair that covers its entire body for protection. It possesses large eyes that never fail to spot even minuscule prey.",
-    evolution: { next: [["49", "Level 31"]] },
+      "Diz-se que Venonat evoluiu com uma camada de pelos finos e rígidos que cobre todo o seu corpo para proteção. Possui grandes olhos que nunca deixam de detectar até mesmo presas minúsculas.",
+    evolution: {
+      next: [["49", "Level 31"]],
+    },
     profile: {
       height: "1 m",
       weight: "30 kg",
@@ -1949,12 +1896,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/048.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/048.png",
-      hires:
-        "./Imagens/Pokedex/hires/048.png",
+      sprite: "./Imagens/Pokedex/sprites/048.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/048.png",
+      hires: "./Imagens/Pokedex/hires/048.png",
     },
   },
   {
@@ -1976,8 +1920,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Moth Pokémon",
     description:
-      "Venomoth is nocturnal—it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
-    evolution: { prev: ["48", "Level 31"] },
+      "Venomoth é noturno - é um Pokémon que só se torna ativo à noite. Suas presas favoritas são pequenos insetos que se reúnem em torno de postes de luz, atraídos pela luz na escuridão.",
+    evolution: {
+      prev: ["48", "Level 31"],
+    },
     profile: {
       height: "1.5 m",
       weight: "12.5 kg",
@@ -1990,12 +1936,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/049.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/049.png",
-      hires:
-        "./Imagens/Pokedex/hires/049.png",
+      sprite: "./Imagens/Pokedex/sprites/049.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/049.png",
+      hires: "./Imagens/Pokedex/hires/049.png",
     },
   },
   {
@@ -2017,8 +1960,10 @@ const POKEDEX_JSON = [
     },
     species: "Mole Pokémon",
     description:
-      "Around their crops, farmers plant the kind of tree that Diglett like to eat as a way of getting Diglett to plow the fields for them.",
-    evolution: { next: [["51", "Level 26"]] },
+      "Ao redor de suas plantações, os agricultores plantam o tipo de árvore que Diglett gosta de comer como uma forma de fazer Diglett arar os campos para eles.",
+    evolution: {
+      next: [["51", "Level 26"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "0.8 kg",
@@ -2031,12 +1976,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/050.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/050.png",
-      hires:
-        "./Imagens/Pokedex/hires/050.png",
+      sprite: "./Imagens/Pokedex/sprites/050.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/050.png",
+      hires: "./Imagens/Pokedex/hires/050.png",
     },
   },
   {
@@ -2058,8 +2000,10 @@ const POKEDEX_JSON = [
     },
     species: "Mole Pokémon",
     description:
-      "Dugtrio’s heads are sleek and smooth and incredibly hard. It can dig through any soil with its headbutts.",
-    evolution: { prev: ["50", "Level 26"] },
+      "As cabeças de Dugtrio são elegantes, lisas e incrivelmente duras. Ele pode cavar qualquer solo com seus cabeçadas.",
+    evolution: {
+      prev: ["50", "Level 26"],
+    },
     profile: {
       height: "0.7 m",
       weight: "33.3 kg",
@@ -2072,12 +2016,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/051.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/051.png",
-      hires:
-        "./Imagens/Pokedex/hires/051.png",
+      sprite: "./Imagens/Pokedex/sprites/051.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/051.png",
+      hires: "./Imagens/Pokedex/hires/051.png",
     },
   },
   {
@@ -2099,8 +2040,10 @@ const POKEDEX_JSON = [
     },
     species: "Scratch Cat Pokémon",
     description:
-      "It loves coins, so if you give it one, you can make friends with Meowth easily. But it’s fickle, so you can’t count on that friendship lasting.",
-    evolution: { next: [["53", "Level 28"]] },
+      "Ele adora moedas, então, se você der uma a ele, poderá fazer amizade com Meowth facilmente. Mas é inconstante, então você não pode contar com essa amizade durando.",
+    evolution: {
+      next: [["53", "Level 28"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "4.2 kg",
@@ -2113,12 +2056,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/052.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/052.png",
-      hires:
-        "./Imagens/Pokedex/hires/052.png",
+      sprite: "./Imagens/Pokedex/sprites/052.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/052.png",
+      hires: "./Imagens/Pokedex/hires/052.png",
     },
   },
   {
@@ -2140,8 +2080,10 @@ const POKEDEX_JSON = [
     },
     species: "Classy Cat Pokémon",
     description:
-      "This Pokémon is popular with rich people. It’s also targeted by hunters who are after the jewel in its forehead.",
-    evolution: { prev: ["52", "Level 28"] },
+      "Este Pokémon é popular entre pessoas ricas. Também é alvo de caçadores que estão atrás da joia em sua testa.",
+    evolution: {
+      prev: ["52", "Level 28"],
+    },
     profile: {
       height: "1 m",
       weight: "32 kg",
@@ -2154,12 +2096,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/053.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/053.png",
-      hires:
-        "./Imagens/Pokedex/hires/053.png",
+      sprite: "./Imagens/Pokedex/sprites/053.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/053.png",
+      hires: "./Imagens/Pokedex/hires/053.png",
     },
   },
   {
@@ -2181,8 +2120,10 @@ const POKEDEX_JSON = [
     },
     species: "Duck Pokémon",
     description:
-      "It has been found that its brain cells are 10 times more active when Psyduck is experiencing a headache.",
-    evolution: { next: [["55", "Level 33"]] },
+      "Foi descoberto que suas células cerebrais são 10 vezes mais ativas quando Psyduck está com dor de cabeça.",
+    evolution: {
+      next: [["55", "Level 33"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "19.6 kg",
@@ -2195,12 +2136,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/054.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/054.png",
-      hires:
-        "./Imagens/Pokedex/hires/054.png",
+      sprite: "./Imagens/Pokedex/sprites/054.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/054.png",
+      hires: "./Imagens/Pokedex/hires/054.png",
     },
   },
   {
@@ -2222,8 +2160,10 @@ const POKEDEX_JSON = [
     },
     species: "Duck Pokémon",
     description:
-      "A professional swimmer, it can continue swimming for two days straight by waving its long tail skillfully.",
-    evolution: { prev: ["54", "Level 33"] },
+      "Um nadador profissional, ele pode continuar nadando por dois dias seguidos balançando sua longa cauda habilmente.",
+    evolution: {
+      prev: ["54", "Level 33"],
+    },
     profile: {
       height: "1.7 m",
       weight: "76.6 kg",
@@ -2236,12 +2176,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/055.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/055.png",
-      hires:
-        "./Imagens/Pokedex/hires/055.png",
+      sprite: "./Imagens/Pokedex/sprites/055.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/055.png",
+      hires: "./Imagens/Pokedex/hires/055.png",
     },
   },
   {
@@ -2263,8 +2200,10 @@ const POKEDEX_JSON = [
     },
     species: "Pig Monkey Pokémon",
     description:
-      "If one gets angry, all the others around it will get angry, so silence is a rare visitor in a troop of Mankey.",
-    evolution: { next: [["57", "Level 28"]] },
+      "Se um ficar com raiva, todos os outros ao seu redor ficarão com raiva, então o silêncio é um visitante raro em um grupo de Mankey.",
+    evolution: {
+      next: [["57", "Level 28"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "28 kg",
@@ -2277,12 +2216,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/056.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/056.png",
-      hires:
-        "./Imagens/Pokedex/hires/056.png",
+      sprite: "./Imagens/Pokedex/sprites/056.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/056.png",
+      hires: "./Imagens/Pokedex/hires/056.png",
     },
   },
   {
@@ -2304,8 +2240,10 @@ const POKEDEX_JSON = [
     },
     species: "Pig Monkey Pokémon",
     description:
-      "The blood vessels in its brain are sturdier than those of other Pokémon, so it can stay healthy despite its constant raging.",
-    evolution: { prev: ["56", "Level 28"] },
+      "Os vasos sanguíneos em seu cérebro são mais resistentes do que os de outros Pokémon, então ele pode permanecer saudável apesar de sua raiva constante.",
+    evolution: {
+      prev: ["56", "Level 28"],
+    },
     profile: {
       height: "1 m",
       weight: "32 kg",
@@ -2318,12 +2256,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/057.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/057.png",
-      hires:
-        "./Imagens/Pokedex/hires/057.png",
+      sprite: "./Imagens/Pokedex/sprites/057.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/057.png",
+      hires: "./Imagens/Pokedex/hires/057.png",
     },
   },
   {
@@ -2345,8 +2280,10 @@ const POKEDEX_JSON = [
     },
     species: "Puppy Pokémon",
     description:
-      "It has lived alongside humans since ages ago. Its bones have been found in excavations of ruins from the Stone Age.",
-    evolution: { next: [["59", "use Fire Stone"]] },
+      "Ele vive ao lado dos humanos desde tempos imemoriais. Seus ossos foram encontrados em escavações de ruínas da Idade da Pedra.",
+    evolution: {
+      next: [["59", "use Fire Stone"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "19 kg",
@@ -2359,12 +2296,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/058.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/058.png",
-      hires:
-        "./Imagens/Pokedex/hires/058.png",
+      sprite: "./Imagens/Pokedex/sprites/058.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/058.png",
+      hires: "./Imagens/Pokedex/hires/058.png",
     },
   },
   {
@@ -2386,8 +2320,10 @@ const POKEDEX_JSON = [
     },
     species: "Legendary Pokémon",
     description:
-      "There are so many old tales about them that they’re called legendary Pokémon, but there are way more of them around than you’d expect.",
-    evolution: { prev: ["58", "use Fire Stone"] },
+      "Existem tantos contos antigos sobre eles que são chamados de Pokémon lendários, mas há muito mais deles por aí do que você esperaria.",
+    evolution: {
+      prev: ["58", "use Fire Stone"],
+    },
     profile: {
       height: "1.9 m",
       weight: "155 kg",
@@ -2400,12 +2336,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/059.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/059.png",
-      hires:
-        "./Imagens/Pokedex/hires/059.png",
+      sprite: "./Imagens/Pokedex/sprites/059.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/059.png",
+      hires: "./Imagens/Pokedex/hires/059.png",
     },
   },
   {
@@ -2427,8 +2360,10 @@ const POKEDEX_JSON = [
     },
     species: "Tadpole Pokémon",
     description:
-      "The direction of the swirl on their stomachs differs depending on where they live. Poliwag aficionados can tell them apart at a glance.",
-    evolution: { next: [["61", "Level 25"]] },
+      "A direção do redemoinho em seus estômagos difere dependendo de onde vivem. Os aficionados por Poliwag podem distingui-los à primeira vista.",
+    evolution: {
+      next: [["61", "Level 25"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "12.4 kg",
@@ -2441,12 +2376,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/060.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/060.png",
-      hires:
-        "./Imagens/Pokedex/hires/060.png",
+      sprite: "./Imagens/Pokedex/sprites/060.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/060.png",
+      hires: "./Imagens/Pokedex/hires/060.png",
     },
   },
   {
@@ -2468,7 +2400,7 @@ const POKEDEX_JSON = [
     },
     species: "Tadpole Pokémon",
     description:
-      "Its health suffers when its skin dries out, so be sure to moisturize it diligently.",
+      "Sua saúde sofre quando sua pele seca, então certifique-se de hidratá-la diligentemente.",
     evolution: {
       prev: ["60", "Level 25"],
       next: [
@@ -2488,12 +2420,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/061.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/061.png",
-      hires:
-        "./Imagens/Pokedex/hires/061.png",
+      sprite: "./Imagens/Pokedex/sprites/061.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/061.png",
+      hires: "./Imagens/Pokedex/hires/061.png",
     },
   },
   {
@@ -2515,8 +2444,10 @@ const POKEDEX_JSON = [
     },
     species: "Tadpole Pokémon",
     description:
-      "The muscles it has developed through swimming are thick and powerful. When it lands a square punch, it can turn huge boulders to dust.",
-    evolution: { prev: ["61", "use Water Stone"] },
+      "Os músculos que desenvolveu com a natação são grossos e poderosos. Quando ele acerta um soco quadrado, pode transformar enormes pedras em pó.",
+    evolution: {
+      prev: ["61", "use Water Stone"],
+    },
     profile: {
       height: "1.3 m",
       weight: "54 kg",
@@ -2529,12 +2460,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/062.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/062.png",
-      hires:
-        "./Imagens/Pokedex/hires/062.png",
+      sprite: "./Imagens/Pokedex/sprites/062.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/062.png",
+      hires: "./Imagens/Pokedex/hires/062.png",
     },
   },
   {
@@ -2556,8 +2484,10 @@ const POKEDEX_JSON = [
     },
     species: "Psi Pokémon",
     description:
-      "It can read others’ minds and will teleport away when danger approaches. You must clear your mind if you want to catch it.",
-    evolution: { next: [["64", "Level 16"]] },
+      "Ele pode ler a mente dos outros e se teletransportará quando o perigo se aproximar. Você deve limpar sua mente se quiser capturá-lo.",
+    evolution: {
+      next: [["64", "Level 16"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "19.5 kg",
@@ -2570,12 +2500,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/063.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/063.png",
-      hires:
-        "./Imagens/Pokedex/hires/063.png",
+      sprite: "./Imagens/Pokedex/sprites/063.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/063.png",
+      hires: "./Imagens/Pokedex/hires/063.png",
     },
   },
   {
@@ -2597,8 +2524,11 @@ const POKEDEX_JSON = [
     },
     species: "Psi Pokémon",
     description:
-      "It possesses strong mental capabilities, but its psychic powers are halved when it’s not holding a silver spoon.",
-    evolution: { prev: ["63", "Level 16"], next: [["65", "Trade"]] },
+      "Possui fortes capacidades mentais, mas seus poderes psíquicos são reduzidos à metade quando não está segurando uma colher de prata.",
+    evolution: {
+      prev: ["63", "Level 16"],
+      next: [["65", "Trade"]],
+    },
     profile: {
       height: "1.3 m",
       weight: "56.5 kg",
@@ -2611,12 +2541,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/064.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/064.png",
-      hires:
-        "./Imagens/Pokedex/hires/064.png",
+      sprite: "./Imagens/Pokedex/sprites/064.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/064.png",
+      hires: "./Imagens/Pokedex/hires/064.png",
     },
   },
   {
@@ -2638,8 +2565,10 @@ const POKEDEX_JSON = [
     },
     species: "Psi Pokémon",
     description:
-      "If it trusts someone deeply, it will let them have one of its spoons. Anything you eat with that spoon is apparently delicious.",
-    evolution: { prev: ["64", "Trade"] },
+      "Se confia profundamente em alguém, deixará que essa pessoa tenha uma de suas colheres. Qualquer coisa que você comer com essa colher é aparentemente deliciosa.",
+    evolution: {
+      prev: ["64", "Trade"],
+    },
     profile: {
       height: "1.5 m",
       weight: "48 kg",
@@ -2652,12 +2581,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/065.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/065.png",
-      hires:
-        "./Imagens/Pokedex/hires/065.png",
+      sprite: "./Imagens/Pokedex/sprites/065.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/065.png",
+      hires: "./Imagens/Pokedex/hires/065.png",
     },
   },
   {
@@ -2679,8 +2605,10 @@ const POKEDEX_JSON = [
     },
     species: "Superpower Pokémon",
     description:
-      "It likes food that’s highly nutritious because its instincts drive it to build muscle efficiently.",
-    evolution: { next: [["67", "Level 28"]] },
+      "Ele gosta de comida altamente nutritiva porque seus instintos o levam a construir músculos eficientemente.",
+    evolution: {
+      next: [["67", "Level 28"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "19.5 kg",
@@ -2693,12 +2621,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/066.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/066.png",
-      hires:
-        "./Imagens/Pokedex/hires/066.png",
+      sprite: "./Imagens/Pokedex/sprites/066.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/066.png",
+      hires: "./Imagens/Pokedex/hires/066.png",
     },
   },
   {
@@ -2720,8 +2645,11 @@ const POKEDEX_JSON = [
     },
     species: "Superpower Pokémon",
     description:
-      "A popular motif for sculptures, its incredibly well-developed muscles have captured the imagination of many an artist.",
-    evolution: { prev: ["66", "Level 28"], next: [["68", "Trade"]] },
+      "Um motivo popular para esculturas, seus músculos incrivelmente bem desenvolvidos capturaram a imaginação de muitos artistas.",
+    evolution: {
+      prev: ["66", "Level 28"],
+      next: [["68", "Trade"]],
+    },
     profile: {
       height: "1.5 m",
       weight: "70.5 kg",
@@ -2734,12 +2662,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/067.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/067.png",
-      hires:
-        "./Imagens/Pokedex/hires/067.png",
+      sprite: "./Imagens/Pokedex/sprites/067.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/067.png",
+      hires: "./Imagens/Pokedex/hires/067.png",
     },
   },
   {
@@ -2761,8 +2686,10 @@ const POKEDEX_JSON = [
     },
     species: "Superpower Pokémon",
     description:
-      "With four arms, it can attack and defend simultaneously. It’s said to have mastered every martial art in the world.",
-    evolution: { prev: ["67", "Trade"] },
+      "Com quatro braços, pode atacar e defender simultaneamente. Diz-se que dominou todas as artes marciais do mundo.",
+    evolution: {
+      prev: ["67", "Trade"],
+    },
     profile: {
       height: "1.6 m",
       weight: "130 kg",
@@ -2775,12 +2702,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/068.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/068.png",
-      hires:
-        "./Imagens/Pokedex/hires/068.png",
+      sprite: "./Imagens/Pokedex/sprites/068.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/068.png",
+      hires: "./Imagens/Pokedex/hires/068.png",
     },
   },
   {
@@ -2802,8 +2726,10 @@ const POKEDEX_JSON = [
     },
     species: "Flower Pokémon",
     description:
-      "Bellsprout’s thin and flexible body lets it bend and sway to avoid any attack, however strong it may be. From its mouth, this Pokémon spits a corrosive fluid that melts even iron.",
-    evolution: { next: [["70", "Level 21"]] },
+      "O corpo fino e flexível de Bellsprout permite que ele se dobre e balance para evitar qualquer ataque, por mais forte que seja. De sua boca, este Pokémon cospe um fluido corrosivo que derrete até mesmo ferro.",
+    evolution: {
+      next: [["70", "Level 21"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "4 kg",
@@ -2815,12 +2741,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/069.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/069.png",
-      hires:
-        "./Imagens/Pokedex/hires/069.png",
+      sprite: "./Imagens/Pokedex/sprites/069.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/069.png",
+      hires: "./Imagens/Pokedex/hires/069.png",
     },
   },
   {
@@ -2842,7 +2765,7 @@ const POKEDEX_JSON = [
     },
     species: "Flycatcher Pokémon",
     description:
-      "Weepinbell has a large hook on its rear end. At night, the Pokémon hooks on to a tree branch and goes to sleep. If it moves around in its sleep, it may wake up to find itself on the ground.",
+      "Weepinbell possui um grande gancho em sua traseira. À noite, o Pokémon se prende a um galho de árvore e vai dormir. Se ele se mover durante o sono, pode acordar e se encontrar no chão.",
     evolution: {
       prev: ["69", "Level 21"],
       next: [["71", "use Leaf Stone"]],
@@ -2858,12 +2781,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/070.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/070.png",
-      hires:
-        "./Imagens/Pokedex/hires/070.png",
+      sprite: "./Imagens/Pokedex/sprites/070.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/070.png",
+      hires: "./Imagens/Pokedex/hires/070.png",
     },
   },
   {
@@ -2885,8 +2805,10 @@ const POKEDEX_JSON = [
     },
     species: "Flycatcher Pokémon",
     description:
-      "Victreebel has a long vine that extends from its head. This vine is waved and flicked about as if it were an animal to attract prey. When an unsuspecting prey draws near, this Pokémon swallows it whole.",
-    evolution: { prev: ["70", "use Leaf Stone"] },
+      "Victreebel possui uma longa videira que se estende de sua cabeça. Esta videira é agitada e balançada como se fosse um animal para atrair presas. Quando uma presa desavisada se aproxima, este Pokémon a engole inteira.",
+    evolution: {
+      prev: ["70", "use Leaf Stone"],
+    },
     profile: {
       height: "1.7 m",
       weight: "15.5 kg",
@@ -2898,12 +2820,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/071.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/071.png",
-      hires:
-        "./Imagens/Pokedex/hires/071.png",
+      sprite: "./Imagens/Pokedex/sprites/071.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/071.png",
+      hires: "./Imagens/Pokedex/hires/071.png",
     },
   },
   {
@@ -2925,8 +2844,10 @@ const POKEDEX_JSON = [
     },
     species: "Jellyfish Pokémon",
     description:
-      "Its body is 99% water. The remaining 1% contains the organ that makes its poison.",
-    evolution: { next: [["73", "Level 30"]] },
+      "Seu corpo é 99% água. O restante 1% contém o órgão que produz seu veneno.",
+    evolution: {
+      next: [["73", "Level 30"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "45.5 kg",
@@ -2939,12 +2860,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/072.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/072.png",
-      hires:
-        "./Imagens/Pokedex/hires/072.png",
+      sprite: "./Imagens/Pokedex/sprites/072.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/072.png",
+      hires: "./Imagens/Pokedex/hires/072.png",
     },
   },
   {
@@ -2966,8 +2884,10 @@ const POKEDEX_JSON = [
     },
     species: "Jellyfish Pokémon",
     description:
-      "It communicates with others of its kind by lighting up the red orbs on its head. When the orbs are blinking, it’s a warning sign.",
-    evolution: { prev: ["72", "Level 30"] },
+      "Ele se comunica com outros de sua espécie acendendo os orbes vermelhos em sua cabeça. Quando os orbes estão piscando, é um sinal de alerta.",
+    evolution: {
+      prev: ["72", "Level 30"],
+    },
     profile: {
       height: "1.6 m",
       weight: "55 kg",
@@ -2980,12 +2900,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/073.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/073.png",
-      hires:
-        "./Imagens/Pokedex/hires/073.png",
+      sprite: "./Imagens/Pokedex/sprites/073.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/073.png",
+      hires: "./Imagens/Pokedex/hires/073.png",
     },
   },
   {
@@ -3007,8 +2924,10 @@ const POKEDEX_JSON = [
     },
     species: "Rock Pokémon",
     description:
-      "It uses both hands to climb precipitous cliffs. People who see it in action have been known to take up bouldering.",
-    evolution: { next: [["75", "Level 25"]] },
+      "Ele usa ambas as mãos para escalar penhascos íngremes. Sabe-se que as pessoas que o veem em ação passaram a praticar escalada.",
+    evolution: {
+      next: [["75", "Level 25"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "20 kg",
@@ -3021,12 +2940,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/074.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/074.png",
-      hires:
-        "./Imagens/Pokedex/hires/074.png",
+      sprite: "./Imagens/Pokedex/sprites/074.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/074.png",
+      hires: "./Imagens/Pokedex/hires/074.png",
     },
   },
   {
@@ -3048,8 +2964,11 @@ const POKEDEX_JSON = [
     },
     species: "Rock Pokémon",
     description:
-      "It travels by rolling down cliffs. If it falls into a river, it will explode with its last gasp.",
-    evolution: { prev: ["74", "Level 25"], next: [["76", "Trade"]] },
+      "Ele viaja rolando pelos penhascos. Se cair em um rio, explodirá com seu último suspiro.",
+    evolution: {
+      prev: ["74", "Level 25"],
+      next: [["76", "Trade"]],
+    },
     profile: {
       height: "1 m",
       weight: "105 kg",
@@ -3062,12 +2981,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/075.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/075.png",
-      hires:
-        "./Imagens/Pokedex/hires/075.png",
+      sprite: "./Imagens/Pokedex/sprites/075.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/075.png",
+      hires: "./Imagens/Pokedex/hires/075.png",
     },
   },
   {
@@ -3089,8 +3005,10 @@ const POKEDEX_JSON = [
     },
     species: "Megaton Pokémon",
     description:
-      "It detonates its own body. The power from that explosion can propel it up steep mountain paths with amazing speed.",
-    evolution: { prev: ["75", "Trade"] },
+      "Ele detona seu próprio corpo. O poder dessa explosão pode impulsioná-lo para cima dos caminhos íngremes da montanha com incrível velocidade.",
+    evolution: {
+      prev: ["75", "Trade"],
+    },
     profile: {
       height: "1.4 m",
       weight: "300 kg",
@@ -3103,12 +3021,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/076.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/076.png",
-      hires:
-        "./Imagens/Pokedex/hires/076.png",
+      sprite: "./Imagens/Pokedex/sprites/076.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/076.png",
+      hires: "./Imagens/Pokedex/hires/076.png",
     },
   },
   {
@@ -3130,8 +3045,10 @@ const POKEDEX_JSON = [
     },
     species: "Fire Horse Pokémon",
     description:
-      "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
-    evolution: { next: [["78", "Level 40"]] },
+      "Ponyta é muito fraco ao nascer. Mal consegue ficar de pé. Este Pokémon fica mais forte tropeçando e caindo para acompanhar seu pai.",
+    evolution: {
+      next: [["78", "Level 40"]],
+    },
     profile: {
       height: "1 m",
       weight: "30 kg",
@@ -3144,12 +3061,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/077.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/077.png",
-      hires:
-        "./Imagens/Pokedex/hires/077.png",
+      sprite: "./Imagens/Pokedex/sprites/077.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/077.png",
+      hires: "./Imagens/Pokedex/hires/077.png",
     },
   },
   {
@@ -3171,8 +3085,10 @@ const POKEDEX_JSON = [
     },
     species: "Fire Horse Pokémon",
     description:
-      "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
-    evolution: { prev: ["77", "Level 40"] },
+      "Rapidash geralmente pode ser visto correndo casualmente nos campos e planícies. No entanto, quando este Pokémon fica sério, suas crinas flamejantes acendem e brilham enquanto ele galopa até 150 mph.",
+    evolution: {
+      prev: ["77", "Level 40"],
+    },
     profile: {
       height: "1.7 m",
       weight: "95 kg",
@@ -3185,12 +3101,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/078.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/078.png",
-      hires:
-        "./Imagens/Pokedex/hires/078.png",
+      sprite: "./Imagens/Pokedex/sprites/078.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/078.png",
+      hires: "./Imagens/Pokedex/hires/078.png",
     },
   },
   {
@@ -3212,7 +3125,7 @@ const POKEDEX_JSON = [
     },
     species: "Dopey Pokémon",
     description:
-      "Although their tails, which fall off naturally, can easily be found lying around, they’re a precious ingredient for cooking.",
+      "Embora suas caudas, que caem naturalmente, possam ser facilmente encontradas por aí, elas são um ingrediente precioso para cozinhar.",
     evolution: {
       next: [
         ["80", "Level 37"],
@@ -3231,12 +3144,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/079.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/079.png",
-      hires:
-        "./Imagens/Pokedex/hires/079.png",
+      sprite: "./Imagens/Pokedex/sprites/079.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/079.png",
+      hires: "./Imagens/Pokedex/hires/079.png",
     },
   },
   {
@@ -3258,8 +3168,10 @@ const POKEDEX_JSON = [
     },
     species: "Hermit Crab Pokémon",
     description:
-      "Shellder, in its greed to suck out more and more sweetness from Slowbro’s tail, has metamorphosed into a spiral-shaped shell.",
-    evolution: { prev: ["79", "Level 37"] },
+      "Shellder, em sua ganância por sugar cada vez mais doçura da cauda de Slowbro, metamorfoseou-se em uma casca em espiral.",
+    evolution: {
+      prev: ["79", "Level 37"],
+    },
     profile: {
       height: "1.6 m",
       weight: "78.5 kg",
@@ -3272,12 +3184,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/080.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/080.png",
-      hires:
-        "./Imagens/Pokedex/hires/080.png",
+      sprite: "./Imagens/Pokedex/sprites/080.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/080.png",
+      hires: "./Imagens/Pokedex/hires/080.png",
     },
   },
   {
@@ -3299,8 +3208,10 @@ const POKEDEX_JSON = [
     },
     species: "Magnet Pokémon",
     description:
-      "Perhaps because electrical lines are often buried these days, the number of Magnemite attacks on power plants has increased.",
-    evolution: { next: [["82", "Level 30"]] },
+      "Talvez porque as linhas elétricas sejam frequentemente enterradas hoje em dia, o número de ataques de Magnemite em usinas de energia aumentou.",
+    evolution: {
+      next: [["82", "Level 30"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "6 kg",
@@ -3313,12 +3224,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/081.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/081.png",
-      hires:
-        "./Imagens/Pokedex/hires/081.png",
+      sprite: "./Imagens/Pokedex/sprites/081.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/081.png",
+      hires: "./Imagens/Pokedex/hires/081.png",
     },
   },
   {
@@ -3340,7 +3248,7 @@ const POKEDEX_JSON = [
     },
     species: "Magnet Pokémon",
     description:
-      "When rain clouds form, many Magneton gather in high places to wait for lightning to strike.",
+      "Quando se formam nuvens de chuva, muitos Magneton se reúnem em lugares altos para esperar que um raio caia.",
     evolution: {
       prev: ["81", "Level 30"],
       next: [["462", "level up in a Magnetic Field area"]],
@@ -3357,12 +3265,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/082.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/082.png",
-      hires:
-        "./Imagens/Pokedex/hires/082.png",
+      sprite: "./Imagens/Pokedex/sprites/082.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/082.png",
+      hires: "./Imagens/Pokedex/hires/082.png",
     },
   },
   {
@@ -3384,7 +3289,7 @@ const POKEDEX_JSON = [
     },
     species: "Wild Duck Pokémon",
     description:
-      "Farfetch’d is always seen with a stalk from a plant of some sort. Apparently, there are good stalks and bad stalks. This Pokémon has been known to fight with others over stalks.",
+      "Farfetch'd é sempre visto com um caule de alguma planta. Aparentemente, existem caules bons e caules ruins. Sabe-se que este Pokémon luta com outros por caules.",
     evolution: {},
     profile: {
       height: "0.8 m",
@@ -3398,12 +3303,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/083.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/083.png",
-      hires:
-        "./Imagens/Pokedex/hires/083.png",
+      sprite: "./Imagens/Pokedex/sprites/083.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/083.png",
+      hires: "./Imagens/Pokedex/hires/083.png",
     },
   },
   {
@@ -3425,8 +3327,10 @@ const POKEDEX_JSON = [
     },
     species: "Twin Bird Pokémon",
     description:
-      "Doduo’s two heads contain completely identical brains. A scientific study reported that on rare occasions, there will be examples of this Pokémon possessing different sets of brains.",
-    evolution: { next: [["85", "Level 31"]] },
+      "As duas cabeças de Doduo contêm cérebros completamente idênticos. Um estudo científico relatou que, em raras ocasiões, haverá exemplos deste Pokémon possuindo conjuntos diferentes de cérebros.",
+    evolution: {
+      next: [["85", "Level 31"]],
+    },
     profile: {
       height: "1.4 m",
       weight: "39.2 kg",
@@ -3439,12 +3343,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/084.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/084.png",
-      hires:
-        "./Imagens/Pokedex/hires/084.png",
+      sprite: "./Imagens/Pokedex/sprites/084.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/084.png",
+      hires: "./Imagens/Pokedex/hires/084.png",
     },
   },
   {
@@ -3466,8 +3367,10 @@ const POKEDEX_JSON = [
     },
     species: "Triple Bird Pokémon",
     description:
-      "Apparently, the heads aren’t the only parts of the body that Dodrio has three of. It has three sets of hearts and lungs as well, so it is capable of running long distances without rest.",
-    evolution: { prev: ["84", "Level 31"] },
+      "Aparentemente, as cabeças não são as únicas partes do corpo que Dodrio tem três. Ele também tem três conjuntos de corações e pulmões, por isso é capaz de correr longas distâncias sem descanso.",
+    evolution: {
+      prev: ["84", "Level 31"],
+    },
     profile: {
       height: "1.8 m",
       weight: "85.2 kg",
@@ -3480,12 +3383,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/085.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/085.png",
-      hires:
-        "./Imagens/Pokedex/hires/085.png",
+      sprite: "./Imagens/Pokedex/sprites/085.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/085.png",
+      hires: "./Imagens/Pokedex/hires/085.png",
     },
   },
   {
@@ -3507,8 +3407,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Lion Pokémon",
     description:
-      "Thanks to its thick fat, cold seas don’t bother it at all, but it gets tired pretty easily in warm waters.",
-    evolution: { next: [["87", "Level 34"]] },
+      "Graças à sua espessa gordura, os mares frios não o incomodam de forma alguma, mas ele se cansa com bastante facilidade em águas quentes.",
+    evolution: {
+      next: [["87", "Level 34"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "90 kg",
@@ -3521,12 +3423,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/086.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/086.png",
-      hires:
-        "./Imagens/Pokedex/hires/086.png",
+      sprite: "./Imagens/Pokedex/sprites/086.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/086.png",
+      hires: "./Imagens/Pokedex/hires/086.png",
     },
   },
   {
@@ -3548,8 +3447,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Lion Pokémon",
     description:
-      "It sunbathes on the beach after meals. The rise in its body temperature helps its digestion.",
-    evolution: { prev: ["86", "Level 34"] },
+      "Ele toma sol na praia após as refeições. O aumento de sua temperatura corporal ajuda sua digestão.",
+    evolution: {
+      prev: ["86", "Level 34"],
+    },
     profile: {
       height: "1.7 m",
       weight: "120 kg",
@@ -3562,12 +3463,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/087.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/087.png",
-      hires:
-        "./Imagens/Pokedex/hires/087.png",
+      sprite: "./Imagens/Pokedex/sprites/087.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/087.png",
+      hires: "./Imagens/Pokedex/hires/087.png",
     },
   },
   {
@@ -3589,8 +3487,10 @@ const POKEDEX_JSON = [
     },
     species: "Sludge Pokémon",
     description:
-      "The wastewater coming from factories is clean these days, so Grimer have nothing to eat. They’re said to be on the verge of extinction.",
-    evolution: { next: [["89", "Level 38"]] },
+      "A água residual proveniente das fábricas está limpa hoje em dia, então Grimer não tem nada para comer. Diz-se que estão à beira da extinção.",
+    evolution: {
+      next: [["89", "Level 38"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "30 kg",
@@ -3603,12 +3503,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/088.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/088.png",
-      hires:
-        "./Imagens/Pokedex/hires/088.png",
+      sprite: "./Imagens/Pokedex/sprites/088.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/088.png",
+      hires: "./Imagens/Pokedex/hires/088.png",
     },
   },
   {
@@ -3630,8 +3527,10 @@ const POKEDEX_JSON = [
     },
     species: "Sludge Pokémon",
     description:
-      "Because they scatter germs everywhere, they’ve long been targeted for extermination, leading to a steep decline in their population.",
-    evolution: { prev: ["88", "Level 38"] },
+      "Como espalham germes por toda parte, há muito tempo são alvo de extermínio, levando a um declínio acentuado de sua população.",
+    evolution: {
+      prev: ["88", "Level 38"],
+    },
     profile: {
       height: "1.2 m",
       weight: "30 kg",
@@ -3644,12 +3543,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/089.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/089.png",
-      hires:
-        "./Imagens/Pokedex/hires/089.png",
+      sprite: "./Imagens/Pokedex/sprites/089.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/089.png",
+      hires: "./Imagens/Pokedex/hires/089.png",
     },
   },
   {
@@ -3671,8 +3567,10 @@ const POKEDEX_JSON = [
     },
     species: "Bivalve Pokémon",
     description:
-      "Even when its shell is closed, its tongue still hangs out. If you give its tongue a good yank, the shock will cause Shellder to open its shell.",
-    evolution: { next: [["91", "use Water Stone"]] },
+      "Mesmo quando sua casca está fechada, sua língua ainda fica para fora. Se você der um bom puxão na língua dele, o choque fará com que Shellder abra sua casca.",
+    evolution: {
+      next: [["91", "use Water Stone"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "4 kg",
@@ -3685,12 +3583,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/090.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/090.png",
-      hires:
-        "./Imagens/Pokedex/hires/090.png",
+      sprite: "./Imagens/Pokedex/sprites/090.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/090.png",
+      hires: "./Imagens/Pokedex/hires/090.png",
     },
   },
   {
@@ -3712,8 +3607,10 @@ const POKEDEX_JSON = [
     },
     species: "Bivalve Pokémon",
     description:
-      "Slowpoke tails are its favorite food. It has even been known to come up on land to look for Slowpoke from time to time.",
-    evolution: { prev: ["90", "use Water Stone"] },
+      "As caudas de Slowpoke são sua comida favorita. Sabe-se até que ele sobe na terra para procurar Slowpoke de vez em quando.",
+    evolution: {
+      prev: ["90", "use Water Stone"],
+    },
     profile: {
       height: "1.5 m",
       weight: "132.5 kg",
@@ -3726,12 +3623,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/091.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/091.png",
-      hires:
-        "./Imagens/Pokedex/hires/091.png",
+      sprite: "./Imagens/Pokedex/sprites/091.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/091.png",
+      hires: "./Imagens/Pokedex/hires/091.png",
     },
   },
   {
@@ -3753,8 +3647,10 @@ const POKEDEX_JSON = [
     },
     species: "Gas Pokémon",
     description:
-      "Poisonous gas comprises 95% of its body. It’s said that the remaining 5% is made up of the souls of those who died from the gas.",
-    evolution: { next: [["93", "Level 25"]] },
+      "O gás venenoso compreende 95% de seu corpo. Diz-se que os 5% restantes são constituídos pelas almas daqueles que morreram com o gás.",
+    evolution: {
+      next: [["93", "Level 25"]],
+    },
     profile: {
       height: "1.3 m",
       weight: "0.1 kg",
@@ -3763,12 +3659,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/092.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/092.png",
-      hires:
-        "./Imagens/Pokedex/hires/092.png",
+      sprite: "./Imagens/Pokedex/sprites/092.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/092.png",
+      hires: "./Imagens/Pokedex/hires/092.png",
     },
   },
   {
@@ -3790,8 +3683,11 @@ const POKEDEX_JSON = [
     },
     species: "Gas Pokémon",
     description:
-      "It’s dangerous to go outside alone on nights when you’re feeling sad. Haunter will catch you, and you won’t be able to go back home.",
-    evolution: { prev: ["92", "Level 25"], next: [["94", "Trade"]] },
+      "É perigoso sair sozinho à noite quando você está se sentindo triste. Haunter vai te pegar, e você não conseguirá voltar para casa.",
+    evolution: {
+      prev: ["92", "Level 25"],
+      next: [["94", "Trade"]],
+    },
     profile: {
       height: "1.6 m",
       weight: "0.1 kg",
@@ -3800,12 +3696,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/093.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/093.png",
-      hires:
-        "./Imagens/Pokedex/hires/093.png",
+      sprite: "./Imagens/Pokedex/sprites/093.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/093.png",
+      hires: "./Imagens/Pokedex/hires/093.png",
     },
   },
   {
@@ -3827,8 +3720,10 @@ const POKEDEX_JSON = [
     },
     species: "Shadow Pokémon",
     description:
-      "Even your home isn’t safe. Gengar will lurk in whatever dark corner of a room it can find and wait for its chance to catch its prey.",
-    evolution: { prev: ["93", "Trade"] },
+      "Nem sua casa é segura. Gengar vai espreitar em qualquer canto escuro de um cômodo que puder encontrar e esperar sua chance de pegar sua presa.",
+    evolution: {
+      prev: ["93", "Trade"],
+    },
     profile: {
       height: "1.5 m",
       weight: "40.5 kg",
@@ -3837,12 +3732,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/094.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/094.png",
-      hires:
-        "./Imagens/Pokedex/hires/094.png",
+      sprite: "./Imagens/Pokedex/sprites/094.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/094.png",
+      hires: "./Imagens/Pokedex/hires/094.png",
     },
   },
   {
@@ -3864,8 +3756,10 @@ const POKEDEX_JSON = [
     },
     species: "Rock Snake Pokémon",
     description:
-      "Onix has a magnet in its brain. It acts as a compass so that this Pokémon does not lose direction while it is tunneling. As it grows older, its body becomes increasingly rounder and smoother.",
-    evolution: { next: [["208", "trade holding Metal Coat"]] },
+      "Onix possui um imã em seu cérebro. Ele atua como uma bússola para que este Pokémon não perca a direção enquanto está tunelando. À medida que envelhece, seu corpo fica cada vez mais redondo e liso.",
+    evolution: {
+      next: [["208", "trade holding Metal Coat"]],
+    },
     profile: {
       height: "8.8 m",
       weight: "210 kg",
@@ -3878,12 +3772,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/095.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/095.png",
-      hires:
-        "./Imagens/Pokedex/hires/095.png",
+      sprite: "./Imagens/Pokedex/sprites/095.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/095.png",
+      hires: "./Imagens/Pokedex/hires/095.png",
     },
   },
   {
@@ -3905,8 +3796,10 @@ const POKEDEX_JSON = [
     },
     species: "Hypnosis Pokémon",
     description:
-      "It puts its prey to sleep and devours their dreams. It seems that bad dreams taste sour, so Drowzee doesn’t particularly like eating them.",
-    evolution: { next: [["97", "Level 26"]] },
+      "Ele coloca sua presa para dormir e devora seus sonhos. Parece que maus sonhos têm gosto azedo, então Drowzee não gosta particularmente de comê-los.",
+    evolution: {
+      next: [["97", "Level 26"]],
+    },
     profile: {
       height: "1 m",
       weight: "32.4 kg",
@@ -3919,12 +3812,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/096.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/096.png",
-      hires:
-        "./Imagens/Pokedex/hires/096.png",
+      sprite: "./Imagens/Pokedex/sprites/096.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/096.png",
+      hires: "./Imagens/Pokedex/hires/096.png",
     },
   },
   {
@@ -3946,8 +3836,10 @@ const POKEDEX_JSON = [
     },
     species: "Hypnosis Pokémon",
     description:
-      "There are some Hypno that assist doctors with patients who can’t sleep at night in hospitals.",
-    evolution: { prev: ["96", "Level 26"] },
+      "Há alguns Hypno que ajudam médicos com pacientes que não conseguem dormir à noite nos hospitais.",
+    evolution: {
+      prev: ["96", "Level 26"],
+    },
     profile: {
       height: "1.6 m",
       weight: "75.6 kg",
@@ -3960,12 +3852,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/097.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/097.png",
-      hires:
-        "./Imagens/Pokedex/hires/097.png",
+      sprite: "./Imagens/Pokedex/sprites/097.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/097.png",
+      hires: "./Imagens/Pokedex/hires/097.png",
     },
   },
   {
@@ -3987,8 +3876,10 @@ const POKEDEX_JSON = [
     },
     species: "River Crab Pokémon",
     description:
-      "Krabby live on beaches, burrowed inside holes dug into the sand. On sandy beaches with little in the way of food, these Pokémon can be seen squabbling with each other over territory.",
-    evolution: { next: [["99", "Level 28"]] },
+      "Krabby vive em praias, escavado dentro de buracos cavados na areia. Em praias arenosas com pouco alimento, esses Pokémon podem ser vistos brigando entre si por território.",
+    evolution: {
+      next: [["99", "Level 28"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "6.5 kg",
@@ -4001,12 +3892,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/098.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/098.png",
-      hires:
-        "./Imagens/Pokedex/hires/098.png",
+      sprite: "./Imagens/Pokedex/sprites/098.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/098.png",
+      hires: "./Imagens/Pokedex/hires/098.png",
     },
   },
   {
@@ -4028,8 +3916,10 @@ const POKEDEX_JSON = [
     },
     species: "Pincer Pokémon",
     description:
-      "Kingler has an enormous, oversized claw. It waves this huge claw in the air to communicate with others. However, because the claw is so heavy, the Pokémon quickly tires.",
-    evolution: { prev: ["98", "Level 28"] },
+      "Kingler possui uma enorme e gigantesca garra. Ele acena com essa enorme garra no ar para se comunicar com os outros. No entanto, como a garra é muito pesada, o Pokémon se cansa rapidamente.",
+    evolution: {
+      prev: ["98", "Level 28"],
+    },
     profile: {
       height: "1.3 m",
       weight: "60 kg",
@@ -4042,12 +3932,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/099.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/099.png",
-      hires:
-        "./Imagens/Pokedex/hires/099.png",
+      sprite: "./Imagens/Pokedex/sprites/099.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/099.png",
+      hires: "./Imagens/Pokedex/hires/099.png",
     },
   },
   {
@@ -4069,8 +3956,10 @@ const POKEDEX_JSON = [
     },
     species: "Ball Pokémon",
     description:
-      "Voltorb is extremely sensitive—it explodes at the slightest of shocks. It is rumored that it was first created when a Poké Ball was exposed to a powerful pulse of energy.",
-    evolution: { next: [["101", "Level 30"]] },
+      "Voltorb é extremamente sensível - ele explode com o menor dos choques. Diz-se que foi criado pela primeira vez quando uma Pokébola foi exposta a um poderoso pulso de energia.",
+    evolution: {
+      next: [["101", "Level 30"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "10.4 kg",
@@ -4083,12 +3972,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/100.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/100.png",
-      hires:
-        "./Imagens/Pokedex/hires/100.png",
+      sprite: "./Imagens/Pokedex/sprites/100.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/100.png",
+      hires: "./Imagens/Pokedex/hires/100.png",
     },
   },
   {
@@ -4110,8 +3996,10 @@ const POKEDEX_JSON = [
     },
     species: "Ball Pokémon",
     description:
-      "One of Electrode’s characteristics is its attraction to electricity. It is a problematical Pokémon that congregates mostly at electrical power plants to feed on electricity that has just been generated.",
-    evolution: { prev: ["100", "Level 30"] },
+      "Uma das características de Electrode é sua atração pela eletricidade. É um Pokémon problemático que se congrega principalmente em usinas de energia para se alimentar de eletricidade que acabou de ser gerada.",
+    evolution: {
+      prev: ["100", "Level 30"],
+    },
     profile: {
       height: "1.2 m",
       weight: "66.6 kg",
@@ -4124,12 +4012,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/101.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/101.png",
-      hires:
-        "./Imagens/Pokedex/hires/101.png",
+      sprite: "./Imagens/Pokedex/sprites/101.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/101.png",
+      hires: "./Imagens/Pokedex/hires/101.png",
     },
   },
   {
@@ -4151,8 +4036,10 @@ const POKEDEX_JSON = [
     },
     species: "Egg Pokémon",
     description:
-      "Although they are the same size as other Exeggcute, the ones produced in Alola are quite heavy. Their shells are packed full.",
-    evolution: { next: [["103", "use Leaf Stone"]] },
+      "Embora tenham o mesmo tamanho que outros Exeggcute, os produzidos em Alola são bastante pesados. Suas conchas estão cheias.",
+    evolution: {
+      next: [["103", "use Leaf Stone"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "2.5 kg",
@@ -4164,12 +4051,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/102.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/102.png",
-      hires:
-        "./Imagens/Pokedex/hires/102.png",
+      sprite: "./Imagens/Pokedex/sprites/102.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/102.png",
+      hires: "./Imagens/Pokedex/hires/102.png",
     },
   },
   {
@@ -4191,8 +4075,10 @@ const POKEDEX_JSON = [
     },
     species: "Coconut Pokémon",
     description:
-      "Each of its three heads has its own thoughts. When they want to go in different directions, Exeggutor becomes unable to move.",
-    evolution: { prev: ["102", "use Leaf Stone"] },
+      "Cada uma de suas três cabeças tem seus próprios pensamentos. Quando querem ir em direções diferentes, Exeggutor fica incapaz de se mover.",
+    evolution: {
+      prev: ["102", "use Leaf Stone"],
+    },
     profile: {
       height: "2 m",
       weight: "120 kg",
@@ -4204,12 +4090,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/103.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/103.png",
-      hires:
-        "./Imagens/Pokedex/hires/103.png",
+      sprite: "./Imagens/Pokedex/sprites/103.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/103.png",
+      hires: "./Imagens/Pokedex/hires/103.png",
     },
   },
   {
@@ -4231,8 +4114,10 @@ const POKEDEX_JSON = [
     },
     species: "Lonely Pokémon",
     description:
-      "It wears its mother’s skull on its head, so no one knows what its bare face looks like. However, it’s clear that it’s always crying.",
-    evolution: { next: [["105", "Level 28"]] },
+      "Ele usa o crânio de sua mãe na cabeça, então ninguém sabe como é seu rosto nu. No entanto, está claro que ele está sempre chorando.",
+    evolution: {
+      next: [["105", "Level 28"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "6.5 kg",
@@ -4245,12 +4130,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/104.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/104.png",
-      hires:
-        "./Imagens/Pokedex/hires/104.png",
+      sprite: "./Imagens/Pokedex/sprites/104.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/104.png",
+      hires: "./Imagens/Pokedex/hires/104.png",
     },
   },
   {
@@ -4272,8 +4154,10 @@ const POKEDEX_JSON = [
     },
     species: "Bone Keeper Pokémon",
     description:
-      "They thump their bones rhythmically to communicate among themselves. There are nearly 50 different rhythmic patterns.",
-    evolution: { prev: ["104", "Level 28"] },
+      "Eles batem ritmicamente seus ossos para se comunicar entre si. Existem quase 50 padrões rítmicos diferentes.",
+    evolution: {
+      prev: ["104", "Level 28"],
+    },
     profile: {
       height: "1 m",
       weight: "45 kg",
@@ -4286,12 +4170,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/105.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/105.png",
-      hires:
-        "./Imagens/Pokedex/hires/105.png",
+      sprite: "./Imagens/Pokedex/sprites/105.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/105.png",
+      hires: "./Imagens/Pokedex/hires/105.png",
     },
   },
   {
@@ -4313,8 +4194,10 @@ const POKEDEX_JSON = [
     },
     species: "Kicking Pokémon",
     description:
-      "Hitmonlee’s legs freely contract and stretch. Using these springlike legs, it bowls over foes with devastating kicks. After battle, it rubs down its legs and loosens the muscles to overcome fatigue.",
-    evolution: { prev: ["236", "Level 20, Attack > Defense"] },
+      "As pernas de Hitmonlee se contraem e se estendem livremente. Usando essas pernas semelhantes a molas, ele derruba inimigos com chutes devastadores. Após a batalha, ele esfrega as pernas e solta os músculos para superar a fadiga.",
+    evolution: {
+      prev: ["236", "Level 20, Attack > Defense"],
+    },
     profile: {
       height: "1.5 m",
       weight: "49.8 kg",
@@ -4327,12 +4210,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/106.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/106.png",
-      hires:
-        "./Imagens/Pokedex/hires/106.png",
+      sprite: "./Imagens/Pokedex/sprites/106.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/106.png",
+      hires: "./Imagens/Pokedex/hires/106.png",
     },
   },
   {
@@ -4354,8 +4234,10 @@ const POKEDEX_JSON = [
     },
     species: "Punching Pokémon",
     description:
-      "Hitmonchan is said to possess the spirit of a boxer who had been working toward a world championship. This Pokémon has an indomitable spirit and will never give up in the face of adversity.",
-    evolution: { prev: ["236", "Level 20, Attack < Defense"] },
+      "Diz-se que Hitmonchan possui o espírito de um boxeador que estava trabalhando em direção a um campeonato mundial. Este Pokémon possui um espírito indomável e nunca desistirá diante da adversidade.",
+    evolution: {
+      prev: ["236", "Level 20, Attack < Defense"],
+    },
     profile: {
       height: "1.4 m",
       weight: "50.2 kg",
@@ -4368,12 +4250,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/107.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/107.png",
-      hires:
-        "./Imagens/Pokedex/hires/107.png",
+      sprite: "./Imagens/Pokedex/sprites/107.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/107.png",
+      hires: "./Imagens/Pokedex/hires/107.png",
     },
   },
   {
@@ -4395,8 +4274,10 @@ const POKEDEX_JSON = [
     },
     species: "Licking Pokémon",
     description:
-      "It licks filth clean with its tongue. Whatever it licks always stinks afterward, so whether it’s really clean is...questionable.",
-    evolution: { next: [["463", "after Rollout learned"]] },
+      "Ele lambe a sujeira limpa com sua língua. Qualquer coisa que ele lamba sempre cheira mal depois, então se está realmente limpo é ... questionável.",
+    evolution: {
+      next: [["463", "after Rollout learned"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "65.5 kg",
@@ -4409,12 +4290,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/108.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/108.png",
-      hires:
-        "./Imagens/Pokedex/hires/108.png",
+      sprite: "./Imagens/Pokedex/sprites/108.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/108.png",
+      hires: "./Imagens/Pokedex/hires/108.png",
     },
   },
   {
@@ -4436,8 +4314,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Gas Pokémon",
     description:
-      "Koffing embodies toxic substances. It mixes the toxins with raw garbage to set off a chemical reaction that results in a terribly powerful poison gas. The higher the temperature, the more gas is concocted by this Pokémon.",
-    evolution: { next: [["110", "Level 35"]] },
+      "Koffing incorpora substâncias tóxicas. Ele mistura as toxinas com lixo cru para desencadear uma reação química que resulta em um gás venenoso terrivelmente poderoso. Quanto mais alta a temperatura, mais gás é produzido por este Pokémon.",
+    evolution: {
+      next: [["110", "Level 35"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "1 kg",
@@ -4446,12 +4326,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/109.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/109.png",
-      hires:
-        "./Imagens/Pokedex/hires/109.png",
+      sprite: "./Imagens/Pokedex/sprites/109.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/109.png",
+      hires: "./Imagens/Pokedex/hires/109.png",
     },
   },
   {
@@ -4473,8 +4350,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Gas Pokémon",
     description:
-      "Weezing alternately shrinks and inflates its twin bodies to mix together toxic gases inside. The more the gases are mixed, the more powerful the toxins become. The Pokémon also becomes more putrid.",
-    evolution: { prev: ["109", "Level 35"] },
+      "Weezing alternadamente encolhe e infla seus corpos gêmeos para misturar gases tóxicos dentro. Quanto mais os gases são misturados, mais poderosos se tornam os venenos. O Pokémon também fica mais podre.",
+    evolution: {
+      prev: ["109", "Level 35"],
+    },
     profile: {
       height: "1.2 m",
       weight: "9.5 kg",
@@ -4483,12 +4362,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/110.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/110.png",
-      hires:
-        "./Imagens/Pokedex/hires/110.png",
+      sprite: "./Imagens/Pokedex/sprites/110.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/110.png",
+      hires: "./Imagens/Pokedex/hires/110.png",
     },
   },
   {
@@ -4510,8 +4386,10 @@ const POKEDEX_JSON = [
     },
     species: "Spikes Pokémon",
     description:
-      "Rhyhorn’s brain is very small. It is so dense, while on a run it forgets why it started running in the first place. It apparently remembers sometimes if it demolishes something.",
-    evolution: { next: [["112", "Level 42"]] },
+      "O cérebro de Rhyhorn é muito pequeno. É tão denso que, durante uma corrida, ele esquece por que começou a correr em primeiro lugar. Aparentemente, ele se lembra às vezes se demolir algo.",
+    evolution: {
+      next: [["112", "Level 42"]],
+    },
     profile: {
       height: "1 m",
       weight: "115 kg",
@@ -4524,12 +4402,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/111.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/111.png",
-      hires:
-        "./Imagens/Pokedex/hires/111.png",
+      sprite: "./Imagens/Pokedex/sprites/111.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/111.png",
+      hires: "./Imagens/Pokedex/hires/111.png",
     },
   },
   {
@@ -4551,7 +4426,7 @@ const POKEDEX_JSON = [
     },
     species: "Drill Pokémon",
     description:
-      "Rhydon has a horn that serves as a drill. It is used for destroying rocks and boulders. This Pokémon occasionally rams into streams of magma, but the armor-like hide prevents it from feeling the heat.",
+      "Rhydon possui um chifre que serve como uma broca. É usado para destruir rochas e pedras. Este Pokémon ocasionalmente bate em riachos de magma, mas a pele semelhante a uma armadura o impede de sentir o calor.",
     evolution: {
       prev: ["111", "Level 42"],
       next: [["464", "trade holding Protector"]],
@@ -4568,12 +4443,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/112.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/112.png",
-      hires:
-        "./Imagens/Pokedex/hires/112.png",
+      sprite: "./Imagens/Pokedex/sprites/112.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/112.png",
+      hires: "./Imagens/Pokedex/hires/112.png",
     },
   },
   {
@@ -4595,7 +4467,7 @@ const POKEDEX_JSON = [
     },
     species: "Egg Pokémon",
     description:
-      "Because the eggs on their bellies have been overharvested by people in the past, the Chansey population remains very small.",
+      "Devido ao excesso de colheita dos ovos em suas barrigas pelas pessoas no passado, a população de Chansey permanece muito pequena.",
     evolution: {
       prev: ["440", "hold Oval Stone, Daytime"],
       next: [["242", "high Friendship"]],
@@ -4612,12 +4484,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/113.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/113.png",
-      hires:
-        "./Imagens/Pokedex/hires/113.png",
+      sprite: "./Imagens/Pokedex/sprites/113.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/113.png",
+      hires: "./Imagens/Pokedex/hires/113.png",
     },
   },
   {
@@ -4639,8 +4508,10 @@ const POKEDEX_JSON = [
     },
     species: "Vine Pokémon",
     description:
-      "Tangela’s vines snap off easily if they are grabbed. This happens without pain, allowing it to make a quick getaway. The lost vines are replaced by newly grown vines the very next day.",
-    evolution: { next: [["465", "after Ancient Power learned"]] },
+      "As videiras de Tangela se soltam facilmente se forem agarradas. Isso acontece sem dor, permitindo que ele faça uma fuga rápida. As videiras perdidas são substituídas por videiras recém-cultivadas no dia seguinte.",
+    evolution: {
+      next: [["465", "after Ancient Power learned"]],
+    },
     profile: {
       height: "1 m",
       weight: "35 kg",
@@ -4653,12 +4524,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/114.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/114.png",
-      hires:
-        "./Imagens/Pokedex/hires/114.png",
+      sprite: "./Imagens/Pokedex/sprites/114.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/114.png",
+      hires: "./Imagens/Pokedex/hires/114.png",
     },
   },
   {
@@ -4680,7 +4548,7 @@ const POKEDEX_JSON = [
     },
     species: "Parent Pokémon",
     description:
-      "You shouldn’t get close to the child when it’s playing outside its mother’s pouch. Its mother is always nearby watching over it.",
+      "Você não deve se aproximar da criança quando ela está brincando fora da bolsa de sua mãe. Sua mãe está sempre por perto vigiando-a.",
     evolution: {},
     profile: {
       height: "2.2 m",
@@ -4694,12 +4562,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/115.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/115.png",
-      hires:
-        "./Imagens/Pokedex/hires/115.png",
+      sprite: "./Imagens/Pokedex/sprites/115.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/115.png",
+      hires: "./Imagens/Pokedex/hires/115.png",
     },
   },
   {
@@ -4721,8 +4586,10 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "If Horsea senses danger, it will reflexively spray a dense black ink from its mouth and try to escape. This Pokémon swims by cleverly flapping the fin on its back.",
-    evolution: { next: [["117", "Level 32"]] },
+      "Se Horsea sentir perigo, ele espirrará reflexivamente uma tinta preta densa de sua boca e tentará escapar. Este Pokémon nada batendo inteligentemente a nadadeira nas costas.",
+    evolution: {
+      next: [["117", "Level 32"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "8 kg",
@@ -4735,12 +4602,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/116.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/116.png",
-      hires:
-        "./Imagens/Pokedex/hires/116.png",
+      sprite: "./Imagens/Pokedex/sprites/116.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/116.png",
+      hires: "./Imagens/Pokedex/hires/116.png",
     },
   },
   {
@@ -4762,7 +4626,7 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "Seadra generates whirlpools by spinning its body. The whirlpools are strong enough to swallow even fishing boats. This Pokémon weakens prey with these currents, then swallows it whole.",
+      "Seadra gera redemoinhos girando seu corpo. Os redemoinhos são fortes o suficiente para engolir até mesmo barcos de pesca. Este Pokémon enfraquece as presas com essas correntes e depois as engole inteiras.",
     evolution: {
       prev: ["116", "Level 32"],
       next: [["230", "trade holding Dragon Scale"]],
@@ -4779,12 +4643,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/117.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/117.png",
-      hires:
-        "./Imagens/Pokedex/hires/117.png",
+      sprite: "./Imagens/Pokedex/sprites/117.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/117.png",
+      hires: "./Imagens/Pokedex/hires/117.png",
     },
   },
   {
@@ -4806,8 +4667,10 @@ const POKEDEX_JSON = [
     },
     species: "Goldfish Pokémon",
     description:
-      "The way it swims along fluttering its dress-like fins has earned it the name “princess of the water.”",
-    evolution: { next: [["119", "Level 33"]] },
+      'A maneira como ele nada ao longo de suas nadadeiras semelhantes a vestidos lhe rendeu o nome de "princesa da água".',
+    evolution: {
+      next: [["119", "Level 33"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "15 kg",
@@ -4820,12 +4683,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/118.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/118.png",
-      hires:
-        "./Imagens/Pokedex/hires/118.png",
+      sprite: "./Imagens/Pokedex/sprites/118.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/118.png",
+      hires: "./Imagens/Pokedex/hires/118.png",
     },
   },
   {
@@ -4847,8 +4707,10 @@ const POKEDEX_JSON = [
     },
     species: "Goldfish Pokémon",
     description:
-      "To attract females, males dance on the river’s floor. The females gather around the male that dances most gracefully.",
-    evolution: { prev: ["118", "Level 33"] },
+      "Para atrair fêmeas, os machos dançam no fundo do rio. As fêmeas se reúnem em torno do macho que dança com mais graça.",
+    evolution: {
+      prev: ["118", "Level 33"],
+    },
     profile: {
       height: "1.3 m",
       weight: "39 kg",
@@ -4861,12 +4723,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/119.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/119.png",
-      hires:
-        "./Imagens/Pokedex/hires/119.png",
+      sprite: "./Imagens/Pokedex/sprites/119.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/119.png",
+      hires: "./Imagens/Pokedex/hires/119.png",
     },
   },
   {
@@ -4888,8 +4747,10 @@ const POKEDEX_JSON = [
     },
     species: "Star Shape Pokémon",
     description:
-      "No number of injuries can bother Staryu. Its amazing regenerative powers return it to its previous state in half a day!",
-    evolution: { next: [["121", "use Water Stone"]] },
+      "Nenhum número de ferimentos pode incomodar Staryu. Seus incríveis poderes regenerativos o retornam ao estado anterior em meio dia!",
+    evolution: {
+      next: [["121", "use Water Stone"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "34.5 kg",
@@ -4902,12 +4763,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/120.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/120.png",
-      hires:
-        "./Imagens/Pokedex/hires/120.png",
+      sprite: "./Imagens/Pokedex/sprites/120.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/120.png",
+      hires: "./Imagens/Pokedex/hires/120.png",
     },
   },
   {
@@ -4929,8 +4787,10 @@ const POKEDEX_JSON = [
     },
     species: "Mysterious Pokémon",
     description:
-      "It rotates its geometrically shaped body to swim through the water. It always seems to be sending out mysterious radio waves.",
-    evolution: { prev: ["120", "use Water Stone"] },
+      "Ele gira seu corpo geometricamente formado para nadar pela água. Ele sempre parece estar enviando ondas de rádio misteriosas.",
+    evolution: {
+      prev: ["120", "use Water Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "80 kg",
@@ -4943,12 +4803,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/121.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/121.png",
-      hires:
-        "./Imagens/Pokedex/hires/121.png",
+      sprite: "./Imagens/Pokedex/sprites/121.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/121.png",
+      hires: "./Imagens/Pokedex/hires/121.png",
     },
   },
   {
@@ -4970,8 +4827,10 @@ const POKEDEX_JSON = [
     },
     species: "Barrier Pokémon",
     description:
-      "It creates invisible walls with its pantomiming. If you don’t act impressed, it will attack you with a double slap!",
-    evolution: { prev: ["439", "after Mimic learned"] },
+      "Ele cria paredes invisíveis com sua pantomima. Se você não agir impressionado, ele o atacará com um tapa duplo!",
+    evolution: {
+      prev: ["439", "after Mimic learned"],
+    },
     profile: {
       height: "1.3 m",
       weight: "54.5 kg",
@@ -4984,12 +4843,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/122.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/122.png",
-      hires:
-        "./Imagens/Pokedex/hires/122.png",
+      sprite: "./Imagens/Pokedex/sprites/122.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/122.png",
+      hires: "./Imagens/Pokedex/hires/122.png",
     },
   },
   {
@@ -5011,8 +4867,10 @@ const POKEDEX_JSON = [
     },
     species: "Mantis Pokémon",
     description:
-      "Some call it a ninja. Its movements— imperceptibly quick—are sufficient to cleave the air in two. It’s very popular in Alola.",
-    evolution: { next: [["212", "trade holding Metal Coat"]] },
+      "Alguns o chamam de ninja. Seus movimentos - imperceptivelmente rápidos - são suficientes para dividir o ar em dois. É muito popular em Alola.",
+    evolution: {
+      next: [["212", "trade holding Metal Coat"]],
+    },
     profile: {
       height: "1.5 m",
       weight: "56 kg",
@@ -5025,12 +4883,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/123.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/123.png",
-      hires:
-        "./Imagens/Pokedex/hires/123.png",
+      sprite: "./Imagens/Pokedex/sprites/123.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/123.png",
+      hires: "./Imagens/Pokedex/hires/123.png",
     },
   },
   {
@@ -5052,8 +4907,10 @@ const POKEDEX_JSON = [
     },
     species: "Human Shape Pokémon",
     description:
-      "Its strange cries sound like human language. There are some musicians who compose songs for Jynx to sing.",
-    evolution: { prev: ["238", "Level 30"] },
+      "Seus estranhos gritos soam como linguagem humana. Há alguns músicos que compõem canções para Jynx cantar.",
+    evolution: {
+      prev: ["238", "Level 30"],
+    },
     profile: {
       height: "1.4 m",
       weight: "40.6 kg",
@@ -5066,12 +4923,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/124.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/124.png",
-      hires:
-        "./Imagens/Pokedex/hires/124.png",
+      sprite: "./Imagens/Pokedex/sprites/124.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/124.png",
+      hires: "./Imagens/Pokedex/hires/124.png",
     },
   },
   {
@@ -5093,7 +4947,7 @@ const POKEDEX_JSON = [
     },
     species: "Electric Pokémon",
     description:
-      "While it’s often blamed for power outages, the truth is the cause of outages is more often an error on the part of the electric company.",
+      "Embora seja frequentemente culpado por quedas de energia, a verdade é que a causa das quedas é mais frequentemente um erro por parte da companhia elétrica.",
     evolution: {
       prev: ["239", "Level 30"],
       next: [["466", "trade holding Electirizer"]],
@@ -5109,12 +4963,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/125.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/125.png",
-      hires:
-        "./Imagens/Pokedex/hires/125.png",
+      sprite: "./Imagens/Pokedex/sprites/125.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/125.png",
+      hires: "./Imagens/Pokedex/hires/125.png",
     },
   },
   {
@@ -5136,7 +4987,7 @@ const POKEDEX_JSON = [
     },
     species: "Spitfire Pokémon",
     description:
-      "The hotter the place, the better they feel. Magmar in Alola are said to be hardier than those in other areas.",
+      "Quanto mais quente o lugar, melhor eles se sentem. Magmar em Alola são considerados mais resistentes do que aqueles em outras áreas.",
     evolution: {
       prev: ["240", "Level 30"],
       next: [["467", "trade holding Magmarizer"]],
@@ -5152,12 +5003,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/126.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/126.png",
-      hires:
-        "./Imagens/Pokedex/hires/126.png",
+      sprite: "./Imagens/Pokedex/sprites/126.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/126.png",
+      hires: "./Imagens/Pokedex/hires/126.png",
     },
   },
   {
@@ -5179,7 +5027,7 @@ const POKEDEX_JSON = [
     },
     species: "Stag Beetle Pokémon",
     description:
-      "Although it’s tough, it can’t handle cold well. When night falls, it buries itself in leafage and sleeps.",
+      "Embora seja resistente, não suporta bem o frio. Quando cai a noite, ele se enterra na folhagem e dorme.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -5193,12 +5041,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/127.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/127.png",
-      hires:
-        "./Imagens/Pokedex/hires/127.png",
+      sprite: "./Imagens/Pokedex/sprites/127.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/127.png",
+      hires: "./Imagens/Pokedex/hires/127.png",
     },
   },
   {
@@ -5220,7 +5065,7 @@ const POKEDEX_JSON = [
     },
     species: "Wild Bull Pokémon",
     description:
-      "The climate seems to be related to the reason Tauros in Alola are a little calmer than those in other regions.",
+      "O clima parece estar relacionado ao motivo pelo qual Tauros em Alola são um pouco mais calmos do que aqueles em outras regiões.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -5234,12 +5079,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/128.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/128.png",
-      hires:
-        "./Imagens/Pokedex/hires/128.png",
+      sprite: "./Imagens/Pokedex/sprites/128.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/128.png",
+      hires: "./Imagens/Pokedex/hires/128.png",
     },
   },
   {
@@ -5261,8 +5103,10 @@ const POKEDEX_JSON = [
     },
     species: "Fish Pokémon",
     description:
-      "Thanks to their strong hold on life, dirty water doesn’t bother them at all. They live in waters all over the world!",
-    evolution: { next: [["130", "Level 20"]] },
+      "Graças à sua forte resistência à vida, a água suja não os incomoda de forma alguma. Eles vivem em águas em todo o mundo!",
+    evolution: {
+      next: [["130", "Level 20"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "10 kg",
@@ -5274,12 +5118,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/129.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/129.png",
-      hires:
-        "./Imagens/Pokedex/hires/129.png",
+      sprite: "./Imagens/Pokedex/sprites/129.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/129.png",
+      hires: "./Imagens/Pokedex/hires/129.png",
     },
   },
   {
@@ -5301,8 +5142,10 @@ const POKEDEX_JSON = [
     },
     species: "Atrocious Pokémon",
     description:
-      "The energy from evolution stimulated its brain cells strongly, causing it to become very ferocious.",
-    evolution: { prev: ["129", "Level 20"] },
+      "A energia da evolução estimulou fortemente suas células cerebrais, fazendo com que se tornasse muito feroz.",
+    evolution: {
+      prev: ["129", "Level 20"],
+    },
     profile: {
       height: "6.5 m",
       weight: "235 kg",
@@ -5314,12 +5157,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/130.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/130.png",
-      hires:
-        "./Imagens/Pokedex/hires/130.png",
+      sprite: "./Imagens/Pokedex/sprites/130.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/130.png",
+      hires: "./Imagens/Pokedex/hires/130.png",
     },
   },
   {
@@ -5341,7 +5181,7 @@ const POKEDEX_JSON = [
     },
     species: "Transport Pokémon",
     description:
-      "They’ve been so cherished that there’s now an overabundance. The fish Pokémon population has declined in waters with too many Lapras.",
+      "Eles foram tão apreciados que agora há uma abundância. A população de Pokémon peixes diminuiu em águas com muitos Lapras.",
     evolution: {},
     profile: {
       height: "2.5 m",
@@ -5355,12 +5195,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/131.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/131.png",
-      hires:
-        "./Imagens/Pokedex/hires/131.png",
+      sprite: "./Imagens/Pokedex/sprites/131.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/131.png",
+      hires: "./Imagens/Pokedex/hires/131.png",
     },
   },
   {
@@ -5382,7 +5219,7 @@ const POKEDEX_JSON = [
     },
     species: "Transform Pokémon",
     description:
-      "It transforms into whatever it sees. If the thing it’s transforming into isn’t right in front of it, Ditto relies on its memory—so sometimes it fails.",
+      "Ele se transforma em qualquer coisa que vê. Se a coisa em que está se transformando não está bem na frente dele, Ditto depende de sua memória - então às vezes falha.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -5395,12 +5232,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/132.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/132.png",
-      hires:
-        "./Imagens/Pokedex/hires/132.png",
+      sprite: "./Imagens/Pokedex/sprites/132.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/132.png",
+      hires: "./Imagens/Pokedex/hires/132.png",
     },
   },
   {
@@ -5422,7 +5256,7 @@ const POKEDEX_JSON = [
     },
     species: "Evolution Pokémon",
     description:
-      "Its genes are easily influenced by its surroundings. Even its face starts to look like that of its Trainer.",
+      "Seus genes são facilmente influenciados por seu ambiente. Até mesmo seu rosto começa a ficar parecido com o de seu treinador.",
     evolution: {
       next: [
         ["134", "use Water Stone"],
@@ -5447,12 +5281,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/133.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/133.png",
-      hires:
-        "./Imagens/Pokedex/hires/133.png",
+      sprite: "./Imagens/Pokedex/sprites/133.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/133.png",
+      hires: "./Imagens/Pokedex/hires/133.png",
     },
   },
   {
@@ -5474,8 +5305,10 @@ const POKEDEX_JSON = [
     },
     species: "Bubble Jet Pokémon",
     description:
-      "It detects nearby moisture with its fin. When its fin begins trembling rapidly, that means rain will fall in a few hours.",
-    evolution: { prev: ["133", "use Water Stone"] },
+      "Ele detecta umidade próxima com sua nadadeira. Quando sua nadadeira começa a tremer rapidamente, isso significa que choverá em algumas horas.",
+    evolution: {
+      prev: ["133", "use Water Stone"],
+    },
     profile: {
       height: "1 m",
       weight: "29 kg",
@@ -5487,12 +5320,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/134.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/134.png",
-      hires:
-        "./Imagens/Pokedex/hires/134.png",
+      sprite: "./Imagens/Pokedex/sprites/134.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/134.png",
+      hires: "./Imagens/Pokedex/hires/134.png",
     },
   },
   {
@@ -5514,8 +5344,10 @@ const POKEDEX_JSON = [
     },
     species: "Lightning Pokémon",
     description:
-      "Its fur stands on end, becoming like needles it fires at enemies. Once they’re weakened, it finishes them off with a 10,000 volt shock.",
-    evolution: { prev: ["133", "use Thunder Stone"] },
+      "Seu pelo fica eriçado, tornando-se como agulhas que atira nos inimigos. Uma vez enfraquecidos, ele os mata com um choque de 10.000 volts.",
+    evolution: {
+      prev: ["133", "use Thunder Stone"],
+    },
     profile: {
       height: "0.8 m",
       weight: "24.5 kg",
@@ -5527,12 +5359,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/135.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/135.png",
-      hires:
-        "./Imagens/Pokedex/hires/135.png",
+      sprite: "./Imagens/Pokedex/sprites/135.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/135.png",
+      hires: "./Imagens/Pokedex/hires/135.png",
     },
   },
   {
@@ -5554,8 +5383,10 @@ const POKEDEX_JSON = [
     },
     species: "Flame Pokémon",
     description:
-      "The flame chamber inside its body ignites when Flareon gets agitated, reaching temperatures of up to 1,650 degrees Fahrenheit.",
-    evolution: { prev: ["133", "use Fire Stone"] },
+      "A câmara de chama dentro de seu corpo se inflama quando Flareon fica agitado, atingindo temperaturas de até 1.650 graus Fahrenheit.",
+    evolution: {
+      prev: ["133", "use Fire Stone"],
+    },
     profile: {
       height: "0.9 m",
       weight: "25 kg",
@@ -5567,12 +5398,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/136.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/136.png",
-      hires:
-        "./Imagens/Pokedex/hires/136.png",
+      sprite: "./Imagens/Pokedex/sprites/136.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/136.png",
+      hires: "./Imagens/Pokedex/hires/136.png",
     },
   },
   {
@@ -5594,8 +5422,10 @@ const POKEDEX_JSON = [
     },
     species: "Virtual Pokémon",
     description:
-      "It was built 20 years ago by scientists who dreamed of exploring space. Their dreams have yet to come true.",
-    evolution: { next: [["233", "trade holding Upgrade"]] },
+      "Foi construído há 20 anos por cientistas que sonhavam em explorar o espaço. Seus sonhos ainda não se realizaram.",
+    evolution: {
+      next: [["233", "trade holding Upgrade"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "36.5 kg",
@@ -5608,12 +5438,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/137.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/137.png",
-      hires:
-        "./Imagens/Pokedex/hires/137.png",
+      sprite: "./Imagens/Pokedex/sprites/137.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/137.png",
+      hires: "./Imagens/Pokedex/hires/137.png",
     },
   },
   {
@@ -5635,8 +5462,10 @@ const POKEDEX_JSON = [
     },
     species: "Spiral Pokémon",
     description:
-      "It was restored from an ancient fossil. Those Helix Fossils are excavated from areas that were once oceans long, long ago.",
-    evolution: { next: [["139", "Level 40"]] },
+      "Foi restaurado a partir de um fóssil antigo. Esses fósseis Helix são escavados em áreas que já foram oceanos há muito, muito tempo.",
+    evolution: {
+      next: [["139", "Level 40"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7.5 kg",
@@ -5649,12 +5478,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/138.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/138.png",
-      hires:
-        "./Imagens/Pokedex/hires/138.png",
+      sprite: "./Imagens/Pokedex/sprites/138.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/138.png",
+      hires: "./Imagens/Pokedex/hires/138.png",
     },
   },
   {
@@ -5676,8 +5502,10 @@ const POKEDEX_JSON = [
     },
     species: "Spiral Pokémon",
     description:
-      "It wraps its prey in its tentacles to immobilize them and then finishes them off with its sharp fangs.",
-    evolution: { prev: ["138", "Level 40"] },
+      "Ele envolve sua presa em seus tentáculos para imobilizá-la e depois a mata com suas presas afiadas.",
+    evolution: {
+      prev: ["138", "Level 40"],
+    },
     profile: {
       height: "1 m",
       weight: "35 kg",
@@ -5690,12 +5518,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/139.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/139.png",
-      hires:
-        "./Imagens/Pokedex/hires/139.png",
+      sprite: "./Imagens/Pokedex/sprites/139.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/139.png",
+      hires: "./Imagens/Pokedex/hires/139.png",
     },
   },
   {
@@ -5717,8 +5542,10 @@ const POKEDEX_JSON = [
     },
     species: "Shellfish Pokémon",
     description:
-      "This Pokémon became extinct everywhere, except in a few areas. It protects itself with its hard shell.",
-    evolution: { next: [["141", "Level 40"]] },
+      "Este Pokémon tornou-se extinto em todos os lugares, exceto em algumas áreas. Ele se protege com sua casca dura.",
+    evolution: {
+      next: [["141", "Level 40"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "11.5 kg",
@@ -5731,12 +5558,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/140.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/140.png",
-      hires:
-        "./Imagens/Pokedex/hires/140.png",
+      sprite: "./Imagens/Pokedex/sprites/140.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/140.png",
+      hires: "./Imagens/Pokedex/hires/140.png",
     },
   },
   {
@@ -5758,8 +5582,10 @@ const POKEDEX_JSON = [
     },
     species: "Shellfish Pokémon",
     description:
-      "It swims at speeds of roughly 29 knots, quickly closing in on its prey and slashing into them with its scythes to finish them off.",
-    evolution: { prev: ["140", "Level 40"] },
+      "Ele nada a velocidades de aproximadamente 29 nós, fechando rapidamente sua presa e cortando-a com suas foices para matá-la.",
+    evolution: {
+      prev: ["140", "Level 40"],
+    },
     profile: {
       height: "1.3 m",
       weight: "40.5 kg",
@@ -5772,12 +5598,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/141.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/141.png",
-      hires:
-        "./Imagens/Pokedex/hires/141.png",
+      sprite: "./Imagens/Pokedex/sprites/141.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/141.png",
+      hires: "./Imagens/Pokedex/hires/141.png",
     },
   },
   {
@@ -5799,7 +5622,7 @@ const POKEDEX_JSON = [
     },
     species: "Fossil Pokémon",
     description:
-      "It flew through the open skies over the ancient continent as if they were its own. When it touched ground, its walk was weak and slow.",
+      "Ele voou pelos céus abertos sobre o antigo continente como se fossem seus próprios. Quando tocou o solo, sua caminhada estava fraca e lenta.",
     evolution: {},
     profile: {
       height: "1.8 m",
@@ -5813,12 +5636,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/142.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/142.png",
-      hires:
-        "./Imagens/Pokedex/hires/142.png",
+      sprite: "./Imagens/Pokedex/sprites/142.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/142.png",
+      hires: "./Imagens/Pokedex/hires/142.png",
     },
   },
   {
@@ -5840,8 +5660,10 @@ const POKEDEX_JSON = [
     },
     species: "Sleeping Pokémon",
     description:
-      "It has no interest in anything other than eating. Even if you climb up on its stomach while it’s napping, it doesn’t seem to mind at all!",
-    evolution: { prev: ["446", "high Friendship"] },
+      "Ele não tem interesse em outra coisa senão comer. Mesmo que você suba em seu estômago enquanto ele está tirando uma soneca, ele não parece se importar nada!",
+    evolution: {
+      prev: ["446", "high Friendship"],
+    },
     profile: {
       height: "2.1 m",
       weight: "460 kg",
@@ -5854,12 +5676,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/143.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/143.png",
-      hires:
-        "./Imagens/Pokedex/hires/143.png",
+      sprite: "./Imagens/Pokedex/sprites/143.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/143.png",
+      hires: "./Imagens/Pokedex/hires/143.png",
     },
   },
   {
@@ -5881,7 +5700,7 @@ const POKEDEX_JSON = [
     },
     species: "Freeze Pokémon",
     description:
-      "Articuno is a legendary bird Pokémon that can control ice. The flapping of its wings chills the air. As a result, it is said that when this Pokémon flies, snow will fall.",
+      "Articuno é um Pokémon lendário que pode controlar o gelo. O bater de suas asas gela o ar. Como resultado, diz-se que quando este Pokémon voa, nevará.",
     evolution: {},
     profile: {
       height: "1.7 m",
@@ -5894,12 +5713,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/144.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/144.png",
-      hires:
-        "./Imagens/Pokedex/hires/144.png",
+      sprite: "./Imagens/Pokedex/sprites/144.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/144.png",
+      hires: "./Imagens/Pokedex/hires/144.png",
     },
   },
   {
@@ -5921,7 +5737,7 @@ const POKEDEX_JSON = [
     },
     species: "Electric Pokémon",
     description:
-      "Zapdos is a legendary bird Pokémon that has the ability to control electricity. It usually lives in thunderclouds. The Pokémon gains power if it is stricken by lightning bolts.",
+      "Zapdos é um Pokémon lendário que tem a capacidade de controlar a eletricidade. Geralmente vive em nuvens de tempestade. O Pokémon ganha poder se for atingido por raios.",
     evolution: {},
     profile: {
       height: "1.6 m",
@@ -5934,12 +5750,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/145.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/145.png",
-      hires:
-        "./Imagens/Pokedex/hires/145.png",
+      sprite: "./Imagens/Pokedex/sprites/145.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/145.png",
+      hires: "./Imagens/Pokedex/hires/145.png",
     },
   },
   {
@@ -5961,7 +5774,7 @@ const POKEDEX_JSON = [
     },
     species: "Flame Pokémon",
     description:
-      "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+      "Moltres é um Pokémon lendário que tem a capacidade de controlar o fogo. Diz-se que se este Pokémon for ferido, ele mergulha seu corpo no magma derretido de um vulcão para queimar e se curar.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -5974,12 +5787,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/146.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/146.png",
-      hires:
-        "./Imagens/Pokedex/hires/146.png",
+      sprite: "./Imagens/Pokedex/sprites/146.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/146.png",
+      hires: "./Imagens/Pokedex/hires/146.png",
     },
   },
   {
@@ -6001,8 +5811,10 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "It sheds its skin—almost on a daily basis—and grows larger. Its skin is soft just after it’s been shed.",
-    evolution: { next: [["148", "Level 30"]] },
+      "Ele muda de pele - quase diariamente - e cresce. Sua pele é macia logo após ser derramada.",
+    evolution: {
+      next: [["148", "Level 30"]],
+    },
     profile: {
       height: "1.8 m",
       weight: "3.3 kg",
@@ -6014,12 +5826,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/147.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/147.png",
-      hires:
-        "./Imagens/Pokedex/hires/147.png",
+      sprite: "./Imagens/Pokedex/sprites/147.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/147.png",
+      hires: "./Imagens/Pokedex/hires/147.png",
     },
   },
   {
@@ -6041,8 +5850,11 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "Some say that if you see it at the start of the year, flying through the sky and twisting its body, you’ll be healthy all year long.",
-    evolution: { prev: ["147", "Level 30"], next: [["149", "Level 55"]] },
+      "Alguns dizem que, se você o vir no início do ano, voando pelo céu e torcendo seu corpo, você terá saúde o ano todo.",
+    evolution: {
+      prev: ["147", "Level 30"],
+      next: [["149", "Level 55"]],
+    },
     profile: {
       height: "4 m",
       weight: "16.5 kg",
@@ -6054,12 +5866,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/148.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/148.png",
-      hires:
-        "./Imagens/Pokedex/hires/148.png",
+      sprite: "./Imagens/Pokedex/sprites/148.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/148.png",
+      hires: "./Imagens/Pokedex/hires/148.png",
     },
   },
   {
@@ -6081,8 +5890,10 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "You’ll often hear tales of this kindhearted Pokémon rescuing people or Pokémon that are drowning.",
-    evolution: { prev: ["148", "Level 55"] },
+      "Você ouvirá muitas histórias sobre este Pokémon de bom coração resgatando pessoas ou Pokémon que estão se afogando.",
+    evolution: {
+      prev: ["148", "Level 55"],
+    },
     profile: {
       height: "2.2 m",
       weight: "210 kg",
@@ -6094,12 +5905,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/149.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/149.png",
-      hires:
-        "./Imagens/Pokedex/hires/149.png",
+      sprite: "./Imagens/Pokedex/sprites/149.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/149.png",
+      hires: "./Imagens/Pokedex/hires/149.png",
     },
   },
   {
@@ -6121,7 +5929,7 @@ const POKEDEX_JSON = [
     },
     species: "Genetic Pokémon",
     description:
-      "Mewtwo is a Pokémon that was created by genetic manipulation. However, even though the scientific power of humans created this Pokémon’s body, they failed to endow Mewtwo with a compassionate heart.",
+      "Mewtwo é um Pokémon que foi criado por manipulação genética. No entanto, mesmo que o poder científico dos humanos tenha criado o corpo deste Pokémon, eles falharam em dotar Mewtwo com um coração compassivo.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -6134,12 +5942,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/150.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/150.png",
-      hires:
-        "./Imagens/Pokedex/hires/150.png",
+      sprite: "./Imagens/Pokedex/sprites/150.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/150.png",
+      hires: "./Imagens/Pokedex/hires/150.png",
     },
   },
   {
@@ -6161,7 +5966,7 @@ const POKEDEX_JSON = [
     },
     species: "New Species Pokémon",
     description:
-      "Mew is said to possess the genetic composition of all Pokémon. It is capable of making itself invisible at will, so it entirely avoids notice even if it approaches people.",
+      "Diz-se que Mew possui a composição genética de todos os Pokémon. É capaz de se tornar invisível à vontade, por isso evita completamente ser notado mesmo que se aproxime das pessoas.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -6171,12 +5976,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/151.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/151.png",
-      hires:
-        "./Imagens/Pokedex/hires/151.png",
+      sprite: "./Imagens/Pokedex/sprites/151.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/151.png",
+      hires: "./Imagens/Pokedex/hires/151.png",
     },
   },
   {
@@ -6198,8 +6000,10 @@ const POKEDEX_JSON = [
     },
     species: "Leaf Pokémon",
     description:
-      "In battle, Chikorita waves its leaf around to keep the foe at bay. However, a sweet fragrance also wafts from the leaf, becalming the battling Pokémon and creating a cozy, friendly atmosphere all around.",
-    evolution: { next: [["153", "Level 16"]] },
+      "Na batalha, Chikorita acena com sua folha ao redor para manter o inimigo à distância. No entanto, uma doce fragrância também emana da folha, acalmando o Pokémon que está lutando e criando uma atmosfera aconchegante e amigável ao redor.",
+    evolution: {
+      next: [["153", "Level 16"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "6.4 kg",
@@ -6211,12 +6015,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/152.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/152.png",
-      hires:
-        "./Imagens/Pokedex/hires/152.png",
+      sprite: "./Imagens/Pokedex/sprites/152.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/152.png",
+      hires: "./Imagens/Pokedex/hires/152.png",
     },
   },
   {
@@ -6238,8 +6039,11 @@ const POKEDEX_JSON = [
     },
     species: "Leaf Pokémon",
     description:
-      "Bayleef’s neck is ringed by curled-up leaves. Inside each tubular leaf is a small shoot of a tree. The fragrance of this shoot makes people peppy.",
-    evolution: { prev: ["152", "Level 16"], next: [["154", "Level 32"]] },
+      "O pescoço de Bayleef é cercado por folhas enroladas. Dentro de cada folha tubular há um pequeno broto de uma árvore. A fragrância deste broto deixa as pessoas animadas.",
+    evolution: {
+      prev: ["152", "Level 16"],
+      next: [["154", "Level 32"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "15.8 kg",
@@ -6251,12 +6055,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/153.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/153.png",
-      hires:
-        "./Imagens/Pokedex/hires/153.png",
+      sprite: "./Imagens/Pokedex/sprites/153.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/153.png",
+      hires: "./Imagens/Pokedex/hires/153.png",
     },
   },
   {
@@ -6278,8 +6079,10 @@ const POKEDEX_JSON = [
     },
     species: "Herb Pokémon",
     description:
-      "The fragrance of Meganium’s flower soothes and calms emotions. In battle, this Pokémon gives off more of its becalming scent to blunt the foe’s fighting spirit.",
-    evolution: { prev: ["153", "Level 32"] },
+      "A fragrância da flor de Meganium acalma e acalma as emoções. Na batalha, este Pokémon exala mais de seu aroma calmante para embotar o espírito de luta do inimigo.",
+    evolution: {
+      prev: ["153", "Level 32"],
+    },
     profile: {
       height: "1.8 m",
       weight: "100.5 kg",
@@ -6291,12 +6094,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/154.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/154.png",
-      hires:
-        "./Imagens/Pokedex/hires/154.png",
+      sprite: "./Imagens/Pokedex/sprites/154.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/154.png",
+      hires: "./Imagens/Pokedex/hires/154.png",
     },
   },
   {
@@ -6318,8 +6118,10 @@ const POKEDEX_JSON = [
     },
     species: "Fire Mouse Pokémon",
     description:
-      "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
-    evolution: { next: [["156", "Level 14"]] },
+      "Cyndaquil se protege acendendo as chamas em suas costas. As chamas são vigorosas se o Pokémon estiver com raiva. No entanto, se estiver cansado, as chamas espirram fitosamente com combustão incompleta.",
+    evolution: {
+      next: [["156", "Level 14"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "7.9 kg",
@@ -6331,12 +6133,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/155.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/155.png",
-      hires:
-        "./Imagens/Pokedex/hires/155.png",
+      sprite: "./Imagens/Pokedex/sprites/155.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/155.png",
+      hires: "./Imagens/Pokedex/hires/155.png",
     },
   },
   {
@@ -6358,8 +6157,11 @@ const POKEDEX_JSON = [
     },
     species: "Volcano Pokémon",
     description:
-      "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
-    evolution: { prev: ["155", "Level 14"], next: [["157", "Level 36"]] },
+      "Quilava mantém seus inimigos à distância com a intensidade de suas chamas e rajadas de ar superaquecido. Este Pokémon aplica sua notável agilidade para desviar ataques mesmo enquanto queima o inimigo com chamas.",
+    evolution: {
+      prev: ["155", "Level 14"],
+      next: [["157", "Level 36"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "19 kg",
@@ -6371,12 +6173,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/156.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/156.png",
-      hires:
-        "./Imagens/Pokedex/hires/156.png",
+      sprite: "./Imagens/Pokedex/sprites/156.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/156.png",
+      hires: "./Imagens/Pokedex/hires/156.png",
     },
   },
   {
@@ -6398,8 +6197,10 @@ const POKEDEX_JSON = [
     },
     species: "Volcano Pokémon",
     description:
-      "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
-    evolution: { prev: ["156", "Level 36"] },
+      "Typhlosion se esconde atrás de uma névoa de calor cintilante que cria usando suas chamas intensamente quentes. Este Pokémon cria explosões flamejantes que queimam tudo em cinzas.",
+    evolution: {
+      prev: ["156", "Level 36"],
+    },
     profile: {
       height: "1.7 m",
       weight: "79.5 kg",
@@ -6411,12 +6212,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/157.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/157.png",
-      hires:
-        "./Imagens/Pokedex/hires/157.png",
+      sprite: "./Imagens/Pokedex/sprites/157.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/157.png",
+      hires: "./Imagens/Pokedex/hires/157.png",
     },
   },
   {
@@ -6438,8 +6236,10 @@ const POKEDEX_JSON = [
     },
     species: "Big Jaw Pokémon",
     description:
-      "Despite the smallness of its body, Totodile’s jaws are very powerful. While the Pokémon may think it is just playfully nipping, its bite has enough power to cause serious injury.",
-    evolution: { next: [["159", "Level 18"]] },
+      "Apesar do tamanho reduzido de seu corpo, as mandíbulas de Totodile são muito poderosas. Embora o Pokémon possa pensar que está apenas mordendo brincando, sua mordida tem força suficiente para causar ferimentos graves.",
+    evolution: {
+      next: [["159", "Level 18"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "9.5 kg",
@@ -6451,12 +6251,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/158.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/158.png",
-      hires:
-        "./Imagens/Pokedex/hires/158.png",
+      sprite: "./Imagens/Pokedex/sprites/158.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/158.png",
+      hires: "./Imagens/Pokedex/hires/158.png",
     },
   },
   {
@@ -6478,8 +6275,11 @@ const POKEDEX_JSON = [
     },
     species: "Big Jaw Pokémon",
     description:
-      "Once Croconaw has clamped its jaws on its foe, it will absolutely not let go. Because the tips of its fangs are forked back like barbed fishhooks, they become impossible to remove when they have sunk in.",
-    evolution: { prev: ["158", "Level 18"], next: [["160", "Level 30"]] },
+      "Uma vez que Croconaw prendeu suas mandíbulas em seu inimigo, ele absolutamente não soltará. Como as pontas de suas presas são bifurcadas para trás como anzol de pesca com farpas, elas se tornam impossíveis de remover quando afundaram.",
+    evolution: {
+      prev: ["158", "Level 18"],
+      next: [["160", "Level 30"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "25 kg",
@@ -6491,12 +6291,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/159.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/159.png",
-      hires:
-        "./Imagens/Pokedex/hires/159.png",
+      sprite: "./Imagens/Pokedex/sprites/159.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/159.png",
+      hires: "./Imagens/Pokedex/hires/159.png",
     },
   },
   {
@@ -6518,8 +6315,10 @@ const POKEDEX_JSON = [
     },
     species: "Big Jaw Pokémon",
     description:
-      "Feraligatr intimidates its foes by opening its huge mouth. In battle, it will kick the ground hard with its thick and powerful hind legs to charge at the foe at an incredible speed.",
-    evolution: { prev: ["159", "Level 30"] },
+      "Feraligatr intimida seus inimigos abrindo sua enorme boca. Na batalha, ele chuta o chão com força com suas grossas e poderosas pernas traseiras para atacar o inimigo em uma velocidade incrível.",
+    evolution: {
+      prev: ["159", "Level 30"],
+    },
     profile: {
       height: "2.3 m",
       weight: "88.8 kg",
@@ -6531,12 +6330,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/160.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/160.png",
-      hires:
-        "./Imagens/Pokedex/hires/160.png",
+      sprite: "./Imagens/Pokedex/sprites/160.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/160.png",
+      hires: "./Imagens/Pokedex/hires/160.png",
     },
   },
   {
@@ -6558,8 +6354,10 @@ const POKEDEX_JSON = [
     },
     species: "Scout Pokémon",
     description:
-      "When Sentret sleeps, it does so while another stands guard. The sentry wakes the others at the first sign of danger. When this Pokémon becomes separated from its pack, it becomes incapable of sleep due to fear.",
-    evolution: { next: [["162", "Level 15"]] },
+      "Quando Sentret dorme, faz isso enquanto outro fica de guarda. O sentinela acorda os outros ao primeiro sinal de perigo. Quando este Pokémon se separa de sua matilha, fica incapaz de dormir devido ao medo.",
+    evolution: {
+      next: [["162", "Level 15"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "6 kg",
@@ -6572,12 +6370,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/161.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/161.png",
-      hires:
-        "./Imagens/Pokedex/hires/161.png",
+      sprite: "./Imagens/Pokedex/sprites/161.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/161.png",
+      hires: "./Imagens/Pokedex/hires/161.png",
     },
   },
   {
@@ -6599,8 +6394,10 @@ const POKEDEX_JSON = [
     },
     species: "Long Body Pokémon",
     description:
-      "Furret has a very slim build. When under attack, it can slickly squirm through narrow spaces and get away. In spite of its short limbs, this Pokémon is very nimble and fleet.",
-    evolution: { prev: ["161", "Level 15"] },
+      "Furret tem uma construção muito fina. Quando atacado, pode se contorcer esguio através de espaços estreitos e escapar. Apesar de seus membros curtos, este Pokémon é muito ágil e veloz.",
+    evolution: {
+      prev: ["161", "Level 15"],
+    },
     profile: {
       height: "1.8 m",
       weight: "32.5 kg",
@@ -6613,12 +6410,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/162.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/162.png",
-      hires:
-        "./Imagens/Pokedex/hires/162.png",
+      sprite: "./Imagens/Pokedex/sprites/162.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/162.png",
+      hires: "./Imagens/Pokedex/hires/162.png",
     },
   },
   {
@@ -6640,8 +6434,10 @@ const POKEDEX_JSON = [
     },
     species: "Owl Pokémon",
     description:
-      "It cries out at the same time every day. A long time ago, people cherished it and considered it a divine messenger sent to tell the time.",
-    evolution: { next: [["164", "Level 20"]] },
+      "Ele grita na mesma hora todos os dias. Muito tempo atrás, as pessoas o apreciavam e o consideravam um mensageiro divino enviado para dizer as horas.",
+    evolution: {
+      next: [["164", "Level 20"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "21.2 kg",
@@ -6654,12 +6450,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/163.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/163.png",
-      hires:
-        "./Imagens/Pokedex/hires/163.png",
+      sprite: "./Imagens/Pokedex/sprites/163.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/163.png",
+      hires: "./Imagens/Pokedex/hires/163.png",
     },
   },
   {
@@ -6681,8 +6474,10 @@ const POKEDEX_JSON = [
     },
     species: "Owl Pokémon",
     description:
-      "When it turns its head entirely upside down, you know it’s troubled by something. If you don’t leave it be, it will peck you.",
-    evolution: { prev: ["163", "Level 20"] },
+      "Quando ele vira a cabeça completamente de cabeça para baixo, você sabe que está incomodado com algo. Se você não deixá-lo em paz, ele vai bicar você.",
+    evolution: {
+      prev: ["163", "Level 20"],
+    },
     profile: {
       height: "1.6 m",
       weight: "40.8 kg",
@@ -6695,12 +6490,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/164.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/164.png",
-      hires:
-        "./Imagens/Pokedex/hires/164.png",
+      sprite: "./Imagens/Pokedex/sprites/164.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/164.png",
+      hires: "./Imagens/Pokedex/hires/164.png",
     },
   },
   {
@@ -6722,8 +6514,10 @@ const POKEDEX_JSON = [
     },
     species: "Five Star Pokémon",
     description:
-      "These very cowardly Pokémon join together and use Reflect to protect their nest.",
-    evolution: { next: [["166", "Level 18"]] },
+      "Esses Pokémon muito covardes se unem e usam Reflexo para proteger seu ninho.",
+    evolution: {
+      next: [["166", "Level 18"]],
+    },
     profile: {
       height: "1 m",
       weight: "10.8 kg",
@@ -6736,12 +6530,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/165.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/165.png",
-      hires:
-        "./Imagens/Pokedex/hires/165.png",
+      sprite: "./Imagens/Pokedex/sprites/165.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/165.png",
+      hires: "./Imagens/Pokedex/hires/165.png",
     },
   },
   {
@@ -6763,8 +6554,10 @@ const POKEDEX_JSON = [
     },
     species: "Five Star Pokémon",
     description:
-      "It flies through the night sky, sprinkling sparkly dust. According to some, if that dust sticks to you, good things will happen to you.",
-    evolution: { prev: ["165", "Level 18"] },
+      "Ele voa pelo céu noturno, espalhando poeira brilhante. De acordo com alguns, se essa poeira grudar em você, coisas boas acontecerão com você.",
+    evolution: {
+      prev: ["165", "Level 18"],
+    },
     profile: {
       height: "1.4 m",
       weight: "35.6 kg",
@@ -6777,12 +6570,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/166.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/166.png",
-      hires:
-        "./Imagens/Pokedex/hires/166.png",
+      sprite: "./Imagens/Pokedex/sprites/166.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/166.png",
+      hires: "./Imagens/Pokedex/hires/166.png",
     },
   },
   {
@@ -6804,8 +6594,10 @@ const POKEDEX_JSON = [
     },
     species: "String Spit Pokémon",
     description:
-      "Although the poison from its fangs isn’t that strong, it’s potent enough to weaken prey that gets caught in its web.",
-    evolution: { next: [["168", "Level 22"]] },
+      "Embora o veneno de suas presas não seja tão forte, é potente o suficiente para enfraquecer a presa que fica presa em sua teia.",
+    evolution: {
+      next: [["168", "Level 22"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "8.5 kg",
@@ -6818,12 +6610,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/167.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/167.png",
-      hires:
-        "./Imagens/Pokedex/hires/167.png",
+      sprite: "./Imagens/Pokedex/sprites/167.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/167.png",
+      hires: "./Imagens/Pokedex/hires/167.png",
     },
   },
   {
@@ -6845,8 +6634,10 @@ const POKEDEX_JSON = [
     },
     species: "Long Leg Pokémon",
     description:
-      "It spews threads from its mouth to catch its prey. When night falls, it leaves its web to go hunt aggressively.",
-    evolution: { prev: ["167", "Level 22"] },
+      "Ele cospe fios de sua boca para pegar sua presa. Quando cai a noite, ele deixa sua teia para caçar agressivamente.",
+    evolution: {
+      prev: ["167", "Level 22"],
+    },
     profile: {
       height: "1.1 m",
       weight: "33.5 kg",
@@ -6859,12 +6650,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/168.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/168.png",
-      hires:
-        "./Imagens/Pokedex/hires/168.png",
+      sprite: "./Imagens/Pokedex/sprites/168.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/168.png",
+      hires: "./Imagens/Pokedex/hires/168.png",
     },
   },
   {
@@ -6886,8 +6674,10 @@ const POKEDEX_JSON = [
     },
     species: "Bat Pokémon",
     description:
-      "It feeds on the blood of living people and Pokémon. If it can’t drink any blood for even a short while, it becomes weak and unable to fly.",
-    evolution: { prev: ["42", "high Friendship"] },
+      "Ele se alimenta do sangue de pessoas e Pokémon vivos. Se não puder beber sangue por um curto período, fica fraco e incapaz de voar.",
+    evolution: {
+      prev: ["42", "high Friendship"],
+    },
     profile: {
       height: "1.8 m",
       weight: "75 kg",
@@ -6899,12 +6689,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/169.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/169.png",
-      hires:
-        "./Imagens/Pokedex/hires/169.png",
+      sprite: "./Imagens/Pokedex/sprites/169.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/169.png",
+      hires: "./Imagens/Pokedex/hires/169.png",
     },
   },
   {
@@ -6926,8 +6713,10 @@ const POKEDEX_JSON = [
     },
     species: "Angler Pokémon",
     description:
-      "Chinchou blink their shining antennae at one another to claim their respective turf.",
-    evolution: { next: [["171", "Level 27"]] },
+      "Chinchou piscam suas antenas brilhantes um para o outro para reivindicar seu território respectivo.",
+    evolution: {
+      next: [["171", "Level 27"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "12 kg",
@@ -6940,12 +6729,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/170.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/170.png",
-      hires:
-        "./Imagens/Pokedex/hires/170.png",
+      sprite: "./Imagens/Pokedex/sprites/170.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/170.png",
+      hires: "./Imagens/Pokedex/hires/170.png",
     },
   },
   {
@@ -6967,8 +6753,10 @@ const POKEDEX_JSON = [
     },
     species: "Light Pokémon",
     description:
-      "It lives far down in the depths of the ocean. It blinds its prey with light, using the moment they’re dazzled to swallow them whole.",
-    evolution: { prev: ["170", "Level 27"] },
+      "Ele vive nas profundezas do oceano. Ele cega sua presa com luz, usando o momento em que ficam deslumbrados para engoli-los inteiros.",
+    evolution: {
+      prev: ["170", "Level 27"],
+    },
     profile: {
       height: "1.2 m",
       weight: "22.5 kg",
@@ -6981,12 +6769,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/171.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/171.png",
-      hires:
-        "./Imagens/Pokedex/hires/171.png",
+      sprite: "./Imagens/Pokedex/sprites/171.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/171.png",
+      hires: "./Imagens/Pokedex/hires/171.png",
     },
   },
   {
@@ -7008,8 +6793,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Mouse Pokémon",
     description:
-      "It has electric sacs in its cheeks. When they’re fully charged, Pichu plays very energetically.",
-    evolution: { next: [["25", "high Friendship"]] },
+      "Ele tem sacos elétricos em suas bochechas. Quando estão totalmente carregados, Pichu brinca muito energicamente.",
+    evolution: {
+      next: [["25", "high Friendship"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2 kg",
@@ -7021,12 +6808,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/172.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/172.png",
-      hires:
-        "./Imagens/Pokedex/hires/172.png",
+      sprite: "./Imagens/Pokedex/sprites/172.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/172.png",
+      hires: "./Imagens/Pokedex/hires/172.png",
     },
   },
   {
@@ -7048,8 +6832,10 @@ const POKEDEX_JSON = [
     },
     species: "Star Shape Pokémon",
     description:
-      "Said to have ridden here on a shooting star, Cleffa seem to appear in places where meteorites have struck in the past.",
-    evolution: { next: [["35", "high Friendship"]] },
+      "Diz-se que veio aqui montado em uma estrela cadente, Cleffa parece aparecer em lugares onde meteoritos caíram no passado.",
+    evolution: {
+      next: [["35", "high Friendship"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "3 kg",
@@ -7062,12 +6848,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/173.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/173.png",
-      hires:
-        "./Imagens/Pokedex/hires/173.png",
+      sprite: "./Imagens/Pokedex/sprites/173.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/173.png",
+      hires: "./Imagens/Pokedex/hires/173.png",
     },
   },
   {
@@ -7089,8 +6872,10 @@ const POKEDEX_JSON = [
     },
     species: "Balloon Pokémon",
     description:
-      "Left to its own devices, it will constantly practice singing. You should make it take a break so it doesn’t hurt its throat.",
-    evolution: { next: [["39", "high Friendship"]] },
+      "Deixado à própria sorte, ele constantemente praticará canto. Você deve fazê-lo dar uma pausa para não machucar sua garganta.",
+    evolution: {
+      next: [["39", "high Friendship"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1 kg",
@@ -7103,12 +6888,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/174.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/174.png",
-      hires:
-        "./Imagens/Pokedex/hires/174.png",
+      sprite: "./Imagens/Pokedex/sprites/174.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/174.png",
+      hires: "./Imagens/Pokedex/hires/174.png",
     },
   },
   {
@@ -7130,8 +6912,10 @@ const POKEDEX_JSON = [
     },
     species: "Spike Ball Pokémon",
     description:
-      "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others.",
-    evolution: { next: [["176", "high Friendship"]] },
+      "Como sua energia, Togepi usa as emoções positivas de compaixão e prazer exsudadas por pessoas e Pokémon. Este Pokémon armazena sentimentos de felicidade dentro de sua casca e depois os compartilha com os outros.",
+    evolution: {
+      next: [["176", "high Friendship"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.5 kg",
@@ -7144,12 +6928,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/175.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/175.png",
-      hires:
-        "./Imagens/Pokedex/hires/175.png",
+      sprite: "./Imagens/Pokedex/sprites/175.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/175.png",
+      hires: "./Imagens/Pokedex/hires/175.png",
     },
   },
   {
@@ -7171,7 +6952,7 @@ const POKEDEX_JSON = [
     },
     species: "Happiness Pokémon",
     description:
-      "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person.",
+      "Diz-se que Togetic é um Pokémon que traz boa sorte. Quando o Pokémon avista alguém que é puro de coração, diz-se que ele aparece e compartilha sua felicidade com essa pessoa.",
     evolution: {
       prev: ["175", "high Friendship"],
       next: [["468", "use Shiny Stone"]],
@@ -7188,12 +6969,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/176.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/176.png",
-      hires:
-        "./Imagens/Pokedex/hires/176.png",
+      sprite: "./Imagens/Pokedex/sprites/176.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/176.png",
+      hires: "./Imagens/Pokedex/hires/176.png",
     },
   },
   {
@@ -7215,8 +6993,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Bird Pokémon",
     description:
-      "The look in its eyes gives the impression that it’s carefully observing you. If you approach it, Natu will hop away.",
-    evolution: { next: [["178", "Level 25"]] },
+      "O olhar em seus olhos dá a impressão de que ele está observando você cuidadosamente. Se você se aproximar dele, Natu pulará para longe.",
+    evolution: {
+      next: [["178", "Level 25"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "2 kg",
@@ -7229,12 +7009,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/177.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/177.png",
-      hires:
-        "./Imagens/Pokedex/hires/177.png",
+      sprite: "./Imagens/Pokedex/sprites/177.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/177.png",
+      hires: "./Imagens/Pokedex/hires/177.png",
     },
   },
   {
@@ -7256,8 +7033,10 @@ const POKEDEX_JSON = [
     },
     species: "Mystic Pokémon",
     description:
-      "While it can see the future, it has no desire to change it, which is probably why it remains motionless at all times.",
-    evolution: { prev: ["177", "Level 25"] },
+      "Embora possa ver o futuro, não tem desejo de mudá-lo, o que provavelmente é por isso que permanece imóvel o tempo todo.",
+    evolution: {
+      prev: ["177", "Level 25"],
+    },
     profile: {
       height: "1.5 m",
       weight: "15 kg",
@@ -7270,12 +7049,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/178.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/178.png",
-      hires:
-        "./Imagens/Pokedex/hires/178.png",
+      sprite: "./Imagens/Pokedex/sprites/178.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/178.png",
+      hires: "./Imagens/Pokedex/hires/178.png",
     },
   },
   {
@@ -7297,8 +7073,10 @@ const POKEDEX_JSON = [
     },
     species: "Wool Pokémon",
     description:
-      "Rubbing its fleece generates electricity. You’ll want to pet it because it’s cute, but if you use your bare hand, you’ll get a painful shock.",
-    evolution: { next: [["180", "Level 15"]] },
+      "Esfregar sua lã gera eletricidade. Você vai querer acariciá-lo porque é fofo, mas se você usar sua mão nua, você levará um choque doloroso.",
+    evolution: {
+      next: [["180", "Level 15"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "7.8 kg",
@@ -7310,12 +7088,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/179.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/179.png",
-      hires:
-        "./Imagens/Pokedex/hires/179.png",
+      sprite: "./Imagens/Pokedex/sprites/179.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/179.png",
+      hires: "./Imagens/Pokedex/hires/179.png",
     },
   },
   {
@@ -7337,8 +7112,11 @@ const POKEDEX_JSON = [
     },
     species: "Wool Pokémon",
     description:
-      "It stores electricity in its fluffy fleece. If it stores up too much, it will start to go bald in those patches.",
-    evolution: { prev: ["179", "Level 15"], next: [["181", "Level 30"]] },
+      "Ele armazena eletricidade em sua lã fofa. Se armazenar demais, começará a ficar careca nessas manchas.",
+    evolution: {
+      prev: ["179", "Level 15"],
+      next: [["181", "Level 30"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "13.3 kg",
@@ -7350,12 +7128,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/180.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/180.png",
-      hires:
-        "./Imagens/Pokedex/hires/180.png",
+      sprite: "./Imagens/Pokedex/sprites/180.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/180.png",
+      hires: "./Imagens/Pokedex/hires/180.png",
     },
   },
   {
@@ -7377,8 +7152,10 @@ const POKEDEX_JSON = [
     },
     species: "Light Pokémon",
     description:
-      "Its tail shines bright and strong. It has been prized since long ago as a beacon for sailors.",
-    evolution: { prev: ["180", "Level 30"] },
+      "Sua cauda brilha forte e forte. É valorizada desde há muito tempo como um farol para marinheiros.",
+    evolution: {
+      prev: ["180", "Level 30"],
+    },
     profile: {
       height: "1.4 m",
       weight: "61.5 kg",
@@ -7390,12 +7167,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/181.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/181.png",
-      hires:
-        "./Imagens/Pokedex/hires/181.png",
+      sprite: "./Imagens/Pokedex/sprites/181.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/181.png",
+      hires: "./Imagens/Pokedex/hires/181.png",
     },
   },
   {
@@ -7417,8 +7191,10 @@ const POKEDEX_JSON = [
     },
     species: "Flower Pokémon",
     description:
-      "A Bellossom grows flowers more beautifully if it has evolved from a smelly Gloom—the more stinky the better. At night, this Pokémon closes its petals and goes to sleep.",
-    evolution: { prev: ["44", "use Sun Stone"] },
+      "Uma Bellossom cultiva flores mais bonitas se evoluiu de um Gloom fedorento - quanto mais fedorento melhor. À noite, este Pokémon fecha suas pétalas e vai dormir.",
+    evolution: {
+      prev: ["44", "use Sun Stone"],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.8 kg",
@@ -7430,12 +7206,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/182.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/182.png",
-      hires:
-        "./Imagens/Pokedex/hires/182.png",
+      sprite: "./Imagens/Pokedex/sprites/182.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/182.png",
+      hires: "./Imagens/Pokedex/hires/182.png",
     },
   },
   {
@@ -7457,7 +7230,7 @@ const POKEDEX_JSON = [
     },
     species: "Aqua Mouse Pokémon",
     description:
-      "When fishing for food at the edge of a fast-running stream, Marill wraps its tail around the trunk of a tree. This Pokémon’s tail is flexible and configured to stretch.",
+      "Ao pescar comida na beira de um riacho de fluxo rápido, Marill envolve sua cauda ao redor do tronco de uma árvore. A cauda deste Pokémon é flexível e configurada para se esticar.",
     evolution: {
       prev: ["298", "high Friendship"],
       next: [["184", "Level 18"]],
@@ -7474,12 +7247,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/183.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/183.png",
-      hires:
-        "./Imagens/Pokedex/hires/183.png",
+      sprite: "./Imagens/Pokedex/sprites/183.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/183.png",
+      hires: "./Imagens/Pokedex/hires/183.png",
     },
   },
   {
@@ -7501,8 +7271,10 @@ const POKEDEX_JSON = [
     },
     species: "Aqua Rabbit Pokémon",
     description:
-      "Azumarill can make balloons out of air. It makes these air balloons if it spots a drowning Pokémon. The air balloons enable the Pokémon in trouble to breathe.",
-    evolution: { prev: ["183", "Level 18"] },
+      "Azumarill pode fazer balões de ar. Ele faz esses balões de ar se avistar um Pokémon se afogando. Os balões de ar permitem que o Pokémon com problemas respire.",
+    evolution: {
+      prev: ["183", "Level 18"],
+    },
     profile: {
       height: "0.8 m",
       weight: "28.5 kg",
@@ -7515,12 +7287,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/184.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/184.png",
-      hires:
-        "./Imagens/Pokedex/hires/184.png",
+      sprite: "./Imagens/Pokedex/sprites/184.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/184.png",
+      hires: "./Imagens/Pokedex/hires/184.png",
     },
   },
   {
@@ -7542,8 +7311,10 @@ const POKEDEX_JSON = [
     },
     species: "Imitation Pokémon",
     description:
-      "The result of its holding the same pose all the time is arms that have become supple yet strong.",
-    evolution: { prev: ["438", "after Mimic learned"] },
+      "O resultado de manter a mesma pose o tempo todo são braços que se tornaram flexíveis e fortes.",
+    evolution: {
+      prev: ["438", "after Mimic learned"],
+    },
     profile: {
       height: "1.2 m",
       weight: "38 kg",
@@ -7556,12 +7327,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/185.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/185.png",
-      hires:
-        "./Imagens/Pokedex/hires/185.png",
+      sprite: "./Imagens/Pokedex/sprites/185.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/185.png",
+      hires: "./Imagens/Pokedex/hires/185.png",
     },
   },
   {
@@ -7583,8 +7351,10 @@ const POKEDEX_JSON = [
     },
     species: "Frog Pokémon",
     description:
-      "The longer and more luxurious the curled hair on its head, the greater the number of Poliwag and Poliwhirl that will obey it.",
-    evolution: { prev: ["61", "trade holding Kings Rock"] },
+      "Quanto mais longo e mais luxuoso o cabelo encaracolado em sua cabeça, maior é o número de Poliwag e Poliwhirl que o obedecerão.",
+    evolution: {
+      prev: ["61", "trade holding Kings Rock"],
+    },
     profile: {
       height: "1.1 m",
       weight: "33.9 kg",
@@ -7597,12 +7367,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/186.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/186.png",
-      hires:
-        "./Imagens/Pokedex/hires/186.png",
+      sprite: "./Imagens/Pokedex/sprites/186.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/186.png",
+      hires: "./Imagens/Pokedex/hires/186.png",
     },
   },
   {
@@ -7624,8 +7391,10 @@ const POKEDEX_JSON = [
     },
     species: "Cottonweed Pokémon",
     description:
-      "This Pokémon drifts and floats with the wind. If it senses the approach of strong winds, Hoppip links its leaves with other Hoppip to prepare against being blown away.",
-    evolution: { next: [["188", "Level 18"]] },
+      "Este Pokémon flutua e flutua com o vento. Se sentir a aproximação de ventos fortes, Hoppip liga suas folhas com outras Hoppip para se preparar contra ser levado pelo vento.",
+    evolution: {
+      next: [["188", "Level 18"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "0.5 kg",
@@ -7638,12 +7407,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/187.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/187.png",
-      hires:
-        "./Imagens/Pokedex/hires/187.png",
+      sprite: "./Imagens/Pokedex/sprites/187.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/187.png",
+      hires: "./Imagens/Pokedex/hires/187.png",
     },
   },
   {
@@ -7665,8 +7431,11 @@ const POKEDEX_JSON = [
     },
     species: "Cottonweed Pokémon",
     description:
-      "Skiploom’s flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer.",
-    evolution: { prev: ["187", "Level 18"], next: [["189", "Level 27"]] },
+      "A flor de Skiploom floresce quando a temperatura sobe acima de 64 graus Fahrenheit. Quanto a flor se abre depende da temperatura. Por esse motivo, este Pokémon é às vezes usado como termômetro.",
+    evolution: {
+      prev: ["187", "Level 18"],
+      next: [["189", "Level 27"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "1 kg",
@@ -7679,12 +7448,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/188.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/188.png",
-      hires:
-        "./Imagens/Pokedex/hires/188.png",
+      sprite: "./Imagens/Pokedex/sprites/188.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/188.png",
+      hires: "./Imagens/Pokedex/hires/188.png",
     },
   },
   {
@@ -7706,8 +7472,10 @@ const POKEDEX_JSON = [
     },
     species: "Cottonweed Pokémon",
     description:
-      "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating.",
-    evolution: { prev: ["188", "Level 27"] },
+      "Jumpluff cavalga ventos quentes do sul para cruzar o mar e voar para terras estrangeiras. O Pokémon desce ao solo quando encontra ar frio enquanto está flutuando.",
+    evolution: {
+      prev: ["188", "Level 27"],
+    },
     profile: {
       height: "0.8 m",
       weight: "3 kg",
@@ -7720,12 +7488,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/189.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/189.png",
-      hires:
-        "./Imagens/Pokedex/hires/189.png",
+      sprite: "./Imagens/Pokedex/sprites/189.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/189.png",
+      hires: "./Imagens/Pokedex/hires/189.png",
     },
   },
   {
@@ -7747,8 +7512,10 @@ const POKEDEX_JSON = [
     },
     species: "Long Tail Pokémon",
     description:
-      "It searches for prey from the tops of trees. When it spots its favorite food, Bounsweet, Aipom gets excited and pounces.",
-    evolution: { next: [["424", "after Double Hit learned"]] },
+      "Ele procura presas do topo das árvores. Quando avista sua comida favorita, Bounsweet, Aipom fica animado e se lança.",
+    evolution: {
+      next: [["424", "after Double Hit learned"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "11.5 kg",
@@ -7761,12 +7528,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/190.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/190.png",
-      hires:
-        "./Imagens/Pokedex/hires/190.png",
+      sprite: "./Imagens/Pokedex/sprites/190.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/190.png",
+      hires: "./Imagens/Pokedex/hires/190.png",
     },
   },
   {
@@ -7788,8 +7552,10 @@ const POKEDEX_JSON = [
     },
     species: "Seed Pokémon",
     description:
-      "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew.",
-    evolution: { next: [["192", "use Sun Stone"]] },
+      "Sunkern tenta se mover o mínimo possível. Ele faz isso porque tenta conservar todos os nutrientes que armazenou em seu corpo para sua evolução. Ele não comerá nada, subsistindo apenas com orvalho da manhã.",
+    evolution: {
+      next: [["192", "use Sun Stone"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.8 kg",
@@ -7802,12 +7568,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/191.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/191.png",
-      hires:
-        "./Imagens/Pokedex/hires/191.png",
+      sprite: "./Imagens/Pokedex/sprites/191.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/191.png",
+      hires: "./Imagens/Pokedex/hires/191.png",
     },
   },
   {
@@ -7829,8 +7592,10 @@ const POKEDEX_JSON = [
     },
     species: "Sun Pokémon",
     description:
-      "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night.",
-    evolution: { prev: ["191", "use Sun Stone"] },
+      "Sunflora converte energia solar em nutrição. Ele se move ativamente durante o dia quando está quente. Ele para de se mover assim que o sol se põe para a noite.",
+    evolution: {
+      prev: ["191", "use Sun Stone"],
+    },
     profile: {
       height: "0.8 m",
       weight: "8.5 kg",
@@ -7843,12 +7608,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/192.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/192.png",
-      hires:
-        "./Imagens/Pokedex/hires/192.png",
+      sprite: "./Imagens/Pokedex/sprites/192.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/192.png",
+      hires: "./Imagens/Pokedex/hires/192.png",
     },
   },
   {
@@ -7870,8 +7632,10 @@ const POKEDEX_JSON = [
     },
     species: "Clear Wing Pokémon",
     description:
-      "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey.",
-    evolution: { next: [["469", "after Ancient Power learned"]] },
+      "Yanma é capaz de ver 360 graus sem precisar mover os olhos. É um grande voador que é adepto em fazer paradas repentinas e virar no ar. Este Pokémon usa sua habilidade de voar para perseguir rapidamente presas alvejadas.",
+    evolution: {
+      next: [["469", "after Ancient Power learned"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "38 kg",
@@ -7884,12 +7648,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/193.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/193.png",
-      hires:
-        "./Imagens/Pokedex/hires/193.png",
+      sprite: "./Imagens/Pokedex/sprites/193.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/193.png",
+      hires: "./Imagens/Pokedex/hires/193.png",
     },
   },
   {
@@ -7911,8 +7672,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Fish Pokémon",
     description:
-      "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film.",
-    evolution: { next: [["195", "Level 20"]] },
+      "Wooper geralmente vive na água. No entanto, ocasionalmente sai para a terra em busca de comida. Em terra, ele cobre seu corpo com um filme tóxico pegajoso.",
+    evolution: {
+      next: [["195", "Level 20"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "8.5 kg",
@@ -7925,12 +7688,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/194.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/194.png",
-      hires:
-        "./Imagens/Pokedex/hires/194.png",
+      sprite: "./Imagens/Pokedex/sprites/194.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/194.png",
+      hires: "./Imagens/Pokedex/hires/194.png",
     },
   },
   {
@@ -7952,8 +7712,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Fish Pokémon",
     description:
-      "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry.",
-    evolution: { prev: ["194", "Level 20"] },
+      "Quagsire caça comida deixando a boca aberta na água e esperando que sua presa tropece sem saber. Como o Pokémon não se move, ele não fica com muita fome.",
+    evolution: {
+      prev: ["194", "Level 20"],
+    },
     profile: {
       height: "1.4 m",
       weight: "75 kg",
@@ -7966,12 +7728,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/195.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/195.png",
-      hires:
-        "./Imagens/Pokedex/hires/195.png",
+      sprite: "./Imagens/Pokedex/sprites/195.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/195.png",
+      hires: "./Imagens/Pokedex/hires/195.png",
     },
   },
   {
@@ -7993,8 +7752,10 @@ const POKEDEX_JSON = [
     },
     species: "Sun Pokémon",
     description:
-      "Psychic power builds up in the orb on its forehead as it bathes in the sunshine. Espeon is not good at battling at night.",
-    evolution: { prev: ["133", "high Friendship, Daytime"] },
+      "O poder psíquico se acumula na esfera em sua testa enquanto toma banho de sol. Espeon não é bom em lutar à noite.",
+    evolution: {
+      prev: ["133", "high Friendship, Daytime"],
+    },
     profile: {
       height: "0.9 m",
       weight: "26.5 kg",
@@ -8006,12 +7767,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/196.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/196.png",
-      hires:
-        "./Imagens/Pokedex/hires/196.png",
+      sprite: "./Imagens/Pokedex/sprites/196.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/196.png",
+      hires: "./Imagens/Pokedex/hires/196.png",
     },
   },
   {
@@ -8033,8 +7791,10 @@ const POKEDEX_JSON = [
     },
     species: "Moonlight Pokémon",
     description:
-      "It lurks in the dark of night looking for prey. At the moment it pounces, the rings on its body glow dimly but ominously.",
-    evolution: { prev: ["133", "high Friendship, Nighttime"] },
+      "Ele espreita na escuridão da noite procurando por presas. No momento em que ele se lança, os anéis em seu corpo brilham fracamente, mas sinistramente.",
+    evolution: {
+      prev: ["133", "high Friendship, Nighttime"],
+    },
     profile: {
       height: "1 m",
       weight: "27 kg",
@@ -8046,12 +7806,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/197.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/197.png",
-      hires:
-        "./Imagens/Pokedex/hires/197.png",
+      sprite: "./Imagens/Pokedex/sprites/197.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/197.png",
+      hires: "./Imagens/Pokedex/hires/197.png",
     },
   },
   {
@@ -8073,8 +7830,10 @@ const POKEDEX_JSON = [
     },
     species: "Darkness Pokémon",
     description:
-      "It searches for shiny things for its boss. Murkrow’s presence is said to be unlucky, so many people detest it.",
-    evolution: { next: [["430", "use Dusk Stone"]] },
+      "Ele procura coisas brilhantes para seu chefe. Diz-se que a presença de Murkrow é azarada, por isso muitas pessoas o detestam.",
+    evolution: {
+      next: [["430", "use Dusk Stone"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "2.1 kg",
@@ -8087,12 +7846,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/198.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/198.png",
-      hires:
-        "./Imagens/Pokedex/hires/198.png",
+      sprite: "./Imagens/Pokedex/sprites/198.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/198.png",
+      hires: "./Imagens/Pokedex/hires/198.png",
     },
   },
   {
@@ -8114,8 +7870,10 @@ const POKEDEX_JSON = [
     },
     species: "Royal Pokémon",
     description:
-      "It’s called “the sage of the sea.” It engages in battles of wits with Oranguru, but the result is usually a draw.",
-    evolution: { prev: ["79", "trade holding Kings Rock"] },
+      'É chamado de "o sábio do mar". Ele se envolve em batalhas de inteligência com Oranguru, mas o resultado geralmente é um empate.',
+    evolution: {
+      prev: ["79", "trade holding Kings Rock"],
+    },
     profile: {
       height: "2 m",
       weight: "79.5 kg",
@@ -8128,12 +7886,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/199.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/199.png",
-      hires:
-        "./Imagens/Pokedex/hires/199.png",
+      sprite: "./Imagens/Pokedex/sprites/199.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/199.png",
+      hires: "./Imagens/Pokedex/hires/199.png",
     },
   },
   {
@@ -8155,8 +7910,10 @@ const POKEDEX_JSON = [
     },
     species: "Screech Pokémon",
     description:
-      "What makes it happy is imitating the voices of weeping people and scaring everyone. It doesn’t deal well with folks who aren’t easily frightened.",
-    evolution: { next: [["429", "use Dusk Stone"]] },
+      "O que o deixa feliz é imitar as vozes das pessoas chorando e assustar todo mundo. Ele não lida bem com pessoas que não são facilmente assustadas.",
+    evolution: {
+      next: [["429", "use Dusk Stone"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "1 kg",
@@ -8165,12 +7922,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/200.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/200.png",
-      hires:
-        "./Imagens/Pokedex/hires/200.png",
+      sprite: "./Imagens/Pokedex/sprites/200.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/200.png",
+      hires: "./Imagens/Pokedex/hires/200.png",
     },
   },
   {
@@ -8192,7 +7946,7 @@ const POKEDEX_JSON = [
     },
     species: "Symbol Pokémon",
     description:
-      "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
+      "Este Pokémon tem a forma de uma escrita antiga. É um mistério sobre qual surgiu primeiro, as escritas antigas ou os diversos Unown. A pesquisa sobre este tópico está em andamento, mas nada se sabe.",
     evolution: {},
     profile: {
       height: "0.5 m",
@@ -8202,12 +7956,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/201.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/201.png",
-      hires:
-        "./Imagens/Pokedex/hires/201.png",
+      sprite: "./Imagens/Pokedex/sprites/201.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/201.png",
+      hires: "./Imagens/Pokedex/hires/201.png",
     },
   },
   {
@@ -8229,8 +7980,10 @@ const POKEDEX_JSON = [
     },
     species: "Patient Pokémon",
     description:
-      "Wobbuffet does nothing but endure attacks—it won’t attack on its own. However, it won’t endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond.",
-    evolution: { prev: ["360", "Level 15"] },
+      "Wobbuffet não faz nada além de suportar ataques - ele não atacará por conta própria. No entanto, ele não suportará um ataque em sua cauda. Quando isso acontece, o Pokémon tentará levar o inimigo com ele usando Destiny Bond.",
+    evolution: {
+      prev: ["360", "Level 15"],
+    },
     profile: {
       height: "1.3 m",
       weight: "28.5 kg",
@@ -8242,12 +7995,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/202.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/202.png",
-      hires:
-        "./Imagens/Pokedex/hires/202.png",
+      sprite: "./Imagens/Pokedex/sprites/202.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/202.png",
+      hires: "./Imagens/Pokedex/hires/202.png",
     },
   },
   {
@@ -8269,7 +8019,7 @@ const POKEDEX_JSON = [
     },
     species: "Long Neck Pokémon",
     description:
-      "Girafarig’s rear head contains a tiny brain that is too small for thinking. However, the rear head doesn’t need to sleep, so it can keep watch over its surroundings 24 hours a day.",
+      "A cabeça traseira de Girafarig contém um pequeno cérebro que é muito pequeno para pensar. No entanto, a cabeça traseira não precisa dormir, então pode vigiar seus arredores 24 horas por dia.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -8283,12 +8033,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/203.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/203.png",
-      hires:
-        "./Imagens/Pokedex/hires/203.png",
+      sprite: "./Imagens/Pokedex/sprites/203.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/203.png",
+      hires: "./Imagens/Pokedex/hires/203.png",
     },
   },
   {
@@ -8310,8 +8057,10 @@ const POKEDEX_JSON = [
     },
     species: "Bagworm Pokémon",
     description:
-      "It sticks tree bark to itself with its saliva, making itself thicker and larger. Elderly Pineco are ridiculously huge.",
-    evolution: { next: [["205", "Level 31"]] },
+      "Ele gruda casca de árvore em si mesmo com sua saliva, ficando mais grosso e maior. Pineco idosos são ridiculamente enormes.",
+    evolution: {
+      next: [["205", "Level 31"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "7.2 kg",
@@ -8323,12 +8072,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/204.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/204.png",
-      hires:
-        "./Imagens/Pokedex/hires/204.png",
+      sprite: "./Imagens/Pokedex/sprites/204.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/204.png",
+      hires: "./Imagens/Pokedex/hires/204.png",
     },
   },
   {
@@ -8350,8 +8096,10 @@ const POKEDEX_JSON = [
     },
     species: "Bagworm Pokémon",
     description:
-      "In the moment that it gulps down its prey, the inside of its shell is exposed, but to this day, no one has ever seen that sight.",
-    evolution: { prev: ["204", "Level 31"] },
+      "No momento em que ele devora sua presa, o interior de sua casca é exposto, mas até hoje ninguém jamais viu essa visão.",
+    evolution: {
+      prev: ["204", "Level 31"],
+    },
     profile: {
       height: "1.2 m",
       weight: "125.8 kg",
@@ -8363,12 +8111,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/205.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/205.png",
-      hires:
-        "./Imagens/Pokedex/hires/205.png",
+      sprite: "./Imagens/Pokedex/sprites/205.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/205.png",
+      hires: "./Imagens/Pokedex/hires/205.png",
     },
   },
   {
@@ -8390,7 +8135,7 @@ const POKEDEX_JSON = [
     },
     species: "Land Snake Pokémon",
     description:
-      "When it sees a person, it digs a hole with its tail to make its escape. If you happen to find one, consider yourself lucky.",
+      "Quando vê uma pessoa, cava um buraco com a cauda para escapar. Se você encontrar um, considere-se sortudo.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -8404,12 +8149,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/206.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/206.png",
-      hires:
-        "./Imagens/Pokedex/hires/206.png",
+      sprite: "./Imagens/Pokedex/sprites/206.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/206.png",
+      hires: "./Imagens/Pokedex/hires/206.png",
     },
   },
   {
@@ -8431,8 +8173,10 @@ const POKEDEX_JSON = [
     },
     species: "Fly Scorpion Pokémon",
     description:
-      "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb.",
-    evolution: { next: [["472", "hold Razor Fang, Nighttime"]] },
+      "Gligar desliza pelo ar sem um som como se estivesse deslizando. Este Pokémon se agarra ao rosto de seu inimigo usando suas patas traseiras com garras e as grandes pinças em suas patas dianteiras, depois injeta a presa com sua lança venenosa.",
+    evolution: {
+      next: [["472", "hold Razor Fang, Nighttime"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "64.8 kg",
@@ -8445,12 +8189,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/207.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/207.png",
-      hires:
-        "./Imagens/Pokedex/hires/207.png",
+      sprite: "./Imagens/Pokedex/sprites/207.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/207.png",
+      hires: "./Imagens/Pokedex/hires/207.png",
     },
   },
   {
@@ -8472,8 +8213,10 @@ const POKEDEX_JSON = [
     },
     species: "Iron Snake Pokémon",
     description:
-      "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth’s core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground.",
-    evolution: { prev: ["95", "trade holding Metal Coat"] },
+      "Steelix vive ainda mais abaixo do solo do que Onix. Sabe-se que este Pokémon cava em direção ao núcleo da Terra. Existem registros de este Pokémon atingindo uma profundidade de mais de seis décimos de uma milha abaixo do solo.",
+    evolution: {
+      prev: ["95", "trade holding Metal Coat"],
+    },
     profile: {
       height: "9.2 m",
       weight: "400 kg",
@@ -8486,12 +8229,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/208.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/208.png",
-      hires:
-        "./Imagens/Pokedex/hires/208.png",
+      sprite: "./Imagens/Pokedex/sprites/208.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/208.png",
+      hires: "./Imagens/Pokedex/hires/208.png",
     },
   },
   {
@@ -8513,8 +8253,10 @@ const POKEDEX_JSON = [
     },
     species: "Fairy Pokémon",
     description:
-      "In contrast to its appearance, it’s quite timid. When playing with other puppy Pokémon, it sometimes gets bullied.",
-    evolution: { next: [["210", "Level 23"]] },
+      "Em contraste com sua aparência, ele é bastante tímido. Quando brinca com outros filhotes de Pokémon, às vezes é intimidado.",
+    evolution: {
+      next: [["210", "Level 23"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "7.8 kg",
@@ -8527,12 +8269,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/209.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/209.png",
-      hires:
-        "./Imagens/Pokedex/hires/209.png",
+      sprite: "./Imagens/Pokedex/sprites/209.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/209.png",
+      hires: "./Imagens/Pokedex/hires/209.png",
     },
   },
   {
@@ -8554,8 +8293,10 @@ const POKEDEX_JSON = [
     },
     species: "Fairy Pokémon",
     description:
-      "Although it’s popular with young people, Granbull is timid and sensitive, so it’s totally incompetent as a watchdog.",
-    evolution: { prev: ["209", "Level 23"] },
+      "Embora seja popular entre jovens, Granbull é tímido e sensível, por isso é totalmente incompetente como cão de guarda.",
+    evolution: {
+      prev: ["209", "Level 23"],
+    },
     profile: {
       height: "1.4 m",
       weight: "48.7 kg",
@@ -8568,12 +8309,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/210.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/210.png",
-      hires:
-        "./Imagens/Pokedex/hires/210.png",
+      sprite: "./Imagens/Pokedex/sprites/210.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/210.png",
+      hires: "./Imagens/Pokedex/hires/210.png",
     },
   },
   {
@@ -8595,7 +8333,7 @@ const POKEDEX_JSON = [
     },
     species: "Balloon Pokémon",
     description:
-      "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging.",
+      "Qwilfish suga água, inflando-se. Este Pokémon usa a pressão da água que engoliu para atirar penas venenosas de uma só vez em todo o corpo. Ele acha a natação um tanto desafiadora.",
     evolution: {},
     profile: {
       height: "0.5 m",
@@ -8609,12 +8347,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/211.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/211.png",
-      hires:
-        "./Imagens/Pokedex/hires/211.png",
+      sprite: "./Imagens/Pokedex/sprites/211.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/211.png",
+      hires: "./Imagens/Pokedex/hires/211.png",
     },
   },
   {
@@ -8636,8 +8371,10 @@ const POKEDEX_JSON = [
     },
     species: "Pincer Pokémon",
     description:
-      "Once it has identified something as an enemy, it will continue beating them with its steel-hard pincers until there’s nothing left but scraps.",
-    evolution: { prev: ["123", "trade holding Metal Coat"] },
+      "Uma vez que identificou algo como inimigo, ele continuará batendo neles com suas pinças de aço duro até que não reste nada além de restos.",
+    evolution: {
+      prev: ["123", "trade holding Metal Coat"],
+    },
     profile: {
       height: "1.8 m",
       weight: "118 kg",
@@ -8650,12 +8387,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/212.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/212.png",
-      hires:
-        "./Imagens/Pokedex/hires/212.png",
+      sprite: "./Imagens/Pokedex/sprites/212.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/212.png",
+      hires: "./Imagens/Pokedex/hires/212.png",
     },
   },
   {
@@ -8677,7 +8411,7 @@ const POKEDEX_JSON = [
     },
     species: "Mold Pokémon",
     description:
-      "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice.",
+      "Shuckle se esconde silenciosamente sob as pedras, mantendo seu corpo escondido dentro de sua casca dura enquanto come bagas que armazenou. As bagas se misturam com seus fluidos corporais para se tornarem um suco.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -8691,12 +8425,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/213.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/213.png",
-      hires:
-        "./Imagens/Pokedex/hires/213.png",
+      sprite: "./Imagens/Pokedex/sprites/213.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/213.png",
+      hires: "./Imagens/Pokedex/hires/213.png",
     },
   },
   {
@@ -8718,7 +8449,7 @@ const POKEDEX_JSON = [
     },
     species: "Single Horn Pokémon",
     description:
-      "It roams through forests searching for sweet nectar. Although it boasts fantastic physical strength, it’s not that good at flying.",
+      "Ele vaga pelas florestas procurando néctar doce. Embora se orgulhe de sua fantástica força física, ele não é tão bom em voar.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -8732,12 +8463,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/214.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/214.png",
-      hires:
-        "./Imagens/Pokedex/hires/214.png",
+      sprite: "./Imagens/Pokedex/sprites/214.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/214.png",
+      hires: "./Imagens/Pokedex/hires/214.png",
     },
   },
   {
@@ -8759,8 +8487,10 @@ const POKEDEX_JSON = [
     },
     species: "Sharp Claw Pokémon",
     description:
-      "It blends into the dark of night to ambush its prey. Sneasel will attack Sandshrew, but its hard skin can cause Sneasel’s claws to snap off.",
-    evolution: { next: [["461", "hold Razor Claw, Nighttime"]] },
+      "Ele se mistura na escuridão da noite para emboscar sua presa. Sneasel atacará Sandshrew, mas sua pele dura pode fazer com que as garras de Sneasel se quebrem.",
+    evolution: {
+      next: [["461", "hold Razor Claw, Nighttime"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "28 kg",
@@ -8773,12 +8503,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/215.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/215.png",
-      hires:
-        "./Imagens/Pokedex/hires/215.png",
+      sprite: "./Imagens/Pokedex/sprites/215.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/215.png",
+      hires: "./Imagens/Pokedex/hires/215.png",
     },
   },
   {
@@ -8800,8 +8527,10 @@ const POKEDEX_JSON = [
     },
     species: "Little Bear Pokémon",
     description:
-      "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill.",
-    evolution: { next: [["217", "Level 30"]] },
+      "Este Pokémon gosta de lamber suas palmas que são adoçadas por serem embebidas em mel. Teddiursa prepara seu próprio mel misturando frutas e pólen coletados por Beedrill.",
+    evolution: {
+      next: [["217", "Level 30"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "8.8 kg",
@@ -8814,12 +8543,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/216.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/216.png",
-      hires:
-        "./Imagens/Pokedex/hires/216.png",
+      sprite: "./Imagens/Pokedex/sprites/216.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/216.png",
+      hires: "./Imagens/Pokedex/hires/216.png",
     },
   },
   {
@@ -8841,8 +8567,10 @@ const POKEDEX_JSON = [
     },
     species: "Hibernator Pokémon",
     description:
-      "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day.",
-    evolution: { prev: ["216", "Level 30"] },
+      "Nas florestas habitadas por Ursaring, diz-se que há muitos riachos e árvores imponentes onde eles reúnem comida. Este Pokémon caminha por sua floresta reunindo comida todos os dias.",
+    evolution: {
+      prev: ["216", "Level 30"],
+    },
     profile: {
       height: "1.8 m",
       weight: "125.8 kg",
@@ -8855,12 +8583,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/217.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/217.png",
-      hires:
-        "./Imagens/Pokedex/hires/217.png",
+      sprite: "./Imagens/Pokedex/sprites/217.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/217.png",
+      hires: "./Imagens/Pokedex/hires/217.png",
     },
   },
   {
@@ -8882,8 +8607,10 @@ const POKEDEX_JSON = [
     },
     species: "Lava Pokémon",
     description:
-      "Slugma does not have any blood in its body. Instead, intensely hot magma circulates throughout this Pokémon’s body, carrying essential nutrients and oxygen to its organs.",
-    evolution: { next: [["219", "Level 38"]] },
+      "Slugma não tem sangue em seu corpo. Em vez disso, magma intensamente quente circula pelo corpo deste Pokémon, transportando nutrientes e oxigênio essenciais para seus órgãos.",
+    evolution: {
+      next: [["219", "Level 38"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "35 kg",
@@ -8896,12 +8623,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/218.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/218.png",
-      hires:
-        "./Imagens/Pokedex/hires/218.png",
+      sprite: "./Imagens/Pokedex/sprites/218.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/218.png",
+      hires: "./Imagens/Pokedex/hires/218.png",
     },
   },
   {
@@ -8923,8 +8647,10 @@ const POKEDEX_JSON = [
     },
     species: "Lava Pokémon",
     description:
-      "Magcargo’s body temperature is approximately 18,000 degrees Fahrenheit. Water is vaporized on contact. If this Pokémon is caught in the rain, the raindrops instantly turn into steam, cloaking the area in a thick fog.",
-    evolution: { prev: ["218", "Level 38"] },
+      "A temperatura corporal de Magcargo é de aproximadamente 18.000 graus Fahrenheit. A água é vaporizada em contato. Se este Pokémon for pego na chuva, as gotas de chuva se transformarão instantaneamente em vapor, cobrindo a área em uma neblina espessa.",
+    evolution: {
+      prev: ["218", "Level 38"],
+    },
     profile: {
       height: "0.8 m",
       weight: "55 kg",
@@ -8937,12 +8663,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/219.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/219.png",
-      hires:
-        "./Imagens/Pokedex/hires/219.png",
+      sprite: "./Imagens/Pokedex/sprites/219.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/219.png",
+      hires: "./Imagens/Pokedex/hires/219.png",
     },
   },
   {
@@ -8964,8 +8687,10 @@ const POKEDEX_JSON = [
     },
     species: "Pig Pokémon",
     description:
-      "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs.",
-    evolution: { next: [["221", "Level 33"]] },
+      "Swinub procura comida esfregando o nariz no chão. Sua comida favorita é um cogumelo que cresce sob a cobertura de grama morta. Este Pokémon ocasionalmente desenterra fontes termais.",
+    evolution: {
+      next: [["221", "Level 33"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "6.5 kg",
@@ -8978,12 +8703,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/220.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/220.png",
-      hires:
-        "./Imagens/Pokedex/hires/220.png",
+      sprite: "./Imagens/Pokedex/sprites/220.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/220.png",
+      hires: "./Imagens/Pokedex/hires/220.png",
     },
   },
   {
@@ -9005,7 +8727,7 @@ const POKEDEX_JSON = [
     },
     species: "Swine Pokémon",
     description:
-      "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice.",
+      "Piloswine é coberto por uma espessa camada de cabelo longo que lhe permite suportar o frio congelante. Este Pokémon usa suas presas para desenterrar comida que foi enterrada sob o gelo.",
     evolution: {
       prev: ["220", "Level 33"],
       next: [["473", "after Ancient Power learned"]],
@@ -9022,12 +8744,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/221.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/221.png",
-      hires:
-        "./Imagens/Pokedex/hires/221.png",
+      sprite: "./Imagens/Pokedex/sprites/221.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/221.png",
+      hires: "./Imagens/Pokedex/hires/221.png",
     },
   },
   {
@@ -9049,7 +8768,7 @@ const POKEDEX_JSON = [
     },
     species: "Coral Pokémon",
     description:
-      "In Alola, where their natural enemies Mareanie are plentiful, many Corsola have stubby branches on their heads.",
+      "Em Alola, onde seus inimigos naturais Mareanie são abundantes, muitos Corsola têm galhos atrofiados em suas cabeças.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -9063,12 +8782,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/222.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/222.png",
-      hires:
-        "./Imagens/Pokedex/hires/222.png",
+      sprite: "./Imagens/Pokedex/sprites/222.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/222.png",
+      hires: "./Imagens/Pokedex/hires/222.png",
     },
   },
   {
@@ -9090,8 +8806,10 @@ const POKEDEX_JSON = [
     },
     species: "Jet Pokémon",
     description:
-      "Also known as the “sniper of the seas,” its water gun can hit prey without fail from over 300 feet away.",
-    evolution: { next: [["224", "Level 25"]] },
+      'Também conhecido como "atirador de precisão dos mares", seu canhão de água pode atingir a presa sem falha a mais de 300 pés de distância.',
+    evolution: {
+      next: [["224", "Level 25"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "12 kg",
@@ -9104,12 +8822,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/223.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/223.png",
-      hires:
-        "./Imagens/Pokedex/hires/223.png",
+      sprite: "./Imagens/Pokedex/sprites/223.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/223.png",
+      hires: "./Imagens/Pokedex/hires/223.png",
     },
   },
   {
@@ -9131,8 +8846,10 @@ const POKEDEX_JSON = [
     },
     species: "Jet Pokémon",
     description:
-      "It usually sleeps in caves. The pitch-black ink that Octillery spits is also used for cooking.",
-    evolution: { prev: ["223", "Level 25"] },
+      "Geralmente dorme em cavernas. A tinta preta como breu que Octillery cospe também é usada para cozinhar.",
+    evolution: {
+      prev: ["223", "Level 25"],
+    },
     profile: {
       height: "0.9 m",
       weight: "28.5 kg",
@@ -9145,12 +8862,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/224.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/224.png",
-      hires:
-        "./Imagens/Pokedex/hires/224.png",
+      sprite: "./Imagens/Pokedex/sprites/224.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/224.png",
+      hires: "./Imagens/Pokedex/hires/224.png",
     },
   },
   {
@@ -9172,7 +8886,7 @@ const POKEDEX_JSON = [
     },
     species: "Delivery Pokémon",
     description:
-      "It wraps food in its tail to carry it around. The Delibird with the biggest tail is the boss of the flock!",
+      "Ele embrulha comida em sua cauda para carregá-la. O Delibird com a maior cauda é o chefe do bando!",
     evolution: {},
     profile: {
       height: "0.9 m",
@@ -9186,12 +8900,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/225.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/225.png",
-      hires:
-        "./Imagens/Pokedex/hires/225.png",
+      sprite: "./Imagens/Pokedex/sprites/225.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/225.png",
+      hires: "./Imagens/Pokedex/hires/225.png",
     },
   },
   {
@@ -9213,8 +8924,10 @@ const POKEDEX_JSON = [
     },
     species: "Kite Pokémon",
     description:
-      "Many people have taken up surfing because they admire how magnificently Mantine swims.",
-    evolution: { prev: ["458", "with Remoraid in party"] },
+      "Muitas pessoas praticaram surfe porque admiram como Mantine nada magnificamente.",
+    evolution: {
+      prev: ["458", "with Remoraid in party"],
+    },
     profile: {
       height: "2.1 m",
       weight: "220 kg",
@@ -9227,12 +8940,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/226.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/226.png",
-      hires:
-        "./Imagens/Pokedex/hires/226.png",
+      sprite: "./Imagens/Pokedex/sprites/226.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/226.png",
+      hires: "./Imagens/Pokedex/hires/226.png",
     },
   },
   {
@@ -9254,7 +8964,7 @@ const POKEDEX_JSON = [
     },
     species: "Armor Bird Pokémon",
     description:
-      "Its body is draped in steel armor. It looks heavy, but it can fly at speeds of up to 185 miles an hour!",
+      "Seu corpo é drapeado em armadura de aço. Parece pesado, mas pode voar a velocidades de até 185 milhas por hora!",
     evolution: {},
     profile: {
       height: "1.7 m",
@@ -9268,12 +8978,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/227.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/227.png",
-      hires:
-        "./Imagens/Pokedex/hires/227.png",
+      sprite: "./Imagens/Pokedex/sprites/227.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/227.png",
+      hires: "./Imagens/Pokedex/hires/227.png",
     },
   },
   {
@@ -9295,8 +9002,10 @@ const POKEDEX_JSON = [
     },
     species: "Dark Pokémon",
     description:
-      "They make repeated eerie howls before dawn to call attention to their pack.",
-    evolution: { next: [["229", "Level 24"]] },
+      "Eles fazem uivos sinistros repetidos antes do amanhecer para chamar atenção para seu bando.",
+    evolution: {
+      next: [["229", "Level 24"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "10.8 kg",
@@ -9309,12 +9018,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/228.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/228.png",
-      hires:
-        "./Imagens/Pokedex/hires/228.png",
+      sprite: "./Imagens/Pokedex/sprites/228.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/228.png",
+      hires: "./Imagens/Pokedex/hires/228.png",
     },
   },
   {
@@ -9336,8 +9042,10 @@ const POKEDEX_JSON = [
     },
     species: "Dark Pokémon",
     description:
-      "Identifiable by its eerie howls, people a long time ago thought it was the grim reaper and feared it.",
-    evolution: { prev: ["228", "Level 24"] },
+      "Identificável por seus uivos sinistros, as pessoas há muito tempo pensavam que era o ceifador e o temiam.",
+    evolution: {
+      prev: ["228", "Level 24"],
+    },
     profile: {
       height: "1.4 m",
       weight: "35 kg",
@@ -9350,12 +9058,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/229.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/229.png",
-      hires:
-        "./Imagens/Pokedex/hires/229.png",
+      sprite: "./Imagens/Pokedex/sprites/229.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/229.png",
+      hires: "./Imagens/Pokedex/hires/229.png",
     },
   },
   {
@@ -9377,8 +9082,10 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "Kingdra sleeps on the seafloor where it is otherwise devoid of life. When a storm arrives, the Pokémon is said to awaken and wander about in search of prey.",
-    evolution: { prev: ["117", "trade holding Dragon Scale"] },
+      "Kingdra dorme no fundo do mar onde está desprovido de vida. Quando chega uma tempestade, diz-se que o Pokémon acorda e vagueia em busca de presas.",
+    evolution: {
+      prev: ["117", "trade holding Dragon Scale"],
+    },
     profile: {
       height: "1.8 m",
       weight: "152 kg",
@@ -9391,12 +9098,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/230.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/230.png",
-      hires:
-        "./Imagens/Pokedex/hires/230.png",
+      sprite: "./Imagens/Pokedex/sprites/230.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/230.png",
+      hires: "./Imagens/Pokedex/hires/230.png",
     },
   },
   {
@@ -9418,8 +9122,10 @@ const POKEDEX_JSON = [
     },
     species: "Long Nose Pokémon",
     description:
-      "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water.",
-    evolution: { next: [["232", "Level 25"]] },
+      "Phanpy usa seu longo nariz para se banhar. Quando outros se reúnem ao redor, eles se molham completamente com água. Esses Pokémon podem ser vistos secando seus corpos encharcados na beira da água.",
+    evolution: {
+      next: [["232", "Level 25"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "33.5 kg",
@@ -9431,12 +9137,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/231.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/231.png",
-      hires:
-        "./Imagens/Pokedex/hires/231.png",
+      sprite: "./Imagens/Pokedex/sprites/231.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/231.png",
+      hires: "./Imagens/Pokedex/hires/231.png",
     },
   },
   {
@@ -9458,8 +9161,10 @@ const POKEDEX_JSON = [
     },
     species: "Armor Pokémon",
     description:
-      "If Donphan were to tackle with its hard body, even a house could be destroyed. Using its massive strength, the Pokémon helps clear rock and mud slides that block mountain trails.",
-    evolution: { prev: ["231", "Level 25"] },
+      "Se Donphan fosse enfrentar com seu corpo duro, até mesmo uma casa poderia ser destruída. Usando sua força massiva, o Pokémon ajuda a limpar deslizamentos de terra e lama que bloqueiam trilhas de montanha.",
+    evolution: {
+      prev: ["231", "Level 25"],
+    },
     profile: {
       height: "1.1 m",
       weight: "120 kg",
@@ -9471,12 +9176,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/232.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/232.png",
-      hires:
-        "./Imagens/Pokedex/hires/232.png",
+      sprite: "./Imagens/Pokedex/sprites/232.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/232.png",
+      hires: "./Imagens/Pokedex/hires/232.png",
     },
   },
   {
@@ -9498,7 +9200,7 @@ const POKEDEX_JSON = [
     },
     species: "Virtual Pokémon",
     description:
-      "Even though it doesn’t die in the vacuum of space, it can’t move around very well in zero gravity.",
+      "Mesmo que não morra no vácuo do espaço, ele não pode se mover muito bem na gravidade zero.",
     evolution: {
       prev: ["137", "trade holding Upgrade"],
       next: [["474", "trade holding Dubious Disc"]],
@@ -9515,12 +9217,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/233.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/233.png",
-      hires:
-        "./Imagens/Pokedex/hires/233.png",
+      sprite: "./Imagens/Pokedex/sprites/233.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/233.png",
+      hires: "./Imagens/Pokedex/hires/233.png",
     },
   },
   {
@@ -9542,7 +9241,7 @@ const POKEDEX_JSON = [
     },
     species: "Big Horn Pokémon",
     description:
-      "Stantler’s magnificent antlers were traded at high prices as works of art. As a result, this Pokémon was hunted close to extinction by those who were after the priceless antlers.",
+      "As magníficas corças de Stantler eram negociadas a preços altos como obras de arte. Como resultado, este Pokémon foi caçado perto da extinção por aqueles que estavam atrás das corças preciosas.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -9556,12 +9255,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/234.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/234.png",
-      hires:
-        "./Imagens/Pokedex/hires/234.png",
+      sprite: "./Imagens/Pokedex/sprites/234.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/234.png",
+      hires: "./Imagens/Pokedex/hires/234.png",
     },
   },
   {
@@ -9583,7 +9279,7 @@ const POKEDEX_JSON = [
     },
     species: "Painter Pokémon",
     description:
-      "It draws symbols with the fluid that oozes from the tip of its tail. Depending on the symbol, Smeargle fanatics will pay big money for them.",
+      "Ele desenha símbolos com o fluido que escorre da ponta de sua cauda. Dependendo do símbolo, fanáticos por Smeargle pagarão muito dinheiro por eles.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -9597,12 +9293,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/235.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/235.png",
-      hires:
-        "./Imagens/Pokedex/hires/235.png",
+      sprite: "./Imagens/Pokedex/sprites/235.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/235.png",
+      hires: "./Imagens/Pokedex/hires/235.png",
     },
   },
   {
@@ -9624,7 +9317,7 @@ const POKEDEX_JSON = [
     },
     species: "Scuffle Pokémon",
     description:
-      "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods.",
+      "Tyrogue fica estressado se não treina todos os dias. Ao criar este Pokémon, o treinador deve estabelecer e manter vários métodos de treinamento.",
     evolution: {
       next: [
         ["106", "Level 20, Attack > Defense"],
@@ -9644,12 +9337,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/236.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/236.png",
-      hires:
-        "./Imagens/Pokedex/hires/236.png",
+      sprite: "./Imagens/Pokedex/sprites/236.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/236.png",
+      hires: "./Imagens/Pokedex/hires/236.png",
     },
   },
   {
@@ -9671,8 +9361,10 @@ const POKEDEX_JSON = [
     },
     species: "Handstand Pokémon",
     description:
-      "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time. The Pokémon travels faster spinning than it does walking.",
-    evolution: { prev: ["236", "Level 20, Attack = Defense"] },
+      "Hitmontop gira na cabeça em alta velocidade, enquanto dá chutes. Esta técnica é uma mistura impressionante de ataque e defesa ao mesmo tempo. O Pokémon viaja mais rápido girando do que andando.",
+    evolution: {
+      prev: ["236", "Level 20, Attack = Defense"],
+    },
     profile: {
       height: "1.4 m",
       weight: "48 kg",
@@ -9685,12 +9377,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/237.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/237.png",
-      hires:
-        "./Imagens/Pokedex/hires/237.png",
+      sprite: "./Imagens/Pokedex/sprites/237.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/237.png",
+      hires: "./Imagens/Pokedex/hires/237.png",
     },
   },
   {
@@ -9712,8 +9401,10 @@ const POKEDEX_JSON = [
     },
     species: "Kiss Pokémon",
     description:
-      "Highly perceptive sensors, Smoochum’s lips are kept moist by its daily application of tree sap.",
-    evolution: { next: [["124", "Level 30"]] },
+      "Sensores altamente perceptíveis, os lábios de Smoochum são mantidos úmidos por sua aplicação diária de seiva de árvore.",
+    evolution: {
+      next: [["124", "Level 30"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "6 kg",
@@ -9726,12 +9417,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/238.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/238.png",
-      hires:
-        "./Imagens/Pokedex/hires/238.png",
+      sprite: "./Imagens/Pokedex/sprites/238.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/238.png",
+      hires: "./Imagens/Pokedex/hires/238.png",
     },
   },
   {
@@ -9753,8 +9441,10 @@ const POKEDEX_JSON = [
     },
     species: "Electric Pokémon",
     description:
-      "When its horns shine a bluish white, that’s the sign it’s fully charged. You’ll get a shocking jolt if you touch it!",
-    evolution: { next: [["125", "Level 30"]] },
+      "Quando seus chifres brilham de um branco azulado, esse é o sinal de que estão totalmente carregados. Você levará um choque chocante se tocá-lo!",
+    evolution: {
+      next: [["125", "Level 30"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "23.5 kg",
@@ -9766,12 +9456,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/239.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/239.png",
-      hires:
-        "./Imagens/Pokedex/hires/239.png",
+      sprite: "./Imagens/Pokedex/sprites/239.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/239.png",
+      hires: "./Imagens/Pokedex/hires/239.png",
     },
   },
   {
@@ -9793,8 +9480,10 @@ const POKEDEX_JSON = [
     },
     species: "Live Coal Pokémon",
     description:
-      "Its body temperature is always around 1,100 degrees Fahrenheit. If Magby falls into a small- enough pond, the whole thing will dry up.",
-    evolution: { next: [["126", "Level 30"]] },
+      "Sua temperatura corporal é sempre de cerca de 1.100 graus Fahrenheit. Se Magby cair em uma lagoa pequena o suficiente, tudo secará.",
+    evolution: {
+      next: [["126", "Level 30"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "21.4 kg",
@@ -9806,12 +9495,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/240.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/240.png",
-      hires:
-        "./Imagens/Pokedex/hires/240.png",
+      sprite: "./Imagens/Pokedex/sprites/240.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/240.png",
+      hires: "./Imagens/Pokedex/hires/240.png",
     },
   },
   {
@@ -9833,7 +9519,7 @@ const POKEDEX_JSON = [
     },
     species: "Milk Cow Pokémon",
     description:
-      "Its milk is delicious and chock-full of nutrients. However, if you drink too much, it could make your stomach hurt, so be careful.",
+      "Seu leite é delicioso e cheio de nutrientes. No entanto, se você beber demais, pode fazer sua barriga doer, então tome cuidado.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -9847,12 +9533,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/241.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/241.png",
-      hires:
-        "./Imagens/Pokedex/hires/241.png",
+      sprite: "./Imagens/Pokedex/sprites/241.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/241.png",
+      hires: "./Imagens/Pokedex/hires/241.png",
     },
   },
   {
@@ -9874,8 +9557,10 @@ const POKEDEX_JSON = [
     },
     species: "Happiness Pokémon",
     description:
-      "This Pokémon is overflowing with love. Only Chansey that share a strong bond with their Trainer can evolve, so people say.",
-    evolution: { prev: ["113", "high Friendship"] },
+      "Este Pokémon está transbordando de amor. Apenas Chansey que compartilham um forte vínculo com seu treinador podem evoluir, dizem as pessoas.",
+    evolution: {
+      prev: ["113", "high Friendship"],
+    },
     profile: {
       height: "1.5 m",
       weight: "46.8 kg",
@@ -9888,12 +9573,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/242.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/242.png",
-      hires:
-        "./Imagens/Pokedex/hires/242.png",
+      sprite: "./Imagens/Pokedex/sprites/242.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/242.png",
+      hires: "./Imagens/Pokedex/hires/242.png",
     },
   },
   {
@@ -9915,7 +9597,7 @@ const POKEDEX_JSON = [
     },
     species: "Thunder Pokémon",
     description:
-      "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+      "Raikou personifica a velocidade do raio. Os rugidos deste Pokémon enviam ondas de choque trepidando pelo ar e sacudem o chão como se raios tivessem caído.",
     evolution: {},
     profile: {
       height: "1.9 m",
@@ -9928,12 +9610,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/243.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/243.png",
-      hires:
-        "./Imagens/Pokedex/hires/243.png",
+      sprite: "./Imagens/Pokedex/sprites/243.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/243.png",
+      hires: "./Imagens/Pokedex/hires/243.png",
     },
   },
   {
@@ -9955,7 +9634,7 @@ const POKEDEX_JSON = [
     },
     species: "Volcano Pokémon",
     description:
-      "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+      "Entei personifica a paixão do magma. Acredita-se que este Pokémon nasceu na erupção de um vulcão. Ele envia enormes rajadas de fogo que consomem completamente tudo que tocam.",
     evolution: {},
     profile: {
       height: "2.1 m",
@@ -9968,12 +9647,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/244.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/244.png",
-      hires:
-        "./Imagens/Pokedex/hires/244.png",
+      sprite: "./Imagens/Pokedex/sprites/244.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/244.png",
+      hires: "./Imagens/Pokedex/hires/244.png",
     },
   },
   {
@@ -9995,7 +9671,7 @@ const POKEDEX_JSON = [
     },
     species: "Aurora Pokémon",
     description:
-      "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water.",
+      "Suicune personifica a compaixão de uma fonte pura de água. Ele corre pela terra com graciosidade. Este Pokémon tem o poder de purificar água suja.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -10008,12 +9684,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/245.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/245.png",
-      hires:
-        "./Imagens/Pokedex/hires/245.png",
+      sprite: "./Imagens/Pokedex/sprites/245.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/245.png",
+      hires: "./Imagens/Pokedex/hires/245.png",
     },
   },
   {
@@ -10035,8 +9708,10 @@ const POKEDEX_JSON = [
     },
     species: "Rock Skin Pokémon",
     description:
-      "Raised on nutrients it finds in the dirt, it eats roughly a mountain’s worth of dirt before it becomes a pupa.",
-    evolution: { next: [["247", "Level 30"]] },
+      "Criado com nutrientes que encontra na sujeira, ele come aproximadamente uma montanha de sujeira antes de se tornar uma pupa.",
+    evolution: {
+      next: [["247", "Level 30"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "72 kg",
@@ -10048,12 +9723,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/246.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/246.png",
-      hires:
-        "./Imagens/Pokedex/hires/246.png",
+      sprite: "./Imagens/Pokedex/sprites/246.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/246.png",
+      hires: "./Imagens/Pokedex/hires/246.png",
     },
   },
   {
@@ -10075,8 +9747,11 @@ const POKEDEX_JSON = [
     },
     species: "Hard Shell Pokémon",
     description:
-      "This dangerous pupa thrashes about. Its shell is as hard as bedrock, containing its gradually forming new body within.",
-    evolution: { prev: ["246", "Level 30"], next: [["248", "Level 55"]] },
+      "Esta pupa perigosa se contorce. Sua casca é tão dura quanto a rocha, contendo seu novo corpo em formação gradual dentro.",
+    evolution: {
+      prev: ["246", "Level 30"],
+      next: [["248", "Level 55"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "152 kg",
@@ -10085,12 +9760,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/247.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/247.png",
-      hires:
-        "./Imagens/Pokedex/hires/247.png",
+      sprite: "./Imagens/Pokedex/sprites/247.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/247.png",
+      hires: "./Imagens/Pokedex/hires/247.png",
     },
   },
   {
@@ -10112,8 +9784,10 @@ const POKEDEX_JSON = [
     },
     species: "Armor Pokémon",
     description:
-      "This Pokémon is a mobile disaster, leaving mountains crumbled and houses destroyed in its wake.",
-    evolution: { prev: ["247", "Level 55"] },
+      "Este Pokémon é um desastre móvel, deixando montanhas desmoronadas e casas destruídas em seu rastro.",
+    evolution: {
+      prev: ["247", "Level 55"],
+    },
     profile: {
       height: "2 m",
       weight: "202 kg",
@@ -10125,12 +9799,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/248.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/248.png",
-      hires:
-        "./Imagens/Pokedex/hires/248.png",
+      sprite: "./Imagens/Pokedex/sprites/248.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/248.png",
+      hires: "./Imagens/Pokedex/hires/248.png",
     },
   },
   {
@@ -10152,7 +9823,7 @@ const POKEDEX_JSON = [
     },
     species: "Diving Pokémon",
     description:
-      "Lugia’s wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea.",
+      "As asas de Lugia possuem um poder devastador - um leve bater de suas asas pode explodir casas comuns. Como resultado, este Pokémon escolhe viver fora de vista nas profundezas do mar.",
     evolution: {},
     profile: {
       height: "5.2 m",
@@ -10165,12 +9836,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/249.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/249.png",
-      hires:
-        "./Imagens/Pokedex/hires/249.png",
+      sprite: "./Imagens/Pokedex/sprites/249.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/249.png",
+      hires: "./Imagens/Pokedex/hires/249.png",
     },
   },
   {
@@ -10192,7 +9860,7 @@ const POKEDEX_JSON = [
     },
     species: "Rainbow Pokémon",
     description:
-      "Ho-Oh’s feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow.",
+      "As penas de Ho-Oh brilham em sete cores dependendo do ângulo em que são atingidas pela luz. Diz-se que essas penas trazem felicidade aos portadores. Diz-se que este Pokémon vive a pé de um arco-íris.",
     evolution: {},
     profile: {
       height: "3.8 m",
@@ -10205,12 +9873,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/250.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/250.png",
-      hires:
-        "./Imagens/Pokedex/hires/250.png",
+      sprite: "./Imagens/Pokedex/sprites/250.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/250.png",
+      hires: "./Imagens/Pokedex/hires/250.png",
     },
   },
   {
@@ -10232,7 +9897,7 @@ const POKEDEX_JSON = [
     },
     species: "Time Travel Pokémon",
     description:
-      "This Pokémon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+      "Este Pokémon veio do futuro cruzando o tempo. Acredita-se que, enquanto Celebi aparecer, um futuro brilhante e radiante nos aguarda.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -10242,12 +9907,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/251.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/251.png",
-      hires:
-        "./Imagens/Pokedex/hires/251.png",
+      sprite: "./Imagens/Pokedex/sprites/251.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/251.png",
+      hires: "./Imagens/Pokedex/hires/251.png",
     },
   },
   {
@@ -10269,8 +9931,10 @@ const POKEDEX_JSON = [
     },
     species: "Wood Gecko Pokémon",
     description:
-      "Treecko is cool, calm, and collected—it never panics under any situation. If a bigger foe were to glare at this Pokémon, it would glare right back without conceding an inch of ground.",
-    evolution: { next: [["253", "Level 16"]] },
+      "Treecko é legal, calmo e coletado - ele nunca entra em pânico em nenhuma situação. Se um inimigo maior encarasse este Pokémon, ele retribuiria o olhar sem ceder um centímetro de terreno.",
+    evolution: {
+      next: [["253", "Level 16"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "5 kg",
@@ -10282,12 +9946,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/252.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/252.png",
-      hires:
-        "./Imagens/Pokedex/hires/252.png",
+      sprite: "./Imagens/Pokedex/sprites/252.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/252.png",
+      hires: "./Imagens/Pokedex/hires/252.png",
     },
   },
   {
@@ -10309,8 +9970,11 @@ const POKEDEX_JSON = [
     },
     species: "Wood Gecko Pokémon",
     description:
-      "This Pokémon adeptly flies from branch to branch in trees. In a forest, no Pokémon can ever hope to catch a fleeing Grovyle however fast they may be.",
-    evolution: { prev: ["252", "Level 16"], next: [["254", "Level 36"]] },
+      "Este Pokémon voa habilmente de galho em galho nas árvores. Em uma floresta, nenhum Pokémon pode esperar pegar um Grovyle fugindo, não importa quão rápido seja.",
+    evolution: {
+      prev: ["252", "Level 16"],
+      next: [["254", "Level 36"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "21.6 kg",
@@ -10322,12 +9986,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/253.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/253.png",
-      hires:
-        "./Imagens/Pokedex/hires/253.png",
+      sprite: "./Imagens/Pokedex/sprites/253.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/253.png",
+      hires: "./Imagens/Pokedex/hires/253.png",
     },
   },
   {
@@ -10349,8 +10010,10 @@ const POKEDEX_JSON = [
     },
     species: "Forest Pokémon",
     description:
-      "Sceptile has seeds growing on its back. They are said to be bursting with nutrients that revitalize trees. This Pokémon raises the trees in a forest with loving care.",
-    evolution: { prev: ["253", "Level 36"] },
+      "Sceptile tem sementes crescendo em suas costas. Diz-se que estão cheias de nutrientes que revitalizam as árvores. Este Pokémon cria as árvores em uma floresta com cuidado amoroso.",
+    evolution: {
+      prev: ["253", "Level 36"],
+    },
     profile: {
       height: "1.7 m",
       weight: "52.2 kg",
@@ -10362,12 +10025,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/254.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/254.png",
-      hires:
-        "./Imagens/Pokedex/hires/254.png",
+      sprite: "./Imagens/Pokedex/sprites/254.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/254.png",
+      hires: "./Imagens/Pokedex/hires/254.png",
     },
   },
   {
@@ -10389,8 +10049,10 @@ const POKEDEX_JSON = [
     },
     species: "Chick Pokémon",
     description:
-      "Torchic has a place inside its body where it keeps its flame. Give it a hug—it will be glowing with warmth. This Pokémon is covered all over by a fluffy coat of down.",
-    evolution: { next: [["256", "Level 16"]] },
+      "Torchic tem um lugar dentro de seu corpo onde guarda sua chama. Dê um abraço nele - ele estará brilhando com calor. Este Pokémon é coberto por toda parte por uma camada fofa de penugem.",
+    evolution: {
+      next: [["256", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "2.5 kg",
@@ -10402,12 +10064,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/255.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/255.png",
-      hires:
-        "./Imagens/Pokedex/hires/255.png",
+      sprite: "./Imagens/Pokedex/sprites/255.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/255.png",
+      hires: "./Imagens/Pokedex/hires/255.png",
     },
   },
   {
@@ -10429,8 +10088,11 @@ const POKEDEX_JSON = [
     },
     species: "Young Fowl Pokémon",
     description:
-      "Combusken battles with the intensely hot flames it spews from its beak and with outstandingly destructive kicks. This Pokémon’s cry is very loud and distracting.",
-    evolution: { prev: ["255", "Level 16"], next: [["257", "Level 36"]] },
+      "Combusken batalha com as chamas intensamente quentes que expele de seu bico e com chutes extraordinariamente destrutivos. O grito deste Pokémon é muito alto e perturbador.",
+    evolution: {
+      prev: ["255", "Level 16"],
+      next: [["257", "Level 36"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "19.5 kg",
@@ -10442,12 +10104,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/256.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/256.png",
-      hires:
-        "./Imagens/Pokedex/hires/256.png",
+      sprite: "./Imagens/Pokedex/sprites/256.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/256.png",
+      hires: "./Imagens/Pokedex/hires/256.png",
     },
   },
   {
@@ -10469,8 +10128,10 @@ const POKEDEX_JSON = [
     },
     species: "Blaze Pokémon",
     description:
-      "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap. This Pokémon’s blazing punches leave its foes scorched and blackened.",
-    evolution: { prev: ["256", "Level 36"] },
+      "Blaziken tem pernas incrivelmente fortes - pode facilmente limpar um prédio de 30 andares em um salto. Os socos flamejantes deste Pokémon deixam seus inimigos queimados e enegrecidos.",
+    evolution: {
+      prev: ["256", "Level 36"],
+    },
     profile: {
       height: "1.9 m",
       weight: "52 kg",
@@ -10482,12 +10143,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/257.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/257.png",
-      hires:
-        "./Imagens/Pokedex/hires/257.png",
+      sprite: "./Imagens/Pokedex/sprites/257.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/257.png",
+      hires: "./Imagens/Pokedex/hires/257.png",
     },
   },
   {
@@ -10509,8 +10167,10 @@ const POKEDEX_JSON = [
     },
     species: "Mud Fish Pokémon",
     description:
-      "In water, Mudkip breathes using the gills on its cheeks. If it is faced with a tight situation in battle, this Pokémon will unleash its amazing power—it can crush rocks bigger than itself.",
-    evolution: { next: [["259", "Level 16"]] },
+      "Na água, Mudkip respira usando as guelras em suas bochechas. Se enfrentar uma situação difícil em batalha, este Pokémon desencadeará seu incrível poder - pode esmagar rochas maiores que ele mesmo.",
+    evolution: {
+      next: [["259", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7.6 kg",
@@ -10522,12 +10182,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/258.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/258.png",
-      hires:
-        "./Imagens/Pokedex/hires/258.png",
+      sprite: "./Imagens/Pokedex/sprites/258.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/258.png",
+      hires: "./Imagens/Pokedex/hires/258.png",
     },
   },
   {
@@ -10549,8 +10206,11 @@ const POKEDEX_JSON = [
     },
     species: "Mud Fish Pokémon",
     description:
-      "Marshtomp is much faster at traveling through mud than it is at swimming. This Pokémon’s hindquarters exhibit obvious development, giving it the ability to walk on just its hind legs.",
-    evolution: { prev: ["258", "Level 16"], next: [["260", "Level 36"]] },
+      "Marshtomp é muito mais rápido em viajar pela lama do que em nadar. As nádegas deste Pokémon exibem um desenvolvimento óbvio, dando-lhe a capacidade de andar apenas sobre suas patas traseiras.",
+    evolution: {
+      prev: ["258", "Level 16"],
+      next: [["260", "Level 36"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "28 kg",
@@ -10562,12 +10222,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/259.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/259.png",
-      hires:
-        "./Imagens/Pokedex/hires/259.png",
+      sprite: "./Imagens/Pokedex/sprites/259.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/259.png",
+      hires: "./Imagens/Pokedex/hires/259.png",
     },
   },
   {
@@ -10589,8 +10246,10 @@ const POKEDEX_JSON = [
     },
     species: "Mud Fish Pokémon",
     description:
-      "Swampert predicts storms by sensing subtle differences in the sounds of waves and tidal winds with its fins. If a storm is approaching, it piles up boulders to protect itself.",
-    evolution: { prev: ["259", "Level 36"] },
+      "Swampert prevê tempestades sentindo diferenças sutis nos sons das ondas e dos ventos marés com suas nadadeiras. Se uma tempestade estiver se aproximando, ele empilha pedras para se proteger.",
+    evolution: {
+      prev: ["259", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "81.9 kg",
@@ -10602,12 +10261,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/260.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/260.png",
-      hires:
-        "./Imagens/Pokedex/hires/260.png",
+      sprite: "./Imagens/Pokedex/sprites/260.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/260.png",
+      hires: "./Imagens/Pokedex/hires/260.png",
     },
   },
   {
@@ -10629,8 +10285,10 @@ const POKEDEX_JSON = [
     },
     species: "Bite Pokémon",
     description:
-      "Poochyena is an omnivore—it will eat anything. A distinguishing feature is how large its fangs are compared to its body. This Pokémon tries to intimidate its foes by making the hair on its tail bristle out.",
-    evolution: { next: [["262", "Level 18"]] },
+      "Poochyena é um onívoro - ele comerá qualquer coisa. Uma característica distintiva é o tamanho de suas presas em comparação com seu corpo. Este Pokémon tenta intimidar seus inimigos fazendo o pelo em sua cauda eriçar.",
+    evolution: {
+      next: [["262", "Level 18"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "13.6 kg",
@@ -10643,12 +10301,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/261.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/261.png",
-      hires:
-        "./Imagens/Pokedex/hires/261.png",
+      sprite: "./Imagens/Pokedex/sprites/261.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/261.png",
+      hires: "./Imagens/Pokedex/hires/261.png",
     },
   },
   {
@@ -10670,8 +10325,10 @@ const POKEDEX_JSON = [
     },
     species: "Bite Pokémon",
     description:
-      "Mightyena travel and act as a pack in the wild. The memory of its life in the wild compels the Pokémon to obey only those Trainers that it recognizes to possess superior skill.",
-    evolution: { prev: ["261", "Level 18"] },
+      "Mightyena viaja e age como uma matilha na natureza. A memória de sua vida na natureza o obriga a obedecer apenas aqueles treinadores que ele reconhece como possuindo habilidade superior.",
+    evolution: {
+      prev: ["261", "Level 18"],
+    },
     profile: {
       height: "1 m",
       weight: "37 kg",
@@ -10684,12 +10341,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/262.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/262.png",
-      hires:
-        "./Imagens/Pokedex/hires/262.png",
+      sprite: "./Imagens/Pokedex/sprites/262.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/262.png",
+      hires: "./Imagens/Pokedex/hires/262.png",
     },
   },
   {
@@ -10711,8 +10365,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Raccoon Pokémon",
     description:
-      "The hair on Zigzagoon’s back is bristly. It rubs the hard back hair against trees to leave its territorial markings. This Pokémon may play dead to fool foes in battle.",
-    evolution: { next: [["264", "Level 20"]] },
+      "O pelo nas costas de Zigzagoon é eriçado. Ele esfrega o pelo duro nas costas nas árvores para deixar suas marcas territoriais. Este Pokémon pode fingir estar morto para enganar inimigos em batalha.",
+    evolution: {
+      next: [["264", "Level 20"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "17.5 kg",
@@ -10725,12 +10381,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/263.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/263.png",
-      hires:
-        "./Imagens/Pokedex/hires/263.png",
+      sprite: "./Imagens/Pokedex/sprites/263.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/263.png",
+      hires: "./Imagens/Pokedex/hires/263.png",
     },
   },
   {
@@ -10752,7 +10405,7 @@ const POKEDEX_JSON = [
     },
     species: "Rushing Pokémon",
     description:
-      "When hunting, Linoone will make a beeline straight for the prey at a full run. While this Pokémon is capable of topping 60 mph, it has to come to a screeching halt before it can turn.",
+      "Ao caçar, Linoone fará uma linha reta para a presa em uma corrida completa. Embora este Pokémon seja capaz de atingir 60 mph, ele tem que parar com um guincho antes de poder virar.",
     evolution: {
       prev: ["263", "Level 20"],
       next: [["862", "Level 35, Nighttime"]],
@@ -10769,12 +10422,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/264.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/264.png",
-      hires:
-        "./Imagens/Pokedex/hires/264.png",
+      sprite: "./Imagens/Pokedex/sprites/264.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/264.png",
+      hires: "./Imagens/Pokedex/hires/264.png",
     },
   },
   {
@@ -10796,7 +10446,7 @@ const POKEDEX_JSON = [
     },
     species: "Worm Pokémon",
     description:
-      "Wurmple is targeted by Swellow as prey. This Pokémon will try to resist by pointing the spikes on its rear at the attacking predator. It will weaken the foe by leaking poison from the spikes.",
+      "Wurmple é alvo de Swellow como presa. Este Pokémon tentará resistir apontando os espinhos em sua traseira para o predador atacante. Ele enfraquecerá o inimigo vazando veneno dos espinhos.",
     evolution: {
       next: [
         ["266", "Level 7, random based on personality"],
@@ -10814,12 +10464,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/265.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/265.png",
-      hires:
-        "./Imagens/Pokedex/hires/265.png",
+      sprite: "./Imagens/Pokedex/sprites/265.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/265.png",
+      hires: "./Imagens/Pokedex/hires/265.png",
     },
   },
   {
@@ -10841,7 +10488,7 @@ const POKEDEX_JSON = [
     },
     species: "Cocoon Pokémon",
     description:
-      "Silcoon was thought to endure hunger and not consume anything before its evolution. However, it is now thought that this Pokémon slakes its thirst by drinking rainwater that collects on its silk.",
+      "Silcoon pensava-se que suportaria a fome e não consumiria nada antes de sua evolução. No entanto, agora se acredita que este Pokémon sacia sua sede bebendo água da chuva que se acumula em sua seda.",
     evolution: {
       prev: ["265", "Level 7, random based on personality"],
       next: [["267", "Level 10"]],
@@ -10854,12 +10501,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/266.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/266.png",
-      hires:
-        "./Imagens/Pokedex/hires/266.png",
+      sprite: "./Imagens/Pokedex/sprites/266.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/266.png",
+      hires: "./Imagens/Pokedex/hires/266.png",
     },
   },
   {
@@ -10881,8 +10525,10 @@ const POKEDEX_JSON = [
     },
     species: "Butterfly Pokémon",
     description:
-      "Beautifly has a long mouth like a coiled needle, which is very convenient for collecting pollen from flowers. This Pokémon rides the spring winds as it flits around gathering pollen.",
-    evolution: { prev: ["266", "Level 10"] },
+      "Beautifly tem uma boca longa como uma agulha enrolada, que é muito conveniente para coletar pólen de flores. Este Pokémon cavalga os ventos da primavera enquanto flutua ao redor coletando pólen.",
+    evolution: {
+      prev: ["266", "Level 10"],
+    },
     profile: {
       height: "1 m",
       weight: "28.4 kg",
@@ -10894,12 +10540,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/267.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/267.png",
-      hires:
-        "./Imagens/Pokedex/hires/267.png",
+      sprite: "./Imagens/Pokedex/sprites/267.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/267.png",
+      hires: "./Imagens/Pokedex/hires/267.png",
     },
   },
   {
@@ -10921,7 +10564,7 @@ const POKEDEX_JSON = [
     },
     species: "Cocoon Pokémon",
     description:
-      "If it is attacked, Cascoon remains motionless however badly it may be hurt. It does so because if it were to move, its body would be weak upon evolution. This Pokémon will also not forget the pain it endured.",
+      "Se for atacado, Cascoon permanece imóvel, por mais que possa ser machucado. Ele faz isso porque, se se movesse, seu corpo ficaria fraco após a evolução. Este Pokémon também não esquecerá a dor que suportou.",
     evolution: {
       prev: ["265", "Level 7, random based on personality"],
       next: [["269", "Level 10"]],
@@ -10934,12 +10577,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/268.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/268.png",
-      hires:
-        "./Imagens/Pokedex/hires/268.png",
+      sprite: "./Imagens/Pokedex/sprites/268.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/268.png",
+      hires: "./Imagens/Pokedex/hires/268.png",
     },
   },
   {
@@ -10961,8 +10601,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Moth Pokémon",
     description:
-      "When Dustox flaps its wings, a fine dust is scattered all over. This dust is actually a powerful poison that will even make a pro wrestler sick. This Pokémon searches for food using its antennae like radar.",
-    evolution: { prev: ["265", "Level 10"] },
+      "Quando Dustox bate suas asas, uma fina poeira é espalhada por toda parte. Essa poeira é na verdade um veneno poderoso que até fará um lutador profissional ficar doente. Este Pokémon procura comida usando suas antenas como radar.",
+    evolution: {
+      prev: ["265", "Level 10"],
+    },
     profile: {
       height: "1.2 m",
       weight: "31.6 kg",
@@ -10974,12 +10616,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/269.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/269.png",
-      hires:
-        "./Imagens/Pokedex/hires/269.png",
+      sprite: "./Imagens/Pokedex/sprites/269.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/269.png",
+      hires: "./Imagens/Pokedex/hires/269.png",
     },
   },
   {
@@ -11001,8 +10640,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Weed Pokémon",
     description:
-      "Lotad is said to have dwelled on land before. However, this Pokémon is thought to have returned to water because the leaf on its head grew large and heavy. It now lives by floating atop the water.",
-    evolution: { next: [["271", "Level 14"]] },
+      "Lotad, diz-se, habitou a terra antes. No entanto, acredita-se que este Pokémon tenha retornado à água porque a folha em sua cabeça cresceu grande e pesada. Agora vive flutuando sobre a água.",
+    evolution: {
+      next: [["271", "Level 14"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "2.6 kg",
@@ -11015,12 +10656,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/270.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/270.png",
-      hires:
-        "./Imagens/Pokedex/hires/270.png",
+      sprite: "./Imagens/Pokedex/sprites/270.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/270.png",
+      hires: "./Imagens/Pokedex/hires/270.png",
     },
   },
   {
@@ -11042,7 +10680,7 @@ const POKEDEX_JSON = [
     },
     species: "Jolly Pokémon",
     description:
-      "Lombre’s entire body is covered by a slippery, slimy film. It feels horribly unpleasant to be touched by this Pokémon’s hands. Lombre is often mistaken for a human child.",
+      "Todo o corpo de Lombre é coberto por um filme escorregadio e viscoso. É horrível ser tocado pelas mãos deste Pokémon. Lombre é frequentemente confundido com uma criança humana.",
     evolution: {
       prev: ["270", "Level 14"],
       next: [["272", "use Water Stone"]],
@@ -11059,12 +10697,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/271.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/271.png",
-      hires:
-        "./Imagens/Pokedex/hires/271.png",
+      sprite: "./Imagens/Pokedex/sprites/271.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/271.png",
+      hires: "./Imagens/Pokedex/hires/271.png",
     },
   },
   {
@@ -11086,8 +10721,10 @@ const POKEDEX_JSON = [
     },
     species: "Carefree Pokémon",
     description:
-      "Upon hearing an upbeat and cheerful rhythm, the cells in Ludicolo’s body become very energetic and active. Even in battle, this Pokémon will exhibit an amazing amount of power.",
-    evolution: { prev: ["271", "use Water Stone"] },
+      "Ao ouvir um ritmo animado e alegre, as células do corpo de Ludicolo se tornam muito enérgicas e ativas. Mesmo em batalha, este Pokémon exibirá uma quantidade incrível de poder.",
+    evolution: {
+      prev: ["271", "use Water Stone"],
+    },
     profile: {
       height: "1.5 m",
       weight: "55 kg",
@@ -11100,12 +10737,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/272.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/272.png",
-      hires:
-        "./Imagens/Pokedex/hires/272.png",
+      sprite: "./Imagens/Pokedex/sprites/272.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/272.png",
+      hires: "./Imagens/Pokedex/hires/272.png",
     },
   },
   {
@@ -11127,8 +10761,10 @@ const POKEDEX_JSON = [
     },
     species: "Acorn Pokémon",
     description:
-      "Seedot looks exactly like an acorn when it is dangling from a tree branch. It startles other Pokémon by suddenly moving. This Pokémon polishes its body once a day using leaves.",
-    evolution: { next: [["274", "Level 14"]] },
+      "Seedot parece exatamente como uma bolota quando está pendurado em um galho de árvore. Ele assusta outros Pokémon movendo-se repentinamente. Este Pokémon polpa seu corpo uma vez por dia usando folhas.",
+    evolution: {
+      next: [["274", "Level 14"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "4 kg",
@@ -11141,12 +10777,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/273.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/273.png",
-      hires:
-        "./Imagens/Pokedex/hires/273.png",
+      sprite: "./Imagens/Pokedex/sprites/273.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/273.png",
+      hires: "./Imagens/Pokedex/hires/273.png",
     },
   },
   {
@@ -11168,7 +10801,7 @@ const POKEDEX_JSON = [
     },
     species: "Wily Pokémon",
     description:
-      "This Pokémon pulls out the leaf on its head and makes a flute with it. The sound of Nuzleaf’s flute strikes fear and uncertainty in the hearts of people lost in a forest.",
+      "Este Pokémon puxa a folha em sua cabeça e faz uma flauta com ela. O som da flauta de Nuzleaf causa medo e incerteza nos corações das pessoas perdidas em uma floresta.",
     evolution: {
       prev: ["273", "Level 14"],
       next: [["275", "use Leaf Stone"]],
@@ -11185,12 +10818,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/274.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/274.png",
-      hires:
-        "./Imagens/Pokedex/hires/274.png",
+      sprite: "./Imagens/Pokedex/sprites/274.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/274.png",
+      hires: "./Imagens/Pokedex/hires/274.png",
     },
   },
   {
@@ -11212,8 +10842,10 @@ const POKEDEX_JSON = [
     },
     species: "Wicked Pokémon",
     description:
-      "Shiftry’s large fans generate awesome gusts of wind at a speed close to 100 feet per second. The whipped-up wind blows anything away. This Pokémon chooses to live quietly deep in forests.",
-    evolution: { prev: ["274", "use Leaf Stone"] },
+      "Os grandes fãs de Shiftry geram rajadas de vento incríveis a uma velocidade próxima a 100 pés por segundo. O vento chicoteado sopra tudo para longe. Este Pokémon escolhe viver quietamente nas profundezas das florestas.",
+    evolution: {
+      prev: ["274", "use Leaf Stone"],
+    },
     profile: {
       height: "1.3 m",
       weight: "59.6 kg",
@@ -11226,12 +10858,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/275.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/275.png",
-      hires:
-        "./Imagens/Pokedex/hires/275.png",
+      sprite: "./Imagens/Pokedex/sprites/275.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/275.png",
+      hires: "./Imagens/Pokedex/hires/275.png",
     },
   },
   {
@@ -11253,8 +10882,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Swallow Pokémon",
     description:
-      "Taillow is young—it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This Pokémon feeds on Wurmple that live in forests.",
-    evolution: { next: [["277", "Level 22"]] },
+      "Taillow é jovem - acabou de sair do ninho. Como resultado, às vezes fica solitário e chora à noite. Este Pokémon se alimenta de Wurmple que vivem nas florestas.",
+    evolution: {
+      next: [["277", "Level 22"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.3 kg",
@@ -11266,12 +10897,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/276.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/276.png",
-      hires:
-        "./Imagens/Pokedex/hires/276.png",
+      sprite: "./Imagens/Pokedex/sprites/276.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/276.png",
+      hires: "./Imagens/Pokedex/hires/276.png",
     },
   },
   {
@@ -11293,8 +10921,10 @@ const POKEDEX_JSON = [
     },
     species: "Swallow Pokémon",
     description:
-      "Swellow is very conscientious about the upkeep of its glossy wings. Once two Swellow are gathered, they diligently take care of cleaning each other’s wings.",
-    evolution: { prev: ["276", "Level 22"] },
+      "Swellow é muito consciente da manutenção de suas asas brilhantes. Uma vez que dois Swellow são reunidos, eles diligentemente cuidam da limpeza das asas um do outro.",
+    evolution: {
+      prev: ["276", "Level 22"],
+    },
     profile: {
       height: "0.7 m",
       weight: "19.8 kg",
@@ -11306,12 +10936,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/277.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/277.png",
-      hires:
-        "./Imagens/Pokedex/hires/277.png",
+      sprite: "./Imagens/Pokedex/sprites/277.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/277.png",
+      hires: "./Imagens/Pokedex/hires/277.png",
     },
   },
   {
@@ -11333,8 +10960,10 @@ const POKEDEX_JSON = [
     },
     species: "Seagull Pokémon",
     description:
-      "It builds nests in cliffs by the sea. It circles the skies above the ocean looking for its favorite food—Wishiwashi.",
-    evolution: { next: [["279", "Level 25"]] },
+      "Ele constrói ninhos em penhascos perto do mar. Ele circula nos céus acima do oceano procurando por sua comida favorita - Wishiwashi.",
+    evolution: {
+      next: [["279", "Level 25"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "9.5 kg",
@@ -11347,12 +10976,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/278.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/278.png",
-      hires:
-        "./Imagens/Pokedex/hires/278.png",
+      sprite: "./Imagens/Pokedex/sprites/278.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/278.png",
+      hires: "./Imagens/Pokedex/hires/278.png",
     },
   },
   {
@@ -11374,8 +11000,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Bird Pokémon",
     description:
-      "It scoops up Wishiwashi in its huge beak and swallows them whole. It can devour more than 30 at one go!",
-    evolution: { prev: ["278", "Level 25"] },
+      "Ele recolhe Wishiwashi em seu enorme bico e os engole inteiros. Ele pode devorar mais de 30 de uma vez!",
+    evolution: {
+      prev: ["278", "Level 25"],
+    },
     profile: {
       height: "1.2 m",
       weight: "28 kg",
@@ -11388,12 +11016,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/279.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/279.png",
-      hires:
-        "./Imagens/Pokedex/hires/279.png",
+      sprite: "./Imagens/Pokedex/sprites/279.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/279.png",
+      hires: "./Imagens/Pokedex/hires/279.png",
     },
   },
   {
@@ -11415,8 +11040,10 @@ const POKEDEX_JSON = [
     },
     species: "Feeling Pokémon",
     description:
-      "Ralts has the ability to sense the emotions of people. If its Trainer is in a cheerful mood, this Pokémon grows cheerful and joyous in the same way.",
-    evolution: { next: [["281", "Level 20"]] },
+      "Ralts tem a capacidade de sentir as emoções das pessoas. Se seu treinador estiver de bom humor, este Pokémon ficará alegre e alegre da mesma forma.",
+    evolution: {
+      next: [["281", "Level 20"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "6.6 kg",
@@ -11429,12 +11056,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/280.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/280.png",
-      hires:
-        "./Imagens/Pokedex/hires/280.png",
+      sprite: "./Imagens/Pokedex/sprites/280.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/280.png",
+      hires: "./Imagens/Pokedex/hires/280.png",
     },
   },
   {
@@ -11456,8 +11080,11 @@ const POKEDEX_JSON = [
     },
     species: "Emotion Pokémon",
     description:
-      "Kirlia uses the horns on its head to amplify its psychokinetic power. When the Pokémon uses its power, the air around it becomes distorted, creating mirages of nonexistent scenery.",
-    evolution: { prev: ["280", "Level 20"], next: [["282", "Level 30"]] },
+      "Kirlia usa os chifres em sua cabeça para amplificar seu poder psicoquinético. Quando o Pokémon usa seu poder, o ar ao seu redor se distorce, criando miragens de cenários inexistentes.",
+    evolution: {
+      prev: ["280", "Level 20"],
+      next: [["282", "Level 30"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "20.2 kg",
@@ -11470,12 +11097,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/281.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/281.png",
-      hires:
-        "./Imagens/Pokedex/hires/281.png",
+      sprite: "./Imagens/Pokedex/sprites/281.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/281.png",
+      hires: "./Imagens/Pokedex/hires/281.png",
     },
   },
   {
@@ -11497,8 +11121,10 @@ const POKEDEX_JSON = [
     },
     species: "Embrace Pokémon",
     description:
-      "Gardevoir has the psychokinetic power to distort the dimensions and create a small black hole. This Pokémon will try to protect its Trainer even at the risk of its own life.",
-    evolution: { prev: ["281", "Level 30"] },
+      "Gardevoir tem o poder psicoquinético de distorcer as dimensões e criar um pequeno buraco negro. Este Pokémon tentará proteger seu treinador mesmo à custa de sua própria vida.",
+    evolution: {
+      prev: ["281", "Level 30"],
+    },
     profile: {
       height: "1.6 m",
       weight: "48.4 kg",
@@ -11511,12 +11137,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/282.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/282.png",
-      hires:
-        "./Imagens/Pokedex/hires/282.png",
+      sprite: "./Imagens/Pokedex/sprites/282.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/282.png",
+      hires: "./Imagens/Pokedex/hires/282.png",
     },
   },
   {
@@ -11538,8 +11161,10 @@ const POKEDEX_JSON = [
     },
     species: "Pond Skater Pokémon",
     description:
-      "It lives in ponds and marshes that feature lots of plant life. It often fights with Dewpider, whose habitat and diet are similar.",
-    evolution: { next: [["284", "Level 22"]] },
+      "Ele vive em lagoas e pântanos que apresentam muita vida vegetal. Ele costuma lutar com Dewpider, cujo habitat e dieta são semelhantes.",
+    evolution: {
+      next: [["284", "Level 22"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "1.7 kg",
@@ -11551,12 +11176,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/283.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/283.png",
-      hires:
-        "./Imagens/Pokedex/hires/283.png",
+      sprite: "./Imagens/Pokedex/sprites/283.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/283.png",
+      hires: "./Imagens/Pokedex/hires/283.png",
     },
   },
   {
@@ -11578,8 +11200,10 @@ const POKEDEX_JSON = [
     },
     species: "Eyeball Pokémon",
     description:
-      "Its thin, winglike antennae are highly absorbent. It waits out rainy days in tree hollows.",
-    evolution: { prev: ["283", "Level 22"] },
+      "Suas antenas finas, semelhantes a asas, são altamente absorventes. Ele espera dias chuvosos em buracos de árvores.",
+    evolution: {
+      prev: ["283", "Level 22"],
+    },
     profile: {
       height: "0.8 m",
       weight: "3.6 kg",
@@ -11591,12 +11215,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/284.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/284.png",
-      hires:
-        "./Imagens/Pokedex/hires/284.png",
+      sprite: "./Imagens/Pokedex/sprites/284.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/284.png",
+      hires: "./Imagens/Pokedex/hires/284.png",
     },
   },
   {
@@ -11618,8 +11239,10 @@ const POKEDEX_JSON = [
     },
     species: "Mushroom Pokémon",
     description:
-      "If Shroomish senses danger, it shakes its body and scatters spores from the top of its head. This Pokémon’s spores are so toxic, they make trees and weeds wilt.",
-    evolution: { next: [["286", "Level 23"]] },
+      "Se Shroomish sentir perigo, ele sacudirá seu corpo e espalhará esporos do topo de sua cabeça. Os esporos deste Pokémon são tão tóxicos que fazem árvores e ervas murcharem.",
+    evolution: {
+      next: [["286", "Level 23"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "4.5 kg",
@@ -11632,12 +11255,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/285.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/285.png",
-      hires:
-        "./Imagens/Pokedex/hires/285.png",
+      sprite: "./Imagens/Pokedex/sprites/285.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/285.png",
+      hires: "./Imagens/Pokedex/hires/285.png",
     },
   },
   {
@@ -11659,8 +11279,10 @@ const POKEDEX_JSON = [
     },
     species: "Mushroom Pokémon",
     description:
-      "The seeds ringing Breloom’s tail are made of hardened toxic spores. It is horrible to eat the seeds. Just taking a bite of this Pokémon’s seed will cause your stomach to rumble.",
-    evolution: { prev: ["285", "Level 23"] },
+      "As sementes que cercam a cauda de Breloom são feitas de esporos tóxicos endurecidos. É horrível comer as sementes. Apenas dar uma mordida na semente deste Pokémon fará sua barriga roncar.",
+    evolution: {
+      prev: ["285", "Level 23"],
+    },
     profile: {
       height: "1.2 m",
       weight: "39.2 kg",
@@ -11673,12 +11295,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/286.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/286.png",
-      hires:
-        "./Imagens/Pokedex/hires/286.png",
+      sprite: "./Imagens/Pokedex/sprites/286.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/286.png",
+      hires: "./Imagens/Pokedex/hires/286.png",
     },
   },
   {
@@ -11700,8 +11319,10 @@ const POKEDEX_JSON = [
     },
     species: "Slacker Pokémon",
     description:
-      "Slakoth’s heart beats just once a minute. Whatever happens, it is content to loaf around motionless. It is rare to see this Pokémon in motion.",
-    evolution: { next: [["288", "Level 18"]] },
+      "O coração de Slakoth bate apenas uma vez por minuto. Aconteça o que acontecer, ele está contente em ficar parado sem movimento. É raro ver este Pokémon em movimento.",
+    evolution: {
+      next: [["288", "Level 18"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "24 kg",
@@ -11710,12 +11331,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/287.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/287.png",
-      hires:
-        "./Imagens/Pokedex/hires/287.png",
+      sprite: "./Imagens/Pokedex/sprites/287.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/287.png",
+      hires: "./Imagens/Pokedex/hires/287.png",
     },
   },
   {
@@ -11737,8 +11355,11 @@ const POKEDEX_JSON = [
     },
     species: "Wild Monkey Pokémon",
     description:
-      "Vigoroth is simply incapable of remaining still. Even when it tries to sleep, the blood in its veins grows agitated, compelling this Pokémon to run wild throughout the jungle before it can settle down.",
-    evolution: { prev: ["287", "Level 18"], next: [["289", "Level 36"]] },
+      "Vigoroth é simplesmente incapaz de permanecer imóvel. Mesmo quando tenta dormir, o sangue em suas veias fica agitado, obrigando este Pokémon a correr selvagem pela selva antes que possa se acalmar.",
+    evolution: {
+      prev: ["287", "Level 18"],
+      next: [["289", "Level 36"]],
+    },
     profile: {
       height: "1.4 m",
       weight: "46.5 kg",
@@ -11747,12 +11368,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/288.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/288.png",
-      hires:
-        "./Imagens/Pokedex/hires/288.png",
+      sprite: "./Imagens/Pokedex/sprites/288.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/288.png",
+      hires: "./Imagens/Pokedex/hires/288.png",
     },
   },
   {
@@ -11774,8 +11392,10 @@ const POKEDEX_JSON = [
     },
     species: "Lazy Pokémon",
     description:
-      "Wherever Slaking live, rings of over a yard in diameter appear in grassy fields. They are made by the Pokémon as it eats all the grass within reach while lying prone on the ground.",
-    evolution: { prev: ["288", "Level 36"] },
+      "Onde quer que Slaking viva, anéis de mais de um metro de diâmetro aparecem em campos gramados. Eles são feitos pelo Pokémon enquanto come toda a grama ao alcance enquanto está deitado no chão.",
+    evolution: {
+      prev: ["288", "Level 36"],
+    },
     profile: {
       height: "2 m",
       weight: "130.5 kg",
@@ -11784,12 +11404,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/289.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/289.png",
-      hires:
-        "./Imagens/Pokedex/hires/289.png",
+      sprite: "./Imagens/Pokedex/sprites/289.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/289.png",
+      hires: "./Imagens/Pokedex/hires/289.png",
     },
   },
   {
@@ -11811,7 +11428,7 @@ const POKEDEX_JSON = [
     },
     species: "Trainee Pokémon",
     description:
-      "Nincada lives underground. It uses its sharp claws to carve the roots of trees and absorb moisture and nutrients. This Pokémon can’t withstand bright sunlight so avoids it.",
+      "Nincada vive subterrâneo. Ele usa suas garras afiadas para esculpir as raízes das árvores e absorver umidade e nutrientes. Este Pokémon não pode suportar a luz solar brilhante, por isso evita.",
     evolution: {
       next: [
         ["291", "Level 20"],
@@ -11829,12 +11446,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/290.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/290.png",
-      hires:
-        "./Imagens/Pokedex/hires/290.png",
+      sprite: "./Imagens/Pokedex/sprites/290.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/290.png",
+      hires: "./Imagens/Pokedex/hires/290.png",
     },
   },
   {
@@ -11856,8 +11470,10 @@ const POKEDEX_JSON = [
     },
     species: "Ninja Pokémon",
     description:
-      "If Ninjask is not trained properly, it will refuse to obey the Trainer and cry loudly continuously. Because of this quality, this Pokémon is said to be one that puts the Trainer’s abilities to the test.",
-    evolution: { prev: ["290", "Level 20"] },
+      "Se Ninjask não for treinado corretamente, ele se recusará a obedecer ao treinador e chorará alto continuamente. Devido a essa qualidade, diz-se que este Pokémon é aquele que testa as habilidades do treinador.",
+    evolution: {
+      prev: ["290", "Level 20"],
+    },
     profile: {
       height: "0.8 m",
       weight: "12 kg",
@@ -11869,12 +11485,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/291.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/291.png",
-      hires:
-        "./Imagens/Pokedex/hires/291.png",
+      sprite: "./Imagens/Pokedex/sprites/291.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/291.png",
+      hires: "./Imagens/Pokedex/hires/291.png",
     },
   },
   {
@@ -11896,7 +11509,7 @@ const POKEDEX_JSON = [
     },
     species: "Shed Pokémon",
     description:
-      "Shedinja is a peculiar Pokémon. It seems to appear unsought in a Poké Ball after a Nincada evolves. This bizarre Pokémon is entirely immobile—it doesn’t even breathe.",
+      "Shedinja é um Pokémon peculiar. Parece aparecer sem ser procurado em uma Pokébola após um Nincada evoluir. Este Pokémon bizarro é totalmente imóvel - ele nem respira.",
     evolution: {
       prev: ["290", "Level 20, empty spot in party, Pokéball in bag"],
     },
@@ -11908,12 +11521,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/292.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/292.png",
-      hires:
-        "./Imagens/Pokedex/hires/292.png",
+      sprite: "./Imagens/Pokedex/sprites/292.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/292.png",
+      hires: "./Imagens/Pokedex/hires/292.png",
     },
   },
   {
@@ -11935,8 +11545,10 @@ const POKEDEX_JSON = [
     },
     species: "Whisper Pokémon",
     description:
-      "Whismur is very timid. If it starts to cry loudly, it becomes startled by its own crying and cries even harder. When it finally stops crying, the Pokémon goes to sleep, all tired out.",
-    evolution: { next: [["294", "Level 20"]] },
+      "Whismur é muito tímido. Se começar a chorar alto, ficará assustado com seu próprio choro e chorará ainda mais. Quando finalmente para de chorar, o Pokémon vai dormir, todo cansado.",
+    evolution: {
+      next: [["294", "Level 20"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "16.3 kg",
@@ -11948,12 +11560,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/293.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/293.png",
-      hires:
-        "./Imagens/Pokedex/hires/293.png",
+      sprite: "./Imagens/Pokedex/sprites/293.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/293.png",
+      hires: "./Imagens/Pokedex/hires/293.png",
     },
   },
   {
@@ -11975,8 +11584,11 @@ const POKEDEX_JSON = [
     },
     species: "Big Voice Pokémon",
     description:
-      "Loudred shouts while stamping its feet. After it finishes shouting, this Pokémon becomes incapable of hearing anything for a while. This is considered to be a weak point.",
-    evolution: { prev: ["293", "Level 20"], next: [["295", "Level 40"]] },
+      "Loudred grita enquanto pisa com os pés. Depois de terminar de gritar, este Pokémon fica incapaz de ouvir qualquer coisa por um tempo. Isso é considerado um ponto fraco.",
+    evolution: {
+      prev: ["293", "Level 20"],
+      next: [["295", "Level 40"]],
+    },
     profile: {
       height: "1 m",
       weight: "40.5 kg",
@@ -11988,12 +11600,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/294.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/294.png",
-      hires:
-        "./Imagens/Pokedex/hires/294.png",
+      sprite: "./Imagens/Pokedex/sprites/294.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/294.png",
+      hires: "./Imagens/Pokedex/hires/294.png",
     },
   },
   {
@@ -12015,8 +11624,10 @@ const POKEDEX_JSON = [
     },
     species: "Loud Noise Pokémon",
     description:
-      "Exploud communicates its feelings to the others by emitting whistle-like sounds from the tubes on its body. This Pokémon only raises its voice when it is in battle.",
-    evolution: { prev: ["294", "Level 40"] },
+      "Exploud comunica seus sentimentos aos outros emitindo sons semelhantes a assobios dos tubos em seu corpo. Este Pokémon só aumenta sua voz quando está em batalha.",
+    evolution: {
+      prev: ["294", "Level 40"],
+    },
     profile: {
       height: "1.5 m",
       weight: "84 kg",
@@ -12028,12 +11639,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/295.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/295.png",
-      hires:
-        "./Imagens/Pokedex/hires/295.png",
+      sprite: "./Imagens/Pokedex/sprites/295.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/295.png",
+      hires: "./Imagens/Pokedex/hires/295.png",
     },
   },
   {
@@ -12055,8 +11663,10 @@ const POKEDEX_JSON = [
     },
     species: "Guts Pokémon",
     description:
-      "There’s a rumor of a traditional recipe for stew that Trainers can use to raise strong Makuhita.",
-    evolution: { next: [["297", "Level 24"]] },
+      "Há um boato de uma receita tradicional de ensopado que os treinadores podem usar para criar Makuhita fortes.",
+    evolution: {
+      next: [["297", "Level 24"]],
+    },
     profile: {
       height: "1 m",
       weight: "86.4 kg",
@@ -12069,12 +11679,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/296.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/296.png",
-      hires:
-        "./Imagens/Pokedex/hires/296.png",
+      sprite: "./Imagens/Pokedex/sprites/296.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/296.png",
+      hires: "./Imagens/Pokedex/hires/296.png",
     },
   },
   {
@@ -12096,8 +11703,10 @@ const POKEDEX_JSON = [
     },
     species: "Arm Thrust Pokémon",
     description:
-      "Hariyama that are big and fat aren’t necessarily strong. There are some small ones that move nimbly and use moves skillfully.",
-    evolution: { prev: ["296", "Level 24"] },
+      "Hariyama grandes e gordos não são necessariamente fortes. Existem alguns pequenos que se movem com agilidade e usam movimentos habilmente.",
+    evolution: {
+      prev: ["296", "Level 24"],
+    },
     profile: {
       height: "2.3 m",
       weight: "253.8 kg",
@@ -12110,12 +11719,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/297.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/297.png",
-      hires:
-        "./Imagens/Pokedex/hires/297.png",
+      sprite: "./Imagens/Pokedex/sprites/297.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/297.png",
+      hires: "./Imagens/Pokedex/hires/297.png",
     },
   },
   {
@@ -12137,8 +11743,10 @@ const POKEDEX_JSON = [
     },
     species: "Polka Dot Pokémon",
     description:
-      "Azurill’s tail is large and bouncy. It is packed full of the nutrients this Pokémon needs to grow. Azurill can be seen bouncing and playing on its big, rubbery tail.",
-    evolution: { next: [["183", "high Friendship"]] },
+      "A cauda de Azurill é grande e elástica. Está cheia de nutrientes que este Pokémon precisa para crescer. Azurill pode ser visto pulando e brincando em sua grande cauda de borracha.",
+    evolution: {
+      next: [["183", "high Friendship"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "2 kg",
@@ -12151,12 +11759,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/298.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/298.png",
-      hires:
-        "./Imagens/Pokedex/hires/298.png",
+      sprite: "./Imagens/Pokedex/sprites/298.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/298.png",
+      hires: "./Imagens/Pokedex/hires/298.png",
     },
   },
   {
@@ -12178,8 +11783,10 @@ const POKEDEX_JSON = [
     },
     species: "Compass Pokémon",
     description:
-      "It hunts without twitching a muscle by pulling in its prey with powerful magnetism. But sometimes it pulls natural enemies in close.",
-    evolution: { next: [["476", "level up in a Magnetic Field area"]] },
+      "Ele caça sem mover um músculo, puxando sua presa com poderoso magnetismo. Mas às vezes puxa inimigos naturais para perto.",
+    evolution: {
+      next: [["476", "level up in a Magnetic Field area"]],
+    },
     profile: {
       height: "1 m",
       weight: "97 kg",
@@ -12192,12 +11799,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/299.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/299.png",
-      hires:
-        "./Imagens/Pokedex/hires/299.png",
+      sprite: "./Imagens/Pokedex/sprites/299.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/299.png",
+      hires: "./Imagens/Pokedex/hires/299.png",
     },
   },
   {
@@ -12219,8 +11823,10 @@ const POKEDEX_JSON = [
     },
     species: "Kitten Pokémon",
     description:
-      "Skitty is known to chase around playfully after its own tail. In the wild, this Pokémon lives in holes in the trees of forests. It is very popular as a pet because of its adorable looks.",
-    evolution: { next: [["301", "use Moon Stone"]] },
+      "Skitty é conhecido por perseguir sua própria cauda brincando. Na natureza, este Pokémon vive em buracos nas árvores das florestas. É muito popular como animal de estimação por sua aparência adorável.",
+    evolution: {
+      next: [["301", "use Moon Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "11 kg",
@@ -12233,12 +11839,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/300.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/300.png",
-      hires:
-        "./Imagens/Pokedex/hires/300.png",
+      sprite: "./Imagens/Pokedex/sprites/300.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/300.png",
+      hires: "./Imagens/Pokedex/hires/300.png",
     },
   },
   {
@@ -12260,8 +11863,10 @@ const POKEDEX_JSON = [
     },
     species: "Prim Pokémon",
     description:
-      "Delcatty sleeps anywhere it wants without keeping a permanent nest. If other Pokémon approach it as it sleeps, this Pokémon will never fight—it will just move away somewhere else.",
-    evolution: { prev: ["300", "use Moon Stone"] },
+      "Delcatty dorme onde quiser sem manter um ninho permanente. Se outros Pokémon se aproximarem enquanto dorme, este Pokémon nunca lutará - ele simplesmente se afastará para outro lugar.",
+    evolution: {
+      prev: ["300", "use Moon Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "32.6 kg",
@@ -12274,12 +11879,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/301.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/301.png",
-      hires:
-        "./Imagens/Pokedex/hires/301.png",
+      sprite: "./Imagens/Pokedex/sprites/301.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/301.png",
+      hires: "./Imagens/Pokedex/hires/301.png",
     },
   },
   {
@@ -12301,7 +11903,7 @@ const POKEDEX_JSON = [
     },
     species: "Darkness Pokémon",
     description:
-      "Materials from gems it has eaten float to the surface of its body and can form an infinite number of patterns among individuals.",
+      "Materiais de gemas que come flutuam na superfície de seu corpo e podem formar um número infinito de padrões entre indivíduos.",
     evolution: {},
     profile: {
       height: "0.5 m",
@@ -12315,12 +11917,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/302.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/302.png",
-      hires:
-        "./Imagens/Pokedex/hires/302.png",
+      sprite: "./Imagens/Pokedex/sprites/302.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/302.png",
+      hires: "./Imagens/Pokedex/hires/302.png",
     },
   },
   {
@@ -12342,7 +11941,7 @@ const POKEDEX_JSON = [
     },
     species: "Deceiver Pokémon",
     description:
-      "It has two mouths. The big jaws on the back of its head can’t taste anything, so that’s the mouth it uses to eat foods it doesn’t like.",
+      "Ele tem duas bocas. As grandes mandíbulas na parte de trás da cabeça não podem sentir gosto de nada, por isso é a boca que ele usa para comer alimentos que não gosta.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -12356,12 +11955,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/303.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/303.png",
-      hires:
-        "./Imagens/Pokedex/hires/303.png",
+      sprite: "./Imagens/Pokedex/sprites/303.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/303.png",
+      hires: "./Imagens/Pokedex/hires/303.png",
     },
   },
   {
@@ -12383,8 +11979,10 @@ const POKEDEX_JSON = [
     },
     species: "Iron Armor Pokémon",
     description:
-      "Aron has a body of steel. With one all-out charge, this Pokémon can demolish even a heavy dump truck. The destroyed dump truck then becomes a handy meal for the Pokémon.",
-    evolution: { next: [["305", "Level 32"]] },
+      "Aron tem um corpo de aço. Com uma carga total, este Pokémon pode demolir até mesmo um caminhão basculante pesado. O caminhão basculante destruído se torna uma refeição útil para o Pokémon.",
+    evolution: {
+      next: [["305", "Level 32"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "60 kg",
@@ -12397,12 +11995,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/304.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/304.png",
-      hires:
-        "./Imagens/Pokedex/hires/304.png",
+      sprite: "./Imagens/Pokedex/sprites/304.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/304.png",
+      hires: "./Imagens/Pokedex/hires/304.png",
     },
   },
   {
@@ -12424,8 +12019,11 @@ const POKEDEX_JSON = [
     },
     species: "Iron Armor Pokémon",
     description:
-      "Lairon feeds on iron contained in rocks and water. It makes its nest on mountains where iron ore is buried. As a result, the Pokémon often clashes with humans mining the iron ore.",
-    evolution: { prev: ["304", "Level 32"], next: [["306", "Level 42"]] },
+      "Lairon se alimenta de ferro contido em rochas e água. Ele faz seu ninho em montanhas onde o minério de ferro é enterrado. Como resultado, o Pokémon muitas vezes se choca com humanos que mineram o minério de ferro.",
+    evolution: {
+      prev: ["304", "Level 32"],
+      next: [["306", "Level 42"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "120 kg",
@@ -12438,12 +12036,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/305.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/305.png",
-      hires:
-        "./Imagens/Pokedex/hires/305.png",
+      sprite: "./Imagens/Pokedex/sprites/305.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/305.png",
+      hires: "./Imagens/Pokedex/hires/305.png",
     },
   },
   {
@@ -12465,8 +12060,10 @@ const POKEDEX_JSON = [
     },
     species: "Iron Armor Pokémon",
     description:
-      "Aggron is protective of its environment. If its mountain is ravaged by a landslide or a fire, this Pokémon will haul topsoil to the area, plant trees, and beautifully restore its own territory.",
-    evolution: { prev: ["305", "Level 42"] },
+      "Aggron é protetor de seu ambiente. Se sua montanha for devastada por um deslizamento de terra ou um incêndio, este Pokémon transportará solo para a área, plantará árvores e restaurará lindamente seu próprio território.",
+    evolution: {
+      prev: ["305", "Level 42"],
+    },
     profile: {
       height: "2.1 m",
       weight: "360 kg",
@@ -12479,12 +12076,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/306.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/306.png",
-      hires:
-        "./Imagens/Pokedex/hires/306.png",
+      sprite: "./Imagens/Pokedex/sprites/306.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/306.png",
+      hires: "./Imagens/Pokedex/hires/306.png",
     },
   },
   {
@@ -12506,8 +12100,10 @@ const POKEDEX_JSON = [
     },
     species: "Meditate Pokémon",
     description:
-      "Meditite heightens its inner energy through meditation. It survives on just one berry a day. Minimal eating is another aspect of this Pokémon’s training.",
-    evolution: { next: [["308", "Level 37"]] },
+      "Meditite aumenta sua energia interna através da meditação. Ele sobrevive com apenas uma baga por dia. A alimentação mínima é outro aspecto do treinamento deste Pokémon.",
+    evolution: {
+      next: [["308", "Level 37"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "11.2 kg",
@@ -12519,12 +12115,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/307.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/307.png",
-      hires:
-        "./Imagens/Pokedex/hires/307.png",
+      sprite: "./Imagens/Pokedex/sprites/307.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/307.png",
+      hires: "./Imagens/Pokedex/hires/307.png",
     },
   },
   {
@@ -12546,8 +12139,10 @@ const POKEDEX_JSON = [
     },
     species: "Meditate Pokémon",
     description:
-      "Through the power of meditation, Medicham developed its sixth sense. It gained the ability to use psychokinetic powers. This Pokémon is known to meditate for a whole month without eating.",
-    evolution: { prev: ["307", "Level 37"] },
+      "Por meio do poder da meditação, Medicham desenvolveu seu sexto sentido. Ele ganhou a habilidade de usar poderes psicoquinéticos. Sabe-se que este Pokémon medita por um mês inteiro sem comer.",
+    evolution: {
+      prev: ["307", "Level 37"],
+    },
     profile: {
       height: "1.3 m",
       weight: "31.5 kg",
@@ -12559,12 +12154,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/308.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/308.png",
-      hires:
-        "./Imagens/Pokedex/hires/308.png",
+      sprite: "./Imagens/Pokedex/sprites/308.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/308.png",
+      hires: "./Imagens/Pokedex/hires/308.png",
     },
   },
   {
@@ -12586,8 +12178,10 @@ const POKEDEX_JSON = [
     },
     species: "Lightning Pokémon",
     description:
-      "Static electricity builds up all over its body as strands of its long fur rub together. This Pokémon boasts incredible speed.",
-    evolution: { next: [["310", "Level 26"]] },
+      "A eletricidade estática se acumula em todo o corpo enquanto os fios de seu pelo longo se esfregam. Este Pokémon possui uma velocidade incrível.",
+    evolution: {
+      next: [["310", "Level 26"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "15.2 kg",
@@ -12600,12 +12194,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/309.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/309.png",
-      hires:
-        "./Imagens/Pokedex/hires/309.png",
+      sprite: "./Imagens/Pokedex/sprites/309.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/309.png",
+      hires: "./Imagens/Pokedex/hires/309.png",
     },
   },
   {
@@ -12627,8 +12218,10 @@ const POKEDEX_JSON = [
     },
     species: "Discharge Pokémon",
     description:
-      "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
-    evolution: { prev: ["309", "Level 26"] },
+      "Ele estimula seus próprios músculos com eletricidade, para que possa se mover rapidamente. Ele também alivia sua dor com eletricidade, para que possa se recuperar rapidamente também.",
+    evolution: {
+      prev: ["309", "Level 26"],
+    },
     profile: {
       height: "1.5 m",
       weight: "40.2 kg",
@@ -12641,12 +12234,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/310.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/310.png",
-      hires:
-        "./Imagens/Pokedex/hires/310.png",
+      sprite: "./Imagens/Pokedex/sprites/310.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/310.png",
+      hires: "./Imagens/Pokedex/hires/310.png",
     },
   },
   {
@@ -12668,7 +12258,7 @@ const POKEDEX_JSON = [
     },
     species: "Cheering Pokémon",
     description:
-      "When Plusle is cheering on its partner, it flashes with electric sparks from all over its body. If its partner loses, this Pokémon cries loudly.",
+      "Quando Plusle está torcendo por seu parceiro, ele pisca com faíscas elétricas em todo o corpo. Se seu parceiro perder, este Pokémon chora alto.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -12681,12 +12271,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/311.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/311.png",
-      hires:
-        "./Imagens/Pokedex/hires/311.png",
+      sprite: "./Imagens/Pokedex/sprites/311.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/311.png",
+      hires: "./Imagens/Pokedex/hires/311.png",
     },
   },
   {
@@ -12708,7 +12295,7 @@ const POKEDEX_JSON = [
     },
     species: "Cheering Pokémon",
     description:
-      "Minun loves to cheer on its partner in battle. It gives off sparks from its body while it is doing so. If its partner is in trouble, this Pokémon gives off increasing amounts of sparks.",
+      "Minun adora torcer por seu parceiro em batalha. Ele emite faíscas de seu corpo enquanto está fazendo isso. Se seu parceiro estiver em problemas, este Pokémon emite quantidades crescentes de faíscas.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -12721,12 +12308,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/312.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/312.png",
-      hires:
-        "./Imagens/Pokedex/hires/312.png",
+      sprite: "./Imagens/Pokedex/sprites/312.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/312.png",
+      hires: "./Imagens/Pokedex/hires/312.png",
     },
   },
   {
@@ -12748,7 +12332,7 @@ const POKEDEX_JSON = [
     },
     species: "Firefly Pokémon",
     description:
-      "Volbeat’s tail glows like a lightbulb. With other Volbeat, it uses its tail to draw geometric shapes in the night sky. This Pokémon loves the sweet aroma given off by Illumise.",
+      "A cauda de Volbeat brilha como uma lâmpada. Com outros Volbeat, ele usa sua cauda para desenhar formas geométricas no céu noturno. Este Pokémon adora o doce aroma exalado por Illumise.",
     evolution: {},
     profile: {
       height: "0.7 m",
@@ -12762,12 +12346,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/313.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/313.png",
-      hires:
-        "./Imagens/Pokedex/hires/313.png",
+      sprite: "./Imagens/Pokedex/sprites/313.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/313.png",
+      hires: "./Imagens/Pokedex/hires/313.png",
     },
   },
   {
@@ -12789,7 +12370,7 @@ const POKEDEX_JSON = [
     },
     species: "Firefly Pokémon",
     description:
-      "Illumise leads a flight of illuminated Volbeat to draw signs in the night sky. This Pokémon is said to earn greater respect from its peers by composing more complex designs in the sky.",
+      "Illumise lidera um voo de Volbeat iluminado para desenhar sinais no céu noturno. Diz-se que este Pokémon ganha maior respeito de seus pares compondo designs mais complexos no céu.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -12803,12 +12384,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/314.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/314.png",
-      hires:
-        "./Imagens/Pokedex/hires/314.png",
+      sprite: "./Imagens/Pokedex/sprites/314.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/314.png",
+      hires: "./Imagens/Pokedex/hires/314.png",
     },
   },
   {
@@ -12830,7 +12408,7 @@ const POKEDEX_JSON = [
     },
     species: "Thorn Pokémon",
     description:
-      "On extremely rare occasions, a Roselia is said to appear with its flowers in unusual colors. The thorns on this Pokémon’s head contain a vicious poison.",
+      "Em ocasiões extremamente raras, diz-se que uma Roselia aparece com suas flores em cores incomuns. Os espinhos na cabeça deste Pokémon contêm um veneno cruel.",
     evolution: {
       prev: ["406", "high Friendship, Daytime"],
       next: [["407", "use Shiny Stone"]],
@@ -12847,12 +12425,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/315.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/315.png",
-      hires:
-        "./Imagens/Pokedex/hires/315.png",
+      sprite: "./Imagens/Pokedex/sprites/315.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/315.png",
+      hires: "./Imagens/Pokedex/hires/315.png",
     },
   },
   {
@@ -12874,8 +12449,10 @@ const POKEDEX_JSON = [
     },
     species: "Stomach Pokémon",
     description:
-      "Most of Gulpin’s body is made up of its stomach—its heart and brain are very small in comparison. This Pokémon’s stomach contains special enzymes that dissolve anything.",
-    evolution: { next: [["317", "Level 26"]] },
+      "A maior parte do corpo de Gulpin é composta por seu estômago - seu coração e cérebro são muito pequenos em comparação. O estômago deste Pokémon contém enzimas especiais que dissolvem qualquer coisa.",
+    evolution: {
+      next: [["317", "Level 26"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "10.3 kg",
@@ -12888,12 +12465,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/316.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/316.png",
-      hires:
-        "./Imagens/Pokedex/hires/316.png",
+      sprite: "./Imagens/Pokedex/sprites/316.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/316.png",
+      hires: "./Imagens/Pokedex/hires/316.png",
     },
   },
   {
@@ -12915,8 +12489,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Bag Pokémon",
     description:
-      "Swalot has no teeth, so what it eats, it swallows whole, no matter what. Its cavernous mouth yawns widely. An automobile tire could easily fit inside this Pokémon’s mouth.",
-    evolution: { prev: ["316", "Level 26"] },
+      "Swalot não tem dentes, então o que come, engole inteiro, não importa o quê. Sua boca cavernosa boceja amplamente. Um pneu de automóvel poderia facilmente caber dentro da boca deste Pokémon.",
+    evolution: {
+      prev: ["316", "Level 26"],
+    },
     profile: {
       height: "1.7 m",
       weight: "80 kg",
@@ -12929,12 +12505,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/317.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/317.png",
-      hires:
-        "./Imagens/Pokedex/hires/317.png",
+      sprite: "./Imagens/Pokedex/sprites/317.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/317.png",
+      hires: "./Imagens/Pokedex/hires/317.png",
     },
   },
   {
@@ -12956,8 +12529,10 @@ const POKEDEX_JSON = [
     },
     species: "Savage Pokémon",
     description:
-      "With its sturdy jaws and fangs, it can easily chomp wooden boats to splinters. It fights with Basculin over food.",
-    evolution: { next: [["319", "Level 30"]] },
+      "Com suas mandíbulas e presas robustas, ele pode facilmente cortar barcos de madeira em lascas. Ele luta com Basculin por comida.",
+    evolution: {
+      next: [["319", "Level 30"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "20.8 kg",
@@ -12969,12 +12544,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/318.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/318.png",
-      hires:
-        "./Imagens/Pokedex/hires/318.png",
+      sprite: "./Imagens/Pokedex/sprites/318.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/318.png",
+      hires: "./Imagens/Pokedex/hires/318.png",
     },
   },
   {
@@ -12996,8 +12568,10 @@ const POKEDEX_JSON = [
     },
     species: "Brutal Pokémon",
     description:
-      "It drinks in seawater and jets it from its rear to propel itself. It’s very sensitive to the scent of blood.",
-    evolution: { prev: ["318", "Level 30"] },
+      "Ele bebe água do mar e a jorra de sua traseira para se impulsionar. É muito sensível ao cheiro de sangue.",
+    evolution: {
+      prev: ["318", "Level 30"],
+    },
     profile: {
       height: "1.8 m",
       weight: "88.8 kg",
@@ -13009,12 +12583,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/319.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/319.png",
-      hires:
-        "./Imagens/Pokedex/hires/319.png",
+      sprite: "./Imagens/Pokedex/sprites/319.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/319.png",
+      hires: "./Imagens/Pokedex/hires/319.png",
     },
   },
   {
@@ -13036,8 +12607,10 @@ const POKEDEX_JSON = [
     },
     species: "Ball Whale Pokémon",
     description:
-      "Due to their memories of when they once lived on land, pods of them will, very rarely, wash up on shore.",
-    evolution: { next: [["321", "Level 40"]] },
+      "Devido às suas memórias de quando viviam na terra, grupos deles podem, muito raramente, subir na costa.",
+    evolution: {
+      next: [["321", "Level 40"]],
+    },
     profile: {
       height: "2 m",
       weight: "130 kg",
@@ -13050,12 +12623,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/320.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/320.png",
-      hires:
-        "./Imagens/Pokedex/hires/320.png",
+      sprite: "./Imagens/Pokedex/sprites/320.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/320.png",
+      hires: "./Imagens/Pokedex/hires/320.png",
     },
   },
   {
@@ -13077,8 +12647,10 @@ const POKEDEX_JSON = [
     },
     species: "Float Whale Pokémon",
     description:
-      "When a small Wailmer is attacked by Sharpedo or Dhelmise, its whole pod works together to protect it.",
-    evolution: { prev: ["320", "Level 40"] },
+      "Quando um pequeno Wailmer é atacado por Sharpedo ou Dhelmise, todo o seu bando trabalha junto para protegê-lo.",
+    evolution: {
+      prev: ["320", "Level 40"],
+    },
     profile: {
       height: "14.5 m",
       weight: "398 kg",
@@ -13091,12 +12663,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/321.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/321.png",
-      hires:
-        "./Imagens/Pokedex/hires/321.png",
+      sprite: "./Imagens/Pokedex/sprites/321.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/321.png",
+      hires: "./Imagens/Pokedex/hires/321.png",
     },
   },
   {
@@ -13118,8 +12687,10 @@ const POKEDEX_JSON = [
     },
     species: "Numb Pokémon",
     description:
-      "Numel stores magma of almost 2,200 degrees Fahrenheit within its body. If it gets wet, the magma cools and hardens. In that event, the Pokémon’s body grows heavy and its movements become sluggish.",
-    evolution: { next: [["323", "Level 33"]] },
+      "Numel armazena magma de quase 2.200 graus Fahrenheit dentro de seu corpo. Se ficar molhado, o magma esfria e endurece. Nesse caso, o corpo do Pokémon fica pesado e seus movimentos ficam lentos.",
+    evolution: {
+      next: [["323", "Level 33"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "24 kg",
@@ -13132,12 +12703,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/322.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/322.png",
-      hires:
-        "./Imagens/Pokedex/hires/322.png",
+      sprite: "./Imagens/Pokedex/sprites/322.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/322.png",
+      hires: "./Imagens/Pokedex/hires/322.png",
     },
   },
   {
@@ -13159,8 +12727,10 @@ const POKEDEX_JSON = [
     },
     species: "Eruption Pokémon",
     description:
-      "The humps on Camerupt’s back are formed by a transformation of its bones. They sometimes blast out molten magma. This Pokémon apparently erupts often when it is enraged.",
-    evolution: { prev: ["322", "Level 33"] },
+      "As corcundas nas costas de Camerupt são formadas por uma transformação de seus ossos. Às vezes, eles explodem magma derretido. Este Pokémon aparentemente entra em erupção frequentemente quando está enfurecido.",
+    evolution: {
+      prev: ["322", "Level 33"],
+    },
     profile: {
       height: "1.9 m",
       weight: "220 kg",
@@ -13173,12 +12743,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/323.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/323.png",
-      hires:
-        "./Imagens/Pokedex/hires/323.png",
+      sprite: "./Imagens/Pokedex/sprites/323.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/323.png",
+      hires: "./Imagens/Pokedex/hires/323.png",
     },
   },
   {
@@ -13200,7 +12767,7 @@ const POKEDEX_JSON = [
     },
     species: "Coal Pokémon",
     description:
-      "It burns coal to produce energy. When it has burned through all of its coal, it becomes unable to move.",
+      "Ele queima carvão para produzir energia. Quando queima todo o carvão, fica incapaz de se mover.",
     evolution: {},
     profile: {
       height: "0.5 m",
@@ -13214,12 +12781,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/324.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/324.png",
-      hires:
-        "./Imagens/Pokedex/hires/324.png",
+      sprite: "./Imagens/Pokedex/sprites/324.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/324.png",
+      hires: "./Imagens/Pokedex/hires/324.png",
     },
   },
   {
@@ -13241,8 +12805,10 @@ const POKEDEX_JSON = [
     },
     species: "Bounce Pokémon",
     description:
-      "Spoink keeps a pearl on top of its head. The pearl functions to amplify this Pokémon’s psychokinetic powers. It is therefore on a constant search for a bigger pearl.",
-    evolution: { next: [["326", "Level 32"]] },
+      "Spoink mantém uma pérola no topo de sua cabeça. A pérola funciona para amplificar os poderes psicoquinéticos deste Pokémon. Portanto, está em constante busca por uma pérola maior.",
+    evolution: {
+      next: [["326", "Level 32"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "30.6 kg",
@@ -13255,12 +12821,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/325.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/325.png",
-      hires:
-        "./Imagens/Pokedex/hires/325.png",
+      sprite: "./Imagens/Pokedex/sprites/325.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/325.png",
+      hires: "./Imagens/Pokedex/hires/325.png",
     },
   },
   {
@@ -13282,8 +12845,10 @@ const POKEDEX_JSON = [
     },
     species: "Manipulate Pokémon",
     description:
-      "Grumpig uses the black pearls on its body to wield its fantastic powers. When it is doing so, it dances bizarrely. This Pokémon’s black pearls are valuable as works of art.",
-    evolution: { prev: ["325", "Level 32"] },
+      "Grumpig usa as pérolas negras em seu corpo para exercer seus poderes fantásticos. Quando está fazendo isso, dança bizarramente. As pérolas negras deste Pokémon são valiosas como obras de arte.",
+    evolution: {
+      prev: ["325", "Level 32"],
+    },
     profile: {
       height: "0.9 m",
       weight: "71.5 kg",
@@ -13296,12 +12861,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/326.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/326.png",
-      hires:
-        "./Imagens/Pokedex/hires/326.png",
+      sprite: "./Imagens/Pokedex/sprites/326.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/326.png",
+      hires: "./Imagens/Pokedex/hires/326.png",
     },
   },
   {
@@ -13323,7 +12885,7 @@ const POKEDEX_JSON = [
     },
     species: "Spot Panda Pokémon",
     description:
-      "Each Spinda’s spot pattern is different. With its stumbling movements, it evades opponents’ attacks brilliantly!",
+      "O padrão de manchas de cada Spinda é diferente. Com seus movimentos cambaleantes, ele evade os ataques dos oponentes brilhantemente!",
     evolution: {},
     profile: {
       height: "1.1 m",
@@ -13337,12 +12899,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/327.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/327.png",
-      hires:
-        "./Imagens/Pokedex/hires/327.png",
+      sprite: "./Imagens/Pokedex/sprites/327.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/327.png",
+      hires: "./Imagens/Pokedex/hires/327.png",
     },
   },
   {
@@ -13364,8 +12923,10 @@ const POKEDEX_JSON = [
     },
     species: "Ant Pit Pokémon",
     description:
-      "It builds nests that double as traps, lying in wait for its prey to get caught. When night falls, it digs itself a spot beneath the sand to sleep.",
-    evolution: { next: [["329", "Level 35"]] },
+      "Ele constrói ninhos que funcionam como armadilhas, esperando que sua presa seja pega. Quando cai a noite, ele cava um lugar sob a areia para dormir.",
+    evolution: {
+      next: [["329", "Level 35"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "15 kg",
@@ -13378,12 +12939,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/328.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/328.png",
-      hires:
-        "./Imagens/Pokedex/hires/328.png",
+      sprite: "./Imagens/Pokedex/sprites/328.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/328.png",
+      hires: "./Imagens/Pokedex/hires/328.png",
     },
   },
   {
@@ -13405,8 +12963,11 @@ const POKEDEX_JSON = [
     },
     species: "Vibration Pokémon",
     description:
-      "It vibrates its wings to send out odd sound waves. Trainers who are with it need earplugs.",
-    evolution: { prev: ["328", "Level 35"], next: [["330", "Level 45"]] },
+      "Ele vibra suas asas para enviar ondas sonoras estranhas. Treinadores que estão com ele precisam de protetores de ouvido.",
+    evolution: {
+      prev: ["328", "Level 35"],
+      next: [["330", "Level 45"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "15.3 kg",
@@ -13415,12 +12976,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/329.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/329.png",
-      hires:
-        "./Imagens/Pokedex/hires/329.png",
+      sprite: "./Imagens/Pokedex/sprites/329.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/329.png",
+      hires: "./Imagens/Pokedex/hires/329.png",
     },
   },
   {
@@ -13442,8 +13000,10 @@ const POKEDEX_JSON = [
     },
     species: "Mystic Pokémon",
     description:
-      "People continue to have their hearts stolen by its enchanting songs and find themselves stranded in the desert.",
-    evolution: { prev: ["329", "Level 45"] },
+      "As pessoas continuam tendo seus corações roubados por suas canções encantadoras e se encontram encalhadas no deserto.",
+    evolution: {
+      prev: ["329", "Level 45"],
+    },
     profile: {
       height: "2 m",
       weight: "82 kg",
@@ -13452,12 +13012,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/330.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/330.png",
-      hires:
-        "./Imagens/Pokedex/hires/330.png",
+      sprite: "./Imagens/Pokedex/sprites/330.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/330.png",
+      hires: "./Imagens/Pokedex/hires/330.png",
     },
   },
   {
@@ -13479,8 +13036,10 @@ const POKEDEX_JSON = [
     },
     species: "Cactus Pokémon",
     description:
-      "The more arid and harsh the environment, the more pretty and fragrant a flower Cacnea grows. This Pokémon battles by wildly swinging its thorny arms.",
-    evolution: { next: [["332", "Level 32"]] },
+      "Quanto mais árido e severo o ambiente, mais bonita e perfumada é a flor que Cacnea cultiva. Este Pokémon batalha balançando selvagemente seus braços espinhosos.",
+    evolution: {
+      next: [["332", "Level 32"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "51.3 kg",
@@ -13492,12 +13051,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/331.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/331.png",
-      hires:
-        "./Imagens/Pokedex/hires/331.png",
+      sprite: "./Imagens/Pokedex/sprites/331.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/331.png",
+      hires: "./Imagens/Pokedex/hires/331.png",
     },
   },
   {
@@ -13519,8 +13075,10 @@ const POKEDEX_JSON = [
     },
     species: "Scarecrow Pokémon",
     description:
-      "If a traveler is going through a desert in the thick of night, Cacturne will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving.",
-    evolution: { prev: ["331", "Level 32"] },
+      "Se um viajante estiver passando por um deserto no meio da noite, Cacturne seguirá em um grupo desleixado. O Pokémon está esperando o momento certo, esperando que o viajante se canse e fique incapaz de se mover.",
+    evolution: {
+      prev: ["331", "Level 32"],
+    },
     profile: {
       height: "1.3 m",
       weight: "77.4 kg",
@@ -13532,12 +13090,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/332.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/332.png",
-      hires:
-        "./Imagens/Pokedex/hires/332.png",
+      sprite: "./Imagens/Pokedex/sprites/332.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/332.png",
+      hires: "./Imagens/Pokedex/hires/332.png",
     },
   },
   {
@@ -13559,8 +13114,10 @@ const POKEDEX_JSON = [
     },
     species: "Cotton Bird Pokémon",
     description:
-      "Swablu loves to make things clean. If it spots something dirty, it will wipe and polish it with its cottony wings. If its wings become dirty, this Pokémon finds a stream and showers itself.",
-    evolution: { next: [["334", "Level 35"]] },
+      "Swablu adora deixar as coisas limpas. Se vir algo sujo, ele limpará e polirá com suas asas de algodão. Se suas asas ficarem sujas, este Pokémon encontrará um riacho e tomará banho.",
+    evolution: {
+      next: [["334", "Level 35"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "1.2 kg",
@@ -13572,12 +13129,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/333.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/333.png",
-      hires:
-        "./Imagens/Pokedex/hires/333.png",
+      sprite: "./Imagens/Pokedex/sprites/333.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/333.png",
+      hires: "./Imagens/Pokedex/hires/333.png",
     },
   },
   {
@@ -13599,8 +13153,10 @@ const POKEDEX_JSON = [
     },
     species: "Humming Pokémon",
     description:
-      "Altaria sings in a gorgeous soprano. Its wings are like cotton clouds. This Pokémon catches updrafts with its buoyant wings and soars way up into the wild blue yonder.",
-    evolution: { prev: ["333", "Level 35"] },
+      "Altaria canta em uma soprano maravilhosa. Suas asas são como nuvens de algodão. Este Pokémon pega correntes ascendentes com suas asas flutuantes e sobe alto no azul selvagem do céu.",
+    evolution: {
+      prev: ["333", "Level 35"],
+    },
     profile: {
       height: "1.1 m",
       weight: "20.6 kg",
@@ -13612,12 +13168,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/334.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/334.png",
-      hires:
-        "./Imagens/Pokedex/hires/334.png",
+      sprite: "./Imagens/Pokedex/sprites/334.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/334.png",
+      hires: "./Imagens/Pokedex/hires/334.png",
     },
   },
   {
@@ -13639,7 +13192,7 @@ const POKEDEX_JSON = [
     },
     species: "Cat Ferret Pokémon",
     description:
-      "Zangoose usually stays on all fours, but when angered, it gets up on its hind legs and extends its claws. This Pokémon shares a bitter rivalry with Seviper that dates back over generations.",
+      "Zangoose geralmente fica de quatro, mas quando fica com raiva, levanta-se sobre suas patas traseiras e estende suas garras. Este Pokémon compartilha uma amarga rivalidade com Seviper que remonta a gerações.",
     evolution: {},
     profile: {
       height: "1.3 m",
@@ -13652,12 +13205,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/335.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/335.png",
-      hires:
-        "./Imagens/Pokedex/hires/335.png",
+      sprite: "./Imagens/Pokedex/sprites/335.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/335.png",
+      hires: "./Imagens/Pokedex/hires/335.png",
     },
   },
   {
@@ -13679,7 +13229,7 @@ const POKEDEX_JSON = [
     },
     species: "Fang Snake Pokémon",
     description:
-      "Seviper’s swordlike tail serves two purposes—it slashes foes and douses them with secreted poison. This Pokémon will not give up its long-running blood feud with Zangoose.",
+      "A cauda semelhante a uma espada de Seviper serve a dois propósitos - ela corta inimigos e os apaga com veneno secretado. Este Pokémon não desistirá de sua longa disputa sangrenta com Zangoose.",
     evolution: {},
     profile: {
       height: "2.7 m",
@@ -13692,12 +13242,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/336.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/336.png",
-      hires:
-        "./Imagens/Pokedex/hires/336.png",
+      sprite: "./Imagens/Pokedex/sprites/336.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/336.png",
+      hires: "./Imagens/Pokedex/hires/336.png",
     },
   },
   {
@@ -13719,7 +13266,7 @@ const POKEDEX_JSON = [
     },
     species: "Meteorite Pokémon",
     description:
-      "Lunatone becomes active around the time of the full moon. Instead of walking, it moves by floating in midair. The Pokémon’s intimidating red eyes cause all those who see it to become transfixed with fear.",
+      "Lunatone torna-se ativo por volta da hora da lua cheia. Em vez de andar, ele se move flutuando no ar. Os olhos vermelhos intimidadores do Pokémon fazem com que todos que o vejam fiquem transfixados com medo.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -13729,12 +13276,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/337.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/337.png",
-      hires:
-        "./Imagens/Pokedex/hires/337.png",
+      sprite: "./Imagens/Pokedex/sprites/337.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/337.png",
+      hires: "./Imagens/Pokedex/hires/337.png",
     },
   },
   {
@@ -13756,7 +13300,7 @@ const POKEDEX_JSON = [
     },
     species: "Meteorite Pokémon",
     description:
-      "Sunlight is the source of Solrock’s power. It is said to possess the ability to read the emotions of others. This Pokémon gives off intense heat while rotating its body.",
+      "A luz solar é a fonte de poder de Solrock. Diz-se que ele possui a capacidade de ler as emoções dos outros. Este Pokémon emite calor intenso enquanto gira seu corpo.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -13766,12 +13310,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/338.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/338.png",
-      hires:
-        "./Imagens/Pokedex/hires/338.png",
+      sprite: "./Imagens/Pokedex/sprites/338.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/338.png",
+      hires: "./Imagens/Pokedex/hires/338.png",
     },
   },
   {
@@ -13793,8 +13334,10 @@ const POKEDEX_JSON = [
     },
     species: "Whiskers Pokémon",
     description:
-      "Its whiskers are filled with nerves. They can sense smells and flavors just as a person’s nose or tongue would.",
-    evolution: { next: [["340", "Level 30"]] },
+      "Seus bigodes estão cheios de nervos. Eles podem sentir cheiros e sabores como o nariz ou a língua de uma pessoa.",
+    evolution: {
+      next: [["340", "Level 30"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "1.9 kg",
@@ -13807,12 +13350,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/339.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/339.png",
-      hires:
-        "./Imagens/Pokedex/hires/339.png",
+      sprite: "./Imagens/Pokedex/sprites/339.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/339.png",
+      hires: "./Imagens/Pokedex/hires/339.png",
     },
   },
   {
@@ -13834,8 +13374,10 @@ const POKEDEX_JSON = [
     },
     species: "Whiskers Pokémon",
     description:
-      "Its vision is not that good. It senses vibrations in the water with its whiskers to determine the location of its prey.",
-    evolution: { prev: ["339", "Level 30"] },
+      "Sua visão não é tão boa. Ele sente vibrações na água com seus bigodes para determinar a localização de sua presa.",
+    evolution: {
+      prev: ["339", "Level 30"],
+    },
     profile: {
       height: "0.9 m",
       weight: "23.6 kg",
@@ -13848,12 +13390,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/340.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/340.png",
-      hires:
-        "./Imagens/Pokedex/hires/340.png",
+      sprite: "./Imagens/Pokedex/sprites/340.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/340.png",
+      hires: "./Imagens/Pokedex/hires/340.png",
     },
   },
   {
@@ -13875,8 +13414,10 @@ const POKEDEX_JSON = [
     },
     species: "Ruffian Pokémon",
     description:
-      "It can adapt very well to its environment. Feebas and Corphish are about the only Pokémon to live in stagnant ditches.",
-    evolution: { next: [["342", "Level 30"]] },
+      "Ele pode se adaptar muito bem ao seu ambiente. Feebas e Corphish são quase os únicos Pokémon a viver em valas estagnadas.",
+    evolution: {
+      next: [["342", "Level 30"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "11.5 kg",
@@ -13889,12 +13430,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/341.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/341.png",
-      hires:
-        "./Imagens/Pokedex/hires/341.png",
+      sprite: "./Imagens/Pokedex/sprites/341.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/341.png",
+      hires: "./Imagens/Pokedex/hires/341.png",
     },
   },
   {
@@ -13916,8 +13454,10 @@ const POKEDEX_JSON = [
     },
     species: "Rogue Pokémon",
     description:
-      "Its pincers often fall off. Unlike with Crabrawler or Clauncher, the meat in its claws is utterly nasty and stinking.",
-    evolution: { prev: ["341", "Level 30"] },
+      "Suas pinças costumam cair. Diferentemente de Crabrawler ou Clauncher, a carne em suas garras é completamente nojenta e fedorenta.",
+    evolution: {
+      prev: ["341", "Level 30"],
+    },
     profile: {
       height: "1.1 m",
       weight: "32.8 kg",
@@ -13930,12 +13470,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/342.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/342.png",
-      hires:
-        "./Imagens/Pokedex/hires/342.png",
+      sprite: "./Imagens/Pokedex/sprites/342.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/342.png",
+      hires: "./Imagens/Pokedex/hires/342.png",
     },
   },
   {
@@ -13957,8 +13494,10 @@ const POKEDEX_JSON = [
     },
     species: "Clay Doll Pokémon",
     description:
-      "When they find others of their kind, they cry out loudly and gather together. Large numbers of them can be found in old graveyards.",
-    evolution: { next: [["344", "Level 36"]] },
+      "Quando encontram outros de sua espécie, gritam alto e se reúnem. Grandes números deles podem ser encontrados em antigos cemitérios.",
+    evolution: {
+      next: [["344", "Level 36"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "21.5 kg",
@@ -13967,12 +13506,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/343.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/343.png",
-      hires:
-        "./Imagens/Pokedex/hires/343.png",
+      sprite: "./Imagens/Pokedex/sprites/343.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/343.png",
+      hires: "./Imagens/Pokedex/hires/343.png",
     },
   },
   {
@@ -13994,8 +13530,10 @@ const POKEDEX_JSON = [
     },
     species: "Clay Doll Pokémon",
     description:
-      "The ancient people who made it apparently modeled it after something that descended from the sky. It fires beams from both arms.",
-    evolution: { prev: ["343", "Level 36"] },
+      "Os antigos que o fizeram aparentemente o modelaram após algo que desceu do céu. Ele dispara feixes de ambos os braços.",
+    evolution: {
+      prev: ["343", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "108 kg",
@@ -14004,12 +13542,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/344.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/344.png",
-      hires:
-        "./Imagens/Pokedex/hires/344.png",
+      sprite: "./Imagens/Pokedex/sprites/344.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/344.png",
+      hires: "./Imagens/Pokedex/hires/344.png",
     },
   },
   {
@@ -14031,8 +13566,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Lily Pokémon",
     description:
-      "It sticks to rocks with its powerful suckers and can’t be washed away no matter how rough the surf gets.",
-    evolution: { next: [["346", "Level 40"]] },
+      "Ele se apega às rochas com seus poderosos ventosas e não pode ser lavado, não importa quão agitado seja o surfe.",
+    evolution: {
+      next: [["346", "Level 40"]],
+    },
     profile: {
       height: "1 m",
       weight: "23.8 kg",
@@ -14044,12 +13581,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/345.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/345.png",
-      hires:
-        "./Imagens/Pokedex/hires/345.png",
+      sprite: "./Imagens/Pokedex/sprites/345.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/345.png",
+      hires: "./Imagens/Pokedex/hires/345.png",
     },
   },
   {
@@ -14071,8 +13605,10 @@ const POKEDEX_JSON = [
     },
     species: "Barnacle Pokémon",
     description:
-      "This carnivorous Pokémon lived in primordial seas. It catches prey in its eight tentacles and dissolves them with digestive fluid as it eats.",
-    evolution: { prev: ["345", "Level 40"] },
+      "Este Pokémon carnívoro vivia em mares primordiais. Ele captura presas em seus oito tentáculos e as dissolve com fluido digestivo enquanto come.",
+    evolution: {
+      prev: ["345", "Level 40"],
+    },
     profile: {
       height: "1.5 m",
       weight: "60.4 kg",
@@ -14084,12 +13620,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/346.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/346.png",
-      hires:
-        "./Imagens/Pokedex/hires/346.png",
+      sprite: "./Imagens/Pokedex/sprites/346.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/346.png",
+      hires: "./Imagens/Pokedex/hires/346.png",
     },
   },
   {
@@ -14111,8 +13644,10 @@ const POKEDEX_JSON = [
     },
     species: "Old Shrimp Pokémon",
     description:
-      "This is one kind of primeval bug Pokémon. With eight wings, it could apparently swim a lot faster than you’d expect.",
-    evolution: { next: [["348", "Level 40"]] },
+      "Este é um tipo de Pokémon primitivo de inseto. Com oito asas, aparentemente poderia nadar muito mais rápido do que você esperaria.",
+    evolution: {
+      next: [["348", "Level 40"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "12.5 kg",
@@ -14124,12 +13659,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/347.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/347.png",
-      hires:
-        "./Imagens/Pokedex/hires/347.png",
+      sprite: "./Imagens/Pokedex/sprites/347.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/347.png",
+      hires: "./Imagens/Pokedex/hires/347.png",
     },
   },
   {
@@ -14151,8 +13683,10 @@ const POKEDEX_JSON = [
     },
     species: "Plate Pokémon",
     description:
-      "Armaldo adapted from living in water to living on land. It has been determined that it is the ancestor of some bug Pokémon.",
-    evolution: { prev: ["347", "Level 40"] },
+      "Armaldo se adaptou de viver na água para viver na terra. Foi determinado que ele é o ancestral de alguns Pokémon inseto.",
+    evolution: {
+      prev: ["347", "Level 40"],
+    },
     profile: {
       height: "1.5 m",
       weight: "68.2 kg",
@@ -14164,12 +13698,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/348.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/348.png",
-      hires:
-        "./Imagens/Pokedex/hires/348.png",
+      sprite: "./Imagens/Pokedex/sprites/348.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/348.png",
+      hires: "./Imagens/Pokedex/hires/348.png",
     },
   },
   {
@@ -14191,7 +13722,7 @@ const POKEDEX_JSON = [
     },
     species: "Fish Pokémon",
     description:
-      "Because of its wretched appearance, most people pay it no attention, but there are some who collect Feebas—and Feebas alone!",
+      "Devido à sua aparência deplorável, a maioria das pessoas não dá atenção a ele, mas há alguns que colecionam Feebas - e apenas Feebas!",
     evolution: {
       next: [["350", "trade holding Prism Scale, or level up with max Beauty"]],
     },
@@ -14207,12 +13738,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/349.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/349.png",
-      hires:
-        "./Imagens/Pokedex/hires/349.png",
+      sprite: "./Imagens/Pokedex/sprites/349.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/349.png",
+      hires: "./Imagens/Pokedex/hires/349.png",
     },
   },
   {
@@ -14234,7 +13762,7 @@ const POKEDEX_JSON = [
     },
     species: "Tender Pokémon",
     description:
-      "Its dwelling place is the bottom of big lakes. Those who behold its loveliness are said to have their hearts purified.",
+      "Seu lugar de habitação é o fundo de grandes lagos. Diz-se que aqueles que contemplam sua beleza têm seus corações purificados.",
     evolution: {
       prev: ["349", "trade holding Prism Scale, or level up with max Beauty"],
     },
@@ -14250,12 +13778,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/350.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/350.png",
-      hires:
-        "./Imagens/Pokedex/hires/350.png",
+      sprite: "./Imagens/Pokedex/sprites/350.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/350.png",
+      hires: "./Imagens/Pokedex/hires/350.png",
     },
   },
   {
@@ -14277,7 +13802,7 @@ const POKEDEX_JSON = [
     },
     species: "Weather Pokémon",
     description:
-      "Its form changes depending on the weather. The rougher conditions get, the rougher Castform’s disposition!",
+      "Sua forma muda dependendo do clima. Quanto mais rudes forem as condições, mais rude será a disposição de Castform!",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -14287,12 +13812,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/351.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/351.png",
-      hires:
-        "./Imagens/Pokedex/hires/351.png",
+      sprite: "./Imagens/Pokedex/sprites/351.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/351.png",
+      hires: "./Imagens/Pokedex/hires/351.png",
     },
   },
   {
@@ -14314,7 +13836,7 @@ const POKEDEX_JSON = [
     },
     species: "Color Swap Pokémon",
     description:
-      "Its color changes for concealment and also when its mood or health changes. The darker the color, the healthier it is.",
+      "Sua cor muda para disfarce e também quando seu humor ou saúde muda. Quanto mais escura a cor, mais saudável ele está.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -14327,12 +13849,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/352.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/352.png",
-      hires:
-        "./Imagens/Pokedex/hires/352.png",
+      sprite: "./Imagens/Pokedex/sprites/352.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/352.png",
+      hires: "./Imagens/Pokedex/hires/352.png",
     },
   },
   {
@@ -14354,8 +13873,10 @@ const POKEDEX_JSON = [
     },
     species: "Puppet Pokémon",
     description:
-      "There’s a proverb that says, “Shun the house where Shuppet gather in the growing dusk.”",
-    evolution: { next: [["354", "Level 37"]] },
+      'Há um provérbio que diz: "Fuja da casa onde Shuppet se reúne no crescente crepúsculo".',
+    evolution: {
+      next: [["354", "Level 37"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "2.3 kg",
@@ -14368,12 +13889,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/353.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/353.png",
-      hires:
-        "./Imagens/Pokedex/hires/353.png",
+      sprite: "./Imagens/Pokedex/sprites/353.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/353.png",
+      hires: "./Imagens/Pokedex/hires/353.png",
     },
   },
   {
@@ -14395,8 +13913,10 @@ const POKEDEX_JSON = [
     },
     species: "Marionette Pokémon",
     description:
-      "Resentment at being cast off made it spring into being. Some say that treating it well will satisfy it, and it will once more become a stuffed toy.",
-    evolution: { prev: ["353", "Level 37"] },
+      "O ressentimento por ser abandonado o fez surgir. Alguns dizem que tratá-lo bem o satisfará e que ele voltará a ser um brinquedo de pelúcia.",
+    evolution: {
+      prev: ["353", "Level 37"],
+    },
     profile: {
       height: "1.1 m",
       weight: "12.5 kg",
@@ -14409,12 +13929,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/354.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/354.png",
-      hires:
-        "./Imagens/Pokedex/hires/354.png",
+      sprite: "./Imagens/Pokedex/sprites/354.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/354.png",
+      hires: "./Imagens/Pokedex/hires/354.png",
     },
   },
   {
@@ -14436,8 +13953,10 @@ const POKEDEX_JSON = [
     },
     species: "Requiem Pokémon",
     description:
-      "Duskull wanders lost among the deep darkness of midnight. There is an oft-told admonishment given to misbehaving children that this Pokémon will spirit away bad children who earn scoldings from their mothers.",
-    evolution: { next: [["356", "Level 37"]] },
+      "Duskull vagueia perdido nas profundezas da escuridão da meia-noite. Há uma advertência frequentemente contada a crianças mal-comportadas de que este Pokémon levará embora crianças más que ganham broncas de suas mães.",
+    evolution: {
+      next: [["356", "Level 37"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "15 kg",
@@ -14449,12 +13968,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/355.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/355.png",
-      hires:
-        "./Imagens/Pokedex/hires/355.png",
+      sprite: "./Imagens/Pokedex/sprites/355.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/355.png",
+      hires: "./Imagens/Pokedex/hires/355.png",
     },
   },
   {
@@ -14476,7 +13992,7 @@ const POKEDEX_JSON = [
     },
     species: "Beckon Pokémon",
     description:
-      "Dusclops absorbs anything, however large the object may be. This Pokémon hypnotizes its foe by waving its hands in a macabre manner and by bringing its single eye to bear. The hypnotized foe is made to do Dusclops’s bidding.",
+      "Dusclops absorve qualquer coisa, não importa quão grande seja o objeto. Este Pokémon hipnotiza seu inimigo acenando com as mãos de uma maneira macabra e trazendo seu único olho para suportar. O inimigo hipnotizado é feito para fazer a vontade de Dusclops.",
     evolution: {
       prev: ["355", "Level 37"],
       next: [["477", "trade holding Reaper Cloth"]],
@@ -14492,12 +14008,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/356.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/356.png",
-      hires:
-        "./Imagens/Pokedex/hires/356.png",
+      sprite: "./Imagens/Pokedex/sprites/356.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/356.png",
+      hires: "./Imagens/Pokedex/hires/356.png",
     },
   },
   {
@@ -14519,7 +14032,7 @@ const POKEDEX_JSON = [
     },
     species: "Fruit Pokémon",
     description:
-      "Bunches of delicious fruit grow around its neck. In warm areas, many ranches raise Tropius.",
+      "Cachos de frutas deliciosas crescem ao redor de seu pescoço. Em áreas quentes, muitas fazendas criam Tropius.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -14533,12 +14046,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/357.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/357.png",
-      hires:
-        "./Imagens/Pokedex/hires/357.png",
+      sprite: "./Imagens/Pokedex/sprites/357.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/357.png",
+      hires: "./Imagens/Pokedex/hires/357.png",
     },
   },
   {
@@ -14560,8 +14070,10 @@ const POKEDEX_JSON = [
     },
     species: "Wind Chime Pokémon",
     description:
-      "In high winds, Chimecho cries as it hangs from a tree branch or the eaves of a building using a suction cup on its head. This Pokémon plucks berries with its long tail and eats them.",
-    evolution: { prev: ["433", "high Friendship, Nighttime"] },
+      "Em ventos fortes, Chimecho chora enquanto pendura em um galho de árvore ou nas beiradas de um prédio usando uma ventosa em sua cabeça. Este Pokémon colhe bagas com sua longa cauda e as come.",
+    evolution: {
+      prev: ["433", "high Friendship, Nighttime"],
+    },
     profile: {
       height: "0.6 m",
       weight: "1 kg",
@@ -14570,12 +14082,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/358.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/358.png",
-      hires:
-        "./Imagens/Pokedex/hires/358.png",
+      sprite: "./Imagens/Pokedex/sprites/358.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/358.png",
+      hires: "./Imagens/Pokedex/hires/358.png",
     },
   },
   {
@@ -14597,7 +14106,7 @@ const POKEDEX_JSON = [
     },
     species: "Disaster Pokémon",
     description:
-      "The elderly call it the disaster Pokémon and detest it, but interest in its power to predict disasters is on the rise.",
+      "Os idosos o chamam de Pokémon desastre e o detestam, mas o interesse em seu poder de prever desastres está aumentando.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -14611,12 +14120,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/359.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/359.png",
-      hires:
-        "./Imagens/Pokedex/hires/359.png",
+      sprite: "./Imagens/Pokedex/sprites/359.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/359.png",
+      hires: "./Imagens/Pokedex/hires/359.png",
     },
   },
   {
@@ -14638,8 +14144,10 @@ const POKEDEX_JSON = [
     },
     species: "Bright Pokémon",
     description:
-      "Wynaut gather on moonlit nights to play by squeezing up against each other. By being squeezed, this Pokémon gains endurance and is trained to dole out powerful counterattacks.",
-    evolution: { next: [["202", "Level 15"]] },
+      "Wynaut se reúnem em noites de lua cheia para brincar apertando-se um contra o outro. Ao ser apertado, este Pokémon ganha resistência e é treinado para distribuir poderosos contra-ataques.",
+    evolution: {
+      next: [["202", "Level 15"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "14 kg",
@@ -14651,12 +14159,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/360.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/360.png",
-      hires:
-        "./Imagens/Pokedex/hires/360.png",
+      sprite: "./Imagens/Pokedex/sprites/360.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/360.png",
+      hires: "./Imagens/Pokedex/hires/360.png",
     },
   },
   {
@@ -14678,7 +14183,7 @@ const POKEDEX_JSON = [
     },
     species: "Snow Hat Pokémon",
     description:
-      "Rich people from cold areas all share childhood memories of playing with Snorunt.",
+      "Pessoas ricas de áreas frias compartilham memórias de infância de brincar com Snorunt.",
     evolution: {
       next: [
         ["362", "Level 42"],
@@ -14697,12 +14202,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/361.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/361.png",
-      hires:
-        "./Imagens/Pokedex/hires/361.png",
+      sprite: "./Imagens/Pokedex/sprites/361.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/361.png",
+      hires: "./Imagens/Pokedex/hires/361.png",
     },
   },
   {
@@ -14724,8 +14226,10 @@ const POKEDEX_JSON = [
     },
     species: "Face Pokémon",
     description:
-      "Its actual body is a rock that isn’t particularly hard. Glalie absorbs moisture from the air and drapes itself in an armor of ice.",
-    evolution: { prev: ["361", "Level 42"] },
+      "Seu corpo real é uma rocha que não é particularmente dura. Glalie absorve umidade do ar e se cobre com uma armadura de gelo.",
+    evolution: {
+      prev: ["361", "Level 42"],
+    },
     profile: {
       height: "1.5 m",
       weight: "256.5 kg",
@@ -14738,12 +14242,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/362.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/362.png",
-      hires:
-        "./Imagens/Pokedex/hires/362.png",
+      sprite: "./Imagens/Pokedex/sprites/362.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/362.png",
+      hires: "./Imagens/Pokedex/hires/362.png",
     },
   },
   {
@@ -14765,8 +14266,10 @@ const POKEDEX_JSON = [
     },
     species: "Clap Pokémon",
     description:
-      "Spheal always travels by rolling around on its ball-like body. When the season for ice floes arrives, this Pokémon can be seen rolling about on ice and crossing the sea.",
-    evolution: { next: [["364", "Level 32"]] },
+      "Spheal sempre viaja rolando em seu corpo semelhante a uma bola. Quando chega a estação dos icebergs, este Pokémon pode ser visto rolando sobre o gelo e cruzando o mar.",
+    evolution: {
+      next: [["364", "Level 32"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "39.5 kg",
@@ -14779,12 +14282,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/363.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/363.png",
-      hires:
-        "./Imagens/Pokedex/hires/363.png",
+      sprite: "./Imagens/Pokedex/sprites/363.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/363.png",
+      hires: "./Imagens/Pokedex/hires/363.png",
     },
   },
   {
@@ -14806,8 +14306,11 @@ const POKEDEX_JSON = [
     },
     species: "Ball Roll Pokémon",
     description:
-      "Sealeo often balances and rolls things on the tip of its nose. While the Pokémon is rolling something, it checks the object’s aroma and texture to determine whether it likes the object or not.",
-    evolution: { prev: ["363", "Level 32"], next: [["365", "Level 44"]] },
+      "Sealeo costuma equilibrar e rolar coisas na ponta de seu nariz. Enquanto o Pokémon está rolando algo, ele verifica o aroma e a textura do objeto para determinar se gosta ou não do objeto.",
+    evolution: {
+      prev: ["363", "Level 32"],
+      next: [["365", "Level 44"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "87.6 kg",
@@ -14820,12 +14323,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/364.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/364.png",
-      hires:
-        "./Imagens/Pokedex/hires/364.png",
+      sprite: "./Imagens/Pokedex/sprites/364.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/364.png",
+      hires: "./Imagens/Pokedex/hires/364.png",
     },
   },
   {
@@ -14847,8 +14347,10 @@ const POKEDEX_JSON = [
     },
     species: "Ice Break Pokémon",
     description:
-      "Walrein swims all over in frigid seawater while crushing icebergs with its grand, imposing tusks. Its thick layer of blubber makes enemy attacks bounce off harmlessly.",
-    evolution: { prev: ["364", "Level 44"] },
+      "Walrein nada por toda parte em água gelada enquanto esmaga icebergs com seus grandes e imponentes presas. Sua espessa camada de gordura faz com que os ataques inimigos ricocheteiem inofensivamente.",
+    evolution: {
+      prev: ["364", "Level 44"],
+    },
     profile: {
       height: "1.4 m",
       weight: "150.6 kg",
@@ -14861,12 +14363,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/365.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/365.png",
-      hires:
-        "./Imagens/Pokedex/hires/365.png",
+      sprite: "./Imagens/Pokedex/sprites/365.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/365.png",
+      hires: "./Imagens/Pokedex/hires/365.png",
     },
   },
   {
@@ -14888,7 +14387,7 @@ const POKEDEX_JSON = [
     },
     species: "Bivalve Pokémon",
     description:
-      "Clamperl’s pearls are exceedingly precious. They can be more than 10 times as costly as Shellder’s pearls.",
+      "As pérolas de Clamperl são extremamente preciosas. Elas podem ser mais de 10 vezes mais caras que as pérolas de Shellder.",
     evolution: {
       next: [
         ["367", "trade holding Deep Sea Tooth"],
@@ -14906,12 +14405,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/366.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/366.png",
-      hires:
-        "./Imagens/Pokedex/hires/366.png",
+      sprite: "./Imagens/Pokedex/sprites/366.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/366.png",
+      hires: "./Imagens/Pokedex/hires/366.png",
     },
   },
   {
@@ -14933,8 +14429,10 @@ const POKEDEX_JSON = [
     },
     species: "Deep Sea Pokémon",
     description:
-      "Deep seas are their habitat. According to tradition, when Huntail wash up onshore, something unfortunate will happen.",
-    evolution: { prev: ["366", "trade holding Deep Sea Tooth"] },
+      "Mares profundos são seu habitat. De acordo com a tradição, quando Huntail sobem na costa, algo infeliz acontecerá.",
+    evolution: {
+      prev: ["366", "trade holding Deep Sea Tooth"],
+    },
     profile: {
       height: "1.7 m",
       weight: "27 kg",
@@ -14946,12 +14444,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/367.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/367.png",
-      hires:
-        "./Imagens/Pokedex/hires/367.png",
+      sprite: "./Imagens/Pokedex/sprites/367.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/367.png",
+      hires: "./Imagens/Pokedex/hires/367.png",
     },
   },
   {
@@ -14973,8 +14468,10 @@ const POKEDEX_JSON = [
     },
     species: "South Sea Pokémon",
     description:
-      "It sucks bodily fluids out of its prey. The leftover meat sinks to the seafloor, where it becomes food for other Pokémon.",
-    evolution: { prev: ["366", "trade holding Deep Sea Scale"] },
+      "Ele suga fluidos corporais de sua presa. A carne sobrando afunda no fundo do mar, onde se torna alimento para outros Pokémon.",
+    evolution: {
+      prev: ["366", "trade holding Deep Sea Scale"],
+    },
     profile: {
       height: "1.8 m",
       weight: "22.6 kg",
@@ -14986,12 +14483,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/368.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/368.png",
-      hires:
-        "./Imagens/Pokedex/hires/368.png",
+      sprite: "./Imagens/Pokedex/sprites/368.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/368.png",
+      hires: "./Imagens/Pokedex/hires/368.png",
     },
   },
   {
@@ -15013,7 +14507,7 @@ const POKEDEX_JSON = [
     },
     species: "Longevity Pokémon",
     description:
-      "The reason it hasn’t changed at all in a hundred million years is that it’s apparently already a perfect life-form.",
+      "A razão pela qual não mudou nada em cem milhões de anos é que aparentemente já é uma forma de vida perfeita.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -15027,12 +14521,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/369.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/369.png",
-      hires:
-        "./Imagens/Pokedex/hires/369.png",
+      sprite: "./Imagens/Pokedex/sprites/369.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/369.png",
+      hires: "./Imagens/Pokedex/hires/369.png",
     },
   },
   {
@@ -15054,7 +14545,7 @@ const POKEDEX_JSON = [
     },
     species: "Rendezvous Pokémon",
     description:
-      "Luvdisc makes its home in coral reefs in warm seas. It especially likes sleeping in the space between Corsola’s branches.",
+      "Luvdisc faz sua casa em recifes de corais em mares quentes. Ele adora dormir no espaço entre os galhos de Corsola.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -15067,12 +14558,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/370.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/370.png",
-      hires:
-        "./Imagens/Pokedex/hires/370.png",
+      sprite: "./Imagens/Pokedex/sprites/370.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/370.png",
+      hires: "./Imagens/Pokedex/hires/370.png",
     },
   },
   {
@@ -15094,8 +14582,10 @@ const POKEDEX_JSON = [
     },
     species: "Rock Head Pokémon",
     description:
-      "Some theories suggest that its behavior of forcefully bashing its head into things stimulates cells that affect its evolution.",
-    evolution: { next: [["372", "Level 30"]] },
+      "Algumas teorias sugerem que seu comportamento de bater a cabeça fortemente nas coisas estimula células que afetam sua evolução.",
+    evolution: {
+      next: [["372", "Level 30"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "42.1 kg",
@@ -15107,12 +14597,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/371.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/371.png",
-      hires:
-        "./Imagens/Pokedex/hires/371.png",
+      sprite: "./Imagens/Pokedex/sprites/371.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/371.png",
+      hires: "./Imagens/Pokedex/hires/371.png",
     },
   },
   {
@@ -15134,8 +14621,11 @@ const POKEDEX_JSON = [
     },
     species: "Endurance Pokémon",
     description:
-      "Shelgon lives deep within caves. It stays shut up in its hard shell, dreaming of the day it will be able to fly.",
-    evolution: { prev: ["371", "Level 30"], next: [["373", "Level 50"]] },
+      "Shelgon vive nas profundezas das cavernas. Ele fica fechado em sua casca dura, sonhando com o dia em que poderá voar.",
+    evolution: {
+      prev: ["371", "Level 30"],
+      next: [["373", "Level 50"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "110.5 kg",
@@ -15147,12 +14637,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/372.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/372.png",
-      hires:
-        "./Imagens/Pokedex/hires/372.png",
+      sprite: "./Imagens/Pokedex/sprites/372.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/372.png",
+      hires: "./Imagens/Pokedex/hires/372.png",
     },
   },
   {
@@ -15174,8 +14661,10 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "Thanks to its fervent wishes, the cells in its body finally mutated, and at last it has its heart’s desire—wings.",
-    evolution: { prev: ["372", "Level 50"] },
+      "Graças a seus fervorosos desejos, as células em seu corpo finalmente mutaram e, finalmente, ele tem o desejo de seu coração - asas.",
+    evolution: {
+      prev: ["372", "Level 50"],
+    },
     profile: {
       height: "1.5 m",
       weight: "102.6 kg",
@@ -15187,12 +14676,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/373.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/373.png",
-      hires:
-        "./Imagens/Pokedex/hires/373.png",
+      sprite: "./Imagens/Pokedex/sprites/373.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/373.png",
+      hires: "./Imagens/Pokedex/hires/373.png",
     },
   },
   {
@@ -15214,8 +14700,10 @@ const POKEDEX_JSON = [
     },
     species: "Iron Ball Pokémon",
     description:
-      "If you anger it, it will do more than rampage. It will also burst out strong magnetism, causing nearby machines to break.",
-    evolution: { next: [["375", "Level 20"]] },
+      "Se você irritá-lo, ele fará mais do que correr. Ele também explodirá um forte magnetismo, fazendo com que máquinas próximas se quebrem.",
+    evolution: {
+      next: [["375", "Level 20"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "95.2 kg",
@@ -15227,12 +14715,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/374.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/374.png",
-      hires:
-        "./Imagens/Pokedex/hires/374.png",
+      sprite: "./Imagens/Pokedex/sprites/374.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/374.png",
+      hires: "./Imagens/Pokedex/hires/374.png",
     },
   },
   {
@@ -15254,8 +14739,11 @@ const POKEDEX_JSON = [
     },
     species: "Iron Claw Pokémon",
     description:
-      "It flies at high speeds around the skies. When it finds its prey, Metang takes a firm grip with its sharp claws and never lets go.",
-    evolution: { prev: ["374", "Level 20"], next: [["376", "Level 45"]] },
+      "Ele voa em altas velocidades pelos céus. Quando encontra sua presa, Metang agarra firmemente com suas garras afiadas e nunca solta.",
+    evolution: {
+      prev: ["374", "Level 20"],
+      next: [["376", "Level 45"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "202.5 kg",
@@ -15267,12 +14755,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/375.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/375.png",
-      hires:
-        "./Imagens/Pokedex/hires/375.png",
+      sprite: "./Imagens/Pokedex/sprites/375.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/375.png",
+      hires: "./Imagens/Pokedex/hires/375.png",
     },
   },
   {
@@ -15294,8 +14779,10 @@ const POKEDEX_JSON = [
     },
     species: "Iron Leg Pokémon",
     description:
-      "It analyzes its opponents with more accuracy than a supercomputer, which enables it to calmly back them into a corner.",
-    evolution: { prev: ["375", "Level 45"] },
+      "Ele analisa seus oponentes com mais precisão do que um supercomputador, o que lhe permite calmarmente encurralá-los.",
+    evolution: {
+      prev: ["375", "Level 45"],
+    },
     profile: {
       height: "1.6 m",
       weight: "550 kg",
@@ -15307,12 +14794,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/376.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/376.png",
-      hires:
-        "./Imagens/Pokedex/hires/376.png",
+      sprite: "./Imagens/Pokedex/sprites/376.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/376.png",
+      hires: "./Imagens/Pokedex/hires/376.png",
     },
   },
   {
@@ -15334,7 +14818,7 @@ const POKEDEX_JSON = [
     },
     species: "Rock Peak Pokémon",
     description:
-      "Regirock’s body is composed entirely of rocks. Recently, a study made the startling discovery that the rocks were all unearthed from different locations.",
+      "O corpo de Regirock é composto inteiramente de rochas. Recentemente, um estudo fez a surpreendente descoberta de que as rochas foram todas desenterradas de locais diferentes.",
     evolution: {},
     profile: {
       height: "1.7 m",
@@ -15347,12 +14831,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/377.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/377.png",
-      hires:
-        "./Imagens/Pokedex/hires/377.png",
+      sprite: "./Imagens/Pokedex/sprites/377.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/377.png",
+      hires: "./Imagens/Pokedex/hires/377.png",
     },
   },
   {
@@ -15374,7 +14855,7 @@ const POKEDEX_JSON = [
     },
     species: "Iceberg Pokémon",
     description:
-      "Regice cloaks itself with frigid air of -328 degrees Fahrenheit. Things will freeze solid just by going near this Pokémon. Its icy body is so cold, it will not melt even if it is immersed in magma.",
+      "Regice se cobre com ar gelado de -328 graus Fahrenheit. As coisas congelarão sólidas apenas por se aproximar deste Pokémon. Seu corpo gelado é tão frio que não derreterá mesmo que esteja imerso em magma.",
     evolution: {},
     profile: {
       height: "1.8 m",
@@ -15387,12 +14868,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/378.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/378.png",
-      hires:
-        "./Imagens/Pokedex/hires/378.png",
+      sprite: "./Imagens/Pokedex/sprites/378.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/378.png",
+      hires: "./Imagens/Pokedex/hires/378.png",
     },
   },
   {
@@ -15414,7 +14892,7 @@ const POKEDEX_JSON = [
     },
     species: "Iron Pokémon",
     description:
-      "Registeel was imprisoned by people in ancient times. The metal composing its body is thought to be a curious substance that is not of this earth.",
+      "Registeel foi preso por pessoas na antiguidade. Acredita-se que o metal que compõe seu corpo seja uma substância curiosa que não é deste mundo.",
     evolution: {},
     profile: {
       height: "1.9 m",
@@ -15427,12 +14905,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/379.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/379.png",
-      hires:
-        "./Imagens/Pokedex/hires/379.png",
+      sprite: "./Imagens/Pokedex/sprites/379.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/379.png",
+      hires: "./Imagens/Pokedex/hires/379.png",
     },
   },
   {
@@ -15454,7 +14929,7 @@ const POKEDEX_JSON = [
     },
     species: "Eon Pokémon",
     description:
-      "Latias is highly intelligent and capable of understanding human speech. It is covered with a glass-like down. The Pokémon enfolds its body with its down and refracts light to alter its appearance.",
+      "Latias é altamente inteligente e capaz de entender a fala humana. É coberto por uma penugem semelhante a vidro. O Pokémon envolve seu corpo com sua penugem e refracta luz para alterar sua aparência.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -15464,12 +14939,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/380.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/380.png",
-      hires:
-        "./Imagens/Pokedex/hires/380.png",
+      sprite: "./Imagens/Pokedex/sprites/380.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/380.png",
+      hires: "./Imagens/Pokedex/hires/380.png",
     },
   },
   {
@@ -15491,7 +14963,7 @@ const POKEDEX_JSON = [
     },
     species: "Eon Pokémon",
     description:
-      "Latios will only open its heart to a Trainer with a compassionate spirit. This Pokémon can fly faster than a jet plane by folding its forelegs to minimize air resistance.",
+      "Latios só abrirá seu coração para um treinador com um espírito compassivo. Este Pokémon pode voar mais rápido que um avião a jato, dobrando suas patas dianteiras para minimizar a resistência do ar.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -15501,12 +14973,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/381.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/381.png",
-      hires:
-        "./Imagens/Pokedex/hires/381.png",
+      sprite: "./Imagens/Pokedex/sprites/381.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/381.png",
+      hires: "./Imagens/Pokedex/hires/381.png",
     },
   },
   {
@@ -15528,7 +14997,7 @@ const POKEDEX_JSON = [
     },
     species: "Sea Basin Pokémon",
     description:
-      "Kyogre is said to be the personification of the sea itself. Legends tell of its many clashes against Groudon, as each sought to gain the power of nature.",
+      "Kyogre é considerado a personificação do próprio mar. Lendas contam de suas muitas batalhas contra Groudon, enquanto cada um buscava ganhar o poder da natureza.",
     evolution: {},
     profile: {
       height: "4.5 m",
@@ -15538,12 +15007,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/382.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/382.png",
-      hires:
-        "./Imagens/Pokedex/hires/382.png",
+      sprite: "./Imagens/Pokedex/sprites/382.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/382.png",
+      hires: "./Imagens/Pokedex/hires/382.png",
     },
   },
   {
@@ -15565,7 +15031,7 @@ const POKEDEX_JSON = [
     },
     species: "Continent Pokémon",
     description:
-      "Through Primal Reversion and with nature’s full power, it will take back its true form. It can cause magma to erupt and expand the landmass of the world.",
+      "Por meio da Reversão Primal e com todo o poder da natureza, ele reassumirá sua verdadeira forma. Ele pode fazer o magma entrar em erupção e expandir a massa de terra do mundo.",
     evolution: {},
     profile: {
       height: "3.5 m",
@@ -15575,12 +15041,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/383.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/383.png",
-      hires:
-        "./Imagens/Pokedex/hires/383.png",
+      sprite: "./Imagens/Pokedex/sprites/383.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/383.png",
+      hires: "./Imagens/Pokedex/hires/383.png",
     },
   },
   {
@@ -15602,7 +15065,7 @@ const POKEDEX_JSON = [
     },
     species: "Sky High Pokémon",
     description:
-      "It flies forever through the ozone layer, consuming meteoroids for sustenance. The many meteoroids in its body provide the energy it needs to Mega Evolve.",
+      "Ele voa para sempre através da camada de ozônio, consumindo meteoroides para sustento. Os muitos meteoroides em seu corpo fornecem a energia necessária para Mega Evoluir.",
     evolution: {},
     profile: {
       height: "7 m",
@@ -15612,12 +15075,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/384.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/384.png",
-      hires:
-        "./Imagens/Pokedex/hires/384.png",
+      sprite: "./Imagens/Pokedex/sprites/384.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/384.png",
+      hires: "./Imagens/Pokedex/hires/384.png",
     },
   },
   {
@@ -15639,7 +15099,7 @@ const POKEDEX_JSON = [
     },
     species: "Wish Pokémon",
     description:
-      "Jirachi will awaken from its sleep of a thousand years if you sing to it in a voice of purity. It is said to make true any wish that people desire.",
+      "Jirachi despertará de seu sono de mil anos se você cantar para ele com uma voz de pureza. Diz-se que ele realiza qualquer desejo que as pessoas desejam.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -15649,12 +15109,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/385.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/385.png",
-      hires:
-        "./Imagens/Pokedex/hires/385.png",
+      sprite: "./Imagens/Pokedex/sprites/385.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/385.png",
+      hires: "./Imagens/Pokedex/hires/385.png",
     },
   },
   {
@@ -15676,7 +15133,7 @@ const POKEDEX_JSON = [
     },
     species: "DNA Pokémon",
     description:
-      "Deoxys emerged from a virus that came from space. It is highly intelligent and wields psychokinetic powers. This Pokémon shoots lasers from the crystalline organ on its chest.",
+      "Deoxys surgiu de um vírus que veio do espaço. É altamente inteligente e usa poderes psicoquinéticos. Este Pokémon dispara lasers do órgão cristalino em seu peito.",
     evolution: {},
     profile: {
       height: "1.7 m",
@@ -15686,12 +15143,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/386.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/386.png",
-      hires:
-        "./Imagens/Pokedex/hires/386.png",
+      sprite: "./Imagens/Pokedex/sprites/386.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/386.png",
+      hires: "./Imagens/Pokedex/hires/386.png",
     },
   },
   {
@@ -15713,8 +15167,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Leaf Pokémon",
     description:
-      "It undertakes photosynthesis with its body, making oxygen. The leaf on its head wilts if it is thirsty.",
-    evolution: { next: [["388", "Level 18"]] },
+      "Ele realiza fotossíntese com seu corpo, produzindo oxigênio. A folha em sua cabeça murcha se estiver com sede.",
+    evolution: {
+      next: [["388", "Level 18"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "10.2 kg",
@@ -15726,12 +15182,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/387.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/387.png",
-      hires:
-        "./Imagens/Pokedex/hires/387.png",
+      sprite: "./Imagens/Pokedex/sprites/387.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/387.png",
+      hires: "./Imagens/Pokedex/hires/387.png",
     },
   },
   {
@@ -15753,8 +15206,11 @@ const POKEDEX_JSON = [
     },
     species: "Grove Pokémon",
     description:
-      "It knows where pure water wells up. It carries fellow Pokémon there on its back.",
-    evolution: { prev: ["387", "Level 18"], next: [["389", "Level 32"]] },
+      "Ele sabe onde a água pura brota. Ele carrega outros Pokémon nas costas.",
+    evolution: {
+      prev: ["387", "Level 18"],
+      next: [["389", "Level 32"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "97 kg",
@@ -15766,12 +15222,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/388.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/388.png",
-      hires:
-        "./Imagens/Pokedex/hires/388.png",
+      sprite: "./Imagens/Pokedex/sprites/388.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/388.png",
+      hires: "./Imagens/Pokedex/hires/388.png",
     },
   },
   {
@@ -15793,8 +15246,10 @@ const POKEDEX_JSON = [
     },
     species: "Continent Pokémon",
     description:
-      "Small Pokémon occasionally gather on its unmoving back to begin building their nests.",
-    evolution: { prev: ["388", "Level 32"] },
+      "Pequenos Pokémon ocasionalmente se reúnem em sua costas imóveis para começar a construir seus ninhos.",
+    evolution: {
+      prev: ["388", "Level 32"],
+    },
     profile: {
       height: "2.2 m",
       weight: "310 kg",
@@ -15806,12 +15261,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/389.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/389.png",
-      hires:
-        "./Imagens/Pokedex/hires/389.png",
+      sprite: "./Imagens/Pokedex/sprites/389.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/389.png",
+      hires: "./Imagens/Pokedex/hires/389.png",
     },
   },
   {
@@ -15833,8 +15285,10 @@ const POKEDEX_JSON = [
     },
     species: "Chimp Pokémon",
     description:
-      "The gas made in its belly burns from its rear end. The fire burns weakly when it feels sick.",
-    evolution: { next: [["391", "Level 14"]] },
+      "O gás produzido em sua barriga queima de sua extremidade traseira. O fogo queima fracamente quando ele se sente doente.",
+    evolution: {
+      next: [["391", "Level 14"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "6.2 kg",
@@ -15846,12 +15300,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/390.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/390.png",
-      hires:
-        "./Imagens/Pokedex/hires/390.png",
+      sprite: "./Imagens/Pokedex/sprites/390.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/390.png",
+      hires: "./Imagens/Pokedex/hires/390.png",
     },
   },
   {
@@ -15873,8 +15324,11 @@ const POKEDEX_JSON = [
     },
     species: "Playful Pokémon",
     description:
-      "It uses ceilings and walls to launch aerial attacks. Its fiery tail is but one weapon.",
-    evolution: { prev: ["390", "Level 14"], next: [["392", "Level 36"]] },
+      "Ele usa tetos e paredes para lançar ataques aéreos. Sua cauda de fogo é apenas uma arma.",
+    evolution: {
+      prev: ["390", "Level 14"],
+      next: [["392", "Level 36"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "22 kg",
@@ -15886,12 +15340,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/391.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/391.png",
-      hires:
-        "./Imagens/Pokedex/hires/391.png",
+      sprite: "./Imagens/Pokedex/sprites/391.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/391.png",
+      hires: "./Imagens/Pokedex/hires/391.png",
     },
   },
   {
@@ -15913,8 +15364,10 @@ const POKEDEX_JSON = [
     },
     species: "Flame Pokémon",
     description:
-      "It tosses its enemies around with agility. It uses all its limbs to fight in its own unique style.",
-    evolution: { prev: ["391", "Level 36"] },
+      "Ele joga seus inimigos para cima com agilidade. Ele usa todos os membros para lutar em seu próprio estilo único.",
+    evolution: {
+      prev: ["391", "Level 36"],
+    },
     profile: {
       height: "1.2 m",
       weight: "55 kg",
@@ -15926,12 +15379,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/392.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/392.png",
-      hires:
-        "./Imagens/Pokedex/hires/392.png",
+      sprite: "./Imagens/Pokedex/sprites/392.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/392.png",
+      hires: "./Imagens/Pokedex/hires/392.png",
     },
   },
   {
@@ -15953,8 +15403,10 @@ const POKEDEX_JSON = [
     },
     species: "Penguin Pokémon",
     description:
-      "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold.",
-    evolution: { next: [["394", "Level 16"]] },
+      "Porque é muito orgulhoso, odeia aceitar comida das pessoas. Sua espessa penugem o protege do frio.",
+    evolution: {
+      next: [["394", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.2 kg",
@@ -15966,12 +15418,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/393.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/393.png",
-      hires:
-        "./Imagens/Pokedex/hires/393.png",
+      sprite: "./Imagens/Pokedex/sprites/393.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/393.png",
+      hires: "./Imagens/Pokedex/hires/393.png",
     },
   },
   {
@@ -15993,8 +15442,11 @@ const POKEDEX_JSON = [
     },
     species: "Penguin Pokémon",
     description:
-      "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees.",
-    evolution: { prev: ["393", "Level 16"], next: [["395", "Level 36"]] },
+      "Ele vive uma vida solitária. Suas asas desferem golpes cruéis que podem quebrar até mesmo as árvores mais grossas.",
+    evolution: {
+      prev: ["393", "Level 16"],
+      next: [["395", "Level 36"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "23 kg",
@@ -16006,12 +15458,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/394.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/394.png",
-      hires:
-        "./Imagens/Pokedex/hires/394.png",
+      sprite: "./Imagens/Pokedex/sprites/394.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/394.png",
+      hires: "./Imagens/Pokedex/hires/394.png",
     },
   },
   {
@@ -16033,8 +15482,10 @@ const POKEDEX_JSON = [
     },
     species: "Emperor Pokémon",
     description:
-      "The three horns that extend from its beak attest to its power. The leader has the biggest horns.",
-    evolution: { prev: ["394", "Level 36"] },
+      "Os três chifres que se estendem de seu bico atestam seu poder. O líder tem os maiores chifres.",
+    evolution: {
+      prev: ["394", "Level 36"],
+    },
     profile: {
       height: "1.7 m",
       weight: "84.5 kg",
@@ -16046,12 +15497,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/395.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/395.png",
-      hires:
-        "./Imagens/Pokedex/hires/395.png",
+      sprite: "./Imagens/Pokedex/sprites/395.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/395.png",
+      hires: "./Imagens/Pokedex/hires/395.png",
     },
   },
   {
@@ -16073,8 +15521,10 @@ const POKEDEX_JSON = [
     },
     species: "Starling Pokémon",
     description:
-      "They flock around mountains and fields, chasing after bug Pokémon. Their singing is noisy and annoying.",
-    evolution: { next: [["397", "Level 14"]] },
+      "Eles se reúnem em torno de montanhas e campos, perseguindo Pokémon inseto. Seu canto é barulhento e irritante.",
+    evolution: {
+      next: [["397", "Level 14"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2 kg",
@@ -16086,12 +15536,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/396.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/396.png",
-      hires:
-        "./Imagens/Pokedex/hires/396.png",
+      sprite: "./Imagens/Pokedex/sprites/396.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/396.png",
+      hires: "./Imagens/Pokedex/hires/396.png",
     },
   },
   {
@@ -16113,8 +15560,11 @@ const POKEDEX_JSON = [
     },
     species: "Starling Pokémon",
     description:
-      "It lives in forests and fields. Squabbles over territory occur when flocks collide.",
-    evolution: { prev: ["396", "Level 14"], next: [["398", "Level 34"]] },
+      "Ele vive em florestas e campos. Brigas por território ocorrem quando os bandos colidem.",
+    evolution: {
+      prev: ["396", "Level 14"],
+      next: [["398", "Level 34"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "15.5 kg",
@@ -16126,12 +15576,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/397.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/397.png",
-      hires:
-        "./Imagens/Pokedex/hires/397.png",
+      sprite: "./Imagens/Pokedex/sprites/397.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/397.png",
+      hires: "./Imagens/Pokedex/hires/397.png",
     },
   },
   {
@@ -16153,8 +15600,10 @@ const POKEDEX_JSON = [
     },
     species: "Predator Pokémon",
     description:
-      "When Staravia evolve into Staraptor, they leave the flock to live alone. They have sturdy wings.",
-    evolution: { prev: ["397", "Level 34"] },
+      "Quando Staravia evolui para Staraptor, eles deixam o bando para viver sozinhos. Eles têm asas resistentes.",
+    evolution: {
+      prev: ["397", "Level 34"],
+    },
     profile: {
       height: "1.2 m",
       weight: "24.9 kg",
@@ -16166,12 +15615,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/398.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/398.png",
-      hires:
-        "./Imagens/Pokedex/hires/398.png",
+      sprite: "./Imagens/Pokedex/sprites/398.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/398.png",
+      hires: "./Imagens/Pokedex/hires/398.png",
     },
   },
   {
@@ -16193,8 +15639,10 @@ const POKEDEX_JSON = [
     },
     species: "Plump Mouse Pokémon",
     description:
-      "It constantly gnaws on logs and rocks to whittle down its front teeth. It nests alongside water.",
-    evolution: { next: [["400", "Level 15"]] },
+      "Ele constantemente rói troncos e rochas para desgastar seus dentes da frente. Ele aninha-se ao lado da água.",
+    evolution: {
+      next: [["400", "Level 15"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "20 kg",
@@ -16207,12 +15655,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/399.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/399.png",
-      hires:
-        "./Imagens/Pokedex/hires/399.png",
+      sprite: "./Imagens/Pokedex/sprites/399.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/399.png",
+      hires: "./Imagens/Pokedex/hires/399.png",
     },
   },
   {
@@ -16234,8 +15679,10 @@ const POKEDEX_JSON = [
     },
     species: "Beaver Pokémon",
     description:
-      "It makes its nest by damming streams with bark and mud. It is known as an industrious worker.",
-    evolution: { prev: ["399", "Level 15"] },
+      "Ele faz seu ninho represando riachos com casca e lama. É conhecido como um trabalhador incansável.",
+    evolution: {
+      prev: ["399", "Level 15"],
+    },
     profile: {
       height: "1 m",
       weight: "31.5 kg",
@@ -16248,12 +15695,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/400.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/400.png",
-      hires:
-        "./Imagens/Pokedex/hires/400.png",
+      sprite: "./Imagens/Pokedex/sprites/400.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/400.png",
+      hires: "./Imagens/Pokedex/hires/400.png",
     },
   },
   {
@@ -16275,8 +15719,10 @@ const POKEDEX_JSON = [
     },
     species: "Cricket Pokémon",
     description:
-      "When its antennae hit each other, it sounds like the music of a xylophone.",
-    evolution: { next: [["402", "Level 10"]] },
+      "Quando suas antenas se tocam, soa como a música de um xilofone.",
+    evolution: {
+      next: [["402", "Level 10"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.2 kg",
@@ -16288,12 +15734,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/401.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/401.png",
-      hires:
-        "./Imagens/Pokedex/hires/401.png",
+      sprite: "./Imagens/Pokedex/sprites/401.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/401.png",
+      hires: "./Imagens/Pokedex/hires/401.png",
     },
   },
   {
@@ -16315,8 +15758,10 @@ const POKEDEX_JSON = [
     },
     species: "Cricket Pokémon",
     description:
-      "It signals its emotions with its melodies. Scientists are studying these melodic patterns.",
-    evolution: { prev: ["401", "Level 10"] },
+      "Ele sinaliza suas emoções com suas melodias. Cientistas estão estudando esses padrões melódicos.",
+    evolution: {
+      prev: ["401", "Level 10"],
+    },
     profile: {
       height: "1 m",
       weight: "25.5 kg",
@@ -16328,12 +15773,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/402.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/402.png",
-      hires:
-        "./Imagens/Pokedex/hires/402.png",
+      sprite: "./Imagens/Pokedex/sprites/402.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/402.png",
+      hires: "./Imagens/Pokedex/hires/402.png",
     },
   },
   {
@@ -16355,8 +15797,10 @@ const POKEDEX_JSON = [
     },
     species: "Flash Pokémon",
     description:
-      "All of its fur dazzles if danger is sensed. It flees while the foe is momentarily blinded.",
-    evolution: { next: [["404", "Level 15"]] },
+      "Todo o seu pelo brilha se houver perigo. Ele foge enquanto o inimigo está momentaneamente cego.",
+    evolution: {
+      next: [["404", "Level 15"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9.5 kg",
@@ -16369,12 +15813,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/403.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/403.png",
-      hires:
-        "./Imagens/Pokedex/hires/403.png",
+      sprite: "./Imagens/Pokedex/sprites/403.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/403.png",
+      hires: "./Imagens/Pokedex/hires/403.png",
     },
   },
   {
@@ -16396,8 +15837,11 @@ const POKEDEX_JSON = [
     },
     species: "Spark Pokémon",
     description:
-      "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
-    evolution: { prev: ["403", "Level 15"], next: [["405", "Level 30"]] },
+      "Forte eletricidade percorre as pontas de suas garras afiadas. Um leve arranhão causa desmaio nos inimigos.",
+    evolution: {
+      prev: ["403", "Level 15"],
+      next: [["405", "Level 30"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "30.5 kg",
@@ -16410,12 +15854,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/404.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/404.png",
-      hires:
-        "./Imagens/Pokedex/hires/404.png",
+      sprite: "./Imagens/Pokedex/sprites/404.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/404.png",
+      hires: "./Imagens/Pokedex/hires/404.png",
     },
   },
   {
@@ -16437,8 +15878,10 @@ const POKEDEX_JSON = [
     },
     species: "Gleam Eyes Pokémon",
     description:
-      "Luxray’s ability to see through objects comes in handy when it’s scouting for danger.",
-    evolution: { prev: ["404", "Level 30"] },
+      "A habilidade de Luxray de ver através de objetos é útil quando está procurando por perigo.",
+    evolution: {
+      prev: ["404", "Level 30"],
+    },
     profile: {
       height: "1.4 m",
       weight: "42 kg",
@@ -16451,12 +15894,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/405.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/405.png",
-      hires:
-        "./Imagens/Pokedex/hires/405.png",
+      sprite: "./Imagens/Pokedex/sprites/405.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/405.png",
+      hires: "./Imagens/Pokedex/hires/405.png",
     },
   },
   {
@@ -16478,8 +15918,10 @@ const POKEDEX_JSON = [
     },
     species: "Bud Pokémon",
     description:
-      "Over the winter, it closes its bud and endures the cold. In spring, the bud opens and releases pollen.",
-    evolution: { next: [["315", "high Friendship, Daytime"]] },
+      "Durante o inverno, ele fecha seu botão e suporta o frio. Na primavera, o botão se abre e libera pólen.",
+    evolution: {
+      next: [["315", "high Friendship, Daytime"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "1.2 kg",
@@ -16492,12 +15934,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/406.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/406.png",
-      hires:
-        "./Imagens/Pokedex/hires/406.png",
+      sprite: "./Imagens/Pokedex/sprites/406.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/406.png",
+      hires: "./Imagens/Pokedex/hires/406.png",
     },
   },
   {
@@ -16519,8 +15958,10 @@ const POKEDEX_JSON = [
     },
     species: "Bouquet Pokémon",
     description:
-      "With the movements of a dancer, it strikes with whips that are densely lined with poison thorns.",
-    evolution: { prev: ["315", "use Shiny Stone"] },
+      "Com os movimentos de um dançarino, ele ataca com chicotes que são densamente forrados com espinhos venenosos.",
+    evolution: {
+      prev: ["315", "use Shiny Stone"],
+    },
     profile: {
       height: "0.9 m",
       weight: "14.5 kg",
@@ -16533,12 +15974,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/407.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/407.png",
-      hires:
-        "./Imagens/Pokedex/hires/407.png",
+      sprite: "./Imagens/Pokedex/sprites/407.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/407.png",
+      hires: "./Imagens/Pokedex/hires/407.png",
     },
   },
   {
@@ -16560,8 +15998,10 @@ const POKEDEX_JSON = [
     },
     species: "Head Butt Pokémon",
     description:
-      "Its hard skull is its distinguishing feature. It snapped trees by headbutting them, and then it fed on their ripe berries.",
-    evolution: { next: [["409", "Level 30"]] },
+      "Seu crânio duro é sua característica distintiva. Ele quebrou árvores com cabeçadas e depois se alimentou de suas bagas maduras.",
+    evolution: {
+      next: [["409", "Level 30"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "31.5 kg",
@@ -16573,12 +16013,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/408.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/408.png",
-      hires:
-        "./Imagens/Pokedex/hires/408.png",
+      sprite: "./Imagens/Pokedex/sprites/408.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/408.png",
+      hires: "./Imagens/Pokedex/hires/408.png",
     },
   },
   {
@@ -16600,8 +16037,10 @@ const POKEDEX_JSON = [
     },
     species: "Head Butt Pokémon",
     description:
-      "This ancient Pokémon used headbutts skillfully. Its brain was really small, so some theories suggest that its stupidity led to its extinction.",
-    evolution: { prev: ["408", "Level 30"] },
+      "Este Pokémon antigo usava cabeçadas habilmente. Seu cérebro era realmente pequeno, por isso algumas teorias sugerem que sua estupidez levou à sua extinção.",
+    evolution: {
+      prev: ["408", "Level 30"],
+    },
     profile: {
       height: "1.6 m",
       weight: "102.5 kg",
@@ -16613,12 +16052,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/409.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/409.png",
-      hires:
-        "./Imagens/Pokedex/hires/409.png",
+      sprite: "./Imagens/Pokedex/sprites/409.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/409.png",
+      hires: "./Imagens/Pokedex/hires/409.png",
     },
   },
   {
@@ -16640,8 +16076,10 @@ const POKEDEX_JSON = [
     },
     species: "Shield Pokémon",
     description:
-      "Although its fossils can be found in layers of primeval rock, nothing but its face has ever been discovered.",
-    evolution: { next: [["411", "Level 30"]] },
+      "Embora seus fósseis possam ser encontrados em camadas de rocha primitiva, nada além de seu rosto foi descoberto.",
+    evolution: {
+      next: [["411", "Level 30"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "57 kg",
@@ -16653,12 +16091,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/410.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/410.png",
-      hires:
-        "./Imagens/Pokedex/hires/410.png",
+      sprite: "./Imagens/Pokedex/sprites/410.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/410.png",
+      hires: "./Imagens/Pokedex/hires/410.png",
     },
   },
   {
@@ -16680,8 +16115,10 @@ const POKEDEX_JSON = [
     },
     species: "Shield Pokémon",
     description:
-      "This Pokémon is from roughly 100 million years ago. Its terrifyingly tough face is harder than steel.",
-    evolution: { prev: ["410", "Level 30"] },
+      "Este Pokémon é de cerca de 100 milhões de anos atrás. Seu rosto terrivelmente resistente é mais duro que aço.",
+    evolution: {
+      prev: ["410", "Level 30"],
+    },
     profile: {
       height: "1.3 m",
       weight: "149.5 kg",
@@ -16693,12 +16130,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/411.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/411.png",
-      hires:
-        "./Imagens/Pokedex/hires/411.png",
+      sprite: "./Imagens/Pokedex/sprites/411.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/411.png",
+      hires: "./Imagens/Pokedex/hires/411.png",
     },
   },
   {
@@ -16720,7 +16154,7 @@ const POKEDEX_JSON = [
     },
     species: "Bagworm Pokémon",
     description:
-      "If its cloak is broken in battle, it quickly remakes the cloak with materials nearby.",
+      "Se sua capa for quebrada em batalha, ele rapidamente refaz a capa com materiais próximos.",
     evolution: {
       next: [
         ["413", "Level 20, Female"],
@@ -16738,12 +16172,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/412.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/412.png",
-      hires:
-        "./Imagens/Pokedex/hires/412.png",
+      sprite: "./Imagens/Pokedex/sprites/412.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/412.png",
+      hires: "./Imagens/Pokedex/hires/412.png",
     },
   },
   {
@@ -16765,8 +16196,10 @@ const POKEDEX_JSON = [
     },
     species: "Bagworm Pokémon",
     description:
-      "When Burmy evolved, its cloak became a part of this Pokémon’s body. The cloak is never shed.",
-    evolution: { prev: ["412", "Level 20, Female"] },
+      "Quando Burmy evoluiu, sua capa se tornou parte do corpo deste Pokémon. A capa nunca é derramada.",
+    evolution: {
+      prev: ["412", "Level 20, Female"],
+    },
     profile: {
       height: "0.5 m",
       weight: "6.5 kg",
@@ -16778,12 +16211,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/413.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/413.png",
-      hires:
-        "./Imagens/Pokedex/hires/413.png",
+      sprite: "./Imagens/Pokedex/sprites/413.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/413.png",
+      hires: "./Imagens/Pokedex/hires/413.png",
     },
   },
   {
@@ -16804,9 +16234,10 @@ const POKEDEX_JSON = [
       Speed: 66,
     },
     species: "Moth Pokémon",
-    description:
-      "It flutters around at night and steals honey from the Combee hive.",
-    evolution: { prev: ["412", "Level 20, Male"] },
+    description: "Ele flutua à noite e rouba mel da colmeia de Combee.",
+    evolution: {
+      prev: ["412", "Level 20, Male"],
+    },
     profile: {
       height: "0.9 m",
       weight: "23.3 kg",
@@ -16818,12 +16249,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/414.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/414.png",
-      hires:
-        "./Imagens/Pokedex/hires/414.png",
+      sprite: "./Imagens/Pokedex/sprites/414.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/414.png",
+      hires: "./Imagens/Pokedex/hires/414.png",
     },
   },
   {
@@ -16845,8 +16273,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Bee Pokémon",
     description:
-      "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
-    evolution: { next: [["416", "Level 21, Female"]] },
+      "Ele coleta e entrega mel para sua colônia. À noite, eles se aglomeram para formar uma colmeia e dormir.",
+    evolution: {
+      next: [["416", "Level 21, Female"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "5.5 kg",
@@ -16858,12 +16288,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/415.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/415.png",
-      hires:
-        "./Imagens/Pokedex/hires/415.png",
+      sprite: "./Imagens/Pokedex/sprites/415.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/415.png",
+      hires: "./Imagens/Pokedex/hires/415.png",
     },
   },
   {
@@ -16885,8 +16312,10 @@ const POKEDEX_JSON = [
     },
     species: "Beehive Pokémon",
     description:
-      "Its abdomen is a honeycomb for grubs. It raises its grubs on honey collected by Combee.",
-    evolution: { prev: ["415", "Level 21, Female"] },
+      "Seu abdômen é um favo de mel para larvas. Ele cria suas larvas com mel coletado por Combee.",
+    evolution: {
+      prev: ["415", "Level 21, Female"],
+    },
     profile: {
       height: "1.2 m",
       weight: "38.5 kg",
@@ -16898,12 +16327,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/416.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/416.png",
-      hires:
-        "./Imagens/Pokedex/hires/416.png",
+      sprite: "./Imagens/Pokedex/sprites/416.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/416.png",
+      hires: "./Imagens/Pokedex/hires/416.png",
     },
   },
   {
@@ -16925,7 +16351,7 @@ const POKEDEX_JSON = [
     },
     species: "EleSquirrel Pokémon",
     description:
-      "A pair may be seen rubbing their cheek pouches together in an effort to share stored electricity.",
+      "Um par pode ser visto esfregando suas bolsas de bochecha juntas em um esforço para compartilhar eletricidade armazenada.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -16939,12 +16365,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/417.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/417.png",
-      hires:
-        "./Imagens/Pokedex/hires/417.png",
+      sprite: "./Imagens/Pokedex/sprites/417.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/417.png",
+      hires: "./Imagens/Pokedex/hires/417.png",
     },
   },
   {
@@ -16966,8 +16389,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Weasel Pokémon",
     description:
-      "It inflates the flotation sac around its neck and pokes its head out of the water to see what is going on.",
-    evolution: { next: [["419", "Level 26"]] },
+      "Ele infla o saco de flutuação ao redor de seu pescoço e estica a cabeça para fora da água para ver o que está acontecendo.",
+    evolution: {
+      next: [["419", "Level 26"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "29.5 kg",
@@ -16979,12 +16404,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/418.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/418.png",
-      hires:
-        "./Imagens/Pokedex/hires/418.png",
+      sprite: "./Imagens/Pokedex/sprites/418.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/418.png",
+      hires: "./Imagens/Pokedex/hires/418.png",
     },
   },
   {
@@ -17006,8 +16428,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Weasel Pokémon",
     description:
-      "Its flotation sac developed as a result of pursuing aquatic prey. It can double as a rubber raft.",
-    evolution: { prev: ["418", "Level 26"] },
+      "Seu saco de flutuação se desenvolveu como resultado da perseguição de presas aquáticas. Pode servir como uma balsa de borracha.",
+    evolution: {
+      prev: ["418", "Level 26"],
+    },
     profile: {
       height: "1.1 m",
       weight: "33.5 kg",
@@ -17019,12 +16443,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/419.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/419.png",
-      hires:
-        "./Imagens/Pokedex/hires/419.png",
+      sprite: "./Imagens/Pokedex/sprites/419.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/419.png",
+      hires: "./Imagens/Pokedex/hires/419.png",
     },
   },
   {
@@ -17046,8 +16467,10 @@ const POKEDEX_JSON = [
     },
     species: "Cherry Pokémon",
     description:
-      "It evolves by sucking the energy out of the small ball where it had been storing nutrients.",
-    evolution: { next: [["421", "Level 25"]] },
+      "Ele evolui sugando a energia da pequena bola onde armazenava nutrientes.",
+    evolution: {
+      next: [["421", "Level 25"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "3.3 kg",
@@ -17056,12 +16479,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/420.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/420.png",
-      hires:
-        "./Imagens/Pokedex/hires/420.png",
+      sprite: "./Imagens/Pokedex/sprites/420.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/420.png",
+      hires: "./Imagens/Pokedex/hires/420.png",
     },
   },
   {
@@ -17083,8 +16503,10 @@ const POKEDEX_JSON = [
     },
     species: "Blossom Pokémon",
     description:
-      "If it senses strong sunlight, it opens its folded petals to absorb the sun’s rays with its whole body.",
-    evolution: { prev: ["420", "Level 25"] },
+      "Se sentir luz solar forte, ele abre suas pétalas dobradas para absorver os raios do sol com todo o seu corpo.",
+    evolution: {
+      prev: ["420", "Level 25"],
+    },
     profile: {
       height: "0.5 m",
       weight: "9.3 kg",
@@ -17093,12 +16515,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/421.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/421.png",
-      hires:
-        "./Imagens/Pokedex/hires/421.png",
+      sprite: "./Imagens/Pokedex/sprites/421.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/421.png",
+      hires: "./Imagens/Pokedex/hires/421.png",
     },
   },
   {
@@ -17120,8 +16539,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Slug Pokémon",
     description:
-      "When it senses danger, a purple liquid oozes out of it. The liquid is thought to be something like greasy sweat.",
-    evolution: { next: [["423", "Level 30"]] },
+      "Quando sente perigo, um líquido roxo escorre dele. Acredita-se que o líquido seja algo parecido com suor gorduroso.",
+    evolution: {
+      next: [["423", "Level 30"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "6.3 kg",
@@ -17134,12 +16555,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/422.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/422.png",
-      hires:
-        "./Imagens/Pokedex/hires/422.png",
+      sprite: "./Imagens/Pokedex/sprites/422.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/422.png",
+      hires: "./Imagens/Pokedex/hires/422.png",
     },
   },
   {
@@ -17161,8 +16579,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Slug Pokémon",
     description:
-      "Their shape and color change, depending on their environment and diet. There are many of them at beaches where the waves are calm.",
-    evolution: { prev: ["422", "Level 30"] },
+      "Sua forma e cor mudam, dependendo de seu ambiente e dieta. Há muitos deles em praias onde as ondas são calmas.",
+    evolution: {
+      prev: ["422", "Level 30"],
+    },
     profile: {
       height: "0.9 m",
       weight: "29.9 kg",
@@ -17175,12 +16595,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/423.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/423.png",
-      hires:
-        "./Imagens/Pokedex/hires/423.png",
+      sprite: "./Imagens/Pokedex/sprites/423.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/423.png",
+      hires: "./Imagens/Pokedex/hires/423.png",
     },
   },
   {
@@ -17202,8 +16619,10 @@ const POKEDEX_JSON = [
     },
     species: "Long Tail Pokémon",
     description:
-      "It uses its tails for everything. If it wraps both of its tails around you and gives you a squeeze, that’s proof it really likes you.",
-    evolution: { prev: ["190", "after Double Hit learned"] },
+      "Ele usa suas caudas para tudo. Se ele envolver ambas as caudas em você e lhe der um aperto, isso é prova de que ele realmente gosta de você.",
+    evolution: {
+      prev: ["190", "after Double Hit learned"],
+    },
     profile: {
       height: "1.2 m",
       weight: "20.3 kg",
@@ -17216,12 +16635,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/424.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/424.png",
-      hires:
-        "./Imagens/Pokedex/hires/424.png",
+      sprite: "./Imagens/Pokedex/sprites/424.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/424.png",
+      hires: "./Imagens/Pokedex/hires/424.png",
     },
   },
   {
@@ -17243,8 +16659,10 @@ const POKEDEX_JSON = [
     },
     species: "Balloon Pokémon",
     description:
-      "Wandering souls gathered together to form this Pokémon. When trying to make friends with children, Drifloon grabs them by the hand.",
-    evolution: { next: [["426", "Level 28"]] },
+      "Almas errantes reunidas para formar este Pokémon. Ao tentar fazer amizade com crianças, Drifloon as agarra pela mão.",
+    evolution: {
+      next: [["426", "Level 28"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "1.2 kg",
@@ -17257,12 +16675,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/425.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/425.png",
-      hires:
-        "./Imagens/Pokedex/hires/425.png",
+      sprite: "./Imagens/Pokedex/sprites/425.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/425.png",
+      hires: "./Imagens/Pokedex/hires/425.png",
     },
   },
   {
@@ -17284,8 +16699,10 @@ const POKEDEX_JSON = [
     },
     species: "Blimp Pokémon",
     description:
-      "The raw material for the gas inside its body is souls. When its body starts to deflate, it’s thought to carry away people and Pokémon.",
-    evolution: { prev: ["425", "Level 28"] },
+      "A matéria-prima do gás dentro de seu corpo são almas. Quando seu corpo começa a desinflar, diz-se que ele carrega pessoas e Pokémon.",
+    evolution: {
+      prev: ["425", "Level 28"],
+    },
     profile: {
       height: "1.2 m",
       weight: "15 kg",
@@ -17298,12 +16715,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/426.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/426.png",
-      hires:
-        "./Imagens/Pokedex/hires/426.png",
+      sprite: "./Imagens/Pokedex/sprites/426.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/426.png",
+      hires: "./Imagens/Pokedex/hires/426.png",
     },
   },
   {
@@ -17325,8 +16739,10 @@ const POKEDEX_JSON = [
     },
     species: "Rabbit Pokémon",
     description:
-      "The reason it keeps one ear rolled up is so it can launch a swift counterattack if it’s attacked by an enemy.",
-    evolution: { next: [["428", "high Friendship"]] },
+      "A razão pela qual ele mantém uma orelha enrolada é para que possa lançar um rápido contra-ataque se for atacado por um inimigo.",
+    evolution: {
+      next: [["428", "high Friendship"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.5 kg",
@@ -17339,12 +16755,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/427.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/427.png",
-      hires:
-        "./Imagens/Pokedex/hires/427.png",
+      sprite: "./Imagens/Pokedex/sprites/427.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/427.png",
+      hires: "./Imagens/Pokedex/hires/427.png",
     },
   },
   {
@@ -17366,8 +16779,10 @@ const POKEDEX_JSON = [
     },
     species: "Rabbit Pokémon",
     description:
-      "It’s notably wary and has a dislike of fighting, but at the same time, it can deliver powerful kicks with its lithe legs.",
-    evolution: { prev: ["427", "high Friendship"] },
+      "Ele é notavelmente cauteloso e tem aversão a lutar, mas ao mesmo tempo, pode desferir chutes poderosos com suas pernas lithe.",
+    evolution: {
+      prev: ["427", "high Friendship"],
+    },
     profile: {
       height: "1.2 m",
       weight: "33.3 kg",
@@ -17380,12 +16795,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/428.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/428.png",
-      hires:
-        "./Imagens/Pokedex/hires/428.png",
+      sprite: "./Imagens/Pokedex/sprites/428.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/428.png",
+      hires: "./Imagens/Pokedex/hires/428.png",
     },
   },
   {
@@ -17407,8 +16819,10 @@ const POKEDEX_JSON = [
     },
     species: "Magical Pokémon",
     description:
-      "Its muttered curses can cause awful headaches or terrifying visions that torment others.",
-    evolution: { prev: ["200", "use Dusk Stone"] },
+      "Seus maldições murmuradas podem causar terríveis dores de cabeça ou visões assustadoras que atormentam os outros.",
+    evolution: {
+      prev: ["200", "use Dusk Stone"],
+    },
     profile: {
       height: "0.9 m",
       weight: "4.4 kg",
@@ -17417,12 +16831,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/429.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/429.png",
-      hires:
-        "./Imagens/Pokedex/hires/429.png",
+      sprite: "./Imagens/Pokedex/sprites/429.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/429.png",
+      hires: "./Imagens/Pokedex/hires/429.png",
     },
   },
   {
@@ -17444,8 +16855,10 @@ const POKEDEX_JSON = [
     },
     species: "Big Boss Pokémon",
     description:
-      "Its goons take care of most of the fighting for it. The only time it dirties its own hands is in delivering a final blow to finish off an opponent.",
-    evolution: { prev: ["198", "use Dusk Stone"] },
+      "Seus capangas cuidam da maior parte das lutas por ele. A única vez que suja suas próprias mãos é para dar um golpe final para acabar com um oponente.",
+    evolution: {
+      prev: ["198", "use Dusk Stone"],
+    },
     profile: {
       height: "0.9 m",
       weight: "27.3 kg",
@@ -17458,12 +16871,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/430.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/430.png",
-      hires:
-        "./Imagens/Pokedex/hires/430.png",
+      sprite: "./Imagens/Pokedex/sprites/430.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/430.png",
+      hires: "./Imagens/Pokedex/hires/430.png",
     },
   },
   {
@@ -17485,8 +16895,10 @@ const POKEDEX_JSON = [
     },
     species: "Catty Pokémon",
     description:
-      "When it’s happy, Glameow demonstrates beautiful movements of its tail, like a dancing ribbon.",
-    evolution: { next: [["432", "Level 38"]] },
+      "Quando está feliz, Glameow demonstra belos movimentos de sua cauda, como uma fita dançante.",
+    evolution: {
+      next: [["432", "Level 38"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "3.9 kg",
@@ -17499,12 +16911,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/431.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/431.png",
-      hires:
-        "./Imagens/Pokedex/hires/431.png",
+      sprite: "./Imagens/Pokedex/sprites/431.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/431.png",
+      hires: "./Imagens/Pokedex/hires/431.png",
     },
   },
   {
@@ -17526,8 +16935,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiger Cat Pokémon",
     description:
-      "To make itself appear intimidatingly beefy, it tightly cinches its waist with its twin tails.",
-    evolution: { prev: ["431", "Level 38"] },
+      "Para parecer intimidantemente corpulento, ele aperta firmemente sua cintura com suas duas caudas.",
+    evolution: {
+      prev: ["431", "Level 38"],
+    },
     profile: {
       height: "1 m",
       weight: "43.8 kg",
@@ -17540,12 +16951,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/432.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/432.png",
-      hires:
-        "./Imagens/Pokedex/hires/432.png",
+      sprite: "./Imagens/Pokedex/sprites/432.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/432.png",
+      hires: "./Imagens/Pokedex/hires/432.png",
     },
   },
   {
@@ -17567,8 +16975,10 @@ const POKEDEX_JSON = [
     },
     species: "Bell Pokémon",
     description:
-      "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
-    evolution: { next: [["358", "high Friendship, Nighttime"]] },
+      "Há uma esfera dentro de sua boca. Quando ele pula, a esfera balança para cima e para baixo e faz um som estridente.",
+    evolution: {
+      next: [["358", "high Friendship, Nighttime"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "0.6 kg",
@@ -17577,12 +16987,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/433.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/433.png",
-      hires:
-        "./Imagens/Pokedex/hires/433.png",
+      sprite: "./Imagens/Pokedex/sprites/433.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/433.png",
+      hires: "./Imagens/Pokedex/hires/433.png",
     },
   },
   {
@@ -17604,8 +17011,10 @@ const POKEDEX_JSON = [
     },
     species: "Skunk Pokémon",
     description:
-      "It protects itself by spraying a noxious fluid from its rear. The stench lingers for 24 hours.",
-    evolution: { next: [["435", "Level 34"]] },
+      "Ele se protege espirrando um líquido nojento de sua traseira. O mau cheiro persiste por 24 horas.",
+    evolution: {
+      next: [["435", "Level 34"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "19.2 kg",
@@ -17618,12 +17027,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/434.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/434.png",
-      hires:
-        "./Imagens/Pokedex/hires/434.png",
+      sprite: "./Imagens/Pokedex/sprites/434.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/434.png",
+      hires: "./Imagens/Pokedex/hires/434.png",
     },
   },
   {
@@ -17645,8 +17051,10 @@ const POKEDEX_JSON = [
     },
     species: "Skunk Pokémon",
     description:
-      "It sprays a stinky fluid from its tail. The fluid smells worse the longer it is allowed to fester.",
-    evolution: { prev: ["434", "Level 34"] },
+      "Ele espirra um líquido fedorento de sua cauda. O fluido cheira pior quanto mais tempo é deixado a fermentar.",
+    evolution: {
+      prev: ["434", "Level 34"],
+    },
     profile: {
       height: "1 m",
       weight: "38 kg",
@@ -17659,12 +17067,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/435.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/435.png",
-      hires:
-        "./Imagens/Pokedex/hires/435.png",
+      sprite: "./Imagens/Pokedex/sprites/435.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/435.png",
+      hires: "./Imagens/Pokedex/hires/435.png",
     },
   },
   {
@@ -17686,8 +17091,10 @@ const POKEDEX_JSON = [
     },
     species: "Bronze Pokémon",
     description:
-      "Implements shaped like it were discovered in ancient tombs. It is unknown if they are related.",
-    evolution: { next: [["437", "Level 33"]] },
+      "Implementos moldados como ele foram descobertos em tumbas antigas. Não se sabe se eles estão relacionados.",
+    evolution: {
+      next: [["437", "Level 33"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "60.5 kg",
@@ -17700,12 +17107,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/436.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/436.png",
-      hires:
-        "./Imagens/Pokedex/hires/436.png",
+      sprite: "./Imagens/Pokedex/sprites/436.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/436.png",
+      hires: "./Imagens/Pokedex/hires/436.png",
     },
   },
   {
@@ -17727,8 +17131,10 @@ const POKEDEX_JSON = [
     },
     species: "Bronze Bell Pokémon",
     description:
-      "Ancient people believed that petitioning Bronzong for rain was the way to make crops grow.",
-    evolution: { prev: ["436", "Level 33"] },
+      "Os antigos acreditavam que pedir chuva a Bronzong era a maneira de fazer as plantações crescerem.",
+    evolution: {
+      prev: ["436", "Level 33"],
+    },
     profile: {
       height: "1.3 m",
       weight: "187 kg",
@@ -17741,12 +17147,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/437.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/437.png",
-      hires:
-        "./Imagens/Pokedex/hires/437.png",
+      sprite: "./Imagens/Pokedex/sprites/437.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/437.png",
+      hires: "./Imagens/Pokedex/hires/437.png",
     },
   },
   {
@@ -17768,8 +17171,10 @@ const POKEDEX_JSON = [
     },
     species: "Bonsai Pokémon",
     description:
-      "If its body gets too damp, it will die. So, in a process reminiscent of sweating, its eyes expel moisture.",
-    evolution: { next: [["185", "after Mimic learned"]] },
+      "Se seu corpo ficar muito úmido, ele morrerá. Então, em um processo semelhante à transpiração, seus olhos expelem umidade.",
+    evolution: {
+      next: [["185", "after Mimic learned"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "15 kg",
@@ -17782,12 +17187,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/438.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/438.png",
-      hires:
-        "./Imagens/Pokedex/hires/438.png",
+      sprite: "./Imagens/Pokedex/sprites/438.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/438.png",
+      hires: "./Imagens/Pokedex/hires/438.png",
     },
   },
   {
@@ -17809,8 +17211,10 @@ const POKEDEX_JSON = [
     },
     species: "Mime Pokémon",
     description:
-      "When this gifted mimic surprises an opponent, Mime Jr. feels so happy that it ends up forgetting it was imitating something.",
-    evolution: { next: [["122", "after Mimic learned"]] },
+      "Quando surpreende um oponente, Mime Jr. se sente tão feliz que acaba esquecendo que estava imitando algo.",
+    evolution: {
+      next: [["122", "after Mimic learned"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "13 kg",
@@ -17823,12 +17227,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/439.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/439.png",
-      hires:
-        "./Imagens/Pokedex/hires/439.png",
+      sprite: "./Imagens/Pokedex/sprites/439.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/439.png",
+      hires: "./Imagens/Pokedex/hires/439.png",
     },
   },
   {
@@ -17850,8 +17251,10 @@ const POKEDEX_JSON = [
     },
     species: "Playhouse Pokémon",
     description:
-      "When it sees something round and white, Happiny puts it into the pouch on its stomach. It sometimes becomes overloaded and can’t move.",
-    evolution: { next: [["113", "hold Oval Stone, Daytime"]] },
+      "Quando vê algo redondo e branco, Happiny coloca na bolsa em seu estômago. Às vezes, fica sobrecarregado e não consegue se mover.",
+    evolution: {
+      next: [["113", "hold Oval Stone, Daytime"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "24.4 kg",
@@ -17864,12 +17267,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/440.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/440.png",
-      hires:
-        "./Imagens/Pokedex/hires/440.png",
+      sprite: "./Imagens/Pokedex/sprites/440.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/440.png",
+      hires: "./Imagens/Pokedex/hires/440.png",
     },
   },
   {
@@ -17891,7 +17291,7 @@ const POKEDEX_JSON = [
     },
     species: "Music Note Pokémon",
     description:
-      "It can learn and speak human words. If they gather, they all learn the same saying.",
+      "Ele pode aprender e falar palavras humanas. Se se reunirem, todos aprenderão o mesmo ditado.",
     evolution: {},
     profile: {
       height: "0.5 m",
@@ -17905,12 +17305,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/441.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/441.png",
-      hires:
-        "./Imagens/Pokedex/hires/441.png",
+      sprite: "./Imagens/Pokedex/sprites/441.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/441.png",
+      hires: "./Imagens/Pokedex/hires/441.png",
     },
   },
   {
@@ -17932,7 +17329,7 @@ const POKEDEX_JSON = [
     },
     species: "Forbidden Pokémon",
     description:
-      "It was bound to a fissure in an odd keystone as punishment for misdeeds 500 years ago.",
+      "Ele foi amarrado a uma fenda em uma pedra angular estranha como punição por malfeitos há 500 anos.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -17945,12 +17342,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/442.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/442.png",
-      hires:
-        "./Imagens/Pokedex/hires/442.png",
+      sprite: "./Imagens/Pokedex/sprites/442.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/442.png",
+      hires: "./Imagens/Pokedex/hires/442.png",
     },
   },
   {
@@ -17972,8 +17366,10 @@ const POKEDEX_JSON = [
     },
     species: "Land Shark Pokémon",
     description:
-      "Its original home is an area much hotter than Alola. If you’re planning to live with one, your heating bill will soar.",
-    evolution: { next: [["444", "Level 24"]] },
+      "Sua casa original é uma área muito mais quente que Alola. Se você está planejando viver com um, sua conta de aquecimento aumentará.",
+    evolution: {
+      next: [["444", "Level 24"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "20.5 kg",
@@ -17985,12 +17381,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/443.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/443.png",
-      hires:
-        "./Imagens/Pokedex/hires/443.png",
+      sprite: "./Imagens/Pokedex/sprites/443.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/443.png",
+      hires: "./Imagens/Pokedex/hires/443.png",
     },
   },
   {
@@ -18012,8 +17405,11 @@ const POKEDEX_JSON = [
     },
     species: "Cave Pokémon",
     description:
-      "It sheds its skin and gradually grows larger. Its scales can be ground into a powder and used as raw materials for traditional medicine.",
-    evolution: { prev: ["443", "Level 24"], next: [["445", "Level 48"]] },
+      "Ele troca de pele e cresce gradualmente. Suas escamas podem ser moídas em pó e usadas como matéria-prima para medicina tradicional.",
+    evolution: {
+      prev: ["443", "Level 24"],
+      next: [["445", "Level 48"]],
+    },
     profile: {
       height: "1.4 m",
       weight: "56 kg",
@@ -18025,12 +17421,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/444.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/444.png",
-      hires:
-        "./Imagens/Pokedex/hires/444.png",
+      sprite: "./Imagens/Pokedex/sprites/444.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/444.png",
+      hires: "./Imagens/Pokedex/hires/444.png",
     },
   },
   {
@@ -18052,8 +17445,10 @@ const POKEDEX_JSON = [
     },
     species: "Mach Pokémon",
     description:
-      "Its fine scales don’t just reduce wind resistance—their sharp edges also cause injury to any opponent who attacks it.",
-    evolution: { prev: ["444", "Level 48"] },
+      "Suas escamas finas não apenas reduzem a resistência do vento, mas suas bordas afiadas também causam ferimentos em qualquer oponente que o ataque.",
+    evolution: {
+      prev: ["444", "Level 48"],
+    },
     profile: {
       height: "1.9 m",
       weight: "95 kg",
@@ -18065,12 +17460,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/445.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/445.png",
-      hires:
-        "./Imagens/Pokedex/hires/445.png",
+      sprite: "./Imagens/Pokedex/sprites/445.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/445.png",
+      hires: "./Imagens/Pokedex/hires/445.png",
     },
   },
   {
@@ -18092,8 +17484,10 @@ const POKEDEX_JSON = [
     },
     species: "Big Eater Pokémon",
     description:
-      "Anything that looks edible, Munchlax will go on and swallow whole. Its stomach is tough enough to handle it even if the food has gone rotten.",
-    evolution: { next: [["143", "high Friendship"]] },
+      "Qualquer coisa que pareça comestível, Munchlax irá engolir inteiro. Seu estômago é resistente o suficiente para aguentar, mesmo que a comida esteja podre.",
+    evolution: {
+      next: [["143", "high Friendship"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "105 kg",
@@ -18106,12 +17500,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/446.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/446.png",
-      hires:
-        "./Imagens/Pokedex/hires/446.png",
+      sprite: "./Imagens/Pokedex/sprites/446.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/446.png",
+      hires: "./Imagens/Pokedex/hires/446.png",
     },
   },
   {
@@ -18133,8 +17524,10 @@ const POKEDEX_JSON = [
     },
     species: "Emanation Pokémon",
     description:
-      "It uses waves called auras to communicate with others of its kind. It doesn’t make any noise during this time, so its enemies can’t detect it.",
-    evolution: { next: [["448", "high Friendship, Daytime"]] },
+      "Ele usa ondas chamadas auras para se comunicar com outros de sua espécie. Ele não faz nenhum barulho durante esse tempo, então seus inimigos não podem detectá-lo.",
+    evolution: {
+      next: [["448", "high Friendship, Daytime"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "20.2 kg",
@@ -18147,12 +17540,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/447.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/447.png",
-      hires:
-        "./Imagens/Pokedex/hires/447.png",
+      sprite: "./Imagens/Pokedex/sprites/447.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/447.png",
+      hires: "./Imagens/Pokedex/hires/447.png",
     },
   },
   {
@@ -18174,8 +17564,10 @@ const POKEDEX_JSON = [
     },
     species: "Aura Pokémon",
     description:
-      "Lucario reads its opponent’s feelings with its aura waves. It finds out things it would rather not know, so it gets stressed out easily.",
-    evolution: { prev: ["447", "high Friendship, Daytime"] },
+      "Lucario lê os sentimentos de seu oponente com suas ondas de aura. Ele descobre coisas que preferiria não saber, por isso fica estressado facilmente.",
+    evolution: {
+      prev: ["447", "high Friendship, Daytime"],
+    },
     profile: {
       height: "1.2 m",
       weight: "54 kg",
@@ -18188,12 +17580,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/448.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/448.png",
-      hires:
-        "./Imagens/Pokedex/hires/448.png",
+      sprite: "./Imagens/Pokedex/sprites/448.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/448.png",
+      hires: "./Imagens/Pokedex/hires/448.png",
     },
   },
   {
@@ -18215,8 +17604,10 @@ const POKEDEX_JSON = [
     },
     species: "Hippo Pokémon",
     description:
-      "It enshrouds itself with sand to protect itself from germs. It does not enjoy getting wet.",
-    evolution: { next: [["450", "Level 34"]] },
+      "Ele se envolve em areia para se proteger de germes. Ele não gosta de ficar molhado.",
+    evolution: {
+      next: [["450", "Level 34"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "49.5 kg",
@@ -18228,12 +17619,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/449.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/449.png",
-      hires:
-        "./Imagens/Pokedex/hires/449.png",
+      sprite: "./Imagens/Pokedex/sprites/449.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/449.png",
+      hires: "./Imagens/Pokedex/hires/449.png",
     },
   },
   {
@@ -18255,8 +17643,10 @@ const POKEDEX_JSON = [
     },
     species: "Heavyweight Pokémon",
     description:
-      "It blasts internally stored sand from ports on its body to create a towering twister for attack.",
-    evolution: { prev: ["449", "Level 34"] },
+      "Ele lança areia armazenada internamente em seus portos para criar um redemoinho imponente para ataque.",
+    evolution: {
+      prev: ["449", "Level 34"],
+    },
     profile: {
       height: "2 m",
       weight: "300 kg",
@@ -18268,12 +17658,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/450.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/450.png",
-      hires:
-        "./Imagens/Pokedex/hires/450.png",
+      sprite: "./Imagens/Pokedex/sprites/450.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/450.png",
+      hires: "./Imagens/Pokedex/hires/450.png",
     },
   },
   {
@@ -18295,8 +17682,10 @@ const POKEDEX_JSON = [
     },
     species: "Scorpion Pokémon",
     description:
-      "It burrows under the sand to lie in wait for prey. Its tail claws can inject its prey with a savage poison.",
-    evolution: { next: [["452", "Level 40"]] },
+      "Ele se esconde sob a areia para esperar por presas. Suas garras da cauda podem injetar sua presa com um veneno selvagem.",
+    evolution: {
+      next: [["452", "Level 40"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "12 kg",
@@ -18309,12 +17698,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/451.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/451.png",
-      hires:
-        "./Imagens/Pokedex/hires/451.png",
+      sprite: "./Imagens/Pokedex/sprites/451.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/451.png",
+      hires: "./Imagens/Pokedex/hires/451.png",
     },
   },
   {
@@ -18336,8 +17722,10 @@ const POKEDEX_JSON = [
     },
     species: "Ogre Scorpion Pokémon",
     description:
-      "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
-    evolution: { prev: ["451", "Level 40"] },
+      "Suas garras de garras têm poder suficiente para transformar um carro em sucata. As pontas de suas garras liberam veneno.",
+    evolution: {
+      prev: ["451", "Level 40"],
+    },
     profile: {
       height: "1.3 m",
       weight: "61.5 kg",
@@ -18350,12 +17738,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/452.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/452.png",
-      hires:
-        "./Imagens/Pokedex/hires/452.png",
+      sprite: "./Imagens/Pokedex/sprites/452.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/452.png",
+      hires: "./Imagens/Pokedex/hires/452.png",
     },
   },
   {
@@ -18377,8 +17762,10 @@ const POKEDEX_JSON = [
     },
     species: "Toxic Mouth Pokémon",
     description:
-      "Inflating its poison sacs, it fills the area with an odd sound and hits flinching opponents with a poison jab.",
-    evolution: { next: [["454", "Level 37"]] },
+      "Inflando seus sacos de veneno, ele enche a área com um som estranho e acerta oponentes assustados com uma picada venenosa.",
+    evolution: {
+      next: [["454", "Level 37"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "23 kg",
@@ -18391,12 +17778,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/453.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/453.png",
-      hires:
-        "./Imagens/Pokedex/hires/453.png",
+      sprite: "./Imagens/Pokedex/sprites/453.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/453.png",
+      hires: "./Imagens/Pokedex/hires/453.png",
     },
   },
   {
@@ -18418,8 +17802,10 @@ const POKEDEX_JSON = [
     },
     species: "Toxic Mouth Pokémon",
     description:
-      "Its knuckle claws secrete a toxin so vile that even a scratch could prove fatal.",
-    evolution: { prev: ["453", "Level 37"] },
+      "Suas garras de nódulos secretam uma toxina tão vil que até mesmo um arranhão pode ser fatal.",
+    evolution: {
+      prev: ["453", "Level 37"],
+    },
     profile: {
       height: "1.3 m",
       weight: "44.4 kg",
@@ -18432,12 +17818,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/454.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/454.png",
-      hires:
-        "./Imagens/Pokedex/hires/454.png",
+      sprite: "./Imagens/Pokedex/sprites/454.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/454.png",
+      hires: "./Imagens/Pokedex/hires/454.png",
     },
   },
   {
@@ -18459,7 +17842,7 @@ const POKEDEX_JSON = [
     },
     species: "Bug Catcher Pokémon",
     description:
-      "It binds itself to trees in marshes. It attracts prey with its sweet-smelling drool and gulps them down.",
+      "Ele se liga a árvores em pântanos. Ele atrai presas com sua baba de cheiro doce e as engole.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -18469,12 +17852,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/455.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/455.png",
-      hires:
-        "./Imagens/Pokedex/hires/455.png",
+      sprite: "./Imagens/Pokedex/sprites/455.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/455.png",
+      hires: "./Imagens/Pokedex/hires/455.png",
     },
   },
   {
@@ -18496,8 +17876,10 @@ const POKEDEX_JSON = [
     },
     species: "Wing Fish Pokémon",
     description:
-      "It lures in prey with its shining tail fins. It stays near the surface during the day and moves to the depths when night falls.",
-    evolution: { next: [["457", "Level 31"]] },
+      "Ele atrai presas com suas nadadeiras caudais brilhantes. Ele fica perto da superfície durante o dia e se move para as profundezas quando cai a noite.",
+    evolution: {
+      next: [["457", "Level 31"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7 kg",
@@ -18510,12 +17892,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/456.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/456.png",
-      hires:
-        "./Imagens/Pokedex/hires/456.png",
+      sprite: "./Imagens/Pokedex/sprites/456.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/456.png",
+      hires: "./Imagens/Pokedex/hires/456.png",
     },
   },
   {
@@ -18537,8 +17916,10 @@ const POKEDEX_JSON = [
     },
     species: "Neon Pokémon",
     description:
-      "They traverse the deep waters as if crawling over the seafloor. The fantastic lights of its fins shine like stars in the night sky.",
-    evolution: { prev: ["456", "Level 31"] },
+      "As fantásticas luzes de suas nadadeiras brilham como estrelas no céu noturno.",
+    evolution: {
+      prev: ["456", "Level 31"],
+    },
     profile: {
       height: "1.2 m",
       weight: "24 kg",
@@ -18551,12 +17932,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/457.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/457.png",
-      hires:
-        "./Imagens/Pokedex/hires/457.png",
+      sprite: "./Imagens/Pokedex/sprites/457.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/457.png",
+      hires: "./Imagens/Pokedex/hires/457.png",
     },
   },
   {
@@ -18578,8 +17956,10 @@ const POKEDEX_JSON = [
     },
     species: "Kite Pokémon",
     description:
-      "Mantyke are friendly toward people and will approach boats closely. The patterns on their backs differ depending on their habitat.",
-    evolution: { next: [["226", "with Remoraid in party"]] },
+      "Mantyke são amigáveis com as pessoas e se aproximam dos barcos. Os padrões em suas costas diferem dependendo de seu habitat.",
+    evolution: {
+      next: [["226", "with Remoraid in party"]],
+    },
     profile: {
       height: "1 m",
       weight: "65 kg",
@@ -18592,12 +17972,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/458.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/458.png",
-      hires:
-        "./Imagens/Pokedex/hires/458.png",
+      sprite: "./Imagens/Pokedex/sprites/458.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/458.png",
+      hires: "./Imagens/Pokedex/hires/458.png",
     },
   },
   {
@@ -18619,8 +17996,10 @@ const POKEDEX_JSON = [
     },
     species: "Frost Tree Pokémon",
     description:
-      "In the spring, it grows berries with the texture of frozen treats around its belly.",
-    evolution: { next: [["460", "Level 40"]] },
+      "Na primavera, ele cultiva bagas com a textura de guloseimas congeladas ao redor de sua barriga.",
+    evolution: {
+      next: [["460", "Level 40"]],
+    },
     profile: {
       height: "1 m",
       weight: "50.5 kg",
@@ -18632,12 +18011,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/459.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/459.png",
-      hires:
-        "./Imagens/Pokedex/hires/459.png",
+      sprite: "./Imagens/Pokedex/sprites/459.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/459.png",
+      hires: "./Imagens/Pokedex/hires/459.png",
     },
   },
   {
@@ -18659,8 +18035,10 @@ const POKEDEX_JSON = [
     },
     species: "Frost Tree Pokémon",
     description:
-      "It lives a quiet life on mountains that are perpetually covered in snow. It hides itself by whipping up blizzards.",
-    evolution: { prev: ["459", "Level 40"] },
+      "Ele vive uma vida tranquila em montanhas que são perpetuamente cobertas de neve. Ele se esconde, provocando nevascas.",
+    evolution: {
+      prev: ["459", "Level 40"],
+    },
     profile: {
       height: "2.2 m",
       weight: "135.5 kg",
@@ -18672,12 +18050,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/460.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/460.png",
-      hires:
-        "./Imagens/Pokedex/hires/460.png",
+      sprite: "./Imagens/Pokedex/sprites/460.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/460.png",
+      hires: "./Imagens/Pokedex/hires/460.png",
     },
   },
   {
@@ -18699,8 +18074,10 @@ const POKEDEX_JSON = [
     },
     species: "Sharp Claw Pokémon",
     description:
-      "Thanks to its increased intelligence, scrapping over food is a thing of the past. A scratch from its claws will give you a case of frostbite!",
-    evolution: { prev: ["215", "hold Razor Claw, Nighttime"] },
+      "Graças à sua inteligência aumentada, brigar por comida é uma coisa do passado. Um arranhão de suas garras lhe dará um caso de congelamento!",
+    evolution: {
+      prev: ["215", "hold Razor Claw, Nighttime"],
+    },
     profile: {
       height: "1.1 m",
       weight: "34 kg",
@@ -18712,12 +18089,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/461.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/461.png",
-      hires:
-        "./Imagens/Pokedex/hires/461.png",
+      sprite: "./Imagens/Pokedex/sprites/461.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/461.png",
+      hires: "./Imagens/Pokedex/hires/461.png",
     },
   },
   {
@@ -18739,8 +18113,10 @@ const POKEDEX_JSON = [
     },
     species: "Magnet Area Pokémon",
     description:
-      "There are still people who believe that this Pokémon came from outer space. It emanates a powerful magnetic field.",
-    evolution: { prev: ["82", "level up in a Magnetic Field area"] },
+      "Há ainda pessoas que acreditam que este Pokémon veio do espaço sideral. Ele emana um poderoso campo magnético.",
+    evolution: {
+      prev: ["82", "level up in a Magnetic Field area"],
+    },
     profile: {
       height: "1.2 m",
       weight: "180 kg",
@@ -18753,12 +18129,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/462.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/462.png",
-      hires:
-        "./Imagens/Pokedex/hires/462.png",
+      sprite: "./Imagens/Pokedex/sprites/462.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/462.png",
+      hires: "./Imagens/Pokedex/hires/462.png",
     },
   },
   {
@@ -18780,8 +18153,10 @@ const POKEDEX_JSON = [
     },
     species: "Licking Pokémon",
     description:
-      "It uses its tongue much more skillfully than its hands or its feet. It can deftly pick up a single small bean with its tongue.",
-    evolution: { prev: ["108", "after Rollout learned"] },
+      "Ele usa sua língua muito mais habilmente do que suas mãos ou seus pés. Ele pode pegar habilmente um único feijão pequeno com sua língua.",
+    evolution: {
+      prev: ["108", "after Rollout learned"],
+    },
     profile: {
       height: "1.7 m",
       weight: "140 kg",
@@ -18794,12 +18169,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/463.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/463.png",
-      hires:
-        "./Imagens/Pokedex/hires/463.png",
+      sprite: "./Imagens/Pokedex/sprites/463.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/463.png",
+      hires: "./Imagens/Pokedex/hires/463.png",
     },
   },
   {
@@ -18821,8 +18193,10 @@ const POKEDEX_JSON = [
     },
     species: "Drill Pokémon",
     description:
-      "It puts rocks in holes in its palms and uses its muscles to shoot them. Geodude are shot at rare times.",
-    evolution: { prev: ["112", "trade holding Protector"] },
+      "Ele coloca pedras em buracos em suas palmas e usa seus músculos para atirar nelas. Geodude são atirados em raras ocasiões.",
+    evolution: {
+      prev: ["112", "trade holding Protector"],
+    },
     profile: {
       height: "2.4 m",
       weight: "282.8 kg",
@@ -18835,12 +18209,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/464.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/464.png",
-      hires:
-        "./Imagens/Pokedex/hires/464.png",
+      sprite: "./Imagens/Pokedex/sprites/464.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/464.png",
+      hires: "./Imagens/Pokedex/hires/464.png",
     },
   },
   {
@@ -18862,8 +18233,10 @@ const POKEDEX_JSON = [
     },
     species: "Vine Pokémon",
     description:
-      "Its vines grow so profusely that, in the warm season, you can’t even see its eyes.",
-    evolution: { prev: ["114", "after Ancient Power learned"] },
+      "Suas videiras crescem tanto que, na estação quente, você nem consegue ver seus olhos.",
+    evolution: {
+      prev: ["114", "after Ancient Power learned"],
+    },
     profile: {
       height: "2 m",
       weight: "128.6 kg",
@@ -18876,12 +18249,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/465.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/465.png",
-      hires:
-        "./Imagens/Pokedex/hires/465.png",
+      sprite: "./Imagens/Pokedex/sprites/465.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/465.png",
+      hires: "./Imagens/Pokedex/hires/465.png",
     },
   },
   {
@@ -18903,8 +18273,10 @@ const POKEDEX_JSON = [
     },
     species: "Thunderbolt Pokémon",
     description:
-      "A single Electivire can provide enough electricity for all the buildings in a big city for a year.",
-    evolution: { prev: ["125", "trade holding Electirizer"] },
+      "Um único Electivire pode fornecer eletricidade suficiente para todos os edifícios de uma grande cidade por um ano.",
+    evolution: {
+      prev: ["125", "trade holding Electirizer"],
+    },
     profile: {
       height: "1.8 m",
       weight: "138.6 kg",
@@ -18916,12 +18288,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/466.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/466.png",
-      hires:
-        "./Imagens/Pokedex/hires/466.png",
+      sprite: "./Imagens/Pokedex/sprites/466.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/466.png",
+      hires: "./Imagens/Pokedex/hires/466.png",
     },
   },
   {
@@ -18943,8 +18312,10 @@ const POKEDEX_JSON = [
     },
     species: "Blast Pokémon",
     description:
-      "Magmortar takes down its enemies by shooting fireballs, which burn them to a blackened crisp. It avoids this method when hunting prey.",
-    evolution: { prev: ["126", "trade holding Magmarizer"] },
+      "Magmortar derruba seus inimigos atirando bolas de fogo, que os queimam até ficar preto. Ele evita esse método quando caça presas.",
+    evolution: {
+      prev: ["126", "trade holding Magmarizer"],
+    },
     profile: {
       height: "1.6 m",
       weight: "68 kg",
@@ -18956,12 +18327,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/467.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/467.png",
-      hires:
-        "./Imagens/Pokedex/hires/467.png",
+      sprite: "./Imagens/Pokedex/sprites/467.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/467.png",
+      hires: "./Imagens/Pokedex/hires/467.png",
     },
   },
   {
@@ -18983,8 +18351,10 @@ const POKEDEX_JSON = [
     },
     species: "Jubilee Pokémon",
     description:
-      "It shares many blessings with people who respect one another’s rights and avoid needless strife.",
-    evolution: { prev: ["176", "use Shiny Stone"] },
+      "Ele compartilha muitas bênçãos com pessoas que respeitam os direitos uns dos outros e evitam conflitos desnecessários.",
+    evolution: {
+      prev: ["176", "use Shiny Stone"],
+    },
     profile: {
       height: "1.5 m",
       weight: "38 kg",
@@ -18997,12 +18367,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/468.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/468.png",
-      hires:
-        "./Imagens/Pokedex/hires/468.png",
+      sprite: "./Imagens/Pokedex/sprites/468.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/468.png",
+      hires: "./Imagens/Pokedex/hires/468.png",
     },
   },
   {
@@ -19024,8 +18391,10 @@ const POKEDEX_JSON = [
     },
     species: "Ogre Darner Pokémon",
     description:
-      "This six-legged Pokémon is easily capable of transporting an adult in flight. The wings on its tail help it stay balanced.",
-    evolution: { prev: ["193", "after Ancient Power learned"] },
+      "Este Pokémon de seis patas é facilmente capaz de transportar um adulto em vôo. As asas em sua cauda ajudam a manter o equilíbrio.",
+    evolution: {
+      prev: ["193", "after Ancient Power learned"],
+    },
     profile: {
       height: "1.9 m",
       weight: "51.5 kg",
@@ -19038,12 +18407,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/469.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/469.png",
-      hires:
-        "./Imagens/Pokedex/hires/469.png",
+      sprite: "./Imagens/Pokedex/sprites/469.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/469.png",
+      hires: "./Imagens/Pokedex/hires/469.png",
     },
   },
   {
@@ -19065,8 +18431,10 @@ const POKEDEX_JSON = [
     },
     species: "Verdant Pokémon",
     description:
-      "It gets its nutrition from photosynthesis. It lives a quiet life deep in forests where clean rivers flow.",
-    evolution: { prev: ["133", "level up near a Mossy Rock"] },
+      "Ele obtém sua nutrição da fotossíntese. Ele vive uma vida tranquila nas profundezas das florestas onde correm rios limpos.",
+    evolution: {
+      prev: ["133", "level up near a Mossy Rock"],
+    },
     profile: {
       height: "1 m",
       weight: "25.5 kg",
@@ -19078,12 +18446,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/470.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/470.png",
-      hires:
-        "./Imagens/Pokedex/hires/470.png",
+      sprite: "./Imagens/Pokedex/sprites/470.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/470.png",
+      hires: "./Imagens/Pokedex/hires/470.png",
     },
   },
   {
@@ -19105,8 +18470,10 @@ const POKEDEX_JSON = [
     },
     species: "Fresh Snow Pokémon",
     description:
-      "It can instantaneously freeze any moisture that’s around it, creating ice pellets to shoot at its prey.",
-    evolution: { prev: ["133", "level up near an Icy Rock"] },
+      "Ele pode congelar instantaneamente qualquer umidade que esteja ao seu redor, criando pellets de gelo para atirar em sua presa.",
+    evolution: {
+      prev: ["133", "level up near an Icy Rock"],
+    },
     profile: {
       height: "0.8 m",
       weight: "25.9 kg",
@@ -19118,12 +18485,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/471.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/471.png",
-      hires:
-        "./Imagens/Pokedex/hires/471.png",
+      sprite: "./Imagens/Pokedex/sprites/471.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/471.png",
+      hires: "./Imagens/Pokedex/hires/471.png",
     },
   },
   {
@@ -19145,8 +18509,10 @@ const POKEDEX_JSON = [
     },
     species: "Fang Scorpion Pokémon",
     description:
-      "Its flight is soundless. It uses its lengthy tail to carry off its prey... Then its elongated fangs do the rest.",
-    evolution: { prev: ["207", "hold Razor Fang, Nighttime"] },
+      "Seu vôo é silencioso. Ele usa sua longa cauda para carregar sua presa ... Então suas presas alongadas fazem o resto.",
+    evolution: {
+      prev: ["207", "hold Razor Fang, Nighttime"],
+    },
     profile: {
       height: "2 m",
       weight: "42.5 kg",
@@ -19159,12 +18525,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/472.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/472.png",
-      hires:
-        "./Imagens/Pokedex/hires/472.png",
+      sprite: "./Imagens/Pokedex/sprites/472.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/472.png",
+      hires: "./Imagens/Pokedex/hires/472.png",
     },
   },
   {
@@ -19186,8 +18549,10 @@ const POKEDEX_JSON = [
     },
     species: "Twin Tusk Pokémon",
     description:
-      "Its impressive tusks are made of ice. The population thinned when it turned warm after the ice age.",
-    evolution: { prev: ["221", "after Ancient Power learned"] },
+      "Suas presas impressionantes são feitas de gelo. A população diminuiu quando ficou quente após a era do gelo.",
+    evolution: {
+      prev: ["221", "after Ancient Power learned"],
+    },
     profile: {
       height: "2.5 m",
       weight: "291 kg",
@@ -19200,12 +18565,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/473.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/473.png",
-      hires:
-        "./Imagens/Pokedex/hires/473.png",
+      sprite: "./Imagens/Pokedex/sprites/473.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/473.png",
+      hires: "./Imagens/Pokedex/hires/473.png",
     },
   },
   {
@@ -19227,8 +18589,10 @@ const POKEDEX_JSON = [
     },
     species: "Virtual Pokémon",
     description:
-      "A faulty update was added to its programming. Its behavior is noticeably strange, so the experiment may have been a failure.",
-    evolution: { prev: ["233", "trade holding Dubious Disc"] },
+      "Uma atualização defeituosa foi adicionada à sua programação. Seu comportamento é notavelmente estranho, por isso o experimento pode ter sido um fracasso.",
+    evolution: {
+      prev: ["233", "trade holding Dubious Disc"],
+    },
     profile: {
       height: "0.9 m",
       weight: "34 kg",
@@ -19241,12 +18605,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/474.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/474.png",
-      hires:
-        "./Imagens/Pokedex/hires/474.png",
+      sprite: "./Imagens/Pokedex/sprites/474.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/474.png",
+      hires: "./Imagens/Pokedex/hires/474.png",
     },
   },
   {
@@ -19268,8 +18629,10 @@ const POKEDEX_JSON = [
     },
     species: "Blade Pokémon",
     description:
-      "A master of courtesy and swordsmanship, it fights using extending swords on its elbows.",
-    evolution: { prev: ["281", "use Dawn Stone, Male"] },
+      "Um mestre da cortesia e da esgrima, ele luta usando espadas extensíveis em seus cotovelos.",
+    evolution: {
+      prev: ["281", "use Dawn Stone, Male"],
+    },
     profile: {
       height: "1.6 m",
       weight: "52 kg",
@@ -19281,12 +18644,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/475.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/475.png",
-      hires:
-        "./Imagens/Pokedex/hires/475.png",
+      sprite: "./Imagens/Pokedex/sprites/475.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/475.png",
+      hires: "./Imagens/Pokedex/hires/475.png",
     },
   },
   {
@@ -19308,8 +18668,10 @@ const POKEDEX_JSON = [
     },
     species: "Compass Pokémon",
     description:
-      "It uses three small units to catch prey and battle enemies. The main body mostly just gives orders.",
-    evolution: { prev: ["299", "level up in a Magnetic Field area"] },
+      "Ele usa três pequenas unidades para capturar presas e lutar contra inimigos. O corpo principal apenas dá ordens.",
+    evolution: {
+      prev: ["299", "level up in a Magnetic Field area"],
+    },
     profile: {
       height: "1.4 m",
       weight: "340 kg",
@@ -19322,12 +18684,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/476.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/476.png",
-      hires:
-        "./Imagens/Pokedex/hires/476.png",
+      sprite: "./Imagens/Pokedex/sprites/476.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/476.png",
+      hires: "./Imagens/Pokedex/hires/476.png",
     },
   },
   {
@@ -19349,8 +18708,10 @@ const POKEDEX_JSON = [
     },
     species: "Gripper Pokémon",
     description:
-      "The antenna on its head captures radio waves from the world of spirits that command it to take people there.",
-    evolution: { prev: ["356", "trade holding Reaper Cloth"] },
+      "A antena em sua cabeça capta ondas de rádio do mundo dos espíritos que o ordenam a levar as pessoas para lá.",
+    evolution: {
+      prev: ["356", "trade holding Reaper Cloth"],
+    },
     profile: {
       height: "2.2 m",
       weight: "106.6 kg",
@@ -19362,12 +18723,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/477.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/477.png",
-      hires:
-        "./Imagens/Pokedex/hires/477.png",
+      sprite: "./Imagens/Pokedex/sprites/477.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/477.png",
+      hires: "./Imagens/Pokedex/hires/477.png",
     },
   },
   {
@@ -19389,8 +18747,10 @@ const POKEDEX_JSON = [
     },
     species: "Snow Land Pokémon",
     description:
-      "It’s said that on nights of terrible blizzards, it comes down to human settlements. If you hear it knocking at your door, do not open it!",
-    evolution: { prev: ["361", "use Dawn Stone, Female"] },
+      "Diz-se que, nas noites de terríveis tempestades de neve, ele desce para povoados humanos. Se você ouvi-lo batendo à sua porta, não abra!",
+    evolution: {
+      prev: ["361", "use Dawn Stone, Female"],
+    },
     profile: {
       height: "1.3 m",
       weight: "26.6 kg",
@@ -19402,12 +18762,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/478.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/478.png",
-      hires:
-        "./Imagens/Pokedex/hires/478.png",
+      sprite: "./Imagens/Pokedex/sprites/478.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/478.png",
+      hires: "./Imagens/Pokedex/hires/478.png",
     },
   },
   {
@@ -19429,7 +18786,7 @@ const POKEDEX_JSON = [
     },
     species: "Plasma Pokémon",
     description:
-      "Its body is composed of plasma. It is known to infiltrate electronic devices and wreak havoc.",
+      "Seu corpo é composto de plasma. É conhecido por infiltrar dispositivos eletrônicos e causar estragos.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -19439,12 +18796,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/479.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/479.png",
-      hires:
-        "./Imagens/Pokedex/hires/479.png",
+      sprite: "./Imagens/Pokedex/sprites/479.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/479.png",
+      hires: "./Imagens/Pokedex/hires/479.png",
     },
   },
   {
@@ -19466,7 +18820,7 @@ const POKEDEX_JSON = [
     },
     species: "Knowledge Pokémon",
     description:
-      "It is said that its emergence gave humans the intelligence to improve their quality of life.",
+      "Diz-se que seu surgimento deu aos humanos a inteligência para melhorar sua qualidade de vida.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -19476,12 +18830,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/480.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/480.png",
-      hires:
-        "./Imagens/Pokedex/hires/480.png",
+      sprite: "./Imagens/Pokedex/sprites/480.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/480.png",
+      hires: "./Imagens/Pokedex/hires/480.png",
     },
   },
   {
@@ -19503,7 +18854,7 @@ const POKEDEX_JSON = [
     },
     species: "Emotion Pokémon",
     description:
-      "It sleeps at the bottom of a lake. Its spirit is said to leave its body to fly on the lake’s surface.",
+      "Ele dorme no fundo de um lago. Diz-se que seu espírito deixa seu corpo para voar na superfície do lago.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -19513,12 +18864,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/481.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/481.png",
-      hires:
-        "./Imagens/Pokedex/hires/481.png",
+      sprite: "./Imagens/Pokedex/sprites/481.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/481.png",
+      hires: "./Imagens/Pokedex/hires/481.png",
     },
   },
   {
@@ -19540,7 +18888,7 @@ const POKEDEX_JSON = [
     },
     species: "Willpower Pokémon",
     description:
-      "It is thought that Uxie, Mesprit, and Azelf all came from the same egg.",
+      "Acredita-se que Uxie, Mesprit e Azelf vieram todos do mesmo ovo.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -19550,12 +18898,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/482.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/482.png",
-      hires:
-        "./Imagens/Pokedex/hires/482.png",
+      sprite: "./Imagens/Pokedex/sprites/482.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/482.png",
+      hires: "./Imagens/Pokedex/hires/482.png",
     },
   },
   {
@@ -19577,7 +18922,7 @@ const POKEDEX_JSON = [
     },
     species: "Temporal Pokémon",
     description:
-      "It has the power to control time. It appears in Sinnoh-region myths as an ancient deity.",
+      "Ele tem o poder de controlar o tempo. Ele aparece em mitos da região de Sinnoh como uma divindade antiga.",
     evolution: {},
     profile: {
       height: "5.4 m",
@@ -19590,12 +18935,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/483.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/483.png",
-      hires:
-        "./Imagens/Pokedex/hires/483.png",
+      sprite: "./Imagens/Pokedex/sprites/483.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/483.png",
+      hires: "./Imagens/Pokedex/hires/483.png",
     },
   },
   {
@@ -19617,7 +18959,7 @@ const POKEDEX_JSON = [
     },
     species: "Spatial Pokémon",
     description:
-      "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+      "Ele tem a capacidade de distorcer o espaço. É descrito como uma divindade na mitologia da região de Sinnoh.",
     evolution: {},
     profile: {
       height: "4.2 m",
@@ -19630,12 +18972,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/484.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/484.png",
-      hires:
-        "./Imagens/Pokedex/hires/484.png",
+      sprite: "./Imagens/Pokedex/sprites/484.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/484.png",
+      hires: "./Imagens/Pokedex/hires/484.png",
     },
   },
   {
@@ -19657,7 +18996,7 @@ const POKEDEX_JSON = [
     },
     species: "Lava Dome Pokémon",
     description:
-      "Boiling blood, like magma, circulates through its body. It makes its dwelling place in volcanic caves.",
+      "Sangue fervente, como magma, circula em seu corpo. Ele faz sua morada em cavernas vulcânicas.",
     evolution: {},
     profile: {
       height: "1.7 m",
@@ -19670,12 +19009,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/485.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/485.png",
-      hires:
-        "./Imagens/Pokedex/hires/485.png",
+      sprite: "./Imagens/Pokedex/sprites/485.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/485.png",
+      hires: "./Imagens/Pokedex/hires/485.png",
     },
   },
   {
@@ -19697,7 +19033,7 @@ const POKEDEX_JSON = [
     },
     species: "Colossal Pokémon",
     description:
-      "There is an enduring legend that states this Pokémon towed continents with ropes.",
+      "Existe uma lenda duradoura que afirma que este Pokémon rebocava continentes com cordas.",
     evolution: {},
     profile: {
       height: "3.7 m",
@@ -19707,12 +19043,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/486.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/486.png",
-      hires:
-        "./Imagens/Pokedex/hires/486.png",
+      sprite: "./Imagens/Pokedex/sprites/486.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/486.png",
+      hires: "./Imagens/Pokedex/hires/486.png",
     },
   },
   {
@@ -19734,7 +19067,7 @@ const POKEDEX_JSON = [
     },
     species: "Renegade Pokémon",
     description:
-      "It was banished for its violence. It silently gazed upon the old world from the Distortion World.",
+      "Ele foi banido por sua violência. Ele observou silenciosamente o velho mundo do Mundo da Distorção.",
     evolution: {},
     profile: {
       height: "4.5 m",
@@ -19747,12 +19080,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/487.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/487.png",
-      hires:
-        "./Imagens/Pokedex/hires/487.png",
+      sprite: "./Imagens/Pokedex/sprites/487.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/487.png",
+      hires: "./Imagens/Pokedex/hires/487.png",
     },
   },
   {
@@ -19774,7 +19104,7 @@ const POKEDEX_JSON = [
     },
     species: "Lunar Pokémon",
     description:
-      "Those who sleep holding Cresselia’s feather are assured of joyful dreams. It is said to represent the crescent moon.",
+      "Aqueles que dormem segurando a pena de Cresselia têm a certeza de ter sonhos alegres. Diz-se que representa a lua crescente.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -19784,12 +19114,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/488.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/488.png",
-      hires:
-        "./Imagens/Pokedex/hires/488.png",
+      sprite: "./Imagens/Pokedex/sprites/488.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/488.png",
+      hires: "./Imagens/Pokedex/hires/488.png",
     },
   },
   {
@@ -19811,7 +19138,7 @@ const POKEDEX_JSON = [
     },
     species: "Sea Drifter Pokémon",
     description:
-      "It drifts in warm seas. It always returns to where it was born, no matter how far it may have drifted.",
+      "Ele flutua em mares quentes. Ele sempre retorna ao lugar onde nasceu, não importa quão longe tenha flutuado.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -19821,12 +19148,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/489.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/489.png",
-      hires:
-        "./Imagens/Pokedex/hires/489.png",
+      sprite: "./Imagens/Pokedex/sprites/489.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/489.png",
+      hires: "./Imagens/Pokedex/hires/489.png",
     },
   },
   {
@@ -19848,7 +19172,7 @@ const POKEDEX_JSON = [
     },
     species: "Seafaring Pokémon",
     description:
-      "It starts its life with a wondrous power that permits it to bond with any kind of Pokémon.",
+      "Ele começa sua vida com um poder maravilhoso que lhe permite se conectar com qualquer tipo de Pokémon.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -19858,12 +19182,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/490.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/490.png",
-      hires:
-        "./Imagens/Pokedex/hires/490.png",
+      sprite: "./Imagens/Pokedex/sprites/490.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/490.png",
+      hires: "./Imagens/Pokedex/hires/490.png",
     },
   },
   {
@@ -19885,7 +19206,7 @@ const POKEDEX_JSON = [
     },
     species: "Pitch-Black Pokémon",
     description:
-      "It can lull people to sleep and make them dream. It is active during nights of the new moon.",
+      "Ele pode adormecer as pessoas e fazê-las sonhar. Ele é ativo durante as noites da lua nova.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -19895,12 +19216,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/491.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/491.png",
-      hires:
-        "./Imagens/Pokedex/hires/491.png",
+      sprite: "./Imagens/Pokedex/sprites/491.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/491.png",
+      hires: "./Imagens/Pokedex/hires/491.png",
     },
   },
   {
@@ -19922,7 +19240,7 @@ const POKEDEX_JSON = [
     },
     species: "Gratitude Pokémon",
     description:
-      "The blooming of Gracidea flowers confers the power of flight upon it. Feelings of gratitude are the message it delivers.",
+      "A floração das flores Gracidea confere a ele o poder do vôo. Sentimentos de gratidão são a mensagem que ele entrega.",
     evolution: {},
     profile: {
       height: "0.2 m",
@@ -19932,12 +19250,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/492.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/492.png",
-      hires:
-        "./Imagens/Pokedex/hires/492.png",
+      sprite: "./Imagens/Pokedex/sprites/492.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/492.png",
+      hires: "./Imagens/Pokedex/hires/492.png",
     },
   },
   {
@@ -19959,7 +19274,7 @@ const POKEDEX_JSON = [
     },
     species: "Alpha Pokémon",
     description:
-      "It is told in mythology that this Pokémon was born before the universe even existed.",
+      "É contado na mitologia que este Pokémon nasceu antes mesmo da existência do universo.",
     evolution: {},
     profile: {
       height: "3.2 m",
@@ -19969,12 +19284,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/493.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/493.png",
-      hires:
-        "./Imagens/Pokedex/hires/493.png",
+      sprite: "./Imagens/Pokedex/sprites/493.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/493.png",
+      hires: "./Imagens/Pokedex/hires/493.png",
     },
   },
   {
@@ -19996,7 +19308,7 @@ const POKEDEX_JSON = [
     },
     species: "Victory Pokémon",
     description:
-      "When it shares the infinite energy it creates, that being’s entire body will be overflowing with power.",
+      "Quando compartilha a energia infinita que cria, todo o corpo daquele ser ficará transbordando de poder.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -20006,12 +19318,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/494.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/494.png",
-      hires:
-        "./Imagens/Pokedex/hires/494.png",
+      sprite: "./Imagens/Pokedex/sprites/494.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/494.png",
+      hires: "./Imagens/Pokedex/hires/494.png",
     },
   },
   {
@@ -20033,8 +19342,10 @@ const POKEDEX_JSON = [
     },
     species: "Grass Snake Pokémon",
     description:
-      "They photosynthesize by bathing their tails in sunlight. When they are not feeling well, their tails droop.",
-    evolution: { next: [["496", "Level 17"]] },
+      "Eles fazem fotossíntese banhando suas caudas na luz do sol. Quando não estão se sentindo bem, suas caudas caem.",
+    evolution: {
+      next: [["496", "Level 17"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "8.1 kg",
@@ -20046,12 +19357,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/495.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/495.png",
-      hires:
-        "./Imagens/Pokedex/hires/495.png",
+      sprite: "./Imagens/Pokedex/sprites/495.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/495.png",
+      hires: "./Imagens/Pokedex/hires/495.png",
     },
   },
   {
@@ -20073,8 +19381,11 @@ const POKEDEX_JSON = [
     },
     species: "Grass Snake Pokémon",
     description:
-      "When it gets dirty, its leaves can’t be used in photosynthesis, so it always keeps itself clean.",
-    evolution: { prev: ["495", "Level 17"], next: [["497", "Level 36"]] },
+      "Quando fica sujo, suas folhas não podem ser usadas na fotossíntese, por isso ele sempre se mantém limpo.",
+    evolution: {
+      prev: ["495", "Level 17"],
+      next: [["497", "Level 36"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "16 kg",
@@ -20086,12 +19397,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/496.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/496.png",
-      hires:
-        "./Imagens/Pokedex/hires/496.png",
+      sprite: "./Imagens/Pokedex/sprites/496.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/496.png",
+      hires: "./Imagens/Pokedex/hires/496.png",
     },
   },
   {
@@ -20113,8 +19421,10 @@ const POKEDEX_JSON = [
     },
     species: "Regal Pokémon",
     description:
-      "It can stop its opponents’ movements with just a glare. It takes in solar energy and boosts it internally.",
-    evolution: { prev: ["496", "Level 36"] },
+      "Ele pode parar os movimentos de seus oponentes com apenas um olhar. Ele absorve energia solar e a aumenta internamente.",
+    evolution: {
+      prev: ["496", "Level 36"],
+    },
     profile: {
       height: "3.3 m",
       weight: "63 kg",
@@ -20126,12 +19436,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/497.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/497.png",
-      hires:
-        "./Imagens/Pokedex/hires/497.png",
+      sprite: "./Imagens/Pokedex/sprites/497.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/497.png",
+      hires: "./Imagens/Pokedex/hires/497.png",
     },
   },
   {
@@ -20153,8 +19460,10 @@ const POKEDEX_JSON = [
     },
     species: "Fire Pig Pokémon",
     description:
-      "It loves to eat roasted berries, but sometimes it gets too excited and burns them to a crisp.",
-    evolution: { next: [["499", "Level 17"]] },
+      "Ele adora comer bagas torradas, mas às vezes fica muito animado e as queima até o limite.",
+    evolution: {
+      next: [["499", "Level 17"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9.9 kg",
@@ -20166,12 +19475,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/498.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/498.png",
-      hires:
-        "./Imagens/Pokedex/hires/498.png",
+      sprite: "./Imagens/Pokedex/sprites/498.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/498.png",
+      hires: "./Imagens/Pokedex/hires/498.png",
     },
   },
   {
@@ -20193,8 +19499,11 @@ const POKEDEX_JSON = [
     },
     species: "Fire Pig Pokémon",
     description:
-      "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
-    evolution: { prev: ["498", "Level 17"], next: [["500", "Level 36"]] },
+      "Quando seu fogo interno aumenta, seus movimentos ficam mais nítidos e rápidos. Quando está com problemas, ele emite fumaça.",
+    evolution: {
+      prev: ["498", "Level 17"],
+      next: [["500", "Level 36"]],
+    },
     profile: {
       height: "1 m",
       weight: "55.5 kg",
@@ -20206,12 +19515,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/499.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/499.png",
-      hires:
-        "./Imagens/Pokedex/hires/499.png",
+      sprite: "./Imagens/Pokedex/sprites/499.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/499.png",
+      hires: "./Imagens/Pokedex/hires/499.png",
     },
   },
   {
@@ -20233,8 +19539,10 @@ const POKEDEX_JSON = [
     },
     species: "Mega Fire Pig Pokémon",
     description:
-      "It has mastered fast and powerful fighting moves. It grows a beard of fire.",
-    evolution: { prev: ["499", "Level 36"] },
+      "Ele dominou movimentos de luta rápidos e poderosos. Ele cultiva uma barba de fogo.",
+    evolution: {
+      prev: ["499", "Level 36"],
+    },
     profile: {
       height: "1.6 m",
       weight: "150 kg",
@@ -20246,12 +19554,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/500.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/500.png",
-      hires:
-        "./Imagens/Pokedex/hires/500.png",
+      sprite: "./Imagens/Pokedex/sprites/500.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/500.png",
+      hires: "./Imagens/Pokedex/hires/500.png",
     },
   },
   {
@@ -20273,8 +19578,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Otter Pokémon",
     description:
-      "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
-    evolution: { next: [["502", "Level 17"]] },
+      "Ele luta usando o escalchop em seu estômago. Em resposta a um ataque, ele revida imediatamente cortando.",
+    evolution: {
+      next: [["502", "Level 17"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "5.9 kg",
@@ -20286,12 +19593,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/501.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/501.png",
-      hires:
-        "./Imagens/Pokedex/hires/501.png",
+      sprite: "./Imagens/Pokedex/sprites/501.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/501.png",
+      hires: "./Imagens/Pokedex/hires/501.png",
     },
   },
   {
@@ -20313,8 +19617,11 @@ const POKEDEX_JSON = [
     },
     species: "Discipline Pokémon",
     description:
-      "As a result of strict training, each Dewott learns different forms for using the scalchops.",
-    evolution: { prev: ["501", "Level 17"], next: [["503", "Level 36"]] },
+      "Como resultado de um treinamento rigoroso, cada Dewott aprende formas diferentes de usar os escalchops.",
+    evolution: {
+      prev: ["501", "Level 17"],
+      next: [["503", "Level 36"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "24.5 kg",
@@ -20326,12 +19633,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/502.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/502.png",
-      hires:
-        "./Imagens/Pokedex/hires/502.png",
+      sprite: "./Imagens/Pokedex/sprites/502.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/502.png",
+      hires: "./Imagens/Pokedex/hires/502.png",
     },
   },
   {
@@ -20353,8 +19657,10 @@ const POKEDEX_JSON = [
     },
     species: "Formidable Pokémon",
     description:
-      "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
-    evolution: { prev: ["502", "Level 36"] },
+      "Um único golpe da espada incorporada em sua armadura pode derrubar um oponente. Um simples olhar de um deles silencia todos.",
+    evolution: {
+      prev: ["502", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "94.6 kg",
@@ -20366,12 +19672,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/503.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/503.png",
-      hires:
-        "./Imagens/Pokedex/hires/503.png",
+      sprite: "./Imagens/Pokedex/sprites/503.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/503.png",
+      hires: "./Imagens/Pokedex/hires/503.png",
     },
   },
   {
@@ -20393,8 +19696,10 @@ const POKEDEX_JSON = [
     },
     species: "Scout Pokémon",
     description:
-      "Extremely cautious, one of them will always be on the lookout, but it won’t notice a foe coming from behind.",
-    evolution: { next: [["505", "Level 20"]] },
+      "Extremamente cauteloso, um deles estará sempre de olho, mas não notará um inimigo vindo de trás.",
+    evolution: {
+      next: [["505", "Level 20"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "11.6 kg",
@@ -20407,12 +19712,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/504.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/504.png",
-      hires:
-        "./Imagens/Pokedex/hires/504.png",
+      sprite: "./Imagens/Pokedex/sprites/504.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/504.png",
+      hires: "./Imagens/Pokedex/hires/504.png",
     },
   },
   {
@@ -20434,8 +19736,10 @@ const POKEDEX_JSON = [
     },
     species: "Lookout Pokémon",
     description:
-      "When they see an enemy, their tails stand high, and they spit the seeds of berries stored in their cheek pouches.",
-    evolution: { prev: ["504", "Level 20"] },
+      "Quando veem um inimigo, suas caudas ficam altas e eles cospem as sementes de bagas armazenadas em suas bolsas de bochecha.",
+    evolution: {
+      prev: ["504", "Level 20"],
+    },
     profile: {
       height: "1.1 m",
       weight: "27 kg",
@@ -20448,12 +19752,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/505.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/505.png",
-      hires:
-        "./Imagens/Pokedex/hires/505.png",
+      sprite: "./Imagens/Pokedex/sprites/505.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/505.png",
+      hires: "./Imagens/Pokedex/hires/505.png",
     },
   },
   {
@@ -20475,8 +19776,10 @@ const POKEDEX_JSON = [
     },
     species: "Puppy Pokémon",
     description:
-      "This Pokémon is popular with beginners because it’s intelligent, obedient to its Trainer’s commands, and easy to raise.",
-    evolution: { next: [["507", "Level 16"]] },
+      "Este Pokémon é popular entre iniciantes porque é inteligente, obediente aos comandos de seu treinador e fácil de criar.",
+    evolution: {
+      next: [["507", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "4.1 kg",
@@ -20489,12 +19792,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/506.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/506.png",
-      hires:
-        "./Imagens/Pokedex/hires/506.png",
+      sprite: "./Imagens/Pokedex/sprites/506.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/506.png",
+      hires: "./Imagens/Pokedex/hires/506.png",
     },
   },
   {
@@ -20516,8 +19816,11 @@ const POKEDEX_JSON = [
     },
     species: "Loyal Dog Pokémon",
     description:
-      "It has been living with people for so long that portrayals of it can be found on the walls of caves from long, long ago.",
-    evolution: { prev: ["506", "Level 16"], next: [["508", "Level 32"]] },
+      "Ele vive com as pessoas há tanto tempo que representações dele podem ser encontradas nas paredes de cavernas de muito, muito tempo atrás.",
+    evolution: {
+      prev: ["506", "Level 16"],
+      next: [["508", "Level 32"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "14.7 kg",
@@ -20530,12 +19833,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/507.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/507.png",
-      hires:
-        "./Imagens/Pokedex/hires/507.png",
+      sprite: "./Imagens/Pokedex/sprites/507.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/507.png",
+      hires: "./Imagens/Pokedex/hires/507.png",
     },
   },
   {
@@ -20557,8 +19857,10 @@ const POKEDEX_JSON = [
     },
     species: "Big-Hearted Pokémon",
     description:
-      "Its fur is long and thick. A long time ago in cold regions, every household kept a Stoutland.",
-    evolution: { prev: ["507", "Level 32"] },
+      "Sua pelagem é longa e espessa. Há muito tempo, em regiões frias, todas as famílias mantinham um Stoutland.",
+    evolution: {
+      prev: ["507", "Level 32"],
+    },
     profile: {
       height: "1.2 m",
       weight: "61 kg",
@@ -20571,12 +19873,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/508.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/508.png",
-      hires:
-        "./Imagens/Pokedex/hires/508.png",
+      sprite: "./Imagens/Pokedex/sprites/508.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/508.png",
+      hires: "./Imagens/Pokedex/hires/508.png",
     },
   },
   {
@@ -20598,8 +19897,10 @@ const POKEDEX_JSON = [
     },
     species: "Devious Pokémon",
     description:
-      "They steal from people for fun, but their victims can’t help but forgive them. Their deceptively cute act is perfect.",
-    evolution: { next: [["510", "Level 20"]] },
+      "Eles roubam das pessoas por diversão, mas suas vítimas não podem deixar de perdoá-los. Seu ato enganadoramente fofo é perfeito.",
+    evolution: {
+      next: [["510", "Level 20"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "10.1 kg",
@@ -20612,12 +19913,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/509.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/509.png",
-      hires:
-        "./Imagens/Pokedex/hires/509.png",
+      sprite: "./Imagens/Pokedex/sprites/509.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/509.png",
+      hires: "./Imagens/Pokedex/hires/509.png",
     },
   },
   {
@@ -20639,8 +19937,10 @@ const POKEDEX_JSON = [
     },
     species: "Cruel Pokémon",
     description:
-      "Stealthily, it sneaks up on its target, striking from behind before its victim has a chance to react.",
-    evolution: { prev: ["509", "Level 20"] },
+      "Furtivamente, ele se aproxima de seu alvo, atacando por trás antes que sua vítima tenha chance de reagir.",
+    evolution: {
+      prev: ["509", "Level 20"],
+    },
     profile: {
       height: "1.1 m",
       weight: "37.5 kg",
@@ -20653,12 +19953,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/510.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/510.png",
-      hires:
-        "./Imagens/Pokedex/hires/510.png",
+      sprite: "./Imagens/Pokedex/sprites/510.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/510.png",
+      hires: "./Imagens/Pokedex/hires/510.png",
     },
   },
   {
@@ -20680,8 +19977,10 @@ const POKEDEX_JSON = [
     },
     species: "Grass Monkey Pokémon",
     description:
-      "It’s good at finding berries and gathers them from all over. It’s kind enough to share them with friends.",
-    evolution: { next: [["512", "use Leaf Stone"]] },
+      "Ele é bom em encontrar bagas e as coleta de todos os lugares. Ele é gentil o suficiente para compartilhá-las com amigos.",
+    evolution: {
+      next: [["512", "use Leaf Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "10.5 kg",
@@ -20693,12 +19992,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/511.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/511.png",
-      hires:
-        "./Imagens/Pokedex/hires/511.png",
+      sprite: "./Imagens/Pokedex/sprites/511.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/511.png",
+      hires: "./Imagens/Pokedex/hires/511.png",
     },
   },
   {
@@ -20720,8 +20016,10 @@ const POKEDEX_JSON = [
     },
     species: "Thorn Monkey Pokémon",
     description:
-      "Ill tempered, it fights by swinging its barbed tail around wildly. The leaf growing on its head is very bitter.",
-    evolution: { prev: ["511", "use Leaf Stone"] },
+      "De mau humor, ele luta balançando sua cauda barbelada selvagemente. A folha crescendo em sua cabeça é muito amarga.",
+    evolution: {
+      prev: ["511", "use Leaf Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "30.5 kg",
@@ -20733,12 +20031,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/512.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/512.png",
-      hires:
-        "./Imagens/Pokedex/hires/512.png",
+      sprite: "./Imagens/Pokedex/sprites/512.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/512.png",
+      hires: "./Imagens/Pokedex/hires/512.png",
     },
   },
   {
@@ -20760,8 +20055,10 @@ const POKEDEX_JSON = [
     },
     species: "High Temp Pokémon",
     description:
-      "This Pokémon lives in caves in volcanoes. The fire within the tuft on its head can reach 600 degrees Fahrenheit.",
-    evolution: { next: [["514", "use Fire Stone"]] },
+      "Este Pokémon vive em cavernas em vulcões. O fogo dentro do tufo em sua cabeça pode atingir 600 graus Fahrenheit.",
+    evolution: {
+      next: [["514", "use Fire Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "11 kg",
@@ -20773,12 +20070,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/513.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/513.png",
-      hires:
-        "./Imagens/Pokedex/hires/513.png",
+      sprite: "./Imagens/Pokedex/sprites/513.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/513.png",
+      hires: "./Imagens/Pokedex/hires/513.png",
     },
   },
   {
@@ -20800,8 +20094,10 @@ const POKEDEX_JSON = [
     },
     species: "Ember Pokémon",
     description:
-      "When it gets excited, embers rise from its head and tail and it gets hot. For some reason, it loves sweets.",
-    evolution: { prev: ["513", "use Fire Stone"] },
+      "Quando fica animado, brasas saem de sua cabeça e cauda e ele fica quente. Por alguma razão, ele adora doces.",
+    evolution: {
+      prev: ["513", "use Fire Stone"],
+    },
     profile: {
       height: "1 m",
       weight: "28 kg",
@@ -20813,12 +20109,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/514.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/514.png",
-      hires:
-        "./Imagens/Pokedex/hires/514.png",
+      sprite: "./Imagens/Pokedex/sprites/514.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/514.png",
+      hires: "./Imagens/Pokedex/hires/514.png",
     },
   },
   {
@@ -20840,8 +20133,10 @@ const POKEDEX_JSON = [
     },
     species: "Spray Pokémon",
     description:
-      "The water stored inside the tuft on its head is full of nutrients. Plants that receive its water grow large.",
-    evolution: { next: [["516", "use Water Stone"]] },
+      "A água armazenada dentro do tufo em sua cabeça está cheia de nutrientes. Plantas que recebem sua água crescem grandes.",
+    evolution: {
+      next: [["516", "use Water Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "13.5 kg",
@@ -20853,12 +20148,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/515.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/515.png",
-      hires:
-        "./Imagens/Pokedex/hires/515.png",
+      sprite: "./Imagens/Pokedex/sprites/515.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/515.png",
+      hires: "./Imagens/Pokedex/hires/515.png",
     },
   },
   {
@@ -20880,8 +20172,10 @@ const POKEDEX_JSON = [
     },
     species: "Geyser Pokémon",
     description:
-      "It prefers places with clean water. When its tuft runs low, it replenishes it by siphoning up water with its tail.",
-    evolution: { prev: ["515", "use Water Stone"] },
+      "Ele prefere lugares com água limpa. Quando seu tufo fica baixo, ele o reabastece sifonando água com sua cauda.",
+    evolution: {
+      prev: ["515", "use Water Stone"],
+    },
     profile: {
       height: "1 m",
       weight: "29 kg",
@@ -20893,12 +20187,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/516.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/516.png",
-      hires:
-        "./Imagens/Pokedex/hires/516.png",
+      sprite: "./Imagens/Pokedex/sprites/516.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/516.png",
+      hires: "./Imagens/Pokedex/hires/516.png",
     },
   },
   {
@@ -20920,8 +20211,10 @@ const POKEDEX_JSON = [
     },
     species: "Dream Eater Pokémon",
     description:
-      "It eats the dreams of people and Pokémon. When it eats a pleasant dream, it expels pink-colored mist.",
-    evolution: { next: [["518", "use Moon Stone"]] },
+      "Ele come os sonhos das pessoas e dos Pokémon. Quando come um sonho agradável, ele expele névoa cor-de-rosa.",
+    evolution: {
+      next: [["518", "use Moon Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "23.3 kg",
@@ -20934,12 +20227,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/517.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/517.png",
-      hires:
-        "./Imagens/Pokedex/hires/517.png",
+      sprite: "./Imagens/Pokedex/sprites/517.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/517.png",
+      hires: "./Imagens/Pokedex/hires/517.png",
     },
   },
   {
@@ -20961,8 +20251,10 @@ const POKEDEX_JSON = [
     },
     species: "Drowsing Pokémon",
     description:
-      "The dream mist coming from its forehead changes into many different colors depending on the dream that was eaten.",
-    evolution: { prev: ["517", "use Moon Stone"] },
+      "A névoa dos sonhos que sai de sua testa muda para muitas cores diferentes dependendo do sonho que foi comido.",
+    evolution: {
+      prev: ["517", "use Moon Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "60.5 kg",
@@ -20975,12 +20267,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/518.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/518.png",
-      hires:
-        "./Imagens/Pokedex/hires/518.png",
+      sprite: "./Imagens/Pokedex/sprites/518.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/518.png",
+      hires: "./Imagens/Pokedex/hires/518.png",
     },
   },
   {
@@ -21002,8 +20291,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Pigeon Pokémon",
     description:
-      "These Pokémon live in cities. They are accustomed to people. Flocks often gather in parks and plazas.",
-    evolution: { next: [["520", "Level 21"]] },
+      "Esses Pokémon vivem em cidades. Eles estão acostumados com as pessoas. Bandos costumam se reunir em parques e praças.",
+    evolution: {
+      next: [["520", "Level 21"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.1 kg",
@@ -21016,12 +20307,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/519.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/519.png",
-      hires:
-        "./Imagens/Pokedex/hires/519.png",
+      sprite: "./Imagens/Pokedex/sprites/519.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/519.png",
+      hires: "./Imagens/Pokedex/hires/519.png",
     },
   },
   {
@@ -21043,8 +20331,11 @@ const POKEDEX_JSON = [
     },
     species: "Wild Pigeon Pokémon",
     description:
-      "No matter where in the world it goes, it knows where its nest is, so it never gets separated from its Trainer.",
-    evolution: { prev: ["519", "Level 21"], next: [["521", "Level 32"]] },
+      "Não importa onde vá no mundo, ele sabe onde está seu ninho, por isso nunca se separa de seu treinador.",
+    evolution: {
+      prev: ["519", "Level 21"],
+      next: [["521", "Level 32"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "15 kg",
@@ -21057,12 +20348,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/520.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/520.png",
-      hires:
-        "./Imagens/Pokedex/hires/520.png",
+      sprite: "./Imagens/Pokedex/sprites/520.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/520.png",
+      hires: "./Imagens/Pokedex/hires/520.png",
     },
   },
   {
@@ -21084,8 +20372,10 @@ const POKEDEX_JSON = [
     },
     species: "Proud Pokémon",
     description:
-      "Males have plumage on their heads. They will never let themselves feel close to anyone other than their Trainers.",
-    evolution: { prev: ["520", "Level 32"] },
+      "Machos têm plumagem em suas cabeças. Eles nunca deixarão a si mesmos se sentirem próximos a ninguém além de seus treinadores.",
+    evolution: {
+      prev: ["520", "Level 32"],
+    },
     profile: {
       height: "1.2 m",
       weight: "29 kg",
@@ -21098,12 +20388,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/521.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/521.png",
-      hires:
-        "./Imagens/Pokedex/hires/521.png",
+      sprite: "./Imagens/Pokedex/sprites/521.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/521.png",
+      hires: "./Imagens/Pokedex/hires/521.png",
     },
   },
   {
@@ -21125,8 +20412,10 @@ const POKEDEX_JSON = [
     },
     species: "Electrified Pokémon",
     description:
-      "Its mane shines when it discharges electricity. They use the frequency and rhythm of these flashes to communicate.",
-    evolution: { next: [["523", "Level 27"]] },
+      "Sua juba brilha quando descarrega eletricidade. Eles usam a frequência e o ritmo desses flashes para se comunicar.",
+    evolution: {
+      next: [["523", "Level 27"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "29.8 kg",
@@ -21139,12 +20428,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/522.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/522.png",
-      hires:
-        "./Imagens/Pokedex/hires/522.png",
+      sprite: "./Imagens/Pokedex/sprites/522.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/522.png",
+      hires: "./Imagens/Pokedex/hires/522.png",
     },
   },
   {
@@ -21166,8 +20452,10 @@ const POKEDEX_JSON = [
     },
     species: "Thunderbolt Pokémon",
     description:
-      "They have lightning-like movements. When Zebstrika run at full speed, the sound of thunder reverberates.",
-    evolution: { prev: ["522", "Level 27"] },
+      "Eles têm movimentos semelhantes a raios. Quando Zebstrika correm na velocidade máxima, o som do trovão reverbera.",
+    evolution: {
+      prev: ["522", "Level 27"],
+    },
     profile: {
       height: "1.6 m",
       weight: "79.5 kg",
@@ -21180,12 +20468,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/523.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/523.png",
-      hires:
-        "./Imagens/Pokedex/hires/523.png",
+      sprite: "./Imagens/Pokedex/sprites/523.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/523.png",
+      hires: "./Imagens/Pokedex/hires/523.png",
     },
   },
   {
@@ -21207,8 +20492,10 @@ const POKEDEX_JSON = [
     },
     species: "Mantle Pokémon",
     description:
-      "It was found in a fissure in a layer of exposed rock. The material that makes up its body is dirt from several hundred years ago.",
-    evolution: { next: [["525", "Level 25"]] },
+      "Ele foi encontrado em uma fenda em uma camada de rocha exposta. O material que compõe seu corpo é sujeira de várias centenas de anos atrás.",
+    evolution: {
+      next: [["525", "Level 25"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "18 kg",
@@ -21221,12 +20508,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/524.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/524.png",
-      hires:
-        "./Imagens/Pokedex/hires/524.png",
+      sprite: "./Imagens/Pokedex/sprites/524.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/524.png",
+      hires: "./Imagens/Pokedex/hires/524.png",
     },
   },
   {
@@ -21248,8 +20532,11 @@ const POKEDEX_JSON = [
     },
     species: "Ore Pokémon",
     description:
-      "Its orange crystals are lumps of powerful energy. They’re valuable, so Boldore is sometimes targeted for them.",
-    evolution: { prev: ["524", "Level 25"], next: [["526", "Trade"]] },
+      "Seus cristais alaranjados são pedaços de energia poderosa. Eles são valiosos, por isso Boldore é às vezes alvo deles.",
+    evolution: {
+      prev: ["524", "Level 25"],
+      next: [["526", "Trade"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "102 kg",
@@ -21262,12 +20549,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/525.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/525.png",
-      hires:
-        "./Imagens/Pokedex/hires/525.png",
+      sprite: "./Imagens/Pokedex/sprites/525.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/525.png",
+      hires: "./Imagens/Pokedex/hires/525.png",
     },
   },
   {
@@ -21289,8 +20573,10 @@ const POKEDEX_JSON = [
     },
     species: "Compressed Pokémon",
     description:
-      "It absorbs rays of sunlight and shoots out energy. It’s usually lurking deep beneath the surface.",
-    evolution: { prev: ["525", "Trade"] },
+      "Ele absorve raios de luz solar e dispara energia. Normalmente, ele está escondido nas profundezas da superfície.",
+    evolution: {
+      prev: ["525", "Trade"],
+    },
     profile: {
       height: "1.7 m",
       weight: "260 kg",
@@ -21303,12 +20589,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/526.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/526.png",
-      hires:
-        "./Imagens/Pokedex/hires/526.png",
+      sprite: "./Imagens/Pokedex/sprites/526.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/526.png",
+      hires: "./Imagens/Pokedex/hires/526.png",
     },
   },
   {
@@ -21330,8 +20613,10 @@ const POKEDEX_JSON = [
     },
     species: "Bat Pokémon",
     description:
-      "The heart-shaped mark left on a body after a Woobat has been attached to it is said to bring good fortune.",
-    evolution: { next: [["528", "high Friendship"]] },
+      "A marca em forma de coração deixada em um corpo após um Woobat ter sido anexado a ele é considerada de boa sorte.",
+    evolution: {
+      next: [["528", "high Friendship"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "2.1 kg",
@@ -21344,12 +20629,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/527.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/527.png",
-      hires:
-        "./Imagens/Pokedex/hires/527.png",
+      sprite: "./Imagens/Pokedex/sprites/527.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/527.png",
+      hires: "./Imagens/Pokedex/hires/527.png",
     },
   },
   {
@@ -21371,8 +20653,10 @@ const POKEDEX_JSON = [
     },
     species: "Courting Pokémon",
     description:
-      "Anyone who comes into contact with the ultrasonic waves emitted by a courting male experiences a positive mood shift.",
-    evolution: { prev: ["527", "high Friendship"] },
+      "Qualquer pessoa que entre em contato com as ondas ultrassônicas emitidas por um macho cortejando experimenta uma mudança de humor positiva.",
+    evolution: {
+      prev: ["527", "high Friendship"],
+    },
     profile: {
       height: "0.9 m",
       weight: "10.5 kg",
@@ -21385,12 +20669,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/528.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/528.png",
-      hires:
-        "./Imagens/Pokedex/hires/528.png",
+      sprite: "./Imagens/Pokedex/sprites/528.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/528.png",
+      hires: "./Imagens/Pokedex/hires/528.png",
     },
   },
   {
@@ -21412,8 +20693,10 @@ const POKEDEX_JSON = [
     },
     species: "Mole Pokémon",
     description:
-      "By spinning its body, it can dig straight through the ground at a speed of 30 mph.",
-    evolution: { next: [["530", "Level 31"]] },
+      "Girando seu corpo, ele pode cavar direto no chão a uma velocidade de 30 mph.",
+    evolution: {
+      next: [["530", "Level 31"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "8.5 kg",
@@ -21426,12 +20709,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/529.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/529.png",
-      hires:
-        "./Imagens/Pokedex/hires/529.png",
+      sprite: "./Imagens/Pokedex/sprites/529.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/529.png",
+      hires: "./Imagens/Pokedex/hires/529.png",
     },
   },
   {
@@ -21453,8 +20733,10 @@ const POKEDEX_JSON = [
     },
     species: "Subterrene Pokémon",
     description:
-      "More than 300 feet below the surface, they build mazelike nests. Their activity can be destructive to subway tunnels.",
-    evolution: { prev: ["529", "Level 31"] },
+      "Mais de 300 pés abaixo da superfície, eles constroem ninhos labirínticos. Sua atividade pode ser destrutiva para túneis de metrô.",
+    evolution: {
+      prev: ["529", "Level 31"],
+    },
     profile: {
       height: "0.7 m",
       weight: "40.4 kg",
@@ -21467,12 +20749,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/530.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/530.png",
-      hires:
-        "./Imagens/Pokedex/hires/530.png",
+      sprite: "./Imagens/Pokedex/sprites/530.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/530.png",
+      hires: "./Imagens/Pokedex/hires/530.png",
     },
   },
   {
@@ -21494,7 +20773,7 @@ const POKEDEX_JSON = [
     },
     species: "Hearing Pokémon",
     description:
-      "It touches others with the feelers on its ears, using the sound of their heartbeats to tell how they are feeling.",
+      "Ele toca outros com os tentáculos em suas orelhas, usando o som de seus batimentos cardíacos para dizer como estão se sentindo.",
     evolution: {},
     profile: {
       height: "1.1 m",
@@ -21508,12 +20787,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/531.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/531.png",
-      hires:
-        "./Imagens/Pokedex/hires/531.png",
+      sprite: "./Imagens/Pokedex/sprites/531.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/531.png",
+      hires: "./Imagens/Pokedex/hires/531.png",
     },
   },
   {
@@ -21535,8 +20811,10 @@ const POKEDEX_JSON = [
     },
     species: "Muscular Pokémon",
     description:
-      "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
-    evolution: { next: [["533", "Level 25"]] },
+      "Sempre carregando troncos quadrados, eles ajudam na construção. À medida que crescem, carregam troncos maiores.",
+    evolution: {
+      next: [["533", "Level 25"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "12.5 kg",
@@ -21549,12 +20827,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/532.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/532.png",
-      hires:
-        "./Imagens/Pokedex/hires/532.png",
+      sprite: "./Imagens/Pokedex/sprites/532.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/532.png",
+      hires: "./Imagens/Pokedex/hires/532.png",
     },
   },
   {
@@ -21576,8 +20851,11 @@ const POKEDEX_JSON = [
     },
     species: "Muscular Pokémon",
     description:
-      "This Pokémon is so muscular and strongly built that even a group of wrestlers could not make it budge an inch.",
-    evolution: { prev: ["532", "Level 25"], next: [["534", "Trade"]] },
+      "Este Pokémon é tão muscular e fortemente construído que até mesmo um grupo de lutadores não conseguiria fazê-lo mover um centímetro.",
+    evolution: {
+      prev: ["532", "Level 25"],
+      next: [["534", "Trade"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "40 kg",
@@ -21590,12 +20868,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/533.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/533.png",
-      hires:
-        "./Imagens/Pokedex/hires/533.png",
+      sprite: "./Imagens/Pokedex/sprites/533.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/533.png",
+      hires: "./Imagens/Pokedex/hires/533.png",
     },
   },
   {
@@ -21617,8 +20892,10 @@ const POKEDEX_JSON = [
     },
     species: "Muscular Pokémon",
     description:
-      "Rather than rely on force, they master moves that utilize the centrifugal force of spinning concrete.",
-    evolution: { prev: ["533", "Trade"] },
+      "Em vez de confiar na força, eles dominam movimentos que utilizam a força centrífuga de concreto giratório.",
+    evolution: {
+      prev: ["533", "Trade"],
+    },
     profile: {
       height: "1.4 m",
       weight: "87 kg",
@@ -21631,12 +20908,9 @@ const POKEDEX_JSON = [
       gender: "75:25",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/534.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/534.png",
-      hires:
-        "./Imagens/Pokedex/hires/534.png",
+      sprite: "./Imagens/Pokedex/sprites/534.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/534.png",
+      hires: "./Imagens/Pokedex/hires/534.png",
     },
   },
   {
@@ -21658,8 +20932,10 @@ const POKEDEX_JSON = [
     },
     species: "Tadpole Pokémon",
     description:
-      "By vibrating its cheeks, it emits sound waves imperceptible to humans. It uses the rhythm of these sounds to talk.",
-    evolution: { next: [["536", "Level 25"]] },
+      "Vibrando suas bochechas, ele emite ondas sonoras imperceptíveis aos humanos. Ele usa o ritmo desses sons para falar.",
+    evolution: {
+      next: [["536", "Level 25"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "4.5 kg",
@@ -21672,12 +20948,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/535.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/535.png",
-      hires:
-        "./Imagens/Pokedex/hires/535.png",
+      sprite: "./Imagens/Pokedex/sprites/535.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/535.png",
+      hires: "./Imagens/Pokedex/hires/535.png",
     },
   },
   {
@@ -21699,8 +20972,11 @@ const POKEDEX_JSON = [
     },
     species: "Vibration Pokémon",
     description:
-      "It lives in the water and on land. It uses its long, sticky tongue to immobilize its opponents.",
-    evolution: { prev: ["535", "Level 25"], next: [["537", "Level 36"]] },
+      "Ele vive na água e na terra. Ele usa sua língua longa e pegajosa para imobilizar seus oponentes.",
+    evolution: {
+      prev: ["535", "Level 25"],
+      next: [["537", "Level 36"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "17 kg",
@@ -21713,12 +20989,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/536.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/536.png",
-      hires:
-        "./Imagens/Pokedex/hires/536.png",
+      sprite: "./Imagens/Pokedex/sprites/536.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/536.png",
+      hires: "./Imagens/Pokedex/hires/536.png",
     },
   },
   {
@@ -21740,8 +21013,10 @@ const POKEDEX_JSON = [
     },
     species: "Vibration Pokémon",
     description:
-      "They shoot paralyzing liquid from their head bumps. They use vibration to hurt their opponents.",
-    evolution: { prev: ["536", "Level 36"] },
+      "Eles atiram líquido paralisante de seus inchaços na cabeça. Eles usam vibração para machucar seus oponentes.",
+    evolution: {
+      prev: ["536", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "62 kg",
@@ -21754,12 +21029,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/537.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/537.png",
-      hires:
-        "./Imagens/Pokedex/hires/537.png",
+      sprite: "./Imagens/Pokedex/sprites/537.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/537.png",
+      hires: "./Imagens/Pokedex/hires/537.png",
     },
   },
   {
@@ -21781,7 +21053,7 @@ const POKEDEX_JSON = [
     },
     species: "Judo Pokémon",
     description:
-      "When it encounters a foe bigger than itself, it wants to throw it. It changes belts as it gets stronger.",
+      "Quando encontra um inimigo maior que si mesmo, ele quer jogá-lo. Ele muda de cinto à medida que fica mais forte.",
     evolution: {},
     profile: {
       height: "1.3 m",
@@ -21795,12 +21067,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/538.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/538.png",
-      hires:
-        "./Imagens/Pokedex/hires/538.png",
+      sprite: "./Imagens/Pokedex/sprites/538.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/538.png",
+      hires: "./Imagens/Pokedex/hires/538.png",
     },
   },
   {
@@ -21822,7 +21091,7 @@ const POKEDEX_JSON = [
     },
     species: "Karate Pokémon",
     description:
-      "Tying their belts gets them pumped and makes their punches more destructive. Disturbing their training angers them.",
+      "Amarrando seus cintos, eles ficam entusiasmados e seus socos se tornam mais destrutivos. Perturbar seu treinamento os irrita.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -21836,12 +21105,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/539.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/539.png",
-      hires:
-        "./Imagens/Pokedex/hires/539.png",
+      sprite: "./Imagens/Pokedex/sprites/539.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/539.png",
+      hires: "./Imagens/Pokedex/hires/539.png",
     },
   },
   {
@@ -21863,8 +21129,10 @@ const POKEDEX_JSON = [
     },
     species: "Sewing Pokémon",
     description:
-      "Since this Pokémon makes its own clothes out of leaves, it is a popular mascot for fashion designers.",
-    evolution: { next: [["541", "Level 20"]] },
+      "Como este Pokémon faz suas próprias roupas com folhas, ele é um mascote popular para designers de moda.",
+    evolution: {
+      next: [["541", "Level 20"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.5 kg",
@@ -21877,12 +21145,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/540.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/540.png",
-      hires:
-        "./Imagens/Pokedex/hires/540.png",
+      sprite: "./Imagens/Pokedex/sprites/540.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/540.png",
+      hires: "./Imagens/Pokedex/hires/540.png",
     },
   },
   {
@@ -21904,7 +21169,7 @@ const POKEDEX_JSON = [
     },
     species: "Leaf-Wrapped Pokémon",
     description:
-      "It protects itself from the cold by wrapping up in leaves. It stays on the move, eating leaves in forests.",
+      "Ele se protege do frio envolvendo-se em folhas. Ele fica em movimento, comendo folhas nas florestas.",
     evolution: {
       prev: ["540", "Level 20"],
       next: [["542", "high Friendship"]],
@@ -21921,12 +21186,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/541.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/541.png",
-      hires:
-        "./Imagens/Pokedex/hires/541.png",
+      sprite: "./Imagens/Pokedex/sprites/541.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/541.png",
+      hires: "./Imagens/Pokedex/hires/541.png",
     },
   },
   {
@@ -21948,8 +21210,10 @@ const POKEDEX_JSON = [
     },
     species: "Nurturing Pokémon",
     description:
-      "It keeps its eggs warm with heat from fermenting leaves. It also uses leaves to make warm wrappings for Sewaddle.",
-    evolution: { prev: ["541", "high Friendship"] },
+      "Ele mantém seus ovos quentes com o calor da fermentação das folhas. Ele também usa folhas para fazer embrulhos quentes para Sewaddle.",
+    evolution: {
+      prev: ["541", "high Friendship"],
+    },
     profile: {
       height: "1.2 m",
       weight: "20.5 kg",
@@ -21962,12 +21226,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/542.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/542.png",
-      hires:
-        "./Imagens/Pokedex/hires/542.png",
+      sprite: "./Imagens/Pokedex/sprites/542.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/542.png",
+      hires: "./Imagens/Pokedex/hires/542.png",
     },
   },
   {
@@ -21989,8 +21250,10 @@ const POKEDEX_JSON = [
     },
     species: "Centipede Pokémon",
     description:
-      "Its bite injects a potent poison, enough to paralyze large bird Pokémon that try to prey on it.",
-    evolution: { next: [["544", "Level 22"]] },
+      "Sua mordida injeta um veneno potente, suficiente para paralisar grandes Pokémon pássaros que tentam se alimentar dele.",
+    evolution: {
+      next: [["544", "Level 22"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.3 kg",
@@ -22003,12 +21266,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/543.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/543.png",
-      hires:
-        "./Imagens/Pokedex/hires/543.png",
+      sprite: "./Imagens/Pokedex/sprites/543.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/543.png",
+      hires: "./Imagens/Pokedex/hires/543.png",
     },
   },
   {
@@ -22030,8 +21290,11 @@ const POKEDEX_JSON = [
     },
     species: "Curlipede Pokémon",
     description:
-      "It is usually motionless, but when attacked, it rotates at high speed and then crashes into its opponent.",
-    evolution: { prev: ["543", "Level 22"], next: [["545", "Level 30"]] },
+      "Normalmente, ele fica imóvel, mas quando atacado, gira em alta velocidade e depois bate em seu oponente.",
+    evolution: {
+      prev: ["543", "Level 22"],
+      next: [["545", "Level 30"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "58.5 kg",
@@ -22044,12 +21307,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/544.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/544.png",
-      hires:
-        "./Imagens/Pokedex/hires/544.png",
+      sprite: "./Imagens/Pokedex/sprites/544.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/544.png",
+      hires: "./Imagens/Pokedex/hires/544.png",
     },
   },
   {
@@ -22071,8 +21331,10 @@ const POKEDEX_JSON = [
     },
     species: "Megapede Pokémon",
     description:
-      "With quick movements, it chases down its foes, attacking relentlessly with its horns until it prevails.",
-    evolution: { prev: ["544", "Level 30"] },
+      "Com movimentos rápidos, ele persegue seus inimigos, atacando implacavelmente com seus chifres até prevalecer.",
+    evolution: {
+      prev: ["544", "Level 30"],
+    },
     profile: {
       height: "2.5 m",
       weight: "200.5 kg",
@@ -22085,12 +21347,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/545.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/545.png",
-      hires:
-        "./Imagens/Pokedex/hires/545.png",
+      sprite: "./Imagens/Pokedex/sprites/545.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/545.png",
+      hires: "./Imagens/Pokedex/hires/545.png",
     },
   },
   {
@@ -22112,8 +21371,10 @@ const POKEDEX_JSON = [
     },
     species: "Cotton Puff Pokémon",
     description:
-      "When attacked, it expels cotton from its body to create a diversion. The cotton it loses grows back in quickly.",
-    evolution: { next: [["547", "use Sun Stone"]] },
+      "Quando atacado, ele expele algodão de seu corpo para criar uma distração. O algodão que ele perde cresce rapidamente.",
+    evolution: {
+      next: [["547", "use Sun Stone"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "0.6 kg",
@@ -22126,12 +21387,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/546.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/546.png",
-      hires:
-        "./Imagens/Pokedex/hires/546.png",
+      sprite: "./Imagens/Pokedex/sprites/546.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/546.png",
+      hires: "./Imagens/Pokedex/hires/546.png",
     },
   },
   {
@@ -22153,8 +21411,10 @@ const POKEDEX_JSON = [
     },
     species: "Windveiled Pokémon",
     description:
-      "Whimsicott doesn’t live in a fixed location. It floats around on whirling winds, appearing all over the place to perform its mischief.",
-    evolution: { prev: ["546", "use Sun Stone"] },
+      "Whimsicott não vive em um local fixo. Ele flutua em ventos giratórios, aparecendo em todos os lugares para realizar sua travessura.",
+    evolution: {
+      prev: ["546", "use Sun Stone"],
+    },
     profile: {
       height: "0.7 m",
       weight: "6.6 kg",
@@ -22167,12 +21427,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/547.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/547.png",
-      hires:
-        "./Imagens/Pokedex/hires/547.png",
+      sprite: "./Imagens/Pokedex/sprites/547.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/547.png",
+      hires: "./Imagens/Pokedex/hires/547.png",
     },
   },
   {
@@ -22194,8 +21451,10 @@ const POKEDEX_JSON = [
     },
     species: "Bulb Pokémon",
     description:
-      "They prefer clean water and soil. When the environment they live in turns bad, the whole bunch will up and move to a new area.",
-    evolution: { next: [["549", "use Sun Stone"]] },
+      "Eles preferem água e solo limpos. Quando o ambiente em que vivem fica ruim, todo o bando se muda para uma nova área.",
+    evolution: {
+      next: [["549", "use Sun Stone"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "6.6 kg",
@@ -22208,12 +21467,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/548.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/548.png",
-      hires:
-        "./Imagens/Pokedex/hires/548.png",
+      sprite: "./Imagens/Pokedex/sprites/548.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/548.png",
+      hires: "./Imagens/Pokedex/hires/548.png",
     },
   },
   {
@@ -22235,8 +21491,10 @@ const POKEDEX_JSON = [
     },
     species: "Flowering Pokémon",
     description:
-      "It’s well liked by other Pokémon because of its beauty. The flower on its head needs constant care, or it will soon wither and rot.",
-    evolution: { prev: ["548", "use Sun Stone"] },
+      "Ele é bem querido por outros Pokémon por sua beleza. A flor em sua cabeça precisa de cuidados constantes, ou logo murchará e apodrecerá.",
+    evolution: {
+      prev: ["548", "use Sun Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "16.3 kg",
@@ -22249,12 +21507,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/549.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/549.png",
-      hires:
-        "./Imagens/Pokedex/hires/549.png",
+      sprite: "./Imagens/Pokedex/sprites/549.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/549.png",
+      hires: "./Imagens/Pokedex/hires/549.png",
     },
   },
   {
@@ -22276,7 +21531,7 @@ const POKEDEX_JSON = [
     },
     species: "Hostile Pokémon",
     description:
-      "When a school of Basculin appears in a lake, everything else disappears, except for Corphish and Crawdaunt. That’s how violent Basculin are.",
+      "Quando uma escola de Basculin aparece em um lago, tudo o mais desaparece, exceto Corphish e Crawdaunt. Isso mostra o quão violentos são os Basculin.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -22290,12 +21545,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/550.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/550.png",
-      hires:
-        "./Imagens/Pokedex/hires/550.png",
+      sprite: "./Imagens/Pokedex/sprites/550.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/550.png",
+      hires: "./Imagens/Pokedex/hires/550.png",
     },
   },
   {
@@ -22317,8 +21569,10 @@ const POKEDEX_JSON = [
     },
     species: "Desert Croc Pokémon",
     description:
-      "Sandile’s still not good at hunting, so it mostly eats things that have collapsed in the desert. It’s called “the cleaner of the desert.”",
-    evolution: { next: [["552", "Level 29"]] },
+      'Sandile ainda não é bom em caçar, então come principalmente coisas que desabaram no deserto. É chamado de "o limpador do deserto".',
+    evolution: {
+      next: [["552", "Level 29"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "15.2 kg",
@@ -22331,12 +21585,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/551.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/551.png",
-      hires:
-        "./Imagens/Pokedex/hires/551.png",
+      sprite: "./Imagens/Pokedex/sprites/551.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/551.png",
+      hires: "./Imagens/Pokedex/hires/551.png",
     },
   },
   {
@@ -22358,8 +21609,11 @@ const POKEDEX_JSON = [
     },
     species: "Desert Croc Pokémon",
     description:
-      "It buries some of its prey in the sand to use as emergency meals when its hunts are unsuccessful.",
-    evolution: { prev: ["551", "Level 29"], next: [["553", "Level 40"]] },
+      "Ele enterra parte de sua presa na areia para usar como refeições de emergência quando suas caçadas não são bem-sucedidas.",
+    evolution: {
+      prev: ["551", "Level 29"],
+      next: [["553", "Level 40"]],
+    },
     profile: {
       height: "1 m",
       weight: "33.4 kg",
@@ -22372,12 +21626,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/552.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/552.png",
-      hires:
-        "./Imagens/Pokedex/hires/552.png",
+      sprite: "./Imagens/Pokedex/sprites/552.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/552.png",
+      hires: "./Imagens/Pokedex/hires/552.png",
     },
   },
   {
@@ -22399,8 +21650,10 @@ const POKEDEX_JSON = [
     },
     species: "Intimidation Pokémon",
     description:
-      "It conceals itself in sandstorms that Flygon whip up and waits patiently for prey to appear.",
-    evolution: { prev: ["552", "Level 40"] },
+      "Ele se esconde em tempestades de areia que Flygon levantam e espera pacientemente que a presa apareça.",
+    evolution: {
+      prev: ["552", "Level 40"],
+    },
     profile: {
       height: "1.5 m",
       weight: "96.3 kg",
@@ -22413,12 +21666,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/553.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/553.png",
-      hires:
-        "./Imagens/Pokedex/hires/553.png",
+      sprite: "./Imagens/Pokedex/sprites/553.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/553.png",
+      hires: "./Imagens/Pokedex/hires/553.png",
     },
   },
   {
@@ -22440,8 +21690,10 @@ const POKEDEX_JSON = [
     },
     species: "Zen Charm Pokémon",
     description:
-      "When it sleeps, it pulls its limbs into its body and its internal fire goes down to 1,100 degrees Fahrenheit.",
-    evolution: { next: [["555", "use Ice Stone"]] },
+      "Quando dorme, puxa seus membros para dentro de seu corpo e seu fogo interno desce para 1.100 graus Fahrenheit.",
+    evolution: {
+      next: [["555", "use Ice Stone"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "37.5 kg",
@@ -22453,12 +21705,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/554.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/554.png",
-      hires:
-        "./Imagens/Pokedex/hires/554.png",
+      sprite: "./Imagens/Pokedex/sprites/554.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/554.png",
+      hires: "./Imagens/Pokedex/hires/554.png",
     },
   },
   {
@@ -22480,8 +21729,10 @@ const POKEDEX_JSON = [
     },
     species: "Blazing Pokémon",
     description:
-      "Its internal fire burns at 2,500 degrees Fahrenheit, making enough power that it can destroy a dump truck with one punch.",
-    evolution: { prev: ["554", "use Ice Stone"] },
+      "Seu fogo interno queima a 2.500 graus Fahrenheit, produzindo energia suficiente para destruir um caminhão basculante com um soco.",
+    evolution: {
+      prev: ["554", "use Ice Stone"],
+    },
     profile: {
       height: "1.3 m",
       weight: "92.9 kg",
@@ -22493,12 +21744,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/555.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/555.png",
-      hires:
-        "./Imagens/Pokedex/hires/555.png",
+      sprite: "./Imagens/Pokedex/sprites/555.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/555.png",
+      hires: "./Imagens/Pokedex/hires/555.png",
     },
   },
   {
@@ -22520,7 +21768,7 @@ const POKEDEX_JSON = [
     },
     species: "Cactus Pokémon",
     description:
-      "Arid regions are their habitat. They move rhythmically, making a sound similar to maracas.",
+      "Regiões áridas são seu habitat. Eles se movem ritmicamente, fazendo um som semelhante a maracas.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -22534,12 +21782,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/556.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/556.png",
-      hires:
-        "./Imagens/Pokedex/hires/556.png",
+      sprite: "./Imagens/Pokedex/sprites/556.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/556.png",
+      hires: "./Imagens/Pokedex/hires/556.png",
     },
   },
   {
@@ -22561,8 +21806,10 @@ const POKEDEX_JSON = [
     },
     species: "Rock Inn Pokémon",
     description:
-      "When it finds a stone of a suitable size, it secretes a liquid from its mouth to open up a hole to crawl into.",
-    evolution: { next: [["558", "Level 34"]] },
+      "Quando encontra uma pedra de tamanho adequado, ele secreta um líquido de sua boca para abrir um buraco para entrar.",
+    evolution: {
+      next: [["558", "Level 34"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "14.5 kg",
@@ -22575,12 +21822,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/557.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/557.png",
-      hires:
-        "./Imagens/Pokedex/hires/557.png",
+      sprite: "./Imagens/Pokedex/sprites/557.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/557.png",
+      hires: "./Imagens/Pokedex/hires/557.png",
     },
   },
   {
@@ -22602,8 +21846,10 @@ const POKEDEX_JSON = [
     },
     species: "Stone Home Pokémon",
     description:
-      "Competing for territory, Crustle fight viciously. The one whose boulder is broken is the loser of the battle.",
-    evolution: { prev: ["557", "Level 34"] },
+      "Competindo por território, Crustle lutam ferozmente. Aquele cujo bloco é quebrado é o perdedor da batalha.",
+    evolution: {
+      prev: ["557", "Level 34"],
+    },
     profile: {
       height: "1.4 m",
       weight: "200 kg",
@@ -22616,12 +21862,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/558.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/558.png",
-      hires:
-        "./Imagens/Pokedex/hires/558.png",
+      sprite: "./Imagens/Pokedex/sprites/558.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/558.png",
+      hires: "./Imagens/Pokedex/hires/558.png",
     },
   },
   {
@@ -22643,8 +21886,10 @@ const POKEDEX_JSON = [
     },
     species: "Shedding Pokémon",
     description:
-      "It stretches its saggy skin up to its neck to protect itself. The saggier their skin, the more respect they garner.",
-    evolution: { next: [["560", "Level 39"]] },
+      "Ele estica sua pele flácida até o pescoço para se proteger. Quanto mais flácida sua pele, mais respeito eles ganham.",
+    evolution: {
+      next: [["560", "Level 39"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "11.8 kg",
@@ -22657,12 +21902,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/559.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/559.png",
-      hires:
-        "./Imagens/Pokedex/hires/559.png",
+      sprite: "./Imagens/Pokedex/sprites/559.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/559.png",
+      hires: "./Imagens/Pokedex/hires/559.png",
     },
   },
   {
@@ -22684,8 +21926,10 @@ const POKEDEX_JSON = [
     },
     species: "Hoodlum Pokémon",
     description:
-      "It taunts its opponents by spitting. It has a certain territory that it never leaves its whole life long.",
-    evolution: { prev: ["559", "Level 39"] },
+      "Ele provoca seus oponentes cuspindo. Ele tem um determinado território que nunca deixa sua vida inteira.",
+    evolution: {
+      prev: ["559", "Level 39"],
+    },
     profile: {
       height: "1.1 m",
       weight: "30 kg",
@@ -22698,12 +21942,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/560.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/560.png",
-      hires:
-        "./Imagens/Pokedex/hires/560.png",
+      sprite: "./Imagens/Pokedex/sprites/560.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/560.png",
+      hires: "./Imagens/Pokedex/hires/560.png",
     },
   },
   {
@@ -22725,7 +21966,7 @@ const POKEDEX_JSON = [
     },
     species: "Avianoid Pokémon",
     description:
-      "The guardians of an ancient city, they always fly the same route while keeping watch for invaders.",
+      "Os guardiões de uma cidade antiga, eles sempre voam pela mesma rota enquanto vigiam invasores.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -22739,12 +21980,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/561.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/561.png",
-      hires:
-        "./Imagens/Pokedex/hires/561.png",
+      sprite: "./Imagens/Pokedex/sprites/561.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/561.png",
+      hires: "./Imagens/Pokedex/hires/561.png",
     },
   },
   {
@@ -22766,8 +22004,10 @@ const POKEDEX_JSON = [
     },
     species: "Spirit Pokémon",
     description:
-      "Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry.",
-    evolution: { next: [["867", "near Dusty Bowl"]] },
+      "Cada um deles carrega uma máscara que costumava ser seu rosto quando era humano. Às vezes, eles olham para isso e choram.",
+    evolution: {
+      next: [["867", "near Dusty Bowl"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "1.5 kg",
@@ -22776,12 +22016,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/562.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/562.png",
-      hires:
-        "./Imagens/Pokedex/hires/562.png",
+      sprite: "./Imagens/Pokedex/sprites/562.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/562.png",
+      hires: "./Imagens/Pokedex/hires/562.png",
     },
   },
   {
@@ -22803,8 +22040,10 @@ const POKEDEX_JSON = [
     },
     species: "Coffin Pokémon",
     description:
-      "Grave robbers who mistake them for real coffins and get too close end up trapped inside their bodies.",
-    evolution: { prev: ["562", "Level 34"] },
+      "Ladrões de sepulturas que os confundem com caixões de verdade e se aproximam demais acabam presos dentro de seus corpos.",
+    evolution: {
+      prev: ["562", "Level 34"],
+    },
     profile: {
       height: "1.7 m",
       weight: "76.5 kg",
@@ -22813,12 +22052,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/563.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/563.png",
-      hires:
-        "./Imagens/Pokedex/hires/563.png",
+      sprite: "./Imagens/Pokedex/sprites/563.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/563.png",
+      hires: "./Imagens/Pokedex/hires/563.png",
     },
   },
   {
@@ -22840,8 +22076,10 @@ const POKEDEX_JSON = [
     },
     species: "Prototurtle Pokémon",
     description:
-      "Its hunting grounds encompassed a broad area, from the land to more than half a mile deep in the ocean.",
-    evolution: { next: [["565", "Level 37"]] },
+      "Seus terrenos de caça abrangiam uma ampla área, desde a terra até mais de meia milha de profundidade no oceano.",
+    evolution: {
+      next: [["565", "Level 37"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "16.5 kg",
@@ -22854,12 +22092,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/564.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/564.png",
-      hires:
-        "./Imagens/Pokedex/hires/564.png",
+      sprite: "./Imagens/Pokedex/sprites/564.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/564.png",
+      hires: "./Imagens/Pokedex/hires/564.png",
     },
   },
   {
@@ -22881,8 +22116,10 @@ const POKEDEX_JSON = [
     },
     species: "Prototurtle Pokémon",
     description:
-      "Carracosta eats every last bit of the prey it catches, even the shells and bones, to further strengthen its sturdy shell.",
-    evolution: { prev: ["564", "Level 37"] },
+      "Carracosta come cada pedaço da presa que captura, até mesmo as conchas e os ossos, para fortalecer ainda mais sua resistente concha.",
+    evolution: {
+      prev: ["564", "Level 37"],
+    },
     profile: {
       height: "1.2 m",
       weight: "81 kg",
@@ -22895,12 +22132,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/565.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/565.png",
-      hires:
-        "./Imagens/Pokedex/hires/565.png",
+      sprite: "./Imagens/Pokedex/sprites/565.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/565.png",
+      hires: "./Imagens/Pokedex/hires/565.png",
     },
   },
   {
@@ -22922,8 +22156,10 @@ const POKEDEX_JSON = [
     },
     species: "First Bird Pokémon",
     description:
-      "Restored from a fossil, this ancient bird Pokémon has wings but can’t yet fly.",
-    evolution: { next: [["567", "Level 37"]] },
+      "Restaurado de um fóssil, este antigo Pokémon pássaro tem asas, mas ainda não pode voar.",
+    evolution: {
+      next: [["567", "Level 37"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9.5 kg",
@@ -22932,12 +22168,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/566.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/566.png",
-      hires:
-        "./Imagens/Pokedex/hires/566.png",
+      sprite: "./Imagens/Pokedex/sprites/566.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/566.png",
+      hires: "./Imagens/Pokedex/hires/566.png",
     },
   },
   {
@@ -22959,8 +22192,10 @@ const POKEDEX_JSON = [
     },
     species: "First Bird Pokémon",
     description:
-      "Said to be an ancestor of bird Pokémon, the muscles it uses to flap its wings are still weak, so it needs a long runway in order to take off.",
-    evolution: { prev: ["566", "Level 37"] },
+      "Diz-se que é um ancestral de Pokémon pássaro, os músculos que usa para bater suas asas ainda são fracos, por isso precisa de uma longa pista para decolar.",
+    evolution: {
+      prev: ["566", "Level 37"],
+    },
     profile: {
       height: "1.4 m",
       weight: "32 kg",
@@ -22969,12 +22204,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/567.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/567.png",
-      hires:
-        "./Imagens/Pokedex/hires/567.png",
+      sprite: "./Imagens/Pokedex/sprites/567.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/567.png",
+      hires: "./Imagens/Pokedex/hires/567.png",
     },
   },
   {
@@ -22996,8 +22228,10 @@ const POKEDEX_JSON = [
     },
     species: "Trash Bag Pokémon",
     description:
-      "If a young Pokémon or child breathes in the toxic gas that Trubbish belches out, it could be a life-threatening situation.",
-    evolution: { next: [["569", "Level 36"]] },
+      "Se um jovem Pokémon ou criança respirar o gás tóxico que Trubbish exala, pode ser uma situação perigosa.",
+    evolution: {
+      next: [["569", "Level 36"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "31 kg",
@@ -23010,12 +22244,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/568.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/568.png",
-      hires:
-        "./Imagens/Pokedex/hires/568.png",
+      sprite: "./Imagens/Pokedex/sprites/568.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/568.png",
+      hires: "./Imagens/Pokedex/hires/568.png",
     },
   },
   {
@@ -23037,8 +22268,10 @@ const POKEDEX_JSON = [
     },
     species: "Trash Heap Pokémon",
     description:
-      "Some say the reason Garbodor in Alola are a little stronger than their counterparts elsewhere is the presence of Muk, their natural enemy.",
-    evolution: { prev: ["568", "Level 36"] },
+      "Alguns dizem que a razão pela qual Garbodor em Alola são um pouco mais fortes que seus homólogos em outros lugares é a presença de Muk, seu inimigo natural.",
+    evolution: {
+      prev: ["568", "Level 36"],
+    },
     profile: {
       height: "1.9 m",
       weight: "107.3 kg",
@@ -23051,12 +22284,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/569.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/569.png",
-      hires:
-        "./Imagens/Pokedex/hires/569.png",
+      sprite: "./Imagens/Pokedex/sprites/569.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/569.png",
+      hires: "./Imagens/Pokedex/hires/569.png",
     },
   },
   {
@@ -23078,8 +22308,10 @@ const POKEDEX_JSON = [
     },
     species: "Tricky Fox Pokémon",
     description:
-      "If a normally talkative child suddenly stops talking, it may have been replaced by Zorua.",
-    evolution: { next: [["571", "Level 30"]] },
+      "Se uma criança normalmente falante de repente parar de falar, pode ter sido substituída por Zorua.",
+    evolution: {
+      next: [["571", "Level 30"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "12.5 kg",
@@ -23088,12 +22320,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/570.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/570.png",
-      hires:
-        "./Imagens/Pokedex/hires/570.png",
+      sprite: "./Imagens/Pokedex/sprites/570.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/570.png",
+      hires: "./Imagens/Pokedex/hires/570.png",
     },
   },
   {
@@ -23115,8 +22344,10 @@ const POKEDEX_JSON = [
     },
     species: "Illusion Fox Pokémon",
     description:
-      "If it thinks humans are going to discover its den, Zoroark shows them visions that make them wander around in the woods.",
-    evolution: { prev: ["570", "Level 30"] },
+      "Se ele acha que os humanos vão descobrir sua toca, Zoroark mostra a eles visões que os fazem vagar pelas florestas.",
+    evolution: {
+      prev: ["570", "Level 30"],
+    },
     profile: {
       height: "1.6 m",
       weight: "81.1 kg",
@@ -23125,12 +22356,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/571.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/571.png",
-      hires:
-        "./Imagens/Pokedex/hires/571.png",
+      sprite: "./Imagens/Pokedex/sprites/571.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/571.png",
+      hires: "./Imagens/Pokedex/hires/571.png",
     },
   },
   {
@@ -23152,8 +22380,10 @@ const POKEDEX_JSON = [
     },
     species: "Chinchilla Pokémon",
     description:
-      "When its tail has gotten dirty from self-cleaning or from cleaning its nest, Minccino spends a whole day washing its tail in clean spring water.",
-    evolution: { next: [["573", "use Shiny Stone"]] },
+      "Quando sua cauda fica suja com a autolimpeza ou com a limpeza de seu ninho, Minccino passa um dia inteiro lavando sua cauda em água limpa da primavera.",
+    evolution: {
+      next: [["573", "use Shiny Stone"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.8 kg",
@@ -23166,12 +22396,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/572.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/572.png",
-      hires:
-        "./Imagens/Pokedex/hires/572.png",
+      sprite: "./Imagens/Pokedex/sprites/572.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/572.png",
+      hires: "./Imagens/Pokedex/hires/572.png",
     },
   },
   {
@@ -23193,8 +22420,10 @@ const POKEDEX_JSON = [
     },
     species: "Scarf Pokémon",
     description:
-      "The oil that seeps from its body is really smooth. For people troubled by bad skin, this oil is an effective treatment.",
-    evolution: { prev: ["572", "use Shiny Stone"] },
+      "O óleo que se exala de seu corpo é muito suave. Para pessoas com problemas de pele, este óleo é um tratamento eficaz.",
+    evolution: {
+      prev: ["572", "use Shiny Stone"],
+    },
     profile: {
       height: "0.5 m",
       weight: "7.5 kg",
@@ -23207,12 +22436,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/573.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/573.png",
-      hires:
-        "./Imagens/Pokedex/hires/573.png",
+      sprite: "./Imagens/Pokedex/sprites/573.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/573.png",
+      hires: "./Imagens/Pokedex/hires/573.png",
     },
   },
   {
@@ -23234,8 +22460,10 @@ const POKEDEX_JSON = [
     },
     species: "Fixation Pokémon",
     description:
-      "They intently observe both Trainers and Pokémon. Apparently, they are looking at something that only Gothita can see.",
-    evolution: { next: [["575", "Level 32"]] },
+      "Eles observam atentamente tanto treinadores quanto Pokémon. Aparentemente, eles estão olhando para algo que apenas Gothita pode ver.",
+    evolution: {
+      next: [["575", "Level 32"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.8 kg",
@@ -23248,12 +22476,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/574.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/574.png",
-      hires:
-        "./Imagens/Pokedex/hires/574.png",
+      sprite: "./Imagens/Pokedex/sprites/574.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/574.png",
+      hires: "./Imagens/Pokedex/hires/574.png",
     },
   },
   {
@@ -23275,8 +22500,11 @@ const POKEDEX_JSON = [
     },
     species: "Manipulate Pokémon",
     description:
-      "According to many old tales, it creates friends for itself by controlling sleeping children on starry nights.",
-    evolution: { prev: ["574", "Level 32"], next: [["576", "Level 41"]] },
+      "De acordo com muitos contos antigos, ele cria amigos para si mesmo controlando crianças adormecidas em noites estreladas.",
+    evolution: {
+      prev: ["574", "Level 32"],
+      next: [["576", "Level 41"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "18 kg",
@@ -23289,12 +22517,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/575.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/575.png",
-      hires:
-        "./Imagens/Pokedex/hires/575.png",
+      sprite: "./Imagens/Pokedex/sprites/575.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/575.png",
+      hires: "./Imagens/Pokedex/hires/575.png",
     },
   },
   {
@@ -23316,8 +22541,10 @@ const POKEDEX_JSON = [
     },
     species: "Astral Body Pokémon",
     description:
-      "They can predict the future from the placement and movement of the stars. They can see Trainers’ life spans.",
-    evolution: { prev: ["575", "Level 41"] },
+      "Eles podem prever o futuro a partir da colocação e movimento das estrelas. Eles podem ver a expectativa de vida dos treinadores.",
+    evolution: {
+      prev: ["575", "Level 41"],
+    },
     profile: {
       height: "1.5 m",
       weight: "44 kg",
@@ -23330,12 +22557,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/576.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/576.png",
-      hires:
-        "./Imagens/Pokedex/hires/576.png",
+      sprite: "./Imagens/Pokedex/sprites/576.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/576.png",
+      hires: "./Imagens/Pokedex/hires/576.png",
     },
   },
   {
@@ -23357,8 +22581,10 @@ const POKEDEX_JSON = [
     },
     species: "Cell Pokémon",
     description:
-      "They drive away attackers by unleashing psychic power. They can use telepathy to talk with others.",
-    evolution: { next: [["578", "Level 32"]] },
+      "Eles expulsam atacantes usando poder psíquico. Eles podem usar telepatia para falar com os outros.",
+    evolution: {
+      next: [["578", "Level 32"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1 kg",
@@ -23371,12 +22597,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/577.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/577.png",
-      hires:
-        "./Imagens/Pokedex/hires/577.png",
+      sprite: "./Imagens/Pokedex/sprites/577.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/577.png",
+      hires: "./Imagens/Pokedex/hires/577.png",
     },
   },
   {
@@ -23398,8 +22621,11 @@ const POKEDEX_JSON = [
     },
     species: "Mitosis Pokémon",
     description:
-      "When their two divided brains think the same thoughts, their psychic power is maximized.",
-    evolution: { prev: ["577", "Level 32"], next: [["579", "Level 41"]] },
+      "Quando seus dois cérebros divididos pensam os mesmos pensamentos, seu poder psíquico é maximizado.",
+    evolution: {
+      prev: ["577", "Level 32"],
+      next: [["579", "Level 41"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "8 kg",
@@ -23412,12 +22638,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/578.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/578.png",
-      hires:
-        "./Imagens/Pokedex/hires/578.png",
+      sprite: "./Imagens/Pokedex/sprites/578.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/578.png",
+      hires: "./Imagens/Pokedex/hires/578.png",
     },
   },
   {
@@ -23439,8 +22662,10 @@ const POKEDEX_JSON = [
     },
     species: "Multiplying Pokémon",
     description:
-      "When Reuniclus shake hands, a network forms between their brains, increasing their psychic power.",
-    evolution: { prev: ["578", "Level 41"] },
+      "Quando Reuniclus apertam as mãos, uma rede se forma entre seus cérebros, aumentando seu poder psíquico.",
+    evolution: {
+      prev: ["578", "Level 41"],
+    },
     profile: {
       height: "1 m",
       weight: "20.1 kg",
@@ -23453,12 +22678,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/579.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/579.png",
-      hires:
-        "./Imagens/Pokedex/hires/579.png",
+      sprite: "./Imagens/Pokedex/sprites/579.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/579.png",
+      hires: "./Imagens/Pokedex/hires/579.png",
     },
   },
   {
@@ -23480,8 +22702,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Bird Pokémon",
     description:
-      "They are better at swimming than flying, and they happily eat their favorite food, peat moss, as they dive underwater.",
-    evolution: { next: [["581", "Level 35"]] },
+      "Eles são melhores em nadar do que voar e comem com prazer sua comida favorita, musgo de turfa, enquanto mergulham debaixo d'água.",
+    evolution: {
+      next: [["581", "Level 35"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "5.5 kg",
@@ -23494,12 +22718,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/580.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/580.png",
-      hires:
-        "./Imagens/Pokedex/hires/580.png",
+      sprite: "./Imagens/Pokedex/sprites/580.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/580.png",
+      hires: "./Imagens/Pokedex/hires/580.png",
     },
   },
   {
@@ -23521,8 +22742,10 @@ const POKEDEX_JSON = [
     },
     species: "White Bird Pokémon",
     description:
-      "Swanna start to dance at dusk. The one dancing in the middle is the leader of the flock.",
-    evolution: { prev: ["580", "Level 35"] },
+      "Swanna começam a dançar ao anoitecer. Aquele que dança no meio é o líder do bando.",
+    evolution: {
+      prev: ["580", "Level 35"],
+    },
     profile: {
       height: "1.3 m",
       weight: "24.2 kg",
@@ -23535,12 +22758,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/581.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/581.png",
-      hires:
-        "./Imagens/Pokedex/hires/581.png",
+      sprite: "./Imagens/Pokedex/sprites/581.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/581.png",
+      hires: "./Imagens/Pokedex/hires/581.png",
     },
   },
   {
@@ -23562,8 +22782,10 @@ const POKEDEX_JSON = [
     },
     species: "Fresh Snow Pokémon",
     description:
-      "When the morning sun hit an icicle, it wished not to melt, and thus Vanillite was born. At night, it buries itself in snow to sleep.",
-    evolution: { next: [["583", "Level 35"]] },
+      "Quando o sol da manhã atingiu um pingente de gelo, ele desejou não derreter e assim nasceu Vanillite. À noite, ele se enterra na neve para dormir.",
+    evolution: {
+      next: [["583", "Level 35"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5.7 kg",
@@ -23576,12 +22798,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/582.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/582.png",
-      hires:
-        "./Imagens/Pokedex/hires/582.png",
+      sprite: "./Imagens/Pokedex/sprites/582.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/582.png",
+      hires: "./Imagens/Pokedex/hires/582.png",
     },
   },
   {
@@ -23603,8 +22822,11 @@ const POKEDEX_JSON = [
     },
     species: "Icy Snow Pokémon",
     description:
-      "This hearty Pokémon survived the Ice Age. It’s incredibly popular in very hot regions.",
-    evolution: { prev: ["582", "Level 35"], next: [["584", "Level 47"]] },
+      "Este Pokémon corajoso sobreviveu à Era do Gelo. É incrivelmente popular em regiões muito quentes.",
+    evolution: {
+      prev: ["582", "Level 35"],
+      next: [["584", "Level 47"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "41 kg",
@@ -23617,12 +22839,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/583.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/583.png",
-      hires:
-        "./Imagens/Pokedex/hires/583.png",
+      sprite: "./Imagens/Pokedex/sprites/583.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/583.png",
+      hires: "./Imagens/Pokedex/hires/583.png",
     },
   },
   {
@@ -23644,8 +22863,10 @@ const POKEDEX_JSON = [
     },
     species: "Snowstorm Pokémon",
     description:
-      "Vanilluxe is born when two Vanillish, half-melted by the day’s light, stick to each other and freeze together in the cold return of night.",
-    evolution: { prev: ["583", "Level 47"] },
+      "Vanilluxe nasce quando dois Vanillish, meio derretidos pela luz do dia, se grudam um no outro e congelam juntos no retorno frio da noite.",
+    evolution: {
+      prev: ["583", "Level 47"],
+    },
     profile: {
       height: "1.3 m",
       weight: "57.5 kg",
@@ -23658,12 +22879,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/584.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/584.png",
-      hires:
-        "./Imagens/Pokedex/hires/584.png",
+      sprite: "./Imagens/Pokedex/sprites/584.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/584.png",
+      hires: "./Imagens/Pokedex/hires/584.png",
     },
   },
   {
@@ -23685,8 +22903,10 @@ const POKEDEX_JSON = [
     },
     species: "Season Pokémon",
     description:
-      "The turning of the seasons changes the color and scent of this Pokémon’s fur. People use it to mark the seasons.",
-    evolution: { next: [["586", "Level 34"]] },
+      "A mudança das estações muda a cor e o cheiro da pelagem deste Pokémon. As pessoas usam para marcar as estações.",
+    evolution: {
+      next: [["586", "Level 34"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "19.5 kg",
@@ -23699,12 +22919,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/585.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/585.png",
-      hires:
-        "./Imagens/Pokedex/hires/585.png",
+      sprite: "./Imagens/Pokedex/sprites/585.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/585.png",
+      hires: "./Imagens/Pokedex/hires/585.png",
     },
   },
   {
@@ -23726,8 +22943,10 @@ const POKEDEX_JSON = [
     },
     species: "Season Pokémon",
     description:
-      "They migrate according to the seasons, so some people call Sawsbuck the harbingers of spring.",
-    evolution: { prev: ["585", "Level 34"] },
+      "Eles migram de acordo com as estações, por isso algumas pessoas chamam Sawsbuck de prenúncios da primavera.",
+    evolution: {
+      prev: ["585", "Level 34"],
+    },
     profile: {
       height: "1.9 m",
       weight: "92.5 kg",
@@ -23740,12 +22959,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/586.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/586.png",
-      hires:
-        "./Imagens/Pokedex/hires/586.png",
+      sprite: "./Imagens/Pokedex/sprites/586.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/586.png",
+      hires: "./Imagens/Pokedex/hires/586.png",
     },
   },
   {
@@ -23767,7 +22983,7 @@ const POKEDEX_JSON = [
     },
     species: "Sky Squirrel Pokémon",
     description:
-      "As it flies, it scatters electricity around, so bird Pokémon keep their distance. That’s why Emolga can keep all its food to itself.",
+      "Enquanto voa, ele espalha eletricidade ao redor, por isso os Pokémon pássaro mantêm distância. É por isso que Emolga pode manter toda sua comida para si.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -23780,12 +22996,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/587.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/587.png",
-      hires:
-        "./Imagens/Pokedex/hires/587.png",
+      sprite: "./Imagens/Pokedex/sprites/587.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/587.png",
+      hires: "./Imagens/Pokedex/hires/587.png",
     },
   },
   {
@@ -23807,8 +23020,10 @@ const POKEDEX_JSON = [
     },
     species: "Clamping Pokémon",
     description:
-      "For some reason they evolve when they receive electrical energy while they are attacking Shelmet.",
-    evolution: { next: [["589", "Trade with Shelmet"]] },
+      "Por alguma razão, eles evoluem quando recebem energia elétrica enquanto estão atacando Shelmet.",
+    evolution: {
+      next: [["589", "Trade with Shelmet"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "5.9 kg",
@@ -23821,12 +23036,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/588.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/588.png",
-      hires:
-        "./Imagens/Pokedex/hires/588.png",
+      sprite: "./Imagens/Pokedex/sprites/588.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/588.png",
+      hires: "./Imagens/Pokedex/hires/588.png",
     },
   },
   {
@@ -23848,8 +23060,10 @@ const POKEDEX_JSON = [
     },
     species: "Cavalry Pokémon",
     description:
-      "These Pokémon evolve by wearing the shell covering of a Shelmet. The steel armor protects their whole body.",
-    evolution: { prev: ["588", "Trade with Shelmet"] },
+      "Esses Pokémon evoluem usando a cobertura de concha de um Shelmet. A armadura de aço protege todo o seu corpo.",
+    evolution: {
+      prev: ["588", "Trade with Shelmet"],
+    },
     profile: {
       height: "1 m",
       weight: "33 kg",
@@ -23862,12 +23076,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/589.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/589.png",
-      hires:
-        "./Imagens/Pokedex/hires/589.png",
+      sprite: "./Imagens/Pokedex/sprites/589.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/589.png",
+      hires: "./Imagens/Pokedex/hires/589.png",
     },
   },
   {
@@ -23889,8 +23100,10 @@ const POKEDEX_JSON = [
     },
     species: "Mushroom Pokémon",
     description:
-      "It lures Pokémon with its pattern that looks just like a Poké Ball, then releases poison spores.",
-    evolution: { next: [["591", "Level 39"]] },
+      "Ele atrai Pokémon com seu padrão que parece exatamente com uma Pokébola, depois libera esporos venenosos.",
+    evolution: {
+      next: [["591", "Level 39"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "1 kg",
@@ -23902,12 +23115,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/590.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/590.png",
-      hires:
-        "./Imagens/Pokedex/hires/590.png",
+      sprite: "./Imagens/Pokedex/sprites/590.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/590.png",
+      hires: "./Imagens/Pokedex/hires/590.png",
     },
   },
   {
@@ -23929,8 +23139,10 @@ const POKEDEX_JSON = [
     },
     species: "Mushroom Pokémon",
     description:
-      "It lures prey close by dancing and waving its arm caps, which resemble Poké Balls, in a swaying motion.",
-    evolution: { prev: ["590", "Level 39"] },
+      "Ele atrai presas dançando e acenando com seus bonés de braço, que se assemelham a Pokébolas, em um movimento oscilante.",
+    evolution: {
+      prev: ["590", "Level 39"],
+    },
     profile: {
       height: "0.6 m",
       weight: "10.5 kg",
@@ -23942,12 +23154,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/591.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/591.png",
-      hires:
-        "./Imagens/Pokedex/hires/591.png",
+      sprite: "./Imagens/Pokedex/sprites/591.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/591.png",
+      hires: "./Imagens/Pokedex/hires/591.png",
     },
   },
   {
@@ -23969,8 +23178,10 @@ const POKEDEX_JSON = [
     },
     species: "Floating Pokémon",
     description:
-      "Using the invisible poison spikes on its veillike arms and legs, it paralyzes its enemies and causes them to drown.",
-    evolution: { next: [["593", "Level 40"]] },
+      "Usando os espinhos venenosos invisíveis em seus braços e pernas semelhantes a véus, ele paralisa seus inimigos e faz com que se afoguem.",
+    evolution: {
+      next: [["593", "Level 40"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "33 kg",
@@ -23983,12 +23194,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/592.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/592.png",
-      hires:
-        "./Imagens/Pokedex/hires/592.png",
+      sprite: "./Imagens/Pokedex/sprites/592.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/592.png",
+      hires: "./Imagens/Pokedex/hires/592.png",
     },
   },
   {
@@ -24010,8 +23218,10 @@ const POKEDEX_JSON = [
     },
     species: "Floating Pokémon",
     description:
-      "Fishermen are terrified of Jellicent. It’s rumored to drag them into the sea and steal their lives away.",
-    evolution: { prev: ["592", "Level 40"] },
+      "Pescadores têm medo de Jellicent. Diz-se que ele os arrasta para o mar e rouba suas vidas.",
+    evolution: {
+      prev: ["592", "Level 40"],
+    },
     profile: {
       height: "2.2 m",
       weight: "135 kg",
@@ -24024,12 +23234,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/593.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/593.png",
-      hires:
-        "./Imagens/Pokedex/hires/593.png",
+      sprite: "./Imagens/Pokedex/sprites/593.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/593.png",
+      hires: "./Imagens/Pokedex/hires/593.png",
     },
   },
   {
@@ -24051,7 +23258,7 @@ const POKEDEX_JSON = [
     },
     species: "Caring Pokémon",
     description:
-      "The reason it helps Pokémon in a weakened condition is that any Pokémon coming after them may also attack Alomomola.",
+      "A razão pela qual ele ajuda Pokémon em estado enfraquecido é que qualquer Pokémon que venha atrás deles também pode atacar Alomomola.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -24065,12 +23272,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/594.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/594.png",
-      hires:
-        "./Imagens/Pokedex/hires/594.png",
+      sprite: "./Imagens/Pokedex/sprites/594.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/594.png",
+      hires: "./Imagens/Pokedex/hires/594.png",
     },
   },
   {
@@ -24092,8 +23296,10 @@ const POKEDEX_JSON = [
     },
     species: "Attaching Pokémon",
     description:
-      "They attach themselves to large-bodied Pokémon and absorb static electricity, which they store in an electric pouch.",
-    evolution: { next: [["596", "Level 36"]] },
+      "Eles se apegam a Pokémon de grande porte e absorvem eletricidade estática, que armazenam em uma bolsa elétrica.",
+    evolution: {
+      next: [["596", "Level 36"]],
+    },
     profile: {
       height: "0.1 m",
       weight: "0.6 kg",
@@ -24106,12 +23312,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/595.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/595.png",
-      hires:
-        "./Imagens/Pokedex/hires/595.png",
+      sprite: "./Imagens/Pokedex/sprites/595.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/595.png",
+      hires: "./Imagens/Pokedex/hires/595.png",
     },
   },
   {
@@ -24133,8 +23336,10 @@ const POKEDEX_JSON = [
     },
     species: "EleSpider Pokémon",
     description:
-      "When attacked, they create an electric barrier by spitting out many electrically charged threads.",
-    evolution: { prev: ["595", "Level 36"] },
+      "Quando atacados, eles criam uma barreira elétrica cuspindo muitos fios carregados eletricamente.",
+    evolution: {
+      prev: ["595", "Level 36"],
+    },
     profile: {
       height: "0.8 m",
       weight: "14.3 kg",
@@ -24147,12 +23352,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/596.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/596.png",
-      hires:
-        "./Imagens/Pokedex/hires/596.png",
+      sprite: "./Imagens/Pokedex/sprites/596.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/596.png",
+      hires: "./Imagens/Pokedex/hires/596.png",
     },
   },
   {
@@ -24174,8 +23376,10 @@ const POKEDEX_JSON = [
     },
     species: "Thorn Seed Pokémon",
     description:
-      "It absorbs the iron it finds in the rock while clinging to the ceiling. It shoots spikes when in danger.",
-    evolution: { next: [["598", "Level 40"]] },
+      "Ele absorve o ferro que encontra na rocha enquanto se agarra ao teto. Ele atira espinhos quando está em perigo.",
+    evolution: {
+      next: [["598", "Level 40"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "18.8 kg",
@@ -24184,12 +23388,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/597.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/597.png",
-      hires:
-        "./Imagens/Pokedex/hires/597.png",
+      sprite: "./Imagens/Pokedex/sprites/597.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/597.png",
+      hires: "./Imagens/Pokedex/hires/597.png",
     },
   },
   {
@@ -24211,8 +23412,10 @@ const POKEDEX_JSON = [
     },
     species: "Thorn Pod Pokémon",
     description:
-      "They attach themselves to cave ceilings, firing steel spikes at targets passing beneath them.",
-    evolution: { prev: ["597", "Level 40"] },
+      "Eles se apegam aos tetos das cavernas, disparando espinhos de aço em alvos que passam por baixo deles.",
+    evolution: {
+      prev: ["597", "Level 40"],
+    },
     profile: {
       height: "1 m",
       weight: "110 kg",
@@ -24224,12 +23427,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/598.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/598.png",
-      hires:
-        "./Imagens/Pokedex/hires/598.png",
+      sprite: "./Imagens/Pokedex/sprites/598.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/598.png",
+      hires: "./Imagens/Pokedex/hires/598.png",
     },
   },
   {
@@ -24251,8 +23451,10 @@ const POKEDEX_JSON = [
     },
     species: "Gear Pokémon",
     description:
-      "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
-    evolution: { next: [["600", "Level 38"]] },
+      "As duas minengrenagens que se encaixam são predeterminadas. Cada um irá se recuperar de outras minengrenagens sem engrenar.",
+    evolution: {
+      next: [["600", "Level 38"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "21 kg",
@@ -24265,12 +23467,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/599.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/599.png",
-      hires:
-        "./Imagens/Pokedex/hires/599.png",
+      sprite: "./Imagens/Pokedex/sprites/599.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/599.png",
+      hires: "./Imagens/Pokedex/hires/599.png",
     },
   },
   {
@@ -24292,8 +23491,11 @@ const POKEDEX_JSON = [
     },
     species: "Gear Pokémon",
     description:
-      "A minigear and big gear comprise its body. If the minigear it launches at a foe doesn’t return, it will die.",
-    evolution: { prev: ["599", "Level 38"], next: [["601", "Level 49"]] },
+      "Uma minengrenagem e uma grande engrenagem compõem seu corpo. Se a minengrenagem que ele lança em um inimigo não retornar, ele morrerá.",
+    evolution: {
+      prev: ["599", "Level 38"],
+      next: [["601", "Level 49"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "51 kg",
@@ -24306,12 +23508,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/600.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/600.png",
-      hires:
-        "./Imagens/Pokedex/hires/600.png",
+      sprite: "./Imagens/Pokedex/sprites/600.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/600.png",
+      hires: "./Imagens/Pokedex/hires/600.png",
     },
   },
   {
@@ -24333,8 +23532,10 @@ const POKEDEX_JSON = [
     },
     species: "Gear Pokémon",
     description:
-      "Its red core functions as an energy tank. It fires the charged energy through its spikes into an area.",
-    evolution: { prev: ["600", "Level 49"] },
+      "Seu núcleo vermelho funciona como um tanque de energia. Ele dispara a energia carregada através de seus espinhos em uma área.",
+    evolution: {
+      prev: ["600", "Level 49"],
+    },
     profile: {
       height: "0.6 m",
       weight: "81 kg",
@@ -24347,12 +23548,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/601.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/601.png",
-      hires:
-        "./Imagens/Pokedex/hires/601.png",
+      sprite: "./Imagens/Pokedex/sprites/601.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/601.png",
+      hires: "./Imagens/Pokedex/hires/601.png",
     },
   },
   {
@@ -24374,8 +23572,10 @@ const POKEDEX_JSON = [
     },
     species: "EleFish Pokémon",
     description:
-      "One alone can emit only a trickle of electricity, so a group of them gathers to unleash a powerful electric shock.",
-    evolution: { next: [["603", "Level 39"]] },
+      "Um sozinho só pode emitir um fio de eletricidade, por isso um grupo deles se reúne para liberar um poderoso choque elétrico.",
+    evolution: {
+      next: [["603", "Level 39"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "0.3 kg",
@@ -24384,12 +23584,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/602.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/602.png",
-      hires:
-        "./Imagens/Pokedex/hires/602.png",
+      sprite: "./Imagens/Pokedex/sprites/602.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/602.png",
+      hires: "./Imagens/Pokedex/hires/602.png",
     },
   },
   {
@@ -24411,7 +23608,7 @@ const POKEDEX_JSON = [
     },
     species: "EleFish Pokémon",
     description:
-      "These Pokémon have a big appetite. When they spot their prey, they attack it and paralyze it with electricity.",
+      "Esses Pokémon têm um grande apetite. Quando avistam sua presa, atacam e a paralisam com eletricidade.",
     evolution: {
       prev: ["602", "Level 39"],
       next: [["604", "use Thunder Stone"]],
@@ -24424,12 +23621,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/603.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/603.png",
-      hires:
-        "./Imagens/Pokedex/hires/603.png",
+      sprite: "./Imagens/Pokedex/sprites/603.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/603.png",
+      hires: "./Imagens/Pokedex/hires/603.png",
     },
   },
   {
@@ -24451,8 +23645,10 @@ const POKEDEX_JSON = [
     },
     species: "EleFish Pokémon",
     description:
-      "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
-    evolution: { prev: ["603", "use Thunder Stone"] },
+      "Eles saem do oceano usando seus braços. Eles atacarão presas na costa e imediatamente as arrastarão para o oceano.",
+    evolution: {
+      prev: ["603", "use Thunder Stone"],
+    },
     profile: {
       height: "2.1 m",
       weight: "80.5 kg",
@@ -24461,12 +23657,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/604.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/604.png",
-      hires:
-        "./Imagens/Pokedex/hires/604.png",
+      sprite: "./Imagens/Pokedex/sprites/604.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/604.png",
+      hires: "./Imagens/Pokedex/hires/604.png",
     },
   },
   {
@@ -24488,8 +23681,10 @@ const POKEDEX_JSON = [
     },
     species: "Cerebral Pokémon",
     description:
-      "This Pokémon is shrouded in mystery. It’s said to have appeared from a UFO that fell from the sky about 50 years ago.",
-    evolution: { next: [["606", "Level 42"]] },
+      "Este Pokémon é cercado de mistério. Diz-se que apareceu de um OVNI que caiu do céu há cerca de 50 anos.",
+    evolution: {
+      next: [["606", "Level 42"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9 kg",
@@ -24502,12 +23697,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/605.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/605.png",
-      hires:
-        "./Imagens/Pokedex/hires/605.png",
+      sprite: "./Imagens/Pokedex/sprites/605.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/605.png",
+      hires: "./Imagens/Pokedex/hires/605.png",
     },
   },
   {
@@ -24529,8 +23721,10 @@ const POKEDEX_JSON = [
     },
     species: "Cerebral Pokémon",
     description:
-      "It has strong psychic powers. Using its fingers that flash three different colors, it controls its opponents and rewrites their memories.",
-    evolution: { prev: ["605", "Level 42"] },
+      "Ele tem fortes poderes psíquicos. Usando seus dedos que piscam em três cores diferentes, ele controla seus oponentes e reescreve suas memórias.",
+    evolution: {
+      prev: ["605", "Level 42"],
+    },
     profile: {
       height: "1 m",
       weight: "34.5 kg",
@@ -24543,12 +23737,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/606.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/606.png",
-      hires:
-        "./Imagens/Pokedex/hires/606.png",
+      sprite: "./Imagens/Pokedex/sprites/606.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/606.png",
+      hires: "./Imagens/Pokedex/hires/606.png",
     },
   },
   {
@@ -24570,8 +23761,10 @@ const POKEDEX_JSON = [
     },
     species: "Candle Pokémon",
     description:
-      "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
-    evolution: { next: [["608", "Level 41"]] },
+      "Litwick brilha uma luz que absorve a energia vital das pessoas e dos Pokémon, que se torna o combustível que ele queima.",
+    evolution: {
+      next: [["608", "Level 41"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "3.1 kg",
@@ -24584,12 +23777,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/607.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/607.png",
-      hires:
-        "./Imagens/Pokedex/hires/607.png",
+      sprite: "./Imagens/Pokedex/sprites/607.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/607.png",
+      hires: "./Imagens/Pokedex/hires/607.png",
     },
   },
   {
@@ -24611,7 +23801,7 @@ const POKEDEX_JSON = [
     },
     species: "Lamp Pokémon",
     description:
-      "It arrives near the moment of death and steals spirit from the body.",
+      "Ele chega perto do momento da morte e rouba o espírito do corpo.",
     evolution: {
       prev: ["607", "Level 41"],
       next: [["609", "use Dusk Stone"]],
@@ -24628,12 +23818,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/608.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/608.png",
-      hires:
-        "./Imagens/Pokedex/hires/608.png",
+      sprite: "./Imagens/Pokedex/sprites/608.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/608.png",
+      hires: "./Imagens/Pokedex/hires/608.png",
     },
   },
   {
@@ -24655,8 +23842,10 @@ const POKEDEX_JSON = [
     },
     species: "Luring Pokémon",
     description:
-      "The spirits burned up in its ominous flame lose their way and wander this world forever.",
-    evolution: { prev: ["608", "use Dusk Stone"] },
+      "Os espíritos queimados em sua chama sinistra perdem o caminho e vagam por este mundo para sempre.",
+    evolution: {
+      prev: ["608", "use Dusk Stone"],
+    },
     profile: {
       height: "1 m",
       weight: "34.3 kg",
@@ -24669,12 +23858,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/609.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/609.png",
-      hires:
-        "./Imagens/Pokedex/hires/609.png",
+      sprite: "./Imagens/Pokedex/sprites/609.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/609.png",
+      hires: "./Imagens/Pokedex/hires/609.png",
     },
   },
   {
@@ -24696,8 +23882,10 @@ const POKEDEX_JSON = [
     },
     species: "Tusk Pokémon",
     description:
-      "They mark their territory by leaving gashes in trees with their tusks. If a tusk breaks, a new one grows in quickly.",
-    evolution: { next: [["611", "Level 38"]] },
+      "Eles marcam seu território deixando cortes em árvores com suas presas. Se uma presa quebrar, uma nova cresce rapidamente.",
+    evolution: {
+      next: [["611", "Level 38"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "18 kg",
@@ -24710,12 +23898,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/610.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/610.png",
-      hires:
-        "./Imagens/Pokedex/hires/610.png",
+      sprite: "./Imagens/Pokedex/sprites/610.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/610.png",
+      hires: "./Imagens/Pokedex/hires/610.png",
     },
   },
   {
@@ -24737,8 +23922,11 @@ const POKEDEX_JSON = [
     },
     species: "Axe Jaw Pokémon",
     description:
-      "A broken tusk will not grow back, so it diligently sharpens its tusks on river rocks after the end of a battle.",
-    evolution: { prev: ["610", "Level 38"], next: [["612", "Level 48"]] },
+      "Uma presa quebrada não voltará a crescer, por isso afia diligentemente suas presas nas pedras do rio após o fim de uma batalha.",
+    evolution: {
+      prev: ["610", "Level 38"],
+      next: [["612", "Level 48"]],
+    },
     profile: {
       height: "1 m",
       weight: "36 kg",
@@ -24751,12 +23939,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/611.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/611.png",
-      hires:
-        "./Imagens/Pokedex/hires/611.png",
+      sprite: "./Imagens/Pokedex/sprites/611.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/611.png",
+      hires: "./Imagens/Pokedex/hires/611.png",
     },
   },
   {
@@ -24778,8 +23963,10 @@ const POKEDEX_JSON = [
     },
     species: "Axe Jaw Pokémon",
     description:
-      "Their sturdy tusks will stay sharp even if used to cut steel beams. These Pokémon are covered in hard armor.",
-    evolution: { prev: ["611", "Level 48"] },
+      "Suas presas resistentes permanecerão afiadas mesmo se usadas para cortar vigas de aço. Esses Pokémon são cobertos por uma armadura dura.",
+    evolution: {
+      prev: ["611", "Level 48"],
+    },
     profile: {
       height: "1.8 m",
       weight: "105.5 kg",
@@ -24792,12 +23979,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/612.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/612.png",
-      hires:
-        "./Imagens/Pokedex/hires/612.png",
+      sprite: "./Imagens/Pokedex/sprites/612.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/612.png",
+      hires: "./Imagens/Pokedex/hires/612.png",
     },
   },
   {
@@ -24819,8 +24003,10 @@ const POKEDEX_JSON = [
     },
     species: "Chill Pokémon",
     description:
-      "Their snot is a barometer of health. When healthy, their snot is sticky and the power of their ice moves increases.",
-    evolution: { next: [["614", "Level 37"]] },
+      "Seu muco é um barômetro de saúde. Quando saudável, seu muco é pegajoso e o poder de seus movimentos de gelo aumenta.",
+    evolution: {
+      next: [["614", "Level 37"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "8.5 kg",
@@ -24833,12 +24019,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/613.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/613.png",
-      hires:
-        "./Imagens/Pokedex/hires/613.png",
+      sprite: "./Imagens/Pokedex/sprites/613.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/613.png",
+      hires: "./Imagens/Pokedex/hires/613.png",
     },
   },
   {
@@ -24860,8 +24043,10 @@ const POKEDEX_JSON = [
     },
     species: "Freezing Pokémon",
     description:
-      "It freezes its breath to create fangs and claws of ice to fight with. Cold northern areas are its habitat.",
-    evolution: { prev: ["613", "Level 37"] },
+      "Ele congela sua respiração para criar presas e garras de gelo para lutar. Áreas frias do norte são seu habitat.",
+    evolution: {
+      prev: ["613", "Level 37"],
+    },
     profile: {
       height: "2.6 m",
       weight: "260 kg",
@@ -24874,12 +24059,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/614.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/614.png",
-      hires:
-        "./Imagens/Pokedex/hires/614.png",
+      sprite: "./Imagens/Pokedex/sprites/614.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/614.png",
+      hires: "./Imagens/Pokedex/hires/614.png",
     },
   },
   {
@@ -24901,7 +24083,7 @@ const POKEDEX_JSON = [
     },
     species: "Crystallizing Pokémon",
     description:
-      "They are composed of ice crystals. They capture prey with chains of ice, freezing the prey at -148 degrees Fahrenheit.",
+      "Eles são compostos de cristais de gelo. Capturam presas com correntes de gelo, congelando a presa a -148 graus Fahrenheit.",
     evolution: {},
     profile: {
       height: "1.1 m",
@@ -24911,12 +24093,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/615.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/615.png",
-      hires:
-        "./Imagens/Pokedex/hires/615.png",
+      sprite: "./Imagens/Pokedex/sprites/615.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/615.png",
+      hires: "./Imagens/Pokedex/hires/615.png",
     },
   },
   {
@@ -24938,8 +24117,10 @@ const POKEDEX_JSON = [
     },
     species: "Snail Pokémon",
     description:
-      "It evolves when bathed in an electric-like energy along with Karrablast. The reason is still unknown.",
-    evolution: { next: [["617", "Trade with Karrablast"]] },
+      "Ele evolui quando banhado em uma energia semelhante à elétrica junto com Karrablast. A razão ainda é desconhecida.",
+    evolution: {
+      next: [["617", "Trade with Karrablast"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7.7 kg",
@@ -24952,12 +24133,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/616.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/616.png",
-      hires:
-        "./Imagens/Pokedex/hires/616.png",
+      sprite: "./Imagens/Pokedex/sprites/616.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/616.png",
+      hires: "./Imagens/Pokedex/hires/616.png",
     },
   },
   {
@@ -24979,8 +24157,10 @@ const POKEDEX_JSON = [
     },
     species: "Shell Out Pokémon",
     description:
-      "When its body dries out, it weakens. So, to prevent dehydration, it wraps itself in many layers of thin membrane.",
-    evolution: { prev: ["616", "Trade with Karrablast"] },
+      "Quando seu corpo seca, ele enfraquece. Então, para evitar a desidratação, ele se envolve em muitas camadas de membrana fina.",
+    evolution: {
+      prev: ["616", "Trade with Karrablast"],
+    },
     profile: {
       height: "0.8 m",
       weight: "25.3 kg",
@@ -24993,12 +24173,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/617.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/617.png",
-      hires:
-        "./Imagens/Pokedex/hires/617.png",
+      sprite: "./Imagens/Pokedex/sprites/617.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/617.png",
+      hires: "./Imagens/Pokedex/hires/617.png",
     },
   },
   {
@@ -25020,7 +24197,7 @@ const POKEDEX_JSON = [
     },
     species: "Trap Pokémon",
     description:
-      "It conceals itself in the mud of the seashore. Then it waits. When prey touch it, it delivers a jolt of electricity.",
+      "Ele se esconde na lama da costa. Então ele espera. Quando a presa o toca, ele dá uma descarga de eletricidade.",
     evolution: {},
     profile: {
       height: "0.7 m",
@@ -25034,12 +24211,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/618.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/618.png",
-      hires:
-        "./Imagens/Pokedex/hires/618.png",
+      sprite: "./Imagens/Pokedex/sprites/618.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/618.png",
+      hires: "./Imagens/Pokedex/hires/618.png",
     },
   },
   {
@@ -25061,8 +24235,10 @@ const POKEDEX_JSON = [
     },
     species: "Martial Arts Pokémon",
     description:
-      "They seclude themselves in the mountains and devote themselves to training. The form of their kicks and chops differs from pack to pack.",
-    evolution: { next: [["620", "Level 50"]] },
+      "Eles se isolam nas montanhas e se dedicam ao treinamento. A forma de seus chutes e golpes difere de bando para bando.",
+    evolution: {
+      next: [["620", "Level 50"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "20 kg",
@@ -25075,12 +24251,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/619.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/619.png",
-      hires:
-        "./Imagens/Pokedex/hires/619.png",
+      sprite: "./Imagens/Pokedex/sprites/619.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/619.png",
+      hires: "./Imagens/Pokedex/hires/619.png",
     },
   },
   {
@@ -25102,8 +24275,10 @@ const POKEDEX_JSON = [
     },
     species: "Martial Arts Pokémon",
     description:
-      "When Mienshao lets out a bizarre wail, you’re in danger. A flurry of kicks and chops too fast to see is about to be unleashed!",
-    evolution: { prev: ["619", "Level 50"] },
+      "Quando Mienshao deixa escapar um uivo bizarro, você está em perigo. Uma enxurrada de chutes e golpes rápidos demais para ver está prestes a ser desfechada!",
+    evolution: {
+      prev: ["619", "Level 50"],
+    },
     profile: {
       height: "1.4 m",
       weight: "35.5 kg",
@@ -25116,12 +24291,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/620.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/620.png",
-      hires:
-        "./Imagens/Pokedex/hires/620.png",
+      sprite: "./Imagens/Pokedex/sprites/620.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/620.png",
+      hires: "./Imagens/Pokedex/hires/620.png",
     },
   },
   {
@@ -25143,7 +24315,7 @@ const POKEDEX_JSON = [
     },
     species: "Cave Pokémon",
     description:
-      "It infiltrates tunnels that Pokémon like Diglett and Dugtrio have dug and quietly waits for prey to pass through.",
+      "Ele se infiltra em túneis que Pokémon como Diglett e Dugtrio cavaram e espera silenciosamente que a presa passe por eles.",
     evolution: {},
     profile: {
       height: "1.6 m",
@@ -25157,12 +24329,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/621.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/621.png",
-      hires:
-        "./Imagens/Pokedex/hires/621.png",
+      sprite: "./Imagens/Pokedex/sprites/621.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/621.png",
+      hires: "./Imagens/Pokedex/hires/621.png",
     },
   },
   {
@@ -25184,8 +24353,10 @@ const POKEDEX_JSON = [
     },
     species: "Automaton Pokémon",
     description:
-      "Although ancient people apparently built it by working with clay, the source of its energy is unclear.",
-    evolution: { next: [["623", "Level 43"]] },
+      "Embora os antigos aparentemente o tenham construído trabalhando com argila, a fonte de sua energia é incerta.",
+    evolution: {
+      next: [["623", "Level 43"]],
+    },
     profile: {
       height: "1 m",
       weight: "92 kg",
@@ -25198,12 +24369,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/622.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/622.png",
-      hires:
-        "./Imagens/Pokedex/hires/622.png",
+      sprite: "./Imagens/Pokedex/sprites/622.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/622.png",
+      hires: "./Imagens/Pokedex/hires/622.png",
     },
   },
   {
@@ -25225,8 +24393,10 @@ const POKEDEX_JSON = [
     },
     species: "Automaton Pokémon",
     description:
-      "When the seal on its chest is removed, it rages indiscriminately, turning the whole town around it into a mountain of rubble.",
-    evolution: { prev: ["622", "Level 43"] },
+      "Quando o selo em seu peito é removido, ele fica furioso indiscriminadamente, transformando toda a cidade ao seu redor em uma montanha de entulho.",
+    evolution: {
+      prev: ["622", "Level 43"],
+    },
     profile: {
       height: "2.8 m",
       weight: "330 kg",
@@ -25239,12 +24409,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/623.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/623.png",
-      hires:
-        "./Imagens/Pokedex/hires/623.png",
+      sprite: "./Imagens/Pokedex/sprites/623.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/623.png",
+      hires: "./Imagens/Pokedex/hires/623.png",
     },
   },
   {
@@ -25266,8 +24433,10 @@ const POKEDEX_JSON = [
     },
     species: "Sharp Blade Pokémon",
     description:
-      "It follows Bisharp’s orders to a tee when it attacks enemies. After slashing an opponent, Pawniard clangs both of its blades together.",
-    evolution: { next: [["625", "Level 52"]] },
+      "Ele segue as ordens de Bisharp até o fim quando ataca inimigos. Após cortar um oponente, Pawniard choca suas duas lâminas juntas.",
+    evolution: {
+      next: [["625", "Level 52"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "10.2 kg",
@@ -25280,12 +24449,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/624.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/624.png",
-      hires:
-        "./Imagens/Pokedex/hires/624.png",
+      sprite: "./Imagens/Pokedex/sprites/624.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/624.png",
+      hires: "./Imagens/Pokedex/hires/624.png",
     },
   },
   {
@@ -25307,8 +24473,10 @@ const POKEDEX_JSON = [
     },
     species: "Sword Blade Pokémon",
     description:
-      "It leads a group of Pawniard. Bisharp doesn’t even change its expression when it deals the finishing blow to an opponent.",
-    evolution: { prev: ["624", "Level 52"] },
+      "Ele lidera um grupo de Pawniard. Bisharp nem muda sua expressão quando dá o golpe final em um oponente.",
+    evolution: {
+      prev: ["624", "Level 52"],
+    },
     profile: {
       height: "1.6 m",
       weight: "70 kg",
@@ -25321,12 +24489,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/625.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/625.png",
-      hires:
-        "./Imagens/Pokedex/hires/625.png",
+      sprite: "./Imagens/Pokedex/sprites/625.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/625.png",
+      hires: "./Imagens/Pokedex/hires/625.png",
     },
   },
   {
@@ -25348,7 +24513,7 @@ const POKEDEX_JSON = [
     },
     species: "Bash Buffalo Pokémon",
     description:
-      "Their fluffy fur absorbs damage, even if they strike foes with a fierce headbutt.",
+      "Sua pelagem fofa absorve danos, mesmo que eles golpeiem inimigos com uma cabeçada feroz.",
     evolution: {},
     profile: {
       height: "1.6 m",
@@ -25362,12 +24527,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/626.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/626.png",
-      hires:
-        "./Imagens/Pokedex/hires/626.png",
+      sprite: "./Imagens/Pokedex/sprites/626.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/626.png",
+      hires: "./Imagens/Pokedex/hires/626.png",
     },
   },
   {
@@ -25389,8 +24551,10 @@ const POKEDEX_JSON = [
     },
     species: "Eaglet Pokémon",
     description:
-      "Known as a natural-born warrior, soon after its hatching, it will challenge its parent to a fight in order to gain their acceptance.",
-    evolution: { next: [["628", "Level 54"]] },
+      "Conhecido como um guerreiro nato, logo após seu nascimento, ele desafiará seu pai para uma luta para ganhar sua aceitação.",
+    evolution: {
+      next: [["628", "Level 54"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "10.5 kg",
@@ -25403,12 +24567,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/627.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/627.png",
-      hires:
-        "./Imagens/Pokedex/hires/627.png",
+      sprite: "./Imagens/Pokedex/sprites/627.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/627.png",
+      hires: "./Imagens/Pokedex/hires/627.png",
     },
   },
   {
@@ -25430,8 +24591,10 @@ const POKEDEX_JSON = [
     },
     species: "Valiant Pokémon",
     description:
-      "Known as “the hero of the skies,” this Pokémon is so proud and so brave that it will never retreat, even when it’s injured.",
-    evolution: { prev: ["627", "Level 54"] },
+      'Conhecido como "o herói dos céus", este Pokémon é tão orgulhoso e tão corajoso que nunca recuará, mesmo quando estiver ferido.',
+    evolution: {
+      prev: ["627", "Level 54"],
+    },
     profile: {
       height: "1.5 m",
       weight: "41 kg",
@@ -25444,12 +24607,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/628.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/628.png",
-      hires:
-        "./Imagens/Pokedex/hires/628.png",
+      sprite: "./Imagens/Pokedex/sprites/628.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/628.png",
+      hires: "./Imagens/Pokedex/hires/628.png",
     },
   },
   {
@@ -25471,8 +24631,10 @@ const POKEDEX_JSON = [
     },
     species: "Diapered Pokémon",
     description:
-      "Its healthy appetite leads to visible growth spurts. It often has to replace the bones it wears as its size increases.",
-    evolution: { next: [["630", "Level 54"]] },
+      "Seu apetite saudável leva a surtos de crescimento visíveis. Ele costuma ter que substituir os ossos que usa à medida que seu tamanho aumenta.",
+    evolution: {
+      next: [["630", "Level 54"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9 kg",
@@ -25485,12 +24647,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/629.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/629.png",
-      hires:
-        "./Imagens/Pokedex/hires/629.png",
+      sprite: "./Imagens/Pokedex/sprites/629.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/629.png",
+      hires: "./Imagens/Pokedex/hires/629.png",
     },
   },
   {
@@ -25512,8 +24671,10 @@ const POKEDEX_JSON = [
     },
     species: "Bone Vulture Pokémon",
     description:
-      "It’s always searching for food for Vullaby. When it finds a weak Pokémon, Mandibuzz swoops it right off to its nest.",
-    evolution: { prev: ["629", "Level 54"] },
+      "Ele está sempre procurando comida para Vullaby. Quando encontra um Pokémon fraco, Mandibuzz o arremessa direto para seu ninho.",
+    evolution: {
+      prev: ["629", "Level 54"],
+    },
     profile: {
       height: "1.2 m",
       weight: "39.5 kg",
@@ -25526,12 +24687,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/630.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/630.png",
-      hires:
-        "./Imagens/Pokedex/hires/630.png",
+      sprite: "./Imagens/Pokedex/sprites/630.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/630.png",
+      hires: "./Imagens/Pokedex/hires/630.png",
     },
   },
   {
@@ -25553,7 +24711,7 @@ const POKEDEX_JSON = [
     },
     species: "Anteater Pokémon",
     description:
-      "It draws in air through its tail, transforms it into fire, and uses it like a tongue. It melts Durant and eats them.",
+      "Ele aspira ar através de sua cauda, transforma em fogo e usa como língua. Ele derrete Durant e os come.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -25567,12 +24725,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/631.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/631.png",
-      hires:
-        "./Imagens/Pokedex/hires/631.png",
+      sprite: "./Imagens/Pokedex/sprites/631.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/631.png",
+      hires: "./Imagens/Pokedex/hires/631.png",
     },
   },
   {
@@ -25594,7 +24749,7 @@ const POKEDEX_JSON = [
     },
     species: "Iron Ant Pokémon",
     description:
-      "They attack in groups, covering themselves in steel armor to protect themselves from Heatmor.",
+      "Eles atacam em grupos, cobrindo-se com armadura de aço para se proteger de Heatmor.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -25608,12 +24763,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/632.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/632.png",
-      hires:
-        "./Imagens/Pokedex/hires/632.png",
+      sprite: "./Imagens/Pokedex/sprites/632.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/632.png",
+      hires: "./Imagens/Pokedex/hires/632.png",
     },
   },
   {
@@ -25635,8 +24787,10 @@ const POKEDEX_JSON = [
     },
     species: "Irate Pokémon",
     description:
-      "Lacking sight, it’s unaware of its surroundings, so it bumps into things and eats anything that moves.",
-    evolution: { next: [["634", "Level 50"]] },
+      "Sem visão, ele não está ciente de seu ambiente, por isso bate em coisas e come qualquer coisa que se mova.",
+    evolution: {
+      next: [["634", "Level 50"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "17.3 kg",
@@ -25645,12 +24799,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/633.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/633.png",
-      hires:
-        "./Imagens/Pokedex/hires/633.png",
+      sprite: "./Imagens/Pokedex/sprites/633.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/633.png",
+      hires: "./Imagens/Pokedex/hires/633.png",
     },
   },
   {
@@ -25672,8 +24823,11 @@ const POKEDEX_JSON = [
     },
     species: "Hostile Pokémon",
     description:
-      "After it has eaten up all the food in its territory, it moves to another area. Its two heads do not get along.",
-    evolution: { prev: ["633", "Level 50"], next: [["635", "Level 64"]] },
+      "Depois de comer toda a comida em seu território, ele se muda para outra área. Suas duas cabeças não se dão bem.",
+    evolution: {
+      prev: ["633", "Level 50"],
+      next: [["635", "Level 64"]],
+    },
     profile: {
       height: "1.4 m",
       weight: "50 kg",
@@ -25682,12 +24836,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/634.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/634.png",
-      hires:
-        "./Imagens/Pokedex/hires/634.png",
+      sprite: "./Imagens/Pokedex/sprites/634.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/634.png",
+      hires: "./Imagens/Pokedex/hires/634.png",
     },
   },
   {
@@ -25709,8 +24860,10 @@ const POKEDEX_JSON = [
     },
     species: "Brutal Pokémon",
     description:
-      "It responds to movement by attacking. This scary, three-headed Pokémon devours everything in its path!",
-    evolution: { prev: ["634", "Level 64"] },
+      "Ele responde ao movimento atacando. Este Pokémon assustador de três cabeças devora tudo em seu caminho!",
+    evolution: {
+      prev: ["634", "Level 64"],
+    },
     profile: {
       height: "1.8 m",
       weight: "160 kg",
@@ -25719,12 +24872,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/635.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/635.png",
-      hires:
-        "./Imagens/Pokedex/hires/635.png",
+      sprite: "./Imagens/Pokedex/sprites/635.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/635.png",
+      hires: "./Imagens/Pokedex/hires/635.png",
     },
   },
   {
@@ -25746,8 +24896,10 @@ const POKEDEX_JSON = [
     },
     species: "Torch Pokémon",
     description:
-      "It protects itself with flame. Long years ago, people believed Larvesta had a nest on the sun.",
-    evolution: { next: [["637", "Level 59"]] },
+      "Ele se protege com fogo. Há muito tempo, as pessoas acreditavam que Larvesta tinha um ninho no sol.",
+    evolution: {
+      next: [["637", "Level 59"]],
+    },
     profile: {
       height: "1.1 m",
       weight: "28.8 kg",
@@ -25759,12 +24911,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/636.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/636.png",
-      hires:
-        "./Imagens/Pokedex/hires/636.png",
+      sprite: "./Imagens/Pokedex/sprites/636.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/636.png",
+      hires: "./Imagens/Pokedex/hires/636.png",
     },
   },
   {
@@ -25786,8 +24935,10 @@ const POKEDEX_JSON = [
     },
     species: "Sun Pokémon",
     description:
-      "According to legends, it was hatched from a flaming cocoon to save people and Pokémon that were suffering from the cold.",
-    evolution: { prev: ["636", "Level 59"] },
+      "De acordo com lendas, ele foi chocado de um casulo flamejante para salvar pessoas e Pokémon que estavam sofrendo com o frio.",
+    evolution: {
+      prev: ["636", "Level 59"],
+    },
     profile: {
       height: "1.6 m",
       weight: "46 kg",
@@ -25799,12 +24950,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/637.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/637.png",
-      hires:
-        "./Imagens/Pokedex/hires/637.png",
+      sprite: "./Imagens/Pokedex/sprites/637.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/637.png",
+      hires: "./Imagens/Pokedex/hires/637.png",
     },
   },
   {
@@ -25826,7 +24974,7 @@ const POKEDEX_JSON = [
     },
     species: "Iron Will Pokémon",
     description:
-      "It has a body and heart of steel. It worked with its allies to punish people when they hurt Pokémon.",
+      "Ele tem um corpo e um coração de aço. Ele trabalhou com seus aliados para punir as pessoas quando machucavam Pokémon.",
     evolution: {},
     profile: {
       height: "2.1 m",
@@ -25836,12 +24984,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/638.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/638.png",
-      hires:
-        "./Imagens/Pokedex/hires/638.png",
+      sprite: "./Imagens/Pokedex/sprites/638.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/638.png",
+      hires: "./Imagens/Pokedex/hires/638.png",
     },
   },
   {
@@ -25863,7 +25008,7 @@ const POKEDEX_JSON = [
     },
     species: "Cavern Pokémon",
     description:
-      "Spoken of in legend, this Pokémon used its phenomenal power to destroy a castle in its effort to protect Pokémon.",
+      "Falado em lenda, este Pokémon usou seu poder fenomenal para destruir um castelo em seu esforço para proteger Pokémon.",
     evolution: {},
     profile: {
       height: "1.9 m",
@@ -25873,12 +25018,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/639.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/639.png",
-      hires:
-        "./Imagens/Pokedex/hires/639.png",
+      sprite: "./Imagens/Pokedex/sprites/639.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/639.png",
+      hires: "./Imagens/Pokedex/hires/639.png",
     },
   },
   {
@@ -25900,7 +25042,7 @@ const POKEDEX_JSON = [
     },
     species: "Grassland Pokémon",
     description:
-      "Legends say this Pokémon confounded opponents with its swift movements.",
+      "Lendas dizem que este Pokémon confundiu oponentes com seus movimentos rápidos.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -25910,12 +25052,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/640.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/640.png",
-      hires:
-        "./Imagens/Pokedex/hires/640.png",
+      sprite: "./Imagens/Pokedex/sprites/640.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/640.png",
+      hires: "./Imagens/Pokedex/hires/640.png",
     },
   },
   {
@@ -25937,7 +25076,7 @@ const POKEDEX_JSON = [
     },
     species: "Cyclone Pokémon",
     description:
-      "Tornadus expels massive energy from its tail, causing severe storms. Its power is great enough to blow houses away.",
+      "Tornadus expele energia massiva de sua cauda, causando tempestades severas. Seu poder é grande o suficiente para derrubar casas.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -25950,12 +25089,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/641.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/641.png",
-      hires:
-        "./Imagens/Pokedex/hires/641.png",
+      sprite: "./Imagens/Pokedex/sprites/641.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/641.png",
+      hires: "./Imagens/Pokedex/hires/641.png",
     },
   },
   {
@@ -25977,7 +25113,7 @@ const POKEDEX_JSON = [
     },
     species: "Bolt Strike Pokémon",
     description:
-      "As it flies around, it shoots lightning all over the place and causes forest fires. It is therefore disliked.",
+      "Enquanto voa, ele atira raios por todo o lugar e causa incêndios florestais. Portanto, é desgostado.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -25990,12 +25126,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/642.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/642.png",
-      hires:
-        "./Imagens/Pokedex/hires/642.png",
+      sprite: "./Imagens/Pokedex/sprites/642.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/642.png",
+      hires: "./Imagens/Pokedex/hires/642.png",
     },
   },
   {
@@ -26017,7 +25150,7 @@ const POKEDEX_JSON = [
     },
     species: "Vast White Pokémon",
     description:
-      "When Reshiram’s tail flares, the heat energy moves the atmosphere and changes the world’s weather.",
+      "Quando a cauda de Reshiram brilha, a energia térmica move a atmosfera e muda o clima do mundo.",
     evolution: {},
     profile: {
       height: "3.2 m",
@@ -26027,12 +25160,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/643.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/643.png",
-      hires:
-        "./Imagens/Pokedex/hires/643.png",
+      sprite: "./Imagens/Pokedex/sprites/643.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/643.png",
+      hires: "./Imagens/Pokedex/hires/643.png",
     },
   },
   {
@@ -26054,7 +25184,7 @@ const POKEDEX_JSON = [
     },
     species: "Deep Black Pokémon",
     description:
-      "Concealing itself in lightning clouds, it flies throughout the Unova region. It creates electricity in its tail.",
+      "Ocultando-se em nuvens de raios, ele voa por toda a região de Unova. Ele cria eletricidade em sua cauda.",
     evolution: {},
     profile: {
       height: "2.9 m",
@@ -26064,12 +25194,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/644.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/644.png",
-      hires:
-        "./Imagens/Pokedex/hires/644.png",
+      sprite: "./Imagens/Pokedex/sprites/644.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/644.png",
+      hires: "./Imagens/Pokedex/hires/644.png",
     },
   },
   {
@@ -26091,7 +25218,7 @@ const POKEDEX_JSON = [
     },
     species: "Abundance Pokémon",
     description:
-      "From the forces of lightning and wind, it creates energy to give nutrients to the soil and make the land abundant.",
+      "Das forças do raio e do vento, ele cria energia para dar nutrientes ao solo e tornar a terra abundante.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -26104,12 +25231,9 @@ const POKEDEX_JSON = [
       gender: "100:0",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/645.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/645.png",
-      hires:
-        "./Imagens/Pokedex/hires/645.png",
+      sprite: "./Imagens/Pokedex/sprites/645.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/645.png",
+      hires: "./Imagens/Pokedex/hires/645.png",
     },
   },
   {
@@ -26131,7 +25255,7 @@ const POKEDEX_JSON = [
     },
     species: "Boundary Pokémon",
     description:
-      "It generates a powerful, freezing energy inside itself, but its body became frozen when the energy leaked out.",
+      "Ele gera uma energia poderosa e congelante dentro de si, mas seu corpo ficou congelado quando a energia vazou.",
     evolution: {},
     profile: {
       height: "3 m",
@@ -26141,12 +25265,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/646.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/646.png",
-      hires:
-        "./Imagens/Pokedex/hires/646.png",
+      sprite: "./Imagens/Pokedex/sprites/646.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/646.png",
+      hires: "./Imagens/Pokedex/hires/646.png",
     },
   },
   {
@@ -26168,7 +25289,7 @@ const POKEDEX_JSON = [
     },
     species: "Colt Pokémon",
     description:
-      "When it is resolute, its body fills with power and it becomes swifter. Its jumps are then too fast to follow.",
+      "Quando é resoluto, seu corpo se enche de poder e ele fica mais rápido. Seus saltos são então rápidos demais para seguir.",
     evolution: {},
     profile: {
       height: "1.4 m",
@@ -26178,12 +25299,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/647.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/647.png",
-      hires:
-        "./Imagens/Pokedex/hires/647.png",
+      sprite: "./Imagens/Pokedex/sprites/647.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/647.png",
+      hires: "./Imagens/Pokedex/hires/647.png",
     },
   },
   {
@@ -26205,7 +25323,7 @@ const POKEDEX_JSON = [
     },
     species: "Melody Pokémon",
     description:
-      "Its melodies are sung with a special vocalization method that can control the feelings of those who hear it.",
+      "Suas melodias são cantadas com um método de vocalização especial que pode controlar os sentimentos daqueles que ouvem.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -26215,12 +25333,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/648.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/648.png",
-      hires:
-        "./Imagens/Pokedex/hires/648.png",
+      sprite: "./Imagens/Pokedex/sprites/648.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/648.png",
+      hires: "./Imagens/Pokedex/hires/648.png",
     },
   },
   {
@@ -26242,7 +25357,7 @@ const POKEDEX_JSON = [
     },
     species: "Paleozoic Pokémon",
     description:
-      "This Pokémon existed 300 million years ago. Team Plasma altered it and attached a cannon to its back.",
+      "Este Pokémon existia há 300 milhões de anos. A Equipe Plasma o alterou e anexou um canhão às suas costas.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -26252,12 +25367,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/649.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/649.png",
-      hires:
-        "./Imagens/Pokedex/hires/649.png",
+      sprite: "./Imagens/Pokedex/sprites/649.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/649.png",
+      hires: "./Imagens/Pokedex/hires/649.png",
     },
   },
   {
@@ -26279,8 +25391,10 @@ const POKEDEX_JSON = [
     },
     species: "Spiny Nut Pokémon",
     description:
-      "Such a thick shell of wood covers its head and back that even a direct hit from a truck wouldn’t faze it.",
-    evolution: { next: [["651", "Level 16"]] },
+      "Uma concha de madeira tão espessa cobre sua cabeça e costas que até mesmo um golpe direto de um caminhão não o afetaria.",
+    evolution: {
+      next: [["651", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "9 kg",
@@ -26292,12 +25406,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/650.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/650.png",
-      hires:
-        "./Imagens/Pokedex/hires/650.png",
+      sprite: "./Imagens/Pokedex/sprites/650.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/650.png",
+      hires: "./Imagens/Pokedex/hires/650.png",
     },
   },
   {
@@ -26319,8 +25430,11 @@ const POKEDEX_JSON = [
     },
     species: "Spiny Armor Pokémon",
     description:
-      "They strengthen their lower bodies by running into one another. They are very kind and won’t start fights.",
-    evolution: { prev: ["650", "Level 16"], next: [["652", "Level 36"]] },
+      "Eles fortalecem seus corpos inferiores correndo um no outro. Eles são muito gentis e não começam brigas.",
+    evolution: {
+      prev: ["650", "Level 16"],
+      next: [["652", "Level 36"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "29 kg",
@@ -26332,12 +25446,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/651.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/651.png",
-      hires:
-        "./Imagens/Pokedex/hires/651.png",
+      sprite: "./Imagens/Pokedex/sprites/651.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/651.png",
+      hires: "./Imagens/Pokedex/hires/651.png",
     },
   },
   {
@@ -26359,8 +25470,10 @@ const POKEDEX_JSON = [
     },
     species: "Spiny Armor Pokémon",
     description:
-      "When it takes a defensive posture with its fists guarding its face, it could withstand a bomb blast.",
-    evolution: { prev: ["651", "Level 36"] },
+      "Quando assume uma postura defensiva com os punhos guardando o rosto, ele poderia resistir a uma explosão de bomba.",
+    evolution: {
+      prev: ["651", "Level 36"],
+    },
     profile: {
       height: "1.6 m",
       weight: "90 kg",
@@ -26372,12 +25485,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/652.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/652.png",
-      hires:
-        "./Imagens/Pokedex/hires/652.png",
+      sprite: "./Imagens/Pokedex/sprites/652.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/652.png",
+      hires: "./Imagens/Pokedex/hires/652.png",
     },
   },
   {
@@ -26399,8 +25509,10 @@ const POKEDEX_JSON = [
     },
     species: "Fox Pokémon",
     description:
-      "As it walks, it munches on a twig in place of a snack. It intimidates opponents by puffing hot air out of its ears.",
-    evolution: { next: [["654", "Level 16"]] },
+      "Enquanto caminha, ele mastiga um galho no lugar de um lanche. Ele intimida oponentes soprando ar quente de seus ouvidos.",
+    evolution: {
+      next: [["654", "Level 16"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "9.4 kg",
@@ -26412,12 +25524,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/653.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/653.png",
-      hires:
-        "./Imagens/Pokedex/hires/653.png",
+      sprite: "./Imagens/Pokedex/sprites/653.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/653.png",
+      hires: "./Imagens/Pokedex/hires/653.png",
     },
   },
   {
@@ -26439,8 +25548,11 @@ const POKEDEX_JSON = [
     },
     species: "Fox Pokémon",
     description:
-      "When the twig is plucked from its tail, friction sets the twig alight. The flame is used to send signals to its allies.",
-    evolution: { prev: ["653", "Level 16"], next: [["655", "Level 36"]] },
+      "Quando o galho é arrancado de sua cauda, a fricção acende o galho. A chama é usada para enviar sinais a seus aliados.",
+    evolution: {
+      prev: ["653", "Level 16"],
+      next: [["655", "Level 36"]],
+    },
     profile: {
       height: "1 m",
       weight: "14.5 kg",
@@ -26452,12 +25564,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/654.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/654.png",
-      hires:
-        "./Imagens/Pokedex/hires/654.png",
+      sprite: "./Imagens/Pokedex/sprites/654.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/654.png",
+      hires: "./Imagens/Pokedex/hires/654.png",
     },
   },
   {
@@ -26479,8 +25588,10 @@ const POKEDEX_JSON = [
     },
     species: "Fox Pokémon",
     description:
-      "Using psychic power, it generates a fiery vortex of 5,400 degrees Fahrenheit, incinerating foes swept into this whirl of flame.",
-    evolution: { prev: ["654", "Level 36"] },
+      "Usando poder psíquico, ele gera um vórtice de fogo de 5.400 graus Fahrenheit, incinerando inimigos varridos neste redemoinho de chama.",
+    evolution: {
+      prev: ["654", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "39 kg",
@@ -26492,12 +25603,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/655.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/655.png",
-      hires:
-        "./Imagens/Pokedex/hires/655.png",
+      sprite: "./Imagens/Pokedex/sprites/655.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/655.png",
+      hires: "./Imagens/Pokedex/hires/655.png",
     },
   },
   {
@@ -26519,8 +25627,10 @@ const POKEDEX_JSON = [
     },
     species: "Bubble Frog Pokémon",
     description:
-      "It protects its skin by covering its body in delicate bubbles. Beneath its happy-go-lucky air, it keeps a watchful eye on its surroundings.",
-    evolution: { next: [["657", "Level 16"]] },
+      "Ele se protege com bolhas delicadas. Sob seu ar alegre, ele mantém um olho vigilante em seus arredores.",
+    evolution: {
+      next: [["657", "Level 16"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "7 kg",
@@ -26532,12 +25642,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/656.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/656.png",
-      hires:
-        "./Imagens/Pokedex/hires/656.png",
+      sprite: "./Imagens/Pokedex/sprites/656.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/656.png",
+      hires: "./Imagens/Pokedex/hires/656.png",
     },
   },
   {
@@ -26559,8 +25666,11 @@ const POKEDEX_JSON = [
     },
     species: "Bubble Frog Pokémon",
     description:
-      "Its swiftness is unparalleled. It can scale a tower of more than 2,000 feet in a minute’s time.",
-    evolution: { prev: ["656", "Level 16"], next: [["658", "Level 36"]] },
+      "Sua rapidez é incomparável. Ele pode escalar uma torre de mais de 2.000 pés em um minuto.",
+    evolution: {
+      prev: ["656", "Level 16"],
+      next: [["658", "Level 36"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "10.9 kg",
@@ -26572,12 +25682,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/657.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/657.png",
-      hires:
-        "./Imagens/Pokedex/hires/657.png",
+      sprite: "./Imagens/Pokedex/sprites/657.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/657.png",
+      hires: "./Imagens/Pokedex/hires/657.png",
     },
   },
   {
@@ -26599,8 +25706,10 @@ const POKEDEX_JSON = [
     },
     species: "Ninja Pokémon",
     description:
-      "It appears and vanishes with a ninja’s grace. It toys with its enemies using swift movements, while slicing them with throwing stars of sharpest water.",
-    evolution: { prev: ["657", "Level 36"] },
+      "Ele aparece e desaparece com a graça de um ninja. Ele brinca com seus inimigos usando movimentos rápidos, enquanto os corta com estrelas de água afiadas.",
+    evolution: {
+      prev: ["657", "Level 36"],
+    },
     profile: {
       height: "1.5 m",
       weight: "40 kg",
@@ -26612,12 +25721,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/658.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/658.png",
-      hires:
-        "./Imagens/Pokedex/hires/658.png",
+      sprite: "./Imagens/Pokedex/sprites/658.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/658.png",
+      hires: "./Imagens/Pokedex/hires/658.png",
     },
   },
   {
@@ -26639,8 +25745,10 @@ const POKEDEX_JSON = [
     },
     species: "Digging Pokémon",
     description:
-      "It has ears like shovels. Digging holes strengthens its ears so much that they can sever thick roots effortlessly.",
-    evolution: { next: [["660", "Level 20"]] },
+      "Ele tem orelhas como pás. Cavar buracos fortalece suas orelhas tanto que podem cortar raízes grossas sem esforço.",
+    evolution: {
+      next: [["660", "Level 20"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5 kg",
@@ -26653,12 +25761,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/659.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/659.png",
-      hires:
-        "./Imagens/Pokedex/hires/659.png",
+      sprite: "./Imagens/Pokedex/sprites/659.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/659.png",
+      hires: "./Imagens/Pokedex/hires/659.png",
     },
   },
   {
@@ -26680,8 +25785,10 @@ const POKEDEX_JSON = [
     },
     species: "Digging Pokémon",
     description:
-      "As powerful as an excavator, its ears can reduce dense bedrock to rubble. When it’s finished digging, it lounges lazily.",
-    evolution: { prev: ["659", "Level 20"] },
+      "Tão poderoso quanto uma escavadora, suas orelhas podem reduzir a rocha densa a entulho. Quando termina de cavar, ele descansa preguiçosamente.",
+    evolution: {
+      prev: ["659", "Level 20"],
+    },
     profile: {
       height: "1 m",
       weight: "42.4 kg",
@@ -26694,12 +25801,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/660.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/660.png",
-      hires:
-        "./Imagens/Pokedex/hires/660.png",
+      sprite: "./Imagens/Pokedex/sprites/660.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/660.png",
+      hires: "./Imagens/Pokedex/hires/660.png",
     },
   },
   {
@@ -26721,8 +25825,10 @@ const POKEDEX_JSON = [
     },
     species: "Tiny Robin Pokémon",
     description:
-      "Its body is always warm. Trainers who live in cold areas apparently sleep with it in their bed.",
-    evolution: { next: [["662", "Level 17"]] },
+      "Seu corpo está sempre quente. Treinadores que vivem em áreas frias aparentemente dormem com ele em sua cama.",
+    evolution: {
+      next: [["662", "Level 17"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.7 kg",
@@ -26734,12 +25840,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/661.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/661.png",
-      hires:
-        "./Imagens/Pokedex/hires/661.png",
+      sprite: "./Imagens/Pokedex/sprites/661.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/661.png",
+      hires: "./Imagens/Pokedex/hires/661.png",
     },
   },
   {
@@ -26761,8 +25864,11 @@ const POKEDEX_JSON = [
     },
     species: "Ember Pokémon",
     description:
-      "Its speed right after takeoff already puts it in the top speed class of all bird Pokémon.",
-    evolution: { prev: ["661", "Level 17"], next: [["663", "Level 35"]] },
+      "Sua velocidade logo após a decolagem já o coloca na classe de velocidade máxima de todos os Pokémon pássaro.",
+    evolution: {
+      prev: ["661", "Level 17"],
+      next: [["663", "Level 35"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "16 kg",
@@ -26774,12 +25880,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/662.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/662.png",
-      hires:
-        "./Imagens/Pokedex/hires/662.png",
+      sprite: "./Imagens/Pokedex/sprites/662.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/662.png",
+      hires: "./Imagens/Pokedex/hires/662.png",
     },
   },
   {
@@ -26801,8 +25904,10 @@ const POKEDEX_JSON = [
     },
     species: "Scorching Pokémon",
     description:
-      "Bird Pokémon make up most of its diet. It approaches at high speeds and smacks them down to the ground with its powerful kick.",
-    evolution: { prev: ["662", "Level 35"] },
+      "Pokémon pássaro compõem a maior parte de sua dieta. Ele se aproxima em altas velocidades e os bate no chão com seu poderoso chute.",
+    evolution: {
+      prev: ["662", "Level 35"],
+    },
     profile: {
       height: "1.2 m",
       weight: "24.5 kg",
@@ -26814,12 +25919,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/663.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/663.png",
-      hires:
-        "./Imagens/Pokedex/hires/663.png",
+      sprite: "./Imagens/Pokedex/sprites/663.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/663.png",
+      hires: "./Imagens/Pokedex/hires/663.png",
     },
   },
   {
@@ -26841,8 +25943,10 @@ const POKEDEX_JSON = [
     },
     species: "Scatterdust Pokémon",
     description:
-      "The powder that covers its body regulates its temperature, so it can live in any region or climate.",
-    evolution: { next: [["665", "Level 9"]] },
+      "O pó que cobre seu corpo regula sua temperatura, para que possa viver em qualquer região ou clima.",
+    evolution: {
+      next: [["665", "Level 9"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.5 kg",
@@ -26855,12 +25959,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/664.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/664.png",
-      hires:
-        "./Imagens/Pokedex/hires/664.png",
+      sprite: "./Imagens/Pokedex/sprites/664.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/664.png",
+      hires: "./Imagens/Pokedex/hires/664.png",
     },
   },
   {
@@ -26882,8 +25983,11 @@ const POKEDEX_JSON = [
     },
     species: "Scatterdust Pokémon",
     description:
-      "The beaks of bird Pokémon can’t begin to scratch its stalwart body. To defend itself, it spews powder.",
-    evolution: { prev: ["664", "Level 9"], next: [["666", "Level 12"]] },
+      "Os bicos dos Pokémon pássaro não conseguem começar a arranhar seu corpo robusto. Para se defender, ele cospe pó.",
+    evolution: {
+      prev: ["664", "Level 9"],
+      next: [["666", "Level 12"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "8.4 kg",
@@ -26895,12 +25999,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/665.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/665.png",
-      hires:
-        "./Imagens/Pokedex/hires/665.png",
+      sprite: "./Imagens/Pokedex/sprites/665.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/665.png",
+      hires: "./Imagens/Pokedex/hires/665.png",
     },
   },
   {
@@ -26922,8 +26023,10 @@ const POKEDEX_JSON = [
     },
     species: "Scale Pokémon",
     description:
-      "The patterns on this Pokémon’s wings depend on the climate and topography of its habitat. It scatters colorful scales.",
-    evolution: { prev: ["665", "Level 12"] },
+      "Os padrões nas asas deste Pokémon dependem do clima e da topografia de seu habitat. Ele espalha escamas coloridas.",
+    evolution: {
+      prev: ["665", "Level 12"],
+    },
     profile: {
       height: "1.2 m",
       weight: "17 kg",
@@ -26936,12 +26039,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/666.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/666.png",
-      hires:
-        "./Imagens/Pokedex/hires/666.png",
+      sprite: "./Imagens/Pokedex/sprites/666.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/666.png",
+      hires: "./Imagens/Pokedex/hires/666.png",
     },
   },
   {
@@ -26963,8 +26063,10 @@ const POKEDEX_JSON = [
     },
     species: "Lion Cub Pokémon",
     description:
-      "This hot-blooded Pokémon is filled with curiosity. When it gets angry or starts fighting, its short mane gets hot.",
-    evolution: { next: [["668", "Level 35"]] },
+      "Este Pokémon de sangue quente está cheio de curiosidade. Quando fica com raiva ou começa a lutar, sua curta juba fica quente.",
+    evolution: {
+      next: [["668", "Level 35"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "13.5 kg",
@@ -26977,12 +26079,9 @@ const POKEDEX_JSON = [
       gender: "12.5:87.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/667.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/667.png",
-      hires:
-        "./Imagens/Pokedex/hires/667.png",
+      sprite: "./Imagens/Pokedex/sprites/667.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/667.png",
+      hires: "./Imagens/Pokedex/hires/667.png",
     },
   },
   {
@@ -27004,8 +26103,10 @@ const POKEDEX_JSON = [
     },
     species: "Royal Pokémon",
     description:
-      "The temperature of its breath is over 10,000 degrees Fahrenheit, but Pyroar doesn’t use it on its prey. This Pokémon prefers to eat raw meat.",
-    evolution: { prev: ["667", "Level 35"] },
+      "A temperatura de sua respiração é superior a 10.000 graus Fahrenheit, mas Pyroar não a usa em sua presa. Este Pokémon prefere comer carne crua.",
+    evolution: {
+      prev: ["667", "Level 35"],
+    },
     profile: {
       height: "1.5 m",
       weight: "81.5 kg",
@@ -27018,12 +26119,9 @@ const POKEDEX_JSON = [
       gender: "12.5:87.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/668.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/668.png",
-      hires:
-        "./Imagens/Pokedex/hires/668.png",
+      sprite: "./Imagens/Pokedex/sprites/668.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/668.png",
+      hires: "./Imagens/Pokedex/hires/668.png",
     },
   },
   {
@@ -27045,8 +26143,10 @@ const POKEDEX_JSON = [
     },
     species: "Single Bloom Pokémon",
     description:
-      "Flabébé wears a crown made from pollen it’s collected from its flower. The crown has hidden healing properties.",
-    evolution: { next: [["670", "Level 19"]] },
+      "Flabébé usa uma coroa feita de pólen que coletou de sua flor. A coroa tem propriedades curativas ocultas.",
+    evolution: {
+      next: [["670", "Level 19"]],
+    },
     profile: {
       height: "0.1 m",
       weight: "0.1 kg",
@@ -27058,12 +26158,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/669.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/669.png",
-      hires:
-        "./Imagens/Pokedex/hires/669.png",
+      sprite: "./Imagens/Pokedex/sprites/669.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/669.png",
+      hires: "./Imagens/Pokedex/hires/669.png",
     },
   },
   {
@@ -27085,7 +26182,7 @@ const POKEDEX_JSON = [
     },
     species: "Single Bloom Pokémon",
     description:
-      "It gives its own power to flowers, pouring its heart into caring for them. Floette never forgives anyone who messes up a flower bed.",
+      "Ele dá seu próprio poder às flores, derramando seu coração cuidando delas. Floette nunca perdoa ninguém que bagunce um canteiro de flores.",
     evolution: {
       prev: ["669", "Level 19"],
       next: [["671", "use Shiny Stone"]],
@@ -27101,12 +26198,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/670.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/670.png",
-      hires:
-        "./Imagens/Pokedex/hires/670.png",
+      sprite: "./Imagens/Pokedex/sprites/670.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/670.png",
+      hires: "./Imagens/Pokedex/hires/670.png",
     },
   },
   {
@@ -27128,8 +26222,10 @@ const POKEDEX_JSON = [
     },
     species: "Garden Pokémon",
     description:
-      "Its life can span several hundred years. It’s said to devote its entire life to protecting gardens.",
-    evolution: { prev: ["670", "use Shiny Stone"] },
+      "Sua vida pode durar várias centenas de anos. Diz-se que ele dedica toda sua vida a proteger jardins.",
+    evolution: {
+      prev: ["670", "use Shiny Stone"],
+    },
     profile: {
       height: "1.1 m",
       weight: "10 kg",
@@ -27141,12 +26237,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/671.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/671.png",
-      hires:
-        "./Imagens/Pokedex/hires/671.png",
+      sprite: "./Imagens/Pokedex/sprites/671.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/671.png",
+      hires: "./Imagens/Pokedex/hires/671.png",
     },
   },
   {
@@ -27168,8 +26261,10 @@ const POKEDEX_JSON = [
     },
     species: "Mount Pokémon",
     description:
-      "If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.",
-    evolution: { next: [["673", "Level 32"]] },
+      "Se tiver sol e água, não precisa comer, porque pode gerar energia das folhas nas costas.",
+    evolution: {
+      next: [["673", "Level 32"]],
+    },
     profile: {
       height: "0.9 m",
       weight: "31 kg",
@@ -27181,12 +26276,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/672.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/672.png",
-      hires:
-        "./Imagens/Pokedex/hires/672.png",
+      sprite: "./Imagens/Pokedex/sprites/672.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/672.png",
+      hires: "./Imagens/Pokedex/hires/672.png",
     },
   },
   {
@@ -27208,8 +26300,10 @@ const POKEDEX_JSON = [
     },
     species: "Mount Pokémon",
     description:
-      "They inhabit mountainous regions. The leader of the herd is decided by a battle of clashing horns.",
-    evolution: { prev: ["672", "Level 32"] },
+      "Eles habitam regiões montanhosas. O líder do rebanho é decidido por uma batalha de chifres chocando.",
+    evolution: {
+      prev: ["672", "Level 32"],
+    },
     profile: {
       height: "1.7 m",
       weight: "91 kg",
@@ -27221,12 +26315,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/673.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/673.png",
-      hires:
-        "./Imagens/Pokedex/hires/673.png",
+      sprite: "./Imagens/Pokedex/sprites/673.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/673.png",
+      hires: "./Imagens/Pokedex/hires/673.png",
     },
   },
   {
@@ -27248,8 +26339,10 @@ const POKEDEX_JSON = [
     },
     species: "Playful Pokémon",
     description:
-      "It’s desperate to intimidate its opponents. Be nice and pretend to be scared if you catch it glaring at you intensely.",
-    evolution: { next: [["675", "Level 32, Dark type Pokémon in party"]] },
+      "Ele está desesperado para intimidar seus oponentes. Seja gentil e finja estar assustado se você o pegar olhando para você intensamente.",
+    evolution: {
+      next: [["675", "Level 32, Dark type Pokémon in party"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "8 kg",
@@ -27262,12 +26355,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/674.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/674.png",
-      hires:
-        "./Imagens/Pokedex/hires/674.png",
+      sprite: "./Imagens/Pokedex/sprites/674.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/674.png",
+      hires: "./Imagens/Pokedex/hires/674.png",
     },
   },
   {
@@ -27289,8 +26379,10 @@ const POKEDEX_JSON = [
     },
     species: "Daunting Pokémon",
     description:
-      "Pangoro is the type to talk with its fists. It doesn’t say much as it pummels opponents with enough force to send a dump truck flying.",
-    evolution: { prev: ["674", "Level 32, Dark type Pokémon in party"] },
+      "Pangoro é do tipo que fala com os punhos. Ele não diz muito enquanto golpeia oponentes com força suficiente para enviar um caminhão basculante voando.",
+    evolution: {
+      prev: ["674", "Level 32, Dark type Pokémon in party"],
+    },
     profile: {
       height: "2.1 m",
       weight: "136 kg",
@@ -27303,12 +26395,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/675.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/675.png",
-      hires:
-        "./Imagens/Pokedex/hires/675.png",
+      sprite: "./Imagens/Pokedex/sprites/675.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/675.png",
+      hires: "./Imagens/Pokedex/hires/675.png",
     },
   },
   {
@@ -27330,7 +26419,7 @@ const POKEDEX_JSON = [
     },
     species: "Poodle Pokémon",
     description:
-      "Left alone, its fur will grow longer and longer, but it will only allow someone it trusts to cut it.",
+      "Deixado sozinho, seu pelo ficará cada vez mais comprido, mas ele só permitirá que alguém de quem confia o corte.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -27340,12 +26429,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/676.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/676.png",
-      hires:
-        "./Imagens/Pokedex/hires/676.png",
+      sprite: "./Imagens/Pokedex/sprites/676.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/676.png",
+      hires: "./Imagens/Pokedex/hires/676.png",
     },
   },
   {
@@ -27367,8 +26453,10 @@ const POKEDEX_JSON = [
     },
     species: "Restraint Pokémon",
     description:
-      "It has enough psychic energy to blast everything within 300 feet of itself, but it has no control over its power.",
-    evolution: { next: [["678", "Level 25"]] },
+      "Ele tem energia psíquica suficiente para explodir tudo dentro de 300 pés de si mesmo, mas não tem controle sobre seu poder.",
+    evolution: {
+      next: [["678", "Level 25"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "3.5 kg",
@@ -27381,12 +26469,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/677.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/677.png",
-      hires:
-        "./Imagens/Pokedex/hires/677.png",
+      sprite: "./Imagens/Pokedex/sprites/677.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/677.png",
+      hires: "./Imagens/Pokedex/hires/677.png",
     },
   },
   {
@@ -27408,8 +26493,10 @@ const POKEDEX_JSON = [
     },
     species: "Constraint Pokémon",
     description:
-      "The eyeball patterns on the interior of its ears emit psychic energy. It keeps the patterns tightly covered because that power is too immense.",
-    evolution: { prev: ["677", "Level 25"] },
+      "Os padrões de globo ocular no interior de suas orelhas emitem energia psíquica. Ele mantém os padrões bem cobertos porque esse poder é muito imenso.",
+    evolution: {
+      prev: ["677", "Level 25"],
+    },
     profile: {
       height: "0.6 m",
       weight: "8.5 kg",
@@ -27422,12 +26509,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/678.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/678.png",
-      hires:
-        "./Imagens/Pokedex/hires/678.png",
+      sprite: "./Imagens/Pokedex/sprites/678.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/678.png",
+      hires: "./Imagens/Pokedex/hires/678.png",
     },
   },
   {
@@ -27449,8 +26533,10 @@ const POKEDEX_JSON = [
     },
     species: "Sword Pokémon",
     description:
-      "If anyone dares to grab its hilt, it wraps a blue cloth around that person’s arm and drains that person’s life energy completely.",
-    evolution: { next: [["680", "Level 35"]] },
+      "Se alguém ousar agarrar sua empunhadura, ele envolve um pano azul no braço dessa pessoa e drena completamente sua energia vital.",
+    evolution: {
+      next: [["680", "Level 35"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "2 kg",
@@ -27459,12 +26545,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/679.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/679.png",
-      hires:
-        "./Imagens/Pokedex/hires/679.png",
+      sprite: "./Imagens/Pokedex/sprites/679.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/679.png",
+      hires: "./Imagens/Pokedex/hires/679.png",
     },
   },
   {
@@ -27486,7 +26569,7 @@ const POKEDEX_JSON = [
     },
     species: "Sword Pokémon",
     description:
-      "The complex attack patterns of its two swords are unstoppable, even for an opponent greatly accomplished at swordplay.",
+      "Os complexos padrões de ataque de suas duas espadas são imparáveis, mesmo para um oponente altamente realizado na esgrima.",
     evolution: {
       prev: ["679", "Level 35"],
       next: [["681", "use Dusk Stone"]],
@@ -27499,12 +26582,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/680.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/680.png",
-      hires:
-        "./Imagens/Pokedex/hires/680.png",
+      sprite: "./Imagens/Pokedex/sprites/680.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/680.png",
+      hires: "./Imagens/Pokedex/hires/680.png",
     },
   },
   {
@@ -27526,8 +26606,10 @@ const POKEDEX_JSON = [
     },
     species: "Royal Sword Pokémon",
     description:
-      "Apparently, it can detect the innate qualities of leadership. According to legend, whoever it recognizes is destined to become king.",
-    evolution: { prev: ["680", "use Dusk Stone"] },
+      "Aparentemente, ele pode detectar as qualidades inatas de liderança. Segundo a lenda, quem ele reconhecer está destinado a se tornar rei.",
+    evolution: {
+      prev: ["680", "use Dusk Stone"],
+    },
     profile: {
       height: "1.7 m",
       weight: "53 kg",
@@ -27536,12 +26618,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/681.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/681.png",
-      hires:
-        "./Imagens/Pokedex/hires/681.png",
+      sprite: "./Imagens/Pokedex/sprites/681.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/681.png",
+      hires: "./Imagens/Pokedex/hires/681.png",
     },
   },
   {
@@ -27563,8 +26642,10 @@ const POKEDEX_JSON = [
     },
     species: "Perfume Pokémon",
     description:
-      "In the past, rather than using perfume, royal ladies carried a Spritzee that would waft a fragrance they liked.",
-    evolution: { next: [["683", "trade holding Sachet"]] },
+      "No passado, em vez de usar perfume, as senhoras reais carregavam um Spritzee que exalava uma fragrância de que gostavam.",
+    evolution: {
+      next: [["683", "trade holding Sachet"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "0.5 kg",
@@ -27576,12 +26657,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/682.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/682.png",
-      hires:
-        "./Imagens/Pokedex/hires/682.png",
+      sprite: "./Imagens/Pokedex/sprites/682.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/682.png",
+      hires: "./Imagens/Pokedex/hires/682.png",
     },
   },
   {
@@ -27603,8 +26681,10 @@ const POKEDEX_JSON = [
     },
     species: "Fragrance Pokémon",
     description:
-      "Its scent is so overpowering that, unless a Trainer happens to really enjoy the smell, he or she will have a hard time walking alongside it.",
-    evolution: { prev: ["682", "trade holding Sachet"] },
+      "Seu cheiro é tão avassalador que, a menos que um treinador realmente goste do cheiro, ele terá dificuldade em caminhar ao lado dele.",
+    evolution: {
+      prev: ["682", "trade holding Sachet"],
+    },
     profile: {
       height: "0.8 m",
       weight: "15.5 kg",
@@ -27616,12 +26696,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/683.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/683.png",
-      hires:
-        "./Imagens/Pokedex/hires/683.png",
+      sprite: "./Imagens/Pokedex/sprites/683.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/683.png",
+      hires: "./Imagens/Pokedex/hires/683.png",
     },
   },
   {
@@ -27642,9 +26719,10 @@ const POKEDEX_JSON = [
       Speed: 49,
     },
     species: "Cotton Candy Pokémon",
-    description:
-      "Because it eats nothing but sweets, its fur is as sticky sweet as cotton candy.",
-    evolution: { next: [["685", "trade holding Whipped Dream"]] },
+    description: "Como só come doces, seu pelo é tão doce quanto algodão doce.",
+    evolution: {
+      next: [["685", "trade holding Whipped Dream"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "3.5 kg",
@@ -27656,12 +26734,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/684.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/684.png",
-      hires:
-        "./Imagens/Pokedex/hires/684.png",
+      sprite: "./Imagens/Pokedex/sprites/684.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/684.png",
+      hires: "./Imagens/Pokedex/hires/684.png",
     },
   },
   {
@@ -27683,8 +26758,10 @@ const POKEDEX_JSON = [
     },
     species: "Meringue Pokémon",
     description:
-      "Its sense of smell is 100 million times better than a human’s, so even the faintest scent tells it about everything in the area. It’s like it can see with its nose!",
-    evolution: { prev: ["684", "trade holding Whipped Dream"] },
+      "Seu olfato é 100 milhões de vezes melhor que o de um humano, por isso até mesmo o mais fraco cheiro lhe conta sobre tudo na área. É como se ele pudesse ver com o nariz!",
+    evolution: {
+      prev: ["684", "trade holding Whipped Dream"],
+    },
     profile: {
       height: "0.8 m",
       weight: "5 kg",
@@ -27696,12 +26773,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/685.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/685.png",
-      hires:
-        "./Imagens/Pokedex/hires/685.png",
+      sprite: "./Imagens/Pokedex/sprites/685.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/685.png",
+      hires: "./Imagens/Pokedex/hires/685.png",
     },
   },
   {
@@ -27723,8 +26797,10 @@ const POKEDEX_JSON = [
     },
     species: "Revolving Pokémon",
     description:
-      "When exchanging information with others of its kind, it flashes the light-emitting spots on its body in a complex rhythm.",
-    evolution: { next: [["687", "Level 30, holding console upside down"]] },
+      "Ao trocar informações com outros de sua espécie, ele pisca os pontos emissores de luz em seu corpo em um ritmo complexo.",
+    evolution: {
+      next: [["687", "Level 30, holding console upside down"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "3.5 kg",
@@ -27737,12 +26813,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/686.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/686.png",
-      hires:
-        "./Imagens/Pokedex/hires/686.png",
+      sprite: "./Imagens/Pokedex/sprites/686.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/686.png",
+      hires: "./Imagens/Pokedex/hires/686.png",
     },
   },
   {
@@ -27764,8 +26837,10 @@ const POKEDEX_JSON = [
     },
     species: "Overturning Pokémon",
     description:
-      "It flashes the pattern on its torso to control its prey and draw them in. The edges of its fins are supremely sharp.",
-    evolution: { prev: ["686", "Level 30, holding console upside down"] },
+      "Ele pisca o padrão em seu torso para controlar sua presa e atraí-la. As bordas de suas nadadeiras são extremamente afiadas.",
+    evolution: {
+      prev: ["686", "Level 30, holding console upside down"],
+    },
     profile: {
       height: "1.5 m",
       weight: "47 kg",
@@ -27778,12 +26853,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/687.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/687.png",
-      hires:
-        "./Imagens/Pokedex/hires/687.png",
+      sprite: "./Imagens/Pokedex/sprites/687.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/687.png",
+      hires: "./Imagens/Pokedex/hires/687.png",
     },
   },
   {
@@ -27805,8 +26877,10 @@ const POKEDEX_JSON = [
     },
     species: "Two-Handed Pokémon",
     description:
-      "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
-    evolution: { next: [["689", "Level 39"]] },
+      "Eles se esticam e depois se contraem, puxando suas rochas junto com eles em saltos ousados. Eles comem algas que lavam na costa.",
+    evolution: {
+      next: [["689", "Level 39"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "31 kg",
@@ -27819,12 +26893,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/688.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/688.png",
-      hires:
-        "./Imagens/Pokedex/hires/688.png",
+      sprite: "./Imagens/Pokedex/sprites/688.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/688.png",
+      hires: "./Imagens/Pokedex/hires/688.png",
     },
   },
   {
@@ -27846,8 +26917,10 @@ const POKEDEX_JSON = [
     },
     species: "Collective Pokémon",
     description:
-      "Barbaracle’s legs and hands have minds of their own, and they will move independently. But they usually follow the head’s orders.",
-    evolution: { prev: ["688", "Level 39"] },
+      "As pernas e as mãos de Barbaracle têm mentes próprias e se movem independentemente. Mas eles geralmente seguem as ordens da cabeça.",
+    evolution: {
+      prev: ["688", "Level 39"],
+    },
     profile: {
       height: "1.3 m",
       weight: "96 kg",
@@ -27860,12 +26933,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/689.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/689.png",
-      hires:
-        "./Imagens/Pokedex/hires/689.png",
+      sprite: "./Imagens/Pokedex/sprites/689.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/689.png",
+      hires: "./Imagens/Pokedex/hires/689.png",
     },
   },
   {
@@ -27887,8 +26957,10 @@ const POKEDEX_JSON = [
     },
     species: "Mock Kelp Pokémon",
     description:
-      "It’s not good at swimming, so it clings to the seaweed. In the Alola region, it’s often found near Dhelmise.",
-    evolution: { next: [["691", "Level 48"]] },
+      "Ele não é bom em nadar, por isso se agarra às algas. Na região de Alola, costuma ser encontrado perto de Dhelmise.",
+    evolution: {
+      next: [["691", "Level 48"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "7.3 kg",
@@ -27901,12 +26973,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/690.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/690.png",
-      hires:
-        "./Imagens/Pokedex/hires/690.png",
+      sprite: "./Imagens/Pokedex/sprites/690.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/690.png",
+      hires: "./Imagens/Pokedex/hires/690.png",
     },
   },
   {
@@ -27928,8 +26997,10 @@ const POKEDEX_JSON = [
     },
     species: "Mock Kelp Pokémon",
     description:
-      "It blends in with seaweed to ambush its prey and then takes them down with a poisonous liquid strong enough to melt metal.",
-    evolution: { prev: ["690", "Level 48"] },
+      "Ele se mistura com algas para emboscar sua presa e depois derrubá-la com um líquido venenoso forte o suficiente para derreter metal.",
+    evolution: {
+      prev: ["690", "Level 48"],
+    },
     profile: {
       height: "1.8 m",
       weight: "81.5 kg",
@@ -27942,12 +27013,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/691.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/691.png",
-      hires:
-        "./Imagens/Pokedex/hires/691.png",
+      sprite: "./Imagens/Pokedex/sprites/691.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/691.png",
+      hires: "./Imagens/Pokedex/hires/691.png",
     },
   },
   {
@@ -27969,8 +27037,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Gun Pokémon",
     description:
-      "It moves around by jetting water from its right pincer. It has a poor sense of balance, so it’s terrible at swimming straight.",
-    evolution: { next: [["693", "Level 37"]] },
+      "Ele se move jantando água de sua pinça direita. Ele tem um fraco senso de equilíbrio, por isso é péssimo em nadar direto.",
+    evolution: {
+      next: [["693", "Level 37"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "8.3 kg",
@@ -27979,12 +27049,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/692.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/692.png",
-      hires:
-        "./Imagens/Pokedex/hires/692.png",
+      sprite: "./Imagens/Pokedex/sprites/692.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/692.png",
+      hires: "./Imagens/Pokedex/hires/692.png",
     },
   },
   {
@@ -28006,8 +27073,10 @@ const POKEDEX_JSON = [
     },
     species: "Howitzer Pokémon",
     description:
-      "Its right arm is packed with meat. When its pincer falls off, it’s exported to be used as a cooking ingredient.",
-    evolution: { prev: ["692", "Level 37"] },
+      "Seu braço direito está cheio de carne. Quando sua pinça cai, é exportada para ser usada como ingrediente culinário.",
+    evolution: {
+      prev: ["692", "Level 37"],
+    },
     profile: {
       height: "1.3 m",
       weight: "35.3 kg",
@@ -28016,12 +27085,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/693.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/693.png",
-      hires:
-        "./Imagens/Pokedex/hires/693.png",
+      sprite: "./Imagens/Pokedex/sprites/693.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/693.png",
+      hires: "./Imagens/Pokedex/hires/693.png",
     },
   },
   {
@@ -28043,8 +27109,10 @@ const POKEDEX_JSON = [
     },
     species: "Generator Pokémon",
     description:
-      "The frills on either side of its head have cells that generate electricity when exposed to sunlight.",
-    evolution: { next: [["695", "use Sun Stone"]] },
+      "Os babados de cada lado de sua cabeça têm células que geram eletricidade quando expostas à luz solar.",
+    evolution: {
+      next: [["695", "use Sun Stone"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "6 kg",
@@ -28057,12 +27125,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/694.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/694.png",
-      hires:
-        "./Imagens/Pokedex/hires/694.png",
+      sprite: "./Imagens/Pokedex/sprites/694.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/694.png",
+      hires: "./Imagens/Pokedex/hires/694.png",
     },
   },
   {
@@ -28084,8 +27149,10 @@ const POKEDEX_JSON = [
     },
     species: "Generator Pokémon",
     description:
-      "It stimulates its muscles with electricity, boosting the strength in its legs and enabling it to run 100 yards in five seconds.",
-    evolution: { prev: ["694", "use Sun Stone"] },
+      "Ele estimula seus músculos com eletricidade, aumentando a força em suas pernas e permitindo que corra 100 jardas em cinco segundos.",
+    evolution: {
+      prev: ["694", "use Sun Stone"],
+    },
     profile: {
       height: "1 m",
       weight: "21 kg",
@@ -28098,12 +27165,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/695.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/695.png",
-      hires:
-        "./Imagens/Pokedex/hires/695.png",
+      sprite: "./Imagens/Pokedex/sprites/695.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/695.png",
+      hires: "./Imagens/Pokedex/hires/695.png",
     },
   },
   {
@@ -28125,8 +27189,10 @@ const POKEDEX_JSON = [
     },
     species: "Royal Heir Pokémon",
     description:
-      "Tyrunt is spoiled and selfish. It may just be trying to frolic, but sometimes the ones it’s trying to frolic with are gravely injured.",
-    evolution: { next: [["697", "Level 39, Daytime"]] },
+      "Tyrunt é mimado e egoísta. Pode estar apenas tentando brincar, mas às vezes aqueles com quem está tentando brincar ficam gravemente feridos.",
+    evolution: {
+      next: [["697", "Level 39, Daytime"]],
+    },
     profile: {
       height: "0.8 m",
       weight: "26 kg",
@@ -28138,12 +27204,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/696.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/696.png",
-      hires:
-        "./Imagens/Pokedex/hires/696.png",
+      sprite: "./Imagens/Pokedex/sprites/696.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/696.png",
+      hires: "./Imagens/Pokedex/hires/696.png",
     },
   },
   {
@@ -28165,8 +27228,10 @@ const POKEDEX_JSON = [
     },
     species: "Despot Pokémon",
     description:
-      "The king of the ancient world, it can easily crunch a car with the devastating strength of its enormous jaws.",
-    evolution: { prev: ["696", "Level 39, Daytime"] },
+      "O rei do mundo antigo, ele pode facilmente esmagar um carro com a força devastadora de suas enormes mandíbulas.",
+    evolution: {
+      prev: ["696", "Level 39, Daytime"],
+    },
     profile: {
       height: "2.5 m",
       weight: "270 kg",
@@ -28178,12 +27243,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/697.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/697.png",
-      hires:
-        "./Imagens/Pokedex/hires/697.png",
+      sprite: "./Imagens/Pokedex/sprites/697.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/697.png",
+      hires: "./Imagens/Pokedex/hires/697.png",
     },
   },
   {
@@ -28205,8 +27267,10 @@ const POKEDEX_JSON = [
     },
     species: "Tundra Pokémon",
     description:
-      "Amaura was restored successfully, but it’s not expected to live long because of the heat of the current environment.",
-    evolution: { next: [["699", "Level 39, Nighttime"]] },
+      "Amaura foi restaurado com sucesso, mas não se espera que viva muito devido ao calor do ambiente atual.",
+    evolution: {
+      next: [["699", "Level 39, Nighttime"]],
+    },
     profile: {
       height: "1.3 m",
       weight: "25.2 kg",
@@ -28218,12 +27282,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/698.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/698.png",
-      hires:
-        "./Imagens/Pokedex/hires/698.png",
+      sprite: "./Imagens/Pokedex/sprites/698.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/698.png",
+      hires: "./Imagens/Pokedex/hires/698.png",
     },
   },
   {
@@ -28245,8 +27306,10 @@ const POKEDEX_JSON = [
     },
     species: "Tundra Pokémon",
     description:
-      "This usually quiet and kindly Pokémon has a surface temperature of around –240 degrees Fahrenheit.",
-    evolution: { prev: ["698", "Level 39, Nighttime"] },
+      "Este Pokémon normalmente silencioso e gentil tem uma temperatura superficial de cerca de -240 graus Fahrenheit.",
+    evolution: {
+      prev: ["698", "Level 39, Nighttime"],
+    },
     profile: {
       height: "2.7 m",
       weight: "225 kg",
@@ -28258,12 +27321,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/699.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/699.png",
-      hires:
-        "./Imagens/Pokedex/hires/699.png",
+      sprite: "./Imagens/Pokedex/sprites/699.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/699.png",
+      hires: "./Imagens/Pokedex/hires/699.png",
     },
   },
   {
@@ -28285,8 +27345,10 @@ const POKEDEX_JSON = [
     },
     species: "Intertwining Pokémon",
     description:
-      "Sylveon wraps its ribbonlike feelers around its Trainer’s arm because this touch enables it to read its Trainer’s feelings.",
-    evolution: { prev: ["133", "High Affection, knowing Fairy move"] },
+      "Sylveon envolve seus tentáculos semelhantes a fitas ao redor do braço de seu treinador porque esse toque permite que ele leia os sentimentos de seu treinador.",
+    evolution: {
+      prev: ["133", "High Affection, knowing Fairy move"],
+    },
     profile: {
       height: "1 m",
       weight: "23.5 kg",
@@ -28298,12 +27360,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/700.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/700.png",
-      hires:
-        "./Imagens/Pokedex/hires/700.png",
+      sprite: "./Imagens/Pokedex/sprites/700.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/700.png",
+      hires: "./Imagens/Pokedex/hires/700.png",
     },
   },
   {
@@ -28325,7 +27384,7 @@ const POKEDEX_JSON = [
     },
     species: "Wrestling Pokémon",
     description:
-      "In combat, Hawlucha leaps nimbly about, taking advantage of its opponents’ blind spots. It’s also skilled at using superb submission holds.",
+      "Em combate, Hawlucha salta ágilmente, aproveitando os pontos cegos de seus oponentes. Ele também é habilidoso em usar manobras de submissão excelentes.",
     evolution: {},
     profile: {
       height: "0.8 m",
@@ -28339,12 +27398,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/701.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/701.png",
-      hires:
-        "./Imagens/Pokedex/hires/701.png",
+      sprite: "./Imagens/Pokedex/sprites/701.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/701.png",
+      hires: "./Imagens/Pokedex/hires/701.png",
     },
   },
   {
@@ -28366,7 +27422,7 @@ const POKEDEX_JSON = [
     },
     species: "Antenna Pokémon",
     description:
-      "Its upper whiskers are sensors that survey its surroundings. Its lower whiskers are organs that shoot electricity.",
+      "Seus bigodes superiores são sensores que examinam seus arredores. Seus bigodes inferiores são órgãos que disparam eletricidade.",
     evolution: {},
     profile: {
       height: "0.2 m",
@@ -28380,12 +27436,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/702.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/702.png",
-      hires:
-        "./Imagens/Pokedex/hires/702.png",
+      sprite: "./Imagens/Pokedex/sprites/702.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/702.png",
+      hires: "./Imagens/Pokedex/hires/702.png",
     },
   },
   {
@@ -28407,7 +27460,7 @@ const POKEDEX_JSON = [
     },
     species: "Jewel Pokémon",
     description:
-      "To keep the jewels on their bodies free of tarnish, packs of Carbink use their soft manes to polish one another’s jewels.",
+      "Para manter as joias em seus corpos livres de manchas, bandos de Carbink usam suas crinas macias para polir as joias uns dos outros.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -28420,12 +27473,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/703.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/703.png",
-      hires:
-        "./Imagens/Pokedex/hires/703.png",
+      sprite: "./Imagens/Pokedex/sprites/703.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/703.png",
+      hires: "./Imagens/Pokedex/hires/703.png",
     },
   },
   {
@@ -28447,8 +27497,10 @@ const POKEDEX_JSON = [
     },
     species: "Soft Tissue Pokémon",
     description:
-      "Its body is mostly water. If it dries out, it will die, so it’s always sitting with perfect stillness in the shade.",
-    evolution: { next: [["705", "Level 40"]] },
+      "Seu corpo é principalmente água. Se secar, morrerá, por isso sempre fica sentado com perfeita imobilidade na sombra.",
+    evolution: {
+      next: [["705", "Level 40"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "2.8 kg",
@@ -28461,12 +27513,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/704.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/704.png",
-      hires:
-        "./Imagens/Pokedex/hires/704.png",
+      sprite: "./Imagens/Pokedex/sprites/704.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/704.png",
+      hires: "./Imagens/Pokedex/hires/704.png",
     },
   },
   {
@@ -28488,7 +27537,7 @@ const POKEDEX_JSON = [
     },
     species: "Soft Tissue Pokémon",
     description:
-      "Its entire body is covered with gooey mucus that can dissolve anything. Be sure to put gloves on if you’re going to touch it.",
+      "Seu corpo inteiro é coberto de muco pegajoso que pode dissolver qualquer coisa. Certifique-se de colocar luvas se for tocá-lo.",
     evolution: {
       prev: ["704", "Level 40"],
       next: [["706", "Level 50, during rain"]],
@@ -28505,12 +27554,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/705.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/705.png",
-      hires:
-        "./Imagens/Pokedex/hires/705.png",
+      sprite: "./Imagens/Pokedex/sprites/705.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/705.png",
+      hires: "./Imagens/Pokedex/hires/705.png",
     },
   },
   {
@@ -28532,8 +27578,10 @@ const POKEDEX_JSON = [
     },
     species: "Dragon Pokémon",
     description:
-      "Underneath its slimy skin is a thick layer of fat, and the combination of the two makes enemies’ attacks slide right off.",
-    evolution: { prev: ["705", "Level 50, during rain"] },
+      "Debaixo de sua pele viscosa há uma camada espessa de gordura, e a combinação dos dois faz com que os ataques dos inimigos deslizem para fora.",
+    evolution: {
+      prev: ["705", "Level 50, during rain"],
+    },
     profile: {
       height: "2 m",
       weight: "150.5 kg",
@@ -28546,12 +27594,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/706.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/706.png",
-      hires:
-        "./Imagens/Pokedex/hires/706.png",
+      sprite: "./Imagens/Pokedex/sprites/706.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/706.png",
+      hires: "./Imagens/Pokedex/hires/706.png",
     },
   },
   {
@@ -28573,7 +27618,7 @@ const POKEDEX_JSON = [
     },
     species: "Key Ring Pokémon",
     description:
-      "Long ago it lived in mines, but once the minerals that make up its diet became scarcer, Klefki began appearing in human settlements.",
+      "Há muito tempo vivia em minas, mas uma vez que os minerais que compõem sua dieta se tornaram mais escassos, Klefki começou a aparecer em assentamentos humanos.",
     evolution: {},
     profile: {
       height: "0.2 m",
@@ -28586,12 +27631,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/707.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/707.png",
-      hires:
-        "./Imagens/Pokedex/hires/707.png",
+      sprite: "./Imagens/Pokedex/sprites/707.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/707.png",
+      hires: "./Imagens/Pokedex/hires/707.png",
     },
   },
   {
@@ -28613,8 +27655,10 @@ const POKEDEX_JSON = [
     },
     species: "Stump Pokémon",
     description:
-      "An unknown spirit came to lodge in a tree stump, creating this Pokémon. A cure-all can be made from an infusion of its green leaves.",
-    evolution: { next: [["709", "Trade"]] },
+      "Um espírito desconhecido veio se alojar em um toco de árvore, criando este Pokémon. Uma cura pode ser feita a partir de uma infusão de suas folhas verdes.",
+    evolution: {
+      next: [["709", "Trade"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7 kg",
@@ -28627,12 +27671,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/708.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/708.png",
-      hires:
-        "./Imagens/Pokedex/hires/708.png",
+      sprite: "./Imagens/Pokedex/sprites/708.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/708.png",
+      hires: "./Imagens/Pokedex/hires/708.png",
     },
   },
   {
@@ -28654,8 +27695,10 @@ const POKEDEX_JSON = [
     },
     species: "Elder Tree Pokémon",
     description:
-      "This Pokémon controls trees via roots stretching from its feet, and it will attack anyone that dares to ravage the forest.",
-    evolution: { prev: ["708", "Trade"] },
+      "Este Pokémon controla árvores através de raízes que se estendem de seus pés e atacará qualquer pessoa que ousar devastar a floresta.",
+    evolution: {
+      prev: ["708", "Trade"],
+    },
     profile: {
       height: "1.5 m",
       weight: "71 kg",
@@ -28668,12 +27711,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/709.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/709.png",
-      hires:
-        "./Imagens/Pokedex/hires/709.png",
+      sprite: "./Imagens/Pokedex/sprites/709.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/709.png",
+      hires: "./Imagens/Pokedex/hires/709.png",
     },
   },
   {
@@ -28695,8 +27735,10 @@ const POKEDEX_JSON = [
     },
     species: "Pumpkin Pokémon",
     description:
-      "It is said to carry wandering spirits to the place where they belong so they can move on.",
-    evolution: { next: [["711", "Trade"]] },
+      "Diz-se que ele carrega espíritos errantes para o lugar a que pertencem para que possam seguir em frente.",
+    evolution: {
+      next: [["711", "Trade"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "5 kg",
@@ -28709,12 +27751,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/710.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/710.png",
-      hires:
-        "./Imagens/Pokedex/hires/710.png",
+      sprite: "./Imagens/Pokedex/sprites/710.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/710.png",
+      hires: "./Imagens/Pokedex/hires/710.png",
     },
   },
   {
@@ -28736,8 +27775,10 @@ const POKEDEX_JSON = [
     },
     species: "Pumpkin Pokémon",
     description:
-      "It enwraps its prey in its hairlike arms. It sings joyfully as it observes the suffering of its prey.",
-    evolution: { prev: ["710", "Trade"] },
+      "Ele envolve sua presa em seus braços semelhantes a cabelo. Ele canta alegremente enquanto observa o sofrimento de sua presa.",
+    evolution: {
+      prev: ["710", "Trade"],
+    },
     profile: {
       height: "0.9 m",
       weight: "12.5 kg",
@@ -28750,12 +27791,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/711.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/711.png",
-      hires:
-        "./Imagens/Pokedex/hires/711.png",
+      sprite: "./Imagens/Pokedex/sprites/711.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/711.png",
+      hires: "./Imagens/Pokedex/hires/711.png",
     },
   },
   {
@@ -28777,8 +27815,10 @@ const POKEDEX_JSON = [
     },
     species: "Ice Chunk Pokémon",
     description:
-      "Using air of -150 degrees Fahrenheit, they freeze opponents solid. They live in herds above the snow line on mountains.",
-    evolution: { next: [["713", "Level 37"]] },
+      "Usando ar de -150 graus Fahrenheit, eles congelam oponentes sólidos. Eles vivem em rebanhos acima da linha de neve nas montanhas.",
+    evolution: {
+      next: [["713", "Level 37"]],
+    },
     profile: {
       height: "1 m",
       weight: "99.5 kg",
@@ -28791,12 +27831,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/712.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/712.png",
-      hires:
-        "./Imagens/Pokedex/hires/712.png",
+      sprite: "./Imagens/Pokedex/sprites/712.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/712.png",
+      hires: "./Imagens/Pokedex/hires/712.png",
     },
   },
   {
@@ -28818,8 +27855,10 @@ const POKEDEX_JSON = [
     },
     species: "Iceberg Pokémon",
     description:
-      "The way several Bergmite huddle on its back makes it look like an aircraft carrier made of ice.",
-    evolution: { prev: ["712", "Level 37"] },
+      "A maneira como vários Bergmite se aglomeram em suas costas faz com que pareça um porta-aviões feito de gelo.",
+    evolution: {
+      prev: ["712", "Level 37"],
+    },
     profile: {
       height: "2 m",
       weight: "505 kg",
@@ -28832,12 +27871,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/713.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/713.png",
-      hires:
-        "./Imagens/Pokedex/hires/713.png",
+      sprite: "./Imagens/Pokedex/sprites/713.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/713.png",
+      hires: "./Imagens/Pokedex/hires/713.png",
     },
   },
   {
@@ -28859,8 +27895,10 @@ const POKEDEX_JSON = [
     },
     species: "Sound Wave Pokémon",
     description:
-      "It flies around in search of fruit to eat. It uses ultrasonic waves to detect which fruits are ripe.",
-    evolution: { next: [["715", "Level 48"]] },
+      "Ele voa em busca de frutas para comer. Ele usa ondas ultrassônicas para detectar quais frutas estão maduras.",
+    evolution: {
+      next: [["715", "Level 48"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "8 kg",
@@ -28873,12 +27911,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/714.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/714.png",
-      hires:
-        "./Imagens/Pokedex/hires/714.png",
+      sprite: "./Imagens/Pokedex/sprites/714.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/714.png",
+      hires: "./Imagens/Pokedex/hires/714.png",
     },
   },
   {
@@ -28900,8 +27935,10 @@ const POKEDEX_JSON = [
     },
     species: "Sound Wave Pokémon",
     description:
-      "This hot-blooded Pokémon attacks anything it sees with ultrasonic waves that can crush boulders.",
-    evolution: { prev: ["714", "Level 48"] },
+      "Este Pokémon de sangue quente ataca qualquer coisa que vê com ondas ultrassônicas que podem esmagar pedras.",
+    evolution: {
+      prev: ["714", "Level 48"],
+    },
     profile: {
       height: "1.5 m",
       weight: "85 kg",
@@ -28914,12 +27951,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/715.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/715.png",
-      hires:
-        "./Imagens/Pokedex/hires/715.png",
+      sprite: "./Imagens/Pokedex/sprites/715.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/715.png",
+      hires: "./Imagens/Pokedex/hires/715.png",
     },
   },
   {
@@ -28941,7 +27975,7 @@ const POKEDEX_JSON = [
     },
     species: "Life Pokémon",
     description:
-      "When the horns on its head shine in seven colors, it is said to be sharing everlasting life.",
+      "Quando os chifres em sua cabeça brilham em sete cores, diz-se que está compartilhando vida eterna.",
     evolution: {},
     profile: {
       height: "3 m",
@@ -28951,12 +27985,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/716.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/716.png",
-      hires:
-        "./Imagens/Pokedex/hires/716.png",
+      sprite: "./Imagens/Pokedex/sprites/716.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/716.png",
+      hires: "./Imagens/Pokedex/hires/716.png",
     },
   },
   {
@@ -28978,7 +28009,7 @@ const POKEDEX_JSON = [
     },
     species: "Destruction Pokémon",
     description:
-      "When its life comes to an end, it absorbs the life energy of every living thing and turns into a cocoon once more.",
+      "Quando sua vida chega ao fim, ele absorve a energia vital de todos os seres vivos e se transforma em um casulo mais uma vez.",
     evolution: {},
     profile: {
       height: "5.8 m",
@@ -28988,12 +28019,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/717.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/717.png",
-      hires:
-        "./Imagens/Pokedex/hires/717.png",
+      sprite: "./Imagens/Pokedex/sprites/717.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/717.png",
+      hires: "./Imagens/Pokedex/hires/717.png",
     },
   },
   {
@@ -29015,7 +28043,7 @@ const POKEDEX_JSON = [
     },
     species: "Order Pokémon",
     description:
-      "Some say it can change to an even more powerful form when battling those who threaten the ecosystem.",
+      "Alguns dizem que ele pode mudar para uma forma ainda mais poderosa quando lutar contra aqueles que ameaçam o ecossistema.",
     evolution: {},
     profile: {
       height: "5 m",
@@ -29025,12 +28053,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/718.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/718.png",
-      hires:
-        "./Imagens/Pokedex/hires/718.png",
+      sprite: "./Imagens/Pokedex/sprites/718.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/718.png",
+      hires: "./Imagens/Pokedex/hires/718.png",
     },
   },
   {
@@ -29052,7 +28077,7 @@ const POKEDEX_JSON = [
     },
     species: "Jewel Pokémon",
     description:
-      "It can instantly create many diamonds by compressing the carbon in the air between its hands.",
+      "Ele pode criar instantaneamente muitos diamantes comprimindo o carbono no ar entre suas mãos.",
     evolution: {},
     profile: {
       height: "0.7 m",
@@ -29062,12 +28087,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/719.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/719.png",
-      hires:
-        "./Imagens/Pokedex/hires/719.png",
+      sprite: "./Imagens/Pokedex/sprites/719.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/719.png",
+      hires: "./Imagens/Pokedex/hires/719.png",
     },
   },
   {
@@ -29089,7 +28111,7 @@ const POKEDEX_JSON = [
     },
     species: "Mischief Pokémon",
     description:
-      "It is said to be able to seize anything it desires with its six rings and six huge arms. With its power sealed, it is transformed into a much smaller form.",
+      "Diz-se que ele é capaz de agarrar qualquer coisa que desejar com seus seis anéis e seis braços enormes. Com seu poder selado, ele é transformado em uma forma muito menor.",
     evolution: {},
     profile: {
       height: "0.5 m",
@@ -29099,12 +28121,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/720.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/720.png",
-      hires:
-        "./Imagens/Pokedex/hires/720.png",
+      sprite: "./Imagens/Pokedex/sprites/720.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/720.png",
+      hires: "./Imagens/Pokedex/hires/720.png",
     },
   },
   {
@@ -29126,7 +28145,7 @@ const POKEDEX_JSON = [
     },
     species: "Steam Pokémon",
     description:
-      "It expels its internal steam from the arms on its back. It has enough power to blow away a mountain.",
+      "Ele expele seu vapor interno dos braços nas costas. Ele tem poder suficiente para explodir uma montanha.",
     evolution: {},
     profile: {
       height: "1.7 m",
@@ -29136,12 +28155,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/721.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/721.png",
-      hires:
-        "./Imagens/Pokedex/hires/721.png",
+      sprite: "./Imagens/Pokedex/sprites/721.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/721.png",
+      hires: "./Imagens/Pokedex/hires/721.png",
     },
   },
   {
@@ -29163,8 +28179,10 @@ const POKEDEX_JSON = [
     },
     species: "Grass Quill Pokémon",
     description:
-      "It feels relaxed in tight, dark places and has been known to use its Trainer’s pocket or bag as a nest.",
-    evolution: { next: [["723", "Level 17"]] },
+      "Ele se sente relaxado em lugares apertados e escuros e é conhecido por usar o bolso ou bolsa de seu treinador como um ninho.",
+    evolution: {
+      next: [["723", "Level 17"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.5 kg",
@@ -29176,12 +28194,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/722.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/722.png",
-      hires:
-        "./Imagens/Pokedex/hires/722.png",
+      sprite: "./Imagens/Pokedex/sprites/722.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/722.png",
+      hires: "./Imagens/Pokedex/hires/722.png",
     },
   },
   {
@@ -29203,8 +28218,11 @@ const POKEDEX_JSON = [
     },
     species: "Blade Quill Pokémon",
     description:
-      "Supremely sensitive to the presence of others, it can detect opponents standing behind it, flinging its sharp feathers to take them out.",
-    evolution: { prev: ["722", "Level 17"], next: [["724", "Level 34"]] },
+      "Extremamente sensível à presença dos outros, ele pode detectar oponentes atrás dele, lançando suas penas afiadas para tirá-los.",
+    evolution: {
+      prev: ["722", "Level 17"],
+      next: [["724", "Level 34"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "16 kg",
@@ -29216,12 +28234,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/723.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/723.png",
-      hires:
-        "./Imagens/Pokedex/hires/723.png",
+      sprite: "./Imagens/Pokedex/sprites/723.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/723.png",
+      hires: "./Imagens/Pokedex/hires/723.png",
     },
   },
   {
@@ -29243,8 +28258,10 @@ const POKEDEX_JSON = [
     },
     species: "Arrow Quill Pokémon",
     description:
-      "Decidueye can nock and fire an arrow at an enemy in a tenth of a second, so its battles are decided in the blink of an eye.",
-    evolution: { prev: ["723", "Level 34"] },
+      "Decidueye pode colocar uma flecha em um inimigo em um décimo de segundo, então suas batalhas são decididas em um piscar de olhos.",
+    evolution: {
+      prev: ["723", "Level 34"],
+    },
     profile: {
       height: "1.6 m",
       weight: "36.6 kg",
@@ -29256,12 +28273,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/724.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/724.png",
-      hires:
-        "./Imagens/Pokedex/hires/724.png",
+      sprite: "./Imagens/Pokedex/sprites/724.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/724.png",
+      hires: "./Imagens/Pokedex/hires/724.png",
     },
   },
   {
@@ -29283,8 +28297,10 @@ const POKEDEX_JSON = [
     },
     species: "Fire Cat Pokémon",
     description:
-      "Its coat regrows twice a year. When the time comes, Litten sets its own body on fire and burns away the old fur.",
-    evolution: { next: [["726", "Level 17"]] },
+      "Seu casaco cresce duas vezes por ano. Quando chega a hora, Litten incendeia seu próprio corpo e queima o pelo velho.",
+    evolution: {
+      next: [["726", "Level 17"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "4.3 kg",
@@ -29296,12 +28312,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/725.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/725.png",
-      hires:
-        "./Imagens/Pokedex/hires/725.png",
+      sprite: "./Imagens/Pokedex/sprites/725.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/725.png",
+      hires: "./Imagens/Pokedex/hires/725.png",
     },
   },
   {
@@ -29323,8 +28336,11 @@ const POKEDEX_JSON = [
     },
     species: "Fire Cat Pokémon",
     description:
-      "When its mane is standing on end, you can tell it’s feeling good. When it isn’t feeling well, its fur will lie down flat.",
-    evolution: { prev: ["725", "Level 17"], next: [["727", "Level 34"]] },
+      "Quando sua juba está de pé, você pode dizer que está se sentindo bem. Quando não está se sentindo bem, sua pelagem ficará deitada.",
+    evolution: {
+      prev: ["725", "Level 17"],
+      next: [["727", "Level 34"]],
+    },
     profile: {
       height: "0.7 m",
       weight: "25 kg",
@@ -29336,12 +28352,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/726.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/726.png",
-      hires:
-        "./Imagens/Pokedex/hires/726.png",
+      sprite: "./Imagens/Pokedex/sprites/726.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/726.png",
+      hires: "./Imagens/Pokedex/hires/726.png",
     },
   },
   {
@@ -29363,8 +28376,10 @@ const POKEDEX_JSON = [
     },
     species: "Heel Pokémon",
     description:
-      "When its fighting spirit is set alight, the flames around its waist become especially intense.",
-    evolution: { prev: ["726", "Level 34"] },
+      "Quando seu espírito de luta é acendido, as chamas ao redor de sua cintura se tornam especialmente intensas.",
+    evolution: {
+      prev: ["726", "Level 34"],
+    },
     profile: {
       height: "1.8 m",
       weight: "83 kg",
@@ -29376,12 +28391,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/727.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/727.png",
-      hires:
-        "./Imagens/Pokedex/hires/727.png",
+      sprite: "./Imagens/Pokedex/sprites/727.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/727.png",
+      hires: "./Imagens/Pokedex/hires/727.png",
     },
   },
   {
@@ -29403,8 +28415,10 @@ const POKEDEX_JSON = [
     },
     species: "Sea Lion Pokémon",
     description:
-      "Popplio gets on top of its bouncy water balloons to jump higher. It’s quite the acrobatic fighter!",
-    evolution: { next: [["729", "Level 17"]] },
+      "Popplio fica em cima de seus balões de água quicantes para pular mais alto. É um lutador bastante acrobático!",
+    evolution: {
+      next: [["729", "Level 17"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "7.5 kg",
@@ -29416,12 +28430,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/728.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/728.png",
-      hires:
-        "./Imagens/Pokedex/hires/728.png",
+      sprite: "./Imagens/Pokedex/sprites/728.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/728.png",
+      hires: "./Imagens/Pokedex/hires/728.png",
     },
   },
   {
@@ -29443,8 +28454,11 @@ const POKEDEX_JSON = [
     },
     species: "Pop Star Pokémon",
     description:
-      "It attacks by smacking its enemies with the exploding water balloons that it creates.",
-    evolution: { prev: ["728", "Level 17"], next: [["730", "Level 34"]] },
+      "Ele ataca batendo em seus inimigos com os balões de água explosivos que cria.",
+    evolution: {
+      prev: ["728", "Level 17"],
+      next: [["730", "Level 34"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "17.5 kg",
@@ -29456,12 +28470,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/729.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/729.png",
-      hires:
-        "./Imagens/Pokedex/hires/729.png",
+      sprite: "./Imagens/Pokedex/sprites/729.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/729.png",
+      hires: "./Imagens/Pokedex/hires/729.png",
     },
   },
   {
@@ -29483,8 +28494,10 @@ const POKEDEX_JSON = [
     },
     species: "Soloist Pokémon",
     description:
-      "Also known as a songstress, it has a fantastical look on moonlit nights when it leads its colony in song.",
-    evolution: { prev: ["729", "Level 34"] },
+      "Também conhecida como cantora, ela tem um visual fantástico em noites de luar quando lidera sua colônia em canto.",
+    evolution: {
+      prev: ["729", "Level 34"],
+    },
     profile: {
       height: "1.8 m",
       weight: "44 kg",
@@ -29496,12 +28509,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/730.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/730.png",
-      hires:
-        "./Imagens/Pokedex/hires/730.png",
+      sprite: "./Imagens/Pokedex/sprites/730.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/730.png",
+      hires: "./Imagens/Pokedex/hires/730.png",
     },
   },
   {
@@ -29523,8 +28533,10 @@ const POKEDEX_JSON = [
     },
     species: "Woodpecker Pokémon",
     description:
-      "It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!",
-    evolution: { next: [["732", "Level 14"]] },
+      "Pode parecer filiforme, mas seus músculos do pescoço são pesados. Ele pode bicar uma árvore 16 vezes por segundo!",
+    evolution: {
+      next: [["732", "Level 14"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.2 kg",
@@ -29537,12 +28549,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/731.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/731.png",
-      hires:
-        "./Imagens/Pokedex/hires/731.png",
+      sprite: "./Imagens/Pokedex/sprites/731.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/731.png",
+      hires: "./Imagens/Pokedex/hires/731.png",
     },
   },
   {
@@ -29564,8 +28573,11 @@ const POKEDEX_JSON = [
     },
     species: "Bugle Beak Pokémon",
     description:
-      "From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.",
-    evolution: { prev: ["731", "Level 14"], next: [["733", "Level 28"]] },
+      "De sua boca, ele dispara as sementes de bagas que comeu. As sementes espalhadas dão origem a novas plantas.",
+    evolution: {
+      prev: ["731", "Level 14"],
+      next: [["733", "Level 28"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "14.8 kg",
@@ -29578,12 +28590,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/732.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/732.png",
-      hires:
-        "./Imagens/Pokedex/hires/732.png",
+      sprite: "./Imagens/Pokedex/sprites/732.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/732.png",
+      hires: "./Imagens/Pokedex/hires/732.png",
     },
   },
   {
@@ -29605,8 +28614,10 @@ const POKEDEX_JSON = [
     },
     species: "Cannon Pokémon",
     description:
-      "Known for forming harmonious couples, this Pokémon is brought to wedding ceremonies as a good luck charm.",
-    evolution: { prev: ["732", "Level 28"] },
+      "Conhecido por formar casais harmoniosos, este Pokémon é trazido para cerimônias de casamento como um amuleto da sorte.",
+    evolution: {
+      prev: ["732", "Level 28"],
+    },
     profile: {
       height: "1.1 m",
       weight: "26 kg",
@@ -29619,12 +28630,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/733.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/733.png",
-      hires:
-        "./Imagens/Pokedex/hires/733.png",
+      sprite: "./Imagens/Pokedex/sprites/733.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/733.png",
+      hires: "./Imagens/Pokedex/hires/733.png",
     },
   },
   {
@@ -29646,8 +28654,10 @@ const POKEDEX_JSON = [
     },
     species: "Loitering Pokémon",
     description:
-      "Although it will eat anything, it prefers fresh living things, so it marches down streets in search of prey.",
-    evolution: { next: [["735", "Level 20, Daytime"]] },
+      "Embora coma de tudo, prefere coisas vivas frescas, por isso marcha pelas ruas em busca de presas.",
+    evolution: {
+      next: [["735", "Level 20, Daytime"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "6 kg",
@@ -29660,12 +28670,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/734.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/734.png",
-      hires:
-        "./Imagens/Pokedex/hires/734.png",
+      sprite: "./Imagens/Pokedex/sprites/734.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/734.png",
+      hires: "./Imagens/Pokedex/hires/734.png",
     },
   },
   {
@@ -29687,8 +28694,10 @@ const POKEDEX_JSON = [
     },
     species: "Stakeout Pokémon",
     description:
-      "Patient by nature, this Pokémon loses control of itself and pounces when it spots its favorite meal—Rattata!",
-    evolution: { prev: ["734", "Level 20, Daytime"] },
+      "Paciente por natureza, este Pokémon perde o controle de si mesmo e se lança quando vê sua refeição favorita - Rattata!",
+    evolution: {
+      prev: ["734", "Level 20, Daytime"],
+    },
     profile: {
       height: "0.7 m",
       weight: "14.2 kg",
@@ -29701,12 +28710,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/735.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/735.png",
-      hires:
-        "./Imagens/Pokedex/hires/735.png",
+      sprite: "./Imagens/Pokedex/sprites/735.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/735.png",
+      hires: "./Imagens/Pokedex/hires/735.png",
     },
   },
   {
@@ -29728,8 +28734,10 @@ const POKEDEX_JSON = [
     },
     species: "Larva Pokémon",
     description:
-      "It spits a sticky thread to stop opponents in their tracks, and then it grabs them in its sharp, sturdy mandibles to take them down.",
-    evolution: { next: [["737", "Level 20"]] },
+      "Ele cospe um fio pegajoso para parar os oponentes em suas trilhas e depois os agarra em suas mandíbulas afiadas e resistentes para derrubá-los.",
+    evolution: {
+      next: [["737", "Level 20"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "4.4 kg",
@@ -29738,12 +28746,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/736.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/736.png",
-      hires:
-        "./Imagens/Pokedex/hires/736.png",
+      sprite: "./Imagens/Pokedex/sprites/736.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/736.png",
+      hires: "./Imagens/Pokedex/hires/736.png",
     },
   },
   {
@@ -29765,7 +28770,7 @@ const POKEDEX_JSON = [
     },
     species: "Battery Pokémon",
     description:
-      "Its stout shell provides excellent defense from attacks. It uses electricity on persistent opponents.",
+      "Sua concha robusta fornece excelente defesa contra ataques. Ele usa eletricidade em oponentes persistentes.",
     evolution: {
       prev: ["736", "Level 20"],
       next: [["738", "Level up in a Magnetic Field area"]],
@@ -29778,12 +28783,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/737.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/737.png",
-      hires:
-        "./Imagens/Pokedex/hires/737.png",
+      sprite: "./Imagens/Pokedex/sprites/737.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/737.png",
+      hires: "./Imagens/Pokedex/hires/737.png",
     },
   },
   {
@@ -29805,7 +28807,7 @@ const POKEDEX_JSON = [
     },
     species: "Stag Beetle Pokémon",
     description:
-      "Vikavolt flusters opponents with acrobatic flying maneuvers. This creates an opening for it to deliver an electric beam attack.",
+      "Vikavolt atrapalha oponentes com manobras de vôo acrobáticas. Isso cria uma abertura para ele lançar um ataque de feixe elétrico.",
     evolution: {
       prev: [
         "737",
@@ -29820,12 +28822,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/738.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/738.png",
-      hires:
-        "./Imagens/Pokedex/hires/738.png",
+      sprite: "./Imagens/Pokedex/sprites/738.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/738.png",
+      hires: "./Imagens/Pokedex/hires/738.png",
     },
   },
   {
@@ -29847,8 +28846,10 @@ const POKEDEX_JSON = [
     },
     species: "Boxing Pokémon",
     description:
-      "Crabrawler has been known to mistake Exeggutor for a coconut tree and climb it. The enraged Exeggutor shakes it off and stomps it.",
-    evolution: { next: [["740", "at Mount Lanakila"]] },
+      "Crabrawler é conhecido por confundir Exeggutor com uma palmeira de coco e subir nela. O Exeggutor enfurecido o sacude e o pisa.",
+    evolution: {
+      next: [["740", "at Mount Lanakila"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "7 kg",
@@ -29861,12 +28862,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/739.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/739.png",
-      hires:
-        "./Imagens/Pokedex/hires/739.png",
+      sprite: "./Imagens/Pokedex/sprites/739.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/739.png",
+      hires: "./Imagens/Pokedex/hires/739.png",
     },
   },
   {
@@ -29888,8 +28886,10 @@ const POKEDEX_JSON = [
     },
     species: "Woolly Crab Pokémon",
     description:
-      "Before it stops to think, it just starts pummeling. There are records of its turning back avalanches with a flurry of punches.",
-    evolution: { prev: ["739", "at Mount Lanakila"] },
+      "Antes de parar para pensar, ele apenas começa a socar. Existem registros de que ele reverteu avalanches com uma enxurrada de socos.",
+    evolution: {
+      prev: ["739", "at Mount Lanakila"],
+    },
     profile: {
       height: "1.7 m",
       weight: "180 kg",
@@ -29902,12 +28902,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/740.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/740.png",
-      hires:
-        "./Imagens/Pokedex/hires/740.png",
+      sprite: "./Imagens/Pokedex/sprites/740.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/740.png",
+      hires: "./Imagens/Pokedex/hires/740.png",
     },
   },
   {
@@ -29929,7 +28926,7 @@ const POKEDEX_JSON = [
     },
     species: "Dancing Pokémon",
     description:
-      "This Oricorio has drunk red nectar. If its Trainer gives the wrong order, this passionate Pokémon becomes fiercely angry.",
+      "Este Oricorio bebeu néctar vermelho. Se seu treinador der a ordem errada, este Pokémon apaixonado fica ferozmente zangado.",
     evolution: {},
     profile: {
       height: "0.6 m",
@@ -29939,12 +28936,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/741.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/741.png",
-      hires:
-        "./Imagens/Pokedex/hires/741.png",
+      sprite: "./Imagens/Pokedex/sprites/741.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/741.png",
+      hires: "./Imagens/Pokedex/hires/741.png",
     },
   },
   {
@@ -29966,8 +28960,10 @@ const POKEDEX_JSON = [
     },
     species: "Bee Fly Pokémon",
     description:
-      "Cutiefly can pick up the auras of living things. It skillfully reads those auras to predict its foes’ movements and make fools of them.",
-    evolution: { next: [["743", "Level 25"]] },
+      "Cutiefly pode pegar as auras de seres vivos. Ele lê habilmente essas auras para prever os movimentos de seus inimigos e torná-los tolos.",
+    evolution: {
+      next: [["743", "Level 25"]],
+    },
     profile: {
       height: "0.1 m",
       weight: "0.2 kg",
@@ -29980,12 +28976,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/742.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/742.png",
-      hires:
-        "./Imagens/Pokedex/hires/742.png",
+      sprite: "./Imagens/Pokedex/sprites/742.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/742.png",
+      hires: "./Imagens/Pokedex/hires/742.png",
     },
   },
   {
@@ -30007,8 +29000,10 @@ const POKEDEX_JSON = [
     },
     species: "Bee Fly Pokémon",
     description:
-      "It can predict the weather from moisture levels and wind direction. Ribombee only reveals itself when there are a few clear days in a row.",
-    evolution: { prev: ["742", "Level 25"] },
+      "Ele pode prever o clima a partir dos níveis de umidade e da direção do vento. Ribombee só se revela quando há alguns dias claros seguidos.",
+    evolution: {
+      prev: ["742", "Level 25"],
+    },
     profile: {
       height: "0.2 m",
       weight: "0.5 kg",
@@ -30021,12 +29016,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/743.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/743.png",
-      hires:
-        "./Imagens/Pokedex/hires/743.png",
+      sprite: "./Imagens/Pokedex/sprites/743.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/743.png",
+      hires: "./Imagens/Pokedex/hires/743.png",
     },
   },
   {
@@ -30048,8 +29040,10 @@ const POKEDEX_JSON = [
     },
     species: "Puppy Pokémon",
     description:
-      "When it rubs the rocks on its neck against you, that’s proof of its love for you. However, the rocks are sharp, so the gesture is quite painful!",
-    evolution: { next: [["745", "Level 25"]] },
+      "Quando ele esfrega as pedras em seu pescoço em você, isso é prova de seu amor por você. No entanto, as pedras são afiadas, então o gesto é bastante doloroso!",
+    evolution: {
+      next: [["745", "Level 25"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "9.2 kg",
@@ -30062,12 +29056,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/744.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/744.png",
-      hires:
-        "./Imagens/Pokedex/hires/744.png",
+      sprite: "./Imagens/Pokedex/sprites/744.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/744.png",
+      hires: "./Imagens/Pokedex/hires/744.png",
     },
   },
   {
@@ -30089,8 +29080,10 @@ const POKEDEX_JSON = [
     },
     species: "Wolf Pokémon",
     description:
-      "The rocks in its mane are sharper than a knife. Fragments that break off are treasured as good luck charms.",
-    evolution: { prev: ["744", "Level 25"] },
+      "As pedras em sua juba são mais afiadas que uma faca. Fragmentos que se desprendem são considerados amuletos da sorte.",
+    evolution: {
+      prev: ["744", "Level 25"],
+    },
     profile: {
       height: "0.8 m",
       weight: "25 kg",
@@ -30103,12 +29096,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/745.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/745.png",
-      hires:
-        "./Imagens/Pokedex/hires/745.png",
+      sprite: "./Imagens/Pokedex/sprites/745.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/745.png",
+      hires: "./Imagens/Pokedex/hires/745.png",
     },
   },
   {
@@ -30130,7 +29120,7 @@ const POKEDEX_JSON = [
     },
     species: "Small Fry Pokémon",
     description:
-      "When it’s in a jam, its shining eyes attract others of its kind. The light from its eyes is visible almost 25 miles away.",
+      "Quando está em apuros, seus olhos brilhantes atraem outros de sua espécie. A luz de seus olhos é visível a quase 25 milhas de distância.",
     evolution: {},
     profile: {
       height: "0.2 m",
@@ -30140,12 +29130,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/746.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/746.png",
-      hires:
-        "./Imagens/Pokedex/hires/746.png",
+      sprite: "./Imagens/Pokedex/sprites/746.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/746.png",
+      hires: "./Imagens/Pokedex/hires/746.png",
     },
   },
   {
@@ -30167,8 +29154,10 @@ const POKEDEX_JSON = [
     },
     species: "Brutal Star Pokémon",
     description:
-      "Aside from its head, its body parts regenerate quickly if they’re cut off. After a good night’s sleep, Mareanie is back to normal.",
-    evolution: { next: [["748", "Level 38"]] },
+      "Além de sua cabeça, suas partes do corpo se regeneram rapidamente se forem cortadas. Depois de uma boa noite de sono, Mareanie volta ao normal.",
+    evolution: {
+      next: [["748", "Level 38"]],
+    },
     profile: {
       height: "0.4 m",
       weight: "8 kg",
@@ -30181,12 +29170,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/747.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/747.png",
-      hires:
-        "./Imagens/Pokedex/hires/747.png",
+      sprite: "./Imagens/Pokedex/sprites/747.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/747.png",
+      hires: "./Imagens/Pokedex/hires/747.png",
     },
   },
   {
@@ -30208,8 +29194,10 @@ const POKEDEX_JSON = [
     },
     species: "Brutal Star Pokémon",
     description:
-      "With its 12 legs, it creates a dome to shelter within. The flow of the tides doesn’t affect Toxapex in there, so it’s very comfortable.",
-    evolution: { prev: ["747", "Level 38"] },
+      "Com suas 12 pernas, ele cria uma cúpula para se abrigar dentro. O fluxo das marés não afeta Toxapex lá dentro, por isso é muito confortável.",
+    evolution: {
+      prev: ["747", "Level 38"],
+    },
     profile: {
       height: "0.7 m",
       weight: "14.5 kg",
@@ -30222,12 +29210,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/748.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/748.png",
-      hires:
-        "./Imagens/Pokedex/hires/748.png",
+      sprite: "./Imagens/Pokedex/sprites/748.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/748.png",
+      hires: "./Imagens/Pokedex/hires/748.png",
     },
   },
   {
@@ -30249,8 +29234,10 @@ const POKEDEX_JSON = [
     },
     species: "Donkey Pokémon",
     description:
-      "Possessing mighty power, Mudbray can be loaded with 50 times its own body weight and will be totally fine.",
-    evolution: { next: [["750", "Level 30"]] },
+      "Possuindo um poder poderoso, Mudbray pode ser carregado com 50 vezes seu próprio peso corporal e ficará totalmente bem.",
+    evolution: {
+      next: [["750", "Level 30"]],
+    },
     profile: {
       height: "1 m",
       weight: "110 kg",
@@ -30263,12 +29250,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/749.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/749.png",
-      hires:
-        "./Imagens/Pokedex/hires/749.png",
+      sprite: "./Imagens/Pokedex/sprites/749.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/749.png",
+      hires: "./Imagens/Pokedex/hires/749.png",
     },
   },
   {
@@ -30290,8 +29274,10 @@ const POKEDEX_JSON = [
     },
     species: "Draft Horse Pokémon",
     description:
-      "It can trudge mountain roads without rest for three days and three nights, all the while dragging a 10-ton load.",
-    evolution: { prev: ["749", "Level 30"] },
+      "Ele pode caminhar pelas estradas da montanha sem descanso por três dias e três noites, enquanto arrasta uma carga de 10 toneladas.",
+    evolution: {
+      prev: ["749", "Level 30"],
+    },
     profile: {
       height: "2.5 m",
       weight: "920 kg",
@@ -30304,12 +29290,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/750.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/750.png",
-      hires:
-        "./Imagens/Pokedex/hires/750.png",
+      sprite: "./Imagens/Pokedex/sprites/750.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/750.png",
+      hires: "./Imagens/Pokedex/hires/750.png",
     },
   },
   {
@@ -30331,8 +29314,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Bubble Pokémon",
     description:
-      "It can only breathe oxygen that has dissolved in water, so it wears a water bubble on its head when it walks around on land.",
-    evolution: { next: [["752", "Level 22"]] },
+      "Ele só pode respirar oxigênio que se dissolveu na água, por isso usa uma bolha de água na cabeça quando caminha na terra.",
+    evolution: {
+      next: [["752", "Level 22"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "4 kg",
@@ -30344,12 +29329,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/751.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/751.png",
-      hires:
-        "./Imagens/Pokedex/hires/751.png",
+      sprite: "./Imagens/Pokedex/sprites/751.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/751.png",
+      hires: "./Imagens/Pokedex/hires/751.png",
     },
   },
   {
@@ -30371,8 +29353,10 @@ const POKEDEX_JSON = [
     },
     species: "Water Bubble Pokémon",
     description:
-      "It has a habit of storing things it values in its water bubble. If its Trainer doesn’t watch out, Araquanid will try to put them in its bubble!",
-    evolution: { prev: ["751", "Level 22"] },
+      "Ele tem o hábito de armazenar coisas que valoriza em sua bolha de água. Se seu treinador não tomar cuidado, Araquanid tentará colocá-los em sua bolha!",
+    evolution: {
+      prev: ["751", "Level 22"],
+    },
     profile: {
       height: "1.8 m",
       weight: "82 kg",
@@ -30384,12 +29368,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/752.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/752.png",
-      hires:
-        "./Imagens/Pokedex/hires/752.png",
+      sprite: "./Imagens/Pokedex/sprites/752.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/752.png",
+      hires: "./Imagens/Pokedex/hires/752.png",
     },
   },
   {
@@ -30411,8 +29392,10 @@ const POKEDEX_JSON = [
     },
     species: "Sickle Grass Pokémon",
     description:
-      "It loves the sunshine. When it basks in the sunlight regularly, it grows up with vivid coloration.",
-    evolution: { next: [["754", "Level 34, Daytime"]] },
+      "Ele adora o sol. Quando toma banho de sol regularmente, cresce com coloração vívida.",
+    evolution: {
+      next: [["754", "Level 34, Daytime"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "1.5 kg",
@@ -30424,12 +29407,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/753.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/753.png",
-      hires:
-        "./Imagens/Pokedex/hires/753.png",
+      sprite: "./Imagens/Pokedex/sprites/753.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/753.png",
+      hires: "./Imagens/Pokedex/hires/753.png",
     },
   },
   {
@@ -30451,8 +29431,10 @@ const POKEDEX_JSON = [
     },
     species: "Bloom Sickle Pokémon",
     description:
-      "As it slashes into its enemies, it looks like it’s dancing. Its elegant appearance has led some to call it the most glamorous Grass Pokémon.",
-    evolution: { prev: ["753", "Level 34, Daytime"] },
+      "Enquanto corta seus inimigos, parece que está dançando. Sua aparência elegante levou alguns a chamá-lo de Pokémon Grama mais glamoroso.",
+    evolution: {
+      prev: ["753", "Level 34, Daytime"],
+    },
     profile: {
       height: "0.9 m",
       weight: "18.5 kg",
@@ -30464,12 +29446,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/754.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/754.png",
-      hires:
-        "./Imagens/Pokedex/hires/754.png",
+      sprite: "./Imagens/Pokedex/sprites/754.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/754.png",
+      hires: "./Imagens/Pokedex/hires/754.png",
     },
   },
   {
@@ -30491,8 +29470,10 @@ const POKEDEX_JSON = [
     },
     species: "Illuminating Pokémon",
     description:
-      "It likes damp dark places. When night falls, the spores filling the caps of its mushrooms glow.",
-    evolution: { next: [["756", "Level 24"]] },
+      "Ele gosta de lugares úmidos e escuros. Quando cai a noite, os esporos que enchem as tampas de seus cogumelos brilham.",
+    evolution: {
+      next: [["756", "Level 24"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "1.5 kg",
@@ -30505,12 +29486,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/755.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/755.png",
-      hires:
-        "./Imagens/Pokedex/hires/755.png",
+      sprite: "./Imagens/Pokedex/sprites/755.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/755.png",
+      hires: "./Imagens/Pokedex/hires/755.png",
     },
   },
   {
@@ -30532,8 +29510,10 @@ const POKEDEX_JSON = [
     },
     species: "Illuminating Pokémon",
     description:
-      "When it starts fighting for territory with Parasect, the entire area gets completely coated in spores!",
-    evolution: { prev: ["755", "Level 24"] },
+      "Quando começa a lutar por território com Parasect, toda a área fica completamente coberta de esporos!",
+    evolution: {
+      prev: ["755", "Level 24"],
+    },
     profile: {
       height: "1 m",
       weight: "11.5 kg",
@@ -30546,12 +29526,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/756.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/756.png",
-      hires:
-        "./Imagens/Pokedex/hires/756.png",
+      sprite: "./Imagens/Pokedex/sprites/756.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/756.png",
+      hires: "./Imagens/Pokedex/hires/756.png",
     },
   },
   {
@@ -30573,8 +29550,10 @@ const POKEDEX_JSON = [
     },
     species: "Toxic Lizard Pokémon",
     description:
-      "It weakens opponents and sends them reeling with its poisonous gas. Salandit doesn’t deal well with Spinda, since it’s always reeling.",
-    evolution: { next: [["758", "Level 33, Female"]] },
+      "Ele enfraquece oponentes e os manda cambaleando com seu gás venenoso. Salandit não lida bem com Spinda, já que está sempre cambaleando.",
+    evolution: {
+      next: [["758", "Level 33, Female"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "4.8 kg",
@@ -30586,12 +29565,9 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/757.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/757.png",
-      hires:
-        "./Imagens/Pokedex/hires/757.png",
+      sprite: "./Imagens/Pokedex/sprites/757.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/757.png",
+      hires: "./Imagens/Pokedex/hires/757.png",
     },
   },
   {
@@ -30613,8 +29589,10 @@ const POKEDEX_JSON = [
     },
     species: "Toxic Lizard Pokémon",
     description:
-      "It punishes Salandit that couldn’t bring it food with a fierce slap of its flame-spewing palm.",
-    evolution: { prev: ["757", "Level 33, Female"] },
+      "Ele pune Salandit que não conseguiu trazer comida com uma bofetada feroz de sua palma lançadora de chamas.",
+    evolution: {
+      prev: ["757", "Level 33, Female"],
+    },
     profile: {
       height: "1.2 m",
       weight: "22.2 kg",
@@ -30626,12 +29604,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/758.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/758.png",
-      hires:
-        "./Imagens/Pokedex/hires/758.png",
+      sprite: "./Imagens/Pokedex/sprites/758.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/758.png",
+      hires: "./Imagens/Pokedex/hires/758.png",
     },
   },
   {
@@ -30653,8 +29628,10 @@ const POKEDEX_JSON = [
     },
     species: "Flailing Pokémon",
     description:
-      "Stufful hates to be hugged or touched in any way. It will squirm, thrash, and resist with amazing power.",
-    evolution: { next: [["760", "Level 27"]] },
+      "Stufful odeia ser abraçado ou tocado de qualquer maneira. Ele se contorcerá, se contorcerá e resistirá com incrível poder.",
+    evolution: {
+      next: [["760", "Level 27"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "6.8 kg",
@@ -30667,12 +29644,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/759.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/759.png",
-      hires:
-        "./Imagens/Pokedex/hires/759.png",
+      sprite: "./Imagens/Pokedex/sprites/759.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/759.png",
+      hires: "./Imagens/Pokedex/hires/759.png",
     },
   },
   {
@@ -30694,8 +29668,10 @@ const POKEDEX_JSON = [
     },
     species: "Strong Arm Pokémon",
     description:
-      "It boasts tremendous physical strength. Many people call it the most dangerous Pokémon in the Alola region.",
-    evolution: { prev: ["759", "Level 27"] },
+      "Ele possui uma força física tremenda. Muitas pessoas o chamam de Pokémon mais perigoso da região de Alola.",
+    evolution: {
+      prev: ["759", "Level 27"],
+    },
     profile: {
       height: "2.1 m",
       weight: "135 kg",
@@ -30708,12 +29684,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/760.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/760.png",
-      hires:
-        "./Imagens/Pokedex/hires/760.png",
+      sprite: "./Imagens/Pokedex/sprites/760.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/760.png",
+      hires: "./Imagens/Pokedex/hires/760.png",
     },
   },
   {
@@ -30735,8 +29708,10 @@ const POKEDEX_JSON = [
     },
     species: "Fruit Pokémon",
     description:
-      "It tries to resist being swallowed by a bird Pokémon by spinning the sepals on its head. It’s usually a fruitless attempt.",
-    evolution: { next: [["762", "Level 18"]] },
+      "Ele tenta resistir a ser engolido por um Pokémon pássaro girando as sépalas em sua cabeça. Normalmente é uma tentativa infrutífera.",
+    evolution: {
+      next: [["762", "Level 18"]],
+    },
     profile: {
       height: "0.3 m",
       weight: "3.2 kg",
@@ -30749,12 +29724,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/761.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/761.png",
-      hires:
-        "./Imagens/Pokedex/hires/761.png",
+      sprite: "./Imagens/Pokedex/sprites/761.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/761.png",
+      hires: "./Imagens/Pokedex/hires/761.png",
     },
   },
   {
@@ -30776,7 +29748,7 @@ const POKEDEX_JSON = [
     },
     species: "Fruit Pokémon",
     description:
-      "It bounces around, swinging the sepals on its head with abandon. They’re quite painful when they smack you!",
+      "Ele pula, balançando as sépalas em sua cabeça com abandono. Eles são bastante dolorosos quando você bate neles!",
     evolution: {
       prev: ["761", "Level 18"],
       next: [["763", "after Stomp learned"]],
@@ -30793,12 +29765,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/762.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/762.png",
-      hires:
-        "./Imagens/Pokedex/hires/762.png",
+      sprite: "./Imagens/Pokedex/sprites/762.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/762.png",
+      hires: "./Imagens/Pokedex/hires/762.png",
     },
   },
   {
@@ -30820,8 +29789,10 @@ const POKEDEX_JSON = [
     },
     species: "Fruit Pokémon",
     description:
-      "A Pokémon with an aggressive personality and a mastery of kicking, it cackles every time it kicks an opponent.",
-    evolution: { prev: ["762", "after Stomp learned"] },
+      "Um Pokémon com uma personalidade agressiva e um domínio de chutes, ele cacareja toda vez que chuta um oponente.",
+    evolution: {
+      prev: ["762", "after Stomp learned"],
+    },
     profile: {
       height: "1.2 m",
       weight: "21.4 kg",
@@ -30834,12 +29805,9 @@ const POKEDEX_JSON = [
       gender: "0:100",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/763.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/763.png",
-      hires:
-        "./Imagens/Pokedex/hires/763.png",
+      sprite: "./Imagens/Pokedex/sprites/763.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/763.png",
+      hires: "./Imagens/Pokedex/hires/763.png",
     },
   },
   {
@@ -30861,7 +29829,7 @@ const POKEDEX_JSON = [
     },
     species: "Posy Picker Pokémon",
     description:
-      "It picks flowers and sticks them to its body with fluids it produces. The aroma that wafts from its petals has a healing effect.",
+      "Ele pega flores e as gruda em seu corpo com fluidos que produz. O aroma que emana de suas pétalas tem um efeito curativo.",
     evolution: {},
     profile: {
       height: "0.1 m",
@@ -30875,12 +29843,9 @@ const POKEDEX_JSON = [
       gender: "25:75",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/764.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/764.png",
-      hires:
-        "./Imagens/Pokedex/hires/764.png",
+      sprite: "./Imagens/Pokedex/sprites/764.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/764.png",
+      hires: "./Imagens/Pokedex/hires/764.png",
     },
   },
   {
@@ -30902,7 +29867,7 @@ const POKEDEX_JSON = [
     },
     species: "Sage Pokémon",
     description:
-      "Oranguru don’t get along with each other, so they’re always engaging in battles of wits to decide which one is superior.",
+      "Oranguru não se dão bem uns com os outros, por isso estão sempre envolvidos em batalhas de inteligência para decidir qual é superior.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -30916,12 +29881,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/765.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/765.png",
-      hires:
-        "./Imagens/Pokedex/hires/765.png",
+      sprite: "./Imagens/Pokedex/sprites/765.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/765.png",
+      hires: "./Imagens/Pokedex/hires/765.png",
     },
   },
   {
@@ -30943,7 +29905,7 @@ const POKEDEX_JSON = [
     },
     species: "Teamwork Pokémon",
     description:
-      "Berries are its weapons as well as the staple of its diet. The one that can throw a berry the farthest is the boss of the troop.",
+      "Bagas são suas armas e também o principal alimento de sua dieta. Aquele que pode lançar uma baga mais longe é o chefe da tropa.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -30956,12 +29918,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/766.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/766.png",
-      hires:
-        "./Imagens/Pokedex/hires/766.png",
+      sprite: "./Imagens/Pokedex/sprites/766.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/766.png",
+      hires: "./Imagens/Pokedex/hires/766.png",
     },
   },
   {
@@ -30983,8 +29942,10 @@ const POKEDEX_JSON = [
     },
     species: "Turn Tail Pokémon",
     description:
-      "An astonishingly cowardly Pokémon, Wimpod will whir its legs at high speeds to run away if anything comes near it.",
-    evolution: { next: [["768", "Level 30"]] },
+      "Um Pokémon assustadoramente covarde, Wimpod girará suas pernas em altas velocidades para fugir se algo se aproximar dele.",
+    evolution: {
+      next: [["768", "Level 30"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "12 kg",
@@ -30993,12 +29954,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/767.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/767.png",
-      hires:
-        "./Imagens/Pokedex/hires/767.png",
+      sprite: "./Imagens/Pokedex/sprites/767.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/767.png",
+      hires: "./Imagens/Pokedex/hires/767.png",
     },
   },
   {
@@ -31020,8 +29978,10 @@ const POKEDEX_JSON = [
     },
     species: "Hard Scale Pokémon",
     description:
-      "Its claws, which it can extend and retract at will, are its greatest weapons. Golisopod is sometimes accompanied by Wimpod.",
-    evolution: { prev: ["767", "Level 30"] },
+      "Suas garras, que ele pode estender e retrair à vontade, são suas maiores armas. Golisopod é às vezes acompanhado por Wimpod.",
+    evolution: {
+      prev: ["767", "Level 30"],
+    },
     profile: {
       height: "2 m",
       weight: "108 kg",
@@ -31030,12 +29990,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/768.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/768.png",
-      hires:
-        "./Imagens/Pokedex/hires/768.png",
+      sprite: "./Imagens/Pokedex/sprites/768.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/768.png",
+      hires: "./Imagens/Pokedex/hires/768.png",
     },
   },
   {
@@ -31057,8 +30014,10 @@ const POKEDEX_JSON = [
     },
     species: "Sand Heap Pokémon",
     description:
-      "If you build sand mounds when you’re playing, destroy them before you go home, or they may get possessed and become Sandygast.",
-    evolution: { next: [["770", "Level 42"]] },
+      "Se você construir montes de areia enquanto estiver brincando, destrua-os antes de voltar para casa, ou eles podem ser possuídos e se tornarem Sandygast.",
+    evolution: {
+      next: [["770", "Level 42"]],
+    },
     profile: {
       height: "0.5 m",
       weight: "70 kg",
@@ -31070,12 +30029,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/769.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/769.png",
-      hires:
-        "./Imagens/Pokedex/hires/769.png",
+      sprite: "./Imagens/Pokedex/sprites/769.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/769.png",
+      hires: "./Imagens/Pokedex/hires/769.png",
     },
   },
   {
@@ -31097,8 +30053,10 @@ const POKEDEX_JSON = [
     },
     species: "Sand Castle Pokémon",
     description:
-      "Once it has whipped up a sandstorm to halt its opponents in their tracks, this terrifying Pokémon snatches away their vitality.",
-    evolution: { prev: ["769", "Level 42"] },
+      "Depois de ter levantado uma tempestade de areia para parar seus oponentes em suas trilhas, este Pokémon assustador arrebata sua vitalidade.",
+    evolution: {
+      prev: ["769", "Level 42"],
+    },
     profile: {
       height: "1.3 m",
       weight: "250 kg",
@@ -31110,12 +30068,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/770.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/770.png",
-      hires:
-        "./Imagens/Pokedex/hires/770.png",
+      sprite: "./Imagens/Pokedex/sprites/770.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/770.png",
+      hires: "./Imagens/Pokedex/hires/770.png",
     },
   },
   {
@@ -31137,7 +30092,7 @@ const POKEDEX_JSON = [
     },
     species: "Sea Cucumber Pokémon",
     description:
-      "Its entire body is covered in its own slime. If you accidentally step on one, you’ll slip, and it will get mad and smack you!",
+      "Seu corpo inteiro é coberto de seu próprio lodo. Se você acidentalmente pisar em um, você escorregará e ele ficará bravo e baterá em você!",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -31150,12 +30105,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/771.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/771.png",
-      hires:
-        "./Imagens/Pokedex/hires/771.png",
+      sprite: "./Imagens/Pokedex/sprites/771.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/771.png",
+      hires: "./Imagens/Pokedex/hires/771.png",
     },
   },
   {
@@ -31177,8 +30129,10 @@ const POKEDEX_JSON = [
     },
     species: "Synthetic Pokémon",
     description:
-      "There’s danger of its going on a rampage, so its true power is sealed away beneath its control mask.",
-    evolution: { next: [["773", "high Friendship"]] },
+      "Há o perigo de ele entrar em uma fúria, então seu verdadeiro poder é selado sob sua máscara de controle.",
+    evolution: {
+      next: [["773", "high Friendship"]],
+    },
     profile: {
       height: "1.9 m",
       weight: "120.5 kg",
@@ -31187,12 +30141,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/772.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/772.png",
-      hires:
-        "./Imagens/Pokedex/hires/772.png",
+      sprite: "./Imagens/Pokedex/sprites/772.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/772.png",
+      hires: "./Imagens/Pokedex/hires/772.png",
     },
   },
   {
@@ -31214,8 +30165,10 @@ const POKEDEX_JSON = [
     },
     species: "Synthetic Pokémon",
     description:
-      "Through the bond it formed with its Trainer, its will was strengthened, and it was able to destroy its control mask.",
-    evolution: { prev: ["772", "high Friendship"] },
+      "Através do vínculo que formou com seu treinador, sua vontade foi fortalecida e ele foi capaz de destruir sua máscara de controle.",
+    evolution: {
+      prev: ["772", "high Friendship"],
+    },
     profile: {
       height: "2.3 m",
       weight: "100.5 kg",
@@ -31224,12 +30177,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/773.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/773.png",
-      hires:
-        "./Imagens/Pokedex/hires/773.png",
+      sprite: "./Imagens/Pokedex/sprites/773.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/773.png",
+      hires: "./Imagens/Pokedex/hires/773.png",
     },
   },
   {
@@ -31251,7 +30201,7 @@ const POKEDEX_JSON = [
     },
     species: "Meteor Pokémon",
     description:
-      "Although its outer shell is uncommonly durable, the shock of falling to the ground smashes the shell to smithereens.",
+      "Embora sua casca externa seja incomumente durável, o choque de cair no chão esmaga a casca em pedaços.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -31261,12 +30211,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/774.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/774.png",
-      hires:
-        "./Imagens/Pokedex/hires/774.png",
+      sprite: "./Imagens/Pokedex/sprites/774.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/774.png",
+      hires: "./Imagens/Pokedex/hires/774.png",
     },
   },
   {
@@ -31288,7 +30235,7 @@ const POKEDEX_JSON = [
     },
     species: "Drowsing Pokémon",
     description:
-      "It remains asleep from birth to death as a result of the sedative properties of the leaves that form its diet.",
+      "Ele permanece adormecido desde o nascimento até a morte como resultado das propriedades sedativas das folhas que formam sua dieta.",
     evolution: {},
     profile: {
       height: "0.4 m",
@@ -31298,12 +30245,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/775.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/775.png",
-      hires:
-        "./Imagens/Pokedex/hires/775.png",
+      sprite: "./Imagens/Pokedex/sprites/775.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/775.png",
+      hires: "./Imagens/Pokedex/hires/775.png",
     },
   },
   {
@@ -31325,7 +30269,7 @@ const POKEDEX_JSON = [
     },
     species: "Blast Turtle Pokémon",
     description:
-      "Its exploding shell poses a real danger but is sensitive to moisture. On rainy days, Turtonator takes silent refuge in caves.",
+      "Sua concha explosiva representa um perigo real, mas é sensível à umidade. Em dias chuvosos, Turtonator se refugia silenciosamente em cavernas.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -31335,12 +30279,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/776.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/776.png",
-      hires:
-        "./Imagens/Pokedex/hires/776.png",
+      sprite: "./Imagens/Pokedex/sprites/776.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/776.png",
+      hires: "./Imagens/Pokedex/hires/776.png",
     },
   },
   {
@@ -31362,7 +30303,7 @@ const POKEDEX_JSON = [
     },
     species: "Roly-Poly Pokémon",
     description:
-      "Its capacity to produce electricity is somewhat limited, so it gets charged up by letting lightning strike it!",
+      "Sua capacidade de produzir eletricidade é um tanto limitada, por isso ele se carrega deixando a eletricidade atingi-lo!",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -31376,12 +30317,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/777.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/777.png",
-      hires:
-        "./Imagens/Pokedex/hires/777.png",
+      sprite: "./Imagens/Pokedex/sprites/777.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/777.png",
+      hires: "./Imagens/Pokedex/hires/777.png",
     },
   },
   {
@@ -31403,7 +30341,7 @@ const POKEDEX_JSON = [
     },
     species: "Disguise Pokémon",
     description:
-      "A gust of wind revealed what hides under this Pokémon’s rag to a passing Trainer, who went home and died painfully that very night.",
+      "Uma rajada de vento revelou o que se esconde sob a trapo de este Pokémon para um treinador que passava, que foi para casa e morreu dolorosamente naquela mesma noite.",
     evolution: {},
     profile: {
       height: "0.2 m",
@@ -31413,12 +30351,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/778.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/778.png",
-      hires:
-        "./Imagens/Pokedex/hires/778.png",
+      sprite: "./Imagens/Pokedex/sprites/778.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/778.png",
+      hires: "./Imagens/Pokedex/hires/778.png",
     },
   },
   {
@@ -31440,7 +30375,7 @@ const POKEDEX_JSON = [
     },
     species: "Gnash Teeth Pokémon",
     description:
-      "Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.",
+      "Sua pele é grossa o suficiente para repelir os espinhos de Mareanie. Com seus dentes robustos, Bruxish tritura os espinhos e os come.",
     evolution: {},
     profile: {
       height: "0.9 m",
@@ -31454,12 +30389,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/779.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/779.png",
-      hires:
-        "./Imagens/Pokedex/hires/779.png",
+      sprite: "./Imagens/Pokedex/sprites/779.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/779.png",
+      hires: "./Imagens/Pokedex/hires/779.png",
     },
   },
   {
@@ -31481,7 +30413,7 @@ const POKEDEX_JSON = [
     },
     species: "Placid Pokémon",
     description:
-      "It appears in towns and plays with the children. Drampa will protect kids when they’re in danger, so their moms don’t have to worry.",
+      "Ele aparece em cidades e brinca com as crianças. Drampa protegerá as crianças quando estiverem em perigo, para que suas mães não precisem se preocupar.",
     evolution: {},
     profile: {
       height: "3 m",
@@ -31495,12 +30427,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/780.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/780.png",
-      hires:
-        "./Imagens/Pokedex/hires/780.png",
+      sprite: "./Imagens/Pokedex/sprites/780.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/780.png",
+      hires: "./Imagens/Pokedex/hires/780.png",
     },
   },
   {
@@ -31522,7 +30451,7 @@ const POKEDEX_JSON = [
     },
     species: "Sea Creeper Pokémon",
     description:
-      "Its chain-like green seaweed can stretch outward for hundreds of yards. For some reason, it gets along well with Skrelp.",
+      "Sua alga marinha semelhante a uma corrente pode se estender por centenas de metros. Por alguma razão, ele se dá bem com Skrelp.",
     evolution: {},
     profile: {
       height: "3.9 m",
@@ -31532,12 +30461,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/781.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/781.png",
-      hires:
-        "./Imagens/Pokedex/hires/781.png",
+      sprite: "./Imagens/Pokedex/sprites/781.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/781.png",
+      hires: "./Imagens/Pokedex/hires/781.png",
     },
   },
   {
@@ -31559,8 +30485,10 @@ const POKEDEX_JSON = [
     },
     species: "Scaly Pokémon",
     description:
-      "It will never show an enemy its back in battle. Ancient warriors liked Jangmo-o for its valiant disposition and made it one of their own.",
-    evolution: { next: [["783", "Level 35"]] },
+      "Ele nunca mostrará um inimigo de costas em batalha. Guerreiros antigos gostavam de Jangmo-o por sua disposição valente e o fizeram um de seus próprios.",
+    evolution: {
+      next: [["783", "Level 35"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "29.7 kg",
@@ -31573,12 +30501,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/782.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/782.png",
-      hires:
-        "./Imagens/Pokedex/hires/782.png",
+      sprite: "./Imagens/Pokedex/sprites/782.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/782.png",
+      hires: "./Imagens/Pokedex/hires/782.png",
     },
   },
   {
@@ -31600,8 +30525,11 @@ const POKEDEX_JSON = [
     },
     species: "Scaly Pokémon",
     description:
-      "The scales it sheds can be molded and processed to make pots and pans. They conduct heat well, so they’re a popular item.",
-    evolution: { prev: ["782", "Level 35"], next: [["784", "Level 45"]] },
+      "As escamas que ele derrama podem ser moldadas e processadas para fazer potes e panelas. Conduzem bem o calor, por isso são um item popular.",
+    evolution: {
+      prev: ["782", "Level 35"],
+      next: [["784", "Level 45"]],
+    },
     profile: {
       height: "1.2 m",
       weight: "47 kg",
@@ -31614,12 +30542,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/783.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/783.png",
-      hires:
-        "./Imagens/Pokedex/hires/783.png",
+      sprite: "./Imagens/Pokedex/sprites/783.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/783.png",
+      hires: "./Imagens/Pokedex/hires/783.png",
     },
   },
   {
@@ -31641,8 +30566,10 @@ const POKEDEX_JSON = [
     },
     species: "Scaly Pokémon",
     description:
-      "It battles valiantly with its fists, which are armored in steel scales. Kommo-o specializes in uppercuts.",
-    evolution: { prev: ["783", "Level 45"] },
+      "Ele luta valentemente com seus punhos, que são blindados em escamas de aço. Kommo-o é especializado em golpes ascendentes.",
+    evolution: {
+      prev: ["783", "Level 45"],
+    },
     profile: {
       height: "1.6 m",
       weight: "78.2 kg",
@@ -31655,12 +30582,9 @@ const POKEDEX_JSON = [
       gender: "50:50",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/784.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/784.png",
-      hires:
-        "./Imagens/Pokedex/hires/784.png",
+      sprite: "./Imagens/Pokedex/sprites/784.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/784.png",
+      hires: "./Imagens/Pokedex/hires/784.png",
     },
   },
   {
@@ -31682,7 +30606,7 @@ const POKEDEX_JSON = [
     },
     species: "Land Spirit Pokémon",
     description:
-      "The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.",
+      "A deidade guardiã da eletricidade de Melemele, Tapu Koko está cheio de curiosidade e aparece diante das pessoas de vez em quando.",
     evolution: {},
     profile: {
       height: "1.8 m",
@@ -31695,12 +30619,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/785.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/785.png",
-      hires:
-        "./Imagens/Pokedex/hires/785.png",
+      sprite: "./Imagens/Pokedex/sprites/785.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/785.png",
+      hires: "./Imagens/Pokedex/hires/785.png",
     },
   },
   {
@@ -31722,7 +30643,7 @@ const POKEDEX_JSON = [
     },
     species: "Land Spirit Pokémon",
     description:
-      "Although called a guardian deity, Tapu Lele is devoid of guilt about its cruel disposition and can be described as nature incarnate.",
+      "Embora seja chamada de deidade guardiã, Tapu Lele é desprovido de culpa por sua disposição cruel e pode ser descrito como a natureza encarnada.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -31735,12 +30656,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/786.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/786.png",
-      hires:
-        "./Imagens/Pokedex/hires/786.png",
+      sprite: "./Imagens/Pokedex/sprites/786.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/786.png",
+      hires: "./Imagens/Pokedex/hires/786.png",
     },
   },
   {
@@ -31762,7 +30680,7 @@ const POKEDEX_JSON = [
     },
     species: "Land Spirit Pokémon",
     description:
-      "It makes ringing sounds with its tail to let others know where it is, avoiding unneeded conflicts. This guardian deity of Ula’ula controls plants.",
+      "Ele faz sons zumbindo com sua cauda para avisar os outros de sua localização, evitando conflitos desnecessários. Esta deidade guardiã de Ula'ula controla plantas.",
     evolution: {},
     profile: {
       height: "1.9 m",
@@ -31775,12 +30693,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/787.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/787.png",
-      hires:
-        "./Imagens/Pokedex/hires/787.png",
+      sprite: "./Imagens/Pokedex/sprites/787.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/787.png",
+      hires: "./Imagens/Pokedex/hires/787.png",
     },
   },
   {
@@ -31802,7 +30717,7 @@ const POKEDEX_JSON = [
     },
     species: "Land Spirit Pokémon",
     description:
-      "Although it’s called a guardian deity, terrible calamities sometimes befall those who recklessly approach Tapu Fini.",
+      "Embora seja chamada de deidade guardiã, calamidades terríveis às vezes ocorrem com aqueles que se aproximam imprudentemente de Tapu Fini.",
     evolution: {},
     profile: {
       height: "1.3 m",
@@ -31815,12 +30730,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/788.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/788.png",
-      hires:
-        "./Imagens/Pokedex/hires/788.png",
+      sprite: "./Imagens/Pokedex/sprites/788.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/788.png",
+      hires: "./Imagens/Pokedex/hires/788.png",
     },
   },
   {
@@ -31842,8 +30754,10 @@ const POKEDEX_JSON = [
     },
     species: "Nebula Pokémon",
     description:
-      "Whether or not it’s a Pokémon from this world is a mystery. When it’s in a jam, it warps away to a safe place to hide.",
-    evolution: { next: [["790", "Level 43"]] },
+      "Seja ou não um Pokémon deste mundo é um mistério. Quando está em apuros, ele se distorce para um lugar seguro para se esconder.",
+    evolution: {
+      next: [["790", "Level 43"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "0.1 kg",
@@ -31852,12 +30766,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/789.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/789.png",
-      hires:
-        "./Imagens/Pokedex/hires/789.png",
+      sprite: "./Imagens/Pokedex/sprites/789.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/789.png",
+      hires: "./Imagens/Pokedex/hires/789.png",
     },
   },
   {
@@ -31879,7 +30790,7 @@ const POKEDEX_JSON = [
     },
     species: "Protostar Pokémon",
     description:
-      "As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.",
+      "Enquanto absorve luz, Cosmoem continua a crescer. Sua concha dourada é surpreendentemente sólida.",
     evolution: {
       prev: ["789", "Level 43"],
       next: [
@@ -31895,12 +30806,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/790.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/790.png",
-      hires:
-        "./Imagens/Pokedex/hires/790.png",
+      sprite: "./Imagens/Pokedex/sprites/790.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/790.png",
+      hires: "./Imagens/Pokedex/hires/790.png",
     },
   },
   {
@@ -31922,8 +30830,10 @@ const POKEDEX_JSON = [
     },
     species: "Sunne Pokémon",
     description:
-      "In writings from the distant past, it’s called by the name “the beast that devours the sun.”",
-    evolution: { prev: ["790", "Level 53, in Pokémon Sun or Ultra Sun"] },
+      'Em escritos do passado distante, é chamado pelo nome de "a besta que devora o sol".',
+    evolution: {
+      prev: ["790", "Level 53, in Pokémon Sun or Ultra Sun"],
+    },
     profile: {
       height: "3.4 m",
       weight: "230 kg",
@@ -31932,12 +30842,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/791.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/791.png",
-      hires:
-        "./Imagens/Pokedex/hires/791.png",
+      sprite: "./Imagens/Pokedex/sprites/791.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/791.png",
+      hires: "./Imagens/Pokedex/hires/791.png",
     },
   },
   {
@@ -31959,8 +30866,10 @@ const POKEDEX_JSON = [
     },
     species: "Moone Pokémon",
     description:
-      "It sometimes summons unknown powers and life-forms here to this world from holes that lead to other worlds.",
-    evolution: { prev: ["790", "Level 53, in Pokémon Moon or Ultra Moon"] },
+      "Às vezes, convoca poderes desconhecidos e formas de vida aqui para este mundo a partir de buracos que levam a outros mundos.",
+    evolution: {
+      prev: ["790", "Level 53, in Pokémon Moon or Ultra Moon"],
+    },
     profile: {
       height: "4 m",
       weight: "120 kg",
@@ -31969,12 +30878,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/792.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/792.png",
-      hires:
-        "./Imagens/Pokedex/hires/792.png",
+      sprite: "./Imagens/Pokedex/sprites/792.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/792.png",
+      hires: "./Imagens/Pokedex/hires/792.png",
     },
   },
   {
@@ -31996,7 +30902,7 @@ const POKEDEX_JSON = [
     },
     species: "Parasite Pokémon",
     description:
-      "It appeared in this world from an Ultra Wormhole. Nihilego appears to be a parasite that lives by feeding on people and Pokémon.",
+      "Ele apareceu neste mundo de um Ultra Wormhole. Nihilego parece ser um parasita que vive alimentando-se de pessoas e Pokémon.",
     evolution: {},
     profile: {
       height: "1.2 m",
@@ -32006,12 +30912,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/793.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/793.png",
-      hires:
-        "./Imagens/Pokedex/hires/793.png",
+      sprite: "./Imagens/Pokedex/sprites/793.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/793.png",
+      hires: "./Imagens/Pokedex/hires/793.png",
     },
   },
   {
@@ -32033,7 +30936,7 @@ const POKEDEX_JSON = [
     },
     species: "Swollen Pokémon",
     description:
-      "Buzzwole goes around showing off its abnormally swollen muscles. It is one kind of Ultra Beast.",
+      "Buzzwole anda mostrando seus músculos anormalmente inchados. É um tipo de Ultra Beast.",
     evolution: {},
     profile: {
       height: "2.4 m",
@@ -32043,12 +30946,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/794.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/794.png",
-      hires:
-        "./Imagens/Pokedex/hires/794.png",
+      sprite: "./Imagens/Pokedex/sprites/794.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/794.png",
+      hires: "./Imagens/Pokedex/hires/794.png",
     },
   },
   {
@@ -32070,7 +30970,7 @@ const POKEDEX_JSON = [
     },
     species: "Lissome Pokémon",
     description:
-      "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+      "Embora seja alienígena a este mundo e um perigo aqui, aparentemente é um organismo comum no mundo onde normalmente vive.",
     evolution: {},
     profile: {
       height: "1.8 m",
@@ -32080,12 +30980,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/795.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/795.png",
-      hires:
-        "./Imagens/Pokedex/hires/795.png",
+      sprite: "./Imagens/Pokedex/sprites/795.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/795.png",
+      hires: "./Imagens/Pokedex/hires/795.png",
     },
   },
   {
@@ -32107,7 +31004,7 @@ const POKEDEX_JSON = [
     },
     species: "Glowing Pokémon",
     description:
-      "They’ve been dubbed Ultra Beasts. Some of them stand unmoving, like trees, with their arms and legs stuck into the ground.",
+      "Eles foram apelidados de Ultra Beasts. Alguns deles ficam parados, como árvores, com os braços e as pernas presos no chão.",
     evolution: {},
     profile: {
       height: "3.8 m",
@@ -32117,12 +31014,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/796.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/796.png",
-      hires:
-        "./Imagens/Pokedex/hires/796.png",
+      sprite: "./Imagens/Pokedex/sprites/796.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/796.png",
+      hires: "./Imagens/Pokedex/hires/796.png",
     },
   },
   {
@@ -32144,7 +31038,7 @@ const POKEDEX_JSON = [
     },
     species: "Launch Pokémon",
     description:
-      "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+      "Embora seja alienígena a este mundo e um perigo aqui, aparentemente é um organismo comum no mundo onde normalmente vive.",
     evolution: {},
     profile: {
       height: "9.2 m",
@@ -32154,12 +31048,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/797.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/797.png",
-      hires:
-        "./Imagens/Pokedex/hires/797.png",
+      sprite: "./Imagens/Pokedex/sprites/797.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/797.png",
+      hires: "./Imagens/Pokedex/hires/797.png",
     },
   },
   {
@@ -32181,7 +31072,7 @@ const POKEDEX_JSON = [
     },
     species: "Drawn Sword Pokémon",
     description:
-      "Although it’s alien to this world and a danger here, it’s apparently a common organism in the world where it normally lives.",
+      "Embora seja alienígena a este mundo e um perigo aqui, aparentemente é um organismo comum no mundo onde normalmente vive.",
     evolution: {},
     profile: {
       height: "0.3 m",
@@ -32191,12 +31082,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/798.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/798.png",
-      hires:
-        "./Imagens/Pokedex/hires/798.png",
+      sprite: "./Imagens/Pokedex/sprites/798.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/798.png",
+      hires: "./Imagens/Pokedex/hires/798.png",
     },
   },
   {
@@ -32218,7 +31106,7 @@ const POKEDEX_JSON = [
     },
     species: "Junkivore Pokémon",
     description:
-      "An unknown life-form called a UB. It may be constantly hungry—it is certainly always devouring something.",
+      "Uma forma de vida desconhecida chamada UB. Pode estar constantemente com fome - certamente está sempre devorando algo.",
     evolution: {},
     profile: {
       height: "5.5 m",
@@ -32228,12 +31116,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/799.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/799.png",
-      hires:
-        "./Imagens/Pokedex/hires/799.png",
+      sprite: "./Imagens/Pokedex/sprites/799.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/799.png",
+      hires: "./Imagens/Pokedex/hires/799.png",
     },
   },
   {
@@ -32255,7 +31140,7 @@ const POKEDEX_JSON = [
     },
     species: "Prism Pokémon",
     description:
-      "Light is the source of its energy. If it isn’t devouring light, impurities build up in it and on it, and Necrozma darkens and stops moving.",
+      "A luz é a fonte de sua energia. Se não estiver devorando luz, impurezas se acumulam nele e nele, e Necrozma escurece e para de se mover.",
     evolution: {},
     profile: {
       height: "2.4 m",
@@ -32265,12 +31150,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/800.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/800.png",
-      hires:
-        "./Imagens/Pokedex/hires/800.png",
+      sprite: "./Imagens/Pokedex/sprites/800.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/800.png",
+      hires: "./Imagens/Pokedex/hires/800.png",
     },
   },
   {
@@ -32292,7 +31174,7 @@ const POKEDEX_JSON = [
     },
     species: "Artificial Pokémon",
     description:
-      "Built roughly 500 years ago by a scientist, the part called the Soul-Heart is the actual life-form.",
+      "Construído há cerca de 500 anos por um cientista, a parte chamada Coração da Alma é a forma de vida real.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -32302,12 +31184,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/801.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/801.png",
-      hires:
-        "./Imagens/Pokedex/hires/801.png",
+      sprite: "./Imagens/Pokedex/sprites/801.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/801.png",
+      hires: "./Imagens/Pokedex/hires/801.png",
     },
   },
   {
@@ -32329,7 +31208,7 @@ const POKEDEX_JSON = [
     },
     species: "Gloomdweller Pokémon",
     description:
-      "It sinks into the shadows of people and Pokémon, where it can understand their feelings and copy their capabilities.",
+      "Ele afunda nas sombras das pessoas e dos Pokémon, onde pode entender seus sentimentos e copiar suas capacidades.",
     evolution: {},
     profile: {
       height: "0.7 m",
@@ -32339,12 +31218,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/802.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/802.png",
-      hires:
-        "./Imagens/Pokedex/hires/802.png",
+      sprite: "./Imagens/Pokedex/sprites/802.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/802.png",
+      hires: "./Imagens/Pokedex/hires/802.png",
     },
   },
   {
@@ -32366,8 +31242,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Pin Pokémon",
     description:
-      "An Ultra Beast that lives in a different world, it cackles wildly as it sprays its opponents with poison from the needles on its head.",
-    evolution: { next: [["804", "after Dragon Pulse learned"]] },
+      "Uma Ultra Beast que vive em um mundo diferente, ela cacareja selvagemente enquanto pulveriza seus oponentes com veneno das agulhas em sua cabeça.",
+    evolution: {
+      next: [["804", "after Dragon Pulse learned"]],
+    },
     profile: {
       height: "0.6 m",
       weight: "1.8 kg",
@@ -32376,12 +31254,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/803.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/803.png",
-      hires:
-        "./Imagens/Pokedex/hires/803.png",
+      sprite: "./Imagens/Pokedex/sprites/803.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/803.png",
+      hires: "./Imagens/Pokedex/hires/803.png",
     },
   },
   {
@@ -32403,8 +31278,10 @@ const POKEDEX_JSON = [
     },
     species: "Poison Pin Pokémon",
     description:
-      "One kind of Ultra Beast, it fires a glowing, venomous liquid from its needles. This liquid is also immensely adhesive.",
-    evolution: { prev: ["803", "after Dragon Pulse learned"] },
+      "Um tipo de Ultra Beast, ele dispara um líquido venenoso brilhante de suas agulhas. Esse líquido também é extremamente adesivo.",
+    evolution: {
+      prev: ["803", "after Dragon Pulse learned"],
+    },
     profile: {
       height: "3.6 m",
       weight: "150 kg",
@@ -32413,12 +31290,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/804.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/804.png",
-      hires:
-        "./Imagens/Pokedex/hires/804.png",
+      sprite: "./Imagens/Pokedex/sprites/804.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/804.png",
+      hires: "./Imagens/Pokedex/hires/804.png",
     },
   },
   {
@@ -32440,7 +31314,7 @@ const POKEDEX_JSON = [
     },
     species: "Rampart Pokémon",
     description:
-      "When stone walls started moving and attacking, the brute’s true identity was this mysterious life-form, which brings to mind an Ultra Beast.",
+      "Quando paredes de pedra começaram a se mover e atacar, a verdadeira identidade do bruto era esta misteriosa forma de vida, que traz à mente uma Ultra Beast.",
     evolution: {},
     profile: {
       height: "5.5 m",
@@ -32450,12 +31324,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/805.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/805.png",
-      hires:
-        "./Imagens/Pokedex/hires/805.png",
+      sprite: "./Imagens/Pokedex/sprites/805.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/805.png",
+      hires: "./Imagens/Pokedex/hires/805.png",
     },
   },
   {
@@ -32477,7 +31348,7 @@ const POKEDEX_JSON = [
     },
     species: "Fireworks Pokémon",
     description:
-      "A UB that appeared from an Ultra Wormhole, it causes explosions, then takes advantage of opponents’ surprise to rob them of their vitality.",
+      "Um UB que apareceu de um Ultra Wormhole, ele causa explosões, depois tira proveito da surpresa dos oponentes para roubar sua vitalidade.",
     evolution: {},
     profile: {
       height: "1.8 m",
@@ -32487,12 +31358,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/806.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/806.png",
-      hires:
-        "./Imagens/Pokedex/hires/806.png",
+      sprite: "./Imagens/Pokedex/sprites/806.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/806.png",
+      hires: "./Imagens/Pokedex/hires/806.png",
     },
   },
   {
@@ -32514,7 +31382,7 @@ const POKEDEX_JSON = [
     },
     species: "Thunderclap Pokémon",
     description:
-      "It approaches its enemies at the speed of lightning, then tears them limb from limb with its sharp claws.",
+      "Ele se aproxima de seus inimigos na velocidade da luz, depois os rasga membro a membro com suas garras afiadas.",
     evolution: {},
     profile: {
       height: "1.5 m",
@@ -32524,12 +31392,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/807.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/807.png",
-      hires:
-        "./Imagens/Pokedex/hires/807.png",
+      sprite: "./Imagens/Pokedex/sprites/807.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/807.png",
+      hires: "./Imagens/Pokedex/hires/807.png",
     },
   },
   {
@@ -32551,8 +31416,10 @@ const POKEDEX_JSON = [
     },
     species: "Hex Nut Pokémon",
     description:
-      "They live as a group, but when the time comes, one strong Meltan will absorb all the others and evolve.",
-    evolution: { next: [["809", "Pokémon GO only, 400 Meltan Candies"]] },
+      "Eles vivem como um grupo, mas quando chega a hora, um Meltan forte absorverá todos os outros e evoluirá.",
+    evolution: {
+      next: [["809", "Pokémon GO only, 400 Meltan Candies"]],
+    },
     profile: {
       height: "0.2 m",
       weight: "8.0 kg",
@@ -32561,12 +31428,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/808.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/808.png",
-      hires:
-        "./Imagens/Pokedex/hires/808.png",
+      sprite: "./Imagens/Pokedex/sprites/808.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/808.png",
+      hires: "./Imagens/Pokedex/hires/808.png",
     },
   },
   {
@@ -32588,8 +31452,10 @@ const POKEDEX_JSON = [
     },
     species: "Hex Nut Pokémon",
     description:
-      "Centrifugal force is behind the punches of Melmetal's heavy hex-nut arms. Melmetal is said to deliver the strongest punches of all Pokémon.",
-    evolution: { prev: ["808", "Pokémon GO only, 400 Meltan Candies"] },
+      "A força centrífuga está por trás dos socos dos braços pesados de Melmetal. Diz-se que Melmetal dá os socos mais fortes de todos os Pokémon.",
+    evolution: {
+      prev: ["808", "Pokémon GO only, 400 Meltan Candies"],
+    },
     profile: {
       height: "2.5 m",
       weight: "800.0 kg",
@@ -32598,12 +31464,9 @@ const POKEDEX_JSON = [
       gender: "Genderless",
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/809.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/809.png",
-      hires:
-        "./Imagens/Pokedex/hires/809.png",
+      sprite: "./Imagens/Pokedex/sprites/809.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/809.png",
+      hires: "./Imagens/Pokedex/hires/809.png",
     },
   },
   {
@@ -32617,8 +31480,10 @@ const POKEDEX_JSON = [
     type: ["Grass"],
     species: "Chimp Pokémon",
     description:
-      "It attacks with rapid beats of its stick. As it strikes with amazing speed, it gets more and more pumped.",
-    evolution: { next: [["811", "Level 16"]] },
+      "Ele ataca com batidas rápidas de seu bastão. Enquanto ataca com velocidade incrível, ele fica cada vez mais animado.",
+    evolution: {
+      next: [["811", "Level 16"]],
+    },
     profile: {
       height: "0 m",
       weight: "5 kg",
@@ -32629,12 +31494,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/810.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/810.png",
-      hires:
-        "./Imagens/Pokedex/hires/810.png",
+      sprite: "./Imagens/Pokedex/sprites/810.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/810.png",
+      hires: "./Imagens/Pokedex/hires/810.png",
     },
   },
   {
@@ -32648,8 +31510,11 @@ const POKEDEX_JSON = [
     type: ["Grass"],
     species: "Beat Pokémon",
     description:
-      "When it’s drumming out rapid beats in battle, it gets so caught up in the rhythm that it won’t even notice that it’s already knocked out its opponent.",
-    evolution: { prev: ["810", "Level 16"], next: [["812", "Level 35"]] },
+      "Quando está batendo ritmos rápidos em batalha, ele fica tão envolvido no ritmo que nem percebe que já derrubou seu oponente.",
+    evolution: {
+      prev: ["810", "Level 16"],
+      next: [["812", "Level 35"]],
+    },
     profile: {
       height: "1 m",
       weight: "14 kg",
@@ -32660,12 +31525,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/811.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/811.png",
-      hires:
-        "./Imagens/Pokedex/hires/811.png",
+      sprite: "./Imagens/Pokedex/sprites/811.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/811.png",
+      hires: "./Imagens/Pokedex/hires/811.png",
     },
   },
   {
@@ -32679,8 +31541,10 @@ const POKEDEX_JSON = [
     type: ["Grass"],
     species: "Drummer Pokémon",
     description:
-      "The one with the best drumming techniques becomes the boss of the troop. It has a gentle disposition and values harmony among its group.",
-    evolution: { prev: ["811", "Level 35"] },
+      "Aquele com as melhores técnicas de bateria se torna o chefe da tropa. Ele tem uma disposição gentil e valoriza a harmonia entre seu grupo.",
+    evolution: {
+      prev: ["811", "Level 35"],
+    },
     profile: {
       height: "2 m",
       weight: "90 kg",
@@ -32691,12 +31555,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/812.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/812.png",
-      hires:
-        "./Imagens/Pokedex/hires/812.png",
+      sprite: "./Imagens/Pokedex/sprites/812.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/812.png",
+      hires: "./Imagens/Pokedex/hires/812.png",
     },
   },
   {
@@ -32710,8 +31571,10 @@ const POKEDEX_JSON = [
     type: ["Fire"],
     species: "Rabbit Pokémon",
     description:
-      "It has special pads on the backs of its feet, and one on its nose. Once it’s raring to fight, these pads radiate tremendous heat.",
-    evolution: { next: [["814", "Level 16"]] },
+      "Ele tem almofadas especiais nas costas dos pés e uma no nariz. Uma vez que está ansioso para lutar, essas almofadas irradiam calor tremendo.",
+    evolution: {
+      next: [["814", "Level 16"]],
+    },
     profile: {
       height: "0 m",
       weight: "4 kg",
@@ -32722,12 +31585,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/813.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/813.png",
-      hires:
-        "./Imagens/Pokedex/hires/813.png",
+      sprite: "./Imagens/Pokedex/sprites/813.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/813.png",
+      hires: "./Imagens/Pokedex/hires/813.png",
     },
   },
   {
@@ -32741,8 +31601,11 @@ const POKEDEX_JSON = [
     type: ["Fire"],
     species: "Rabbit Pokémon",
     description:
-      "It kicks berries right off the branches of trees and then juggles them with its feet, practicing its footwork.",
-    evolution: { prev: ["813", "Level 16"], next: [["815", "Level 35"]] },
+      "Ele chuta bagas diretamente dos galhos das árvores e depois as malabarismos com os pés, praticando seu trabalho de pés.",
+    evolution: {
+      prev: ["813", "Level 16"],
+      next: [["815", "Level 35"]],
+    },
     profile: {
       height: "1 m",
       weight: "9 kg",
@@ -32753,12 +31616,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/814.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/814.png",
-      hires:
-        "./Imagens/Pokedex/hires/814.png",
+      sprite: "./Imagens/Pokedex/sprites/814.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/814.png",
+      hires: "./Imagens/Pokedex/hires/814.png",
     },
   },
   {
@@ -32772,8 +31632,10 @@ const POKEDEX_JSON = [
     type: ["Fire"],
     species: "Striker Pokémon",
     description:
-      "It’s skilled at both offense and defense, and it gets pumped up when cheered on. But if it starts showboating, it could put itself in a tough spot.",
-    evolution: { prev: ["814", "Level 35"] },
+      "Ele é habilidoso tanto na ofensiva quanto na defesa e fica animado quando torcido. Mas se começar a exibir, pode se colocar em uma situação difícil.",
+    evolution: {
+      prev: ["814", "Level 35"],
+    },
     profile: {
       height: "1 m",
       weight: "33 kg",
@@ -32784,12 +31646,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/815.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/815.png",
-      hires:
-        "./Imagens/Pokedex/hires/815.png",
+      sprite: "./Imagens/Pokedex/sprites/815.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/815.png",
+      hires: "./Imagens/Pokedex/hires/815.png",
     },
   },
   {
@@ -32803,8 +31662,10 @@ const POKEDEX_JSON = [
     type: ["Water"],
     species: "Water Lizard Pokémon",
     description:
-      "When it gets wet, its skin changes color, and this Pokémon becomes invisible as if it were camouflaged.",
-    evolution: { next: [["817", "Level 16"]] },
+      "Quando fica molhado, sua pele muda de cor e este Pokémon se torna invisível como se estivesse camuflado.",
+    evolution: {
+      next: [["817", "Level 16"]],
+    },
     profile: {
       height: "0 m",
       weight: "4 kg",
@@ -32815,12 +31676,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/816.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/816.png",
-      hires:
-        "./Imagens/Pokedex/hires/816.png",
+      sprite: "./Imagens/Pokedex/sprites/816.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/816.png",
+      hires: "./Imagens/Pokedex/hires/816.png",
     },
   },
   {
@@ -32834,8 +31692,11 @@ const POKEDEX_JSON = [
     type: ["Water"],
     species: "Water lizard Pokémon",
     description:
-      "Highly intelligent but also very lazy, it keeps enemies out of its territory by laying traps everywhere.",
-    evolution: { prev: ["816", "Level 16"], next: [["818", "Level 35"]] },
+      "Altamente inteligente, mas também muito preguiçoso, ele mantém inimigos fora de seu território colocando armadilhas em todos os lugares.",
+    evolution: {
+      prev: ["816", "Level 16"],
+      next: [["818", "Level 35"]],
+    },
     profile: {
       height: "1 m",
       weight: "12 kg",
@@ -32846,12 +31707,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/817.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/817.png",
-      hires:
-        "./Imagens/Pokedex/hires/817.png",
+      sprite: "./Imagens/Pokedex/sprites/817.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/817.png",
+      hires: "./Imagens/Pokedex/hires/817.png",
     },
   },
   {
@@ -32865,8 +31723,10 @@ const POKEDEX_JSON = [
     type: ["Water"],
     species: "Secret Agent Pokémon",
     description:
-      "Its nictitating membranes let it pick out foes’ weak points so it can precisely blast them with water that shoots from its fingertips at Mach 3.",
-    evolution: { prev: ["817", "Level 35"] },
+      "Suas membranas nictitantes permitem que ele escolha os pontos fracos de seus inimigos para que ele possa atingi-los precisamente com água que dispara de seus dedos em Mach 3.",
+    evolution: {
+      prev: ["817", "Level 35"],
+    },
     profile: {
       height: "2 m",
       weight: "45 kg",
@@ -32877,12 +31737,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/818.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/818.png",
-      hires:
-        "./Imagens/Pokedex/hires/818.png",
+      sprite: "./Imagens/Pokedex/sprites/818.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/818.png",
+      hires: "./Imagens/Pokedex/hires/818.png",
     },
   },
   {
@@ -32896,8 +31753,10 @@ const POKEDEX_JSON = [
     type: ["Normal"],
     species: "Cheeky Pokémon",
     description:
-      "It eats berries nonstop—a habit that has made it more resilient than it looks. It’ll show up on farms, searching for yet more berries.",
-    evolution: { next: [["820", "Level 24"]] },
+      "Ele come bagas sem parar - um hábito que o tornou mais resistente do que parece. Ele aparecerá em fazendas, procurando ainda mais bagas.",
+    evolution: {
+      next: [["820", "Level 24"]],
+    },
     profile: {
       height: "0 m",
       weight: "2 kg",
@@ -32908,12 +31767,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/819.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/819.png",
-      hires:
-        "./Imagens/Pokedex/hires/819.png",
+      sprite: "./Imagens/Pokedex/sprites/819.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/819.png",
+      hires: "./Imagens/Pokedex/hires/819.png",
     },
   },
   {
@@ -32927,8 +31783,10 @@ const POKEDEX_JSON = [
     type: ["Normal"],
     species: "Greedy Pokémon",
     description:
-      "Common throughout the Galar region, this Pokémon has strong teeth and can chew through the toughest of berry shells.",
-    evolution: { prev: ["819", "Level 24"] },
+      "Comum em toda a região de Galar, este Pokémon tem dentes fortes e pode mastigar as cascas mais resistentes de bagas.",
+    evolution: {
+      prev: ["819", "Level 24"],
+    },
     profile: {
       height: "1 m",
       weight: "6 kg",
@@ -32939,12 +31797,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/820.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/820.png",
-      hires:
-        "./Imagens/Pokedex/hires/820.png",
+      sprite: "./Imagens/Pokedex/sprites/820.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/820.png",
+      hires: "./Imagens/Pokedex/hires/820.png",
     },
   },
   {
@@ -32958,8 +31813,10 @@ const POKEDEX_JSON = [
     type: ["Flying"],
     species: "Tiny Bird Pokémon",
     description:
-      "Jumping nimbly about, this small-bodied Pokémon takes advantage of even the slightest opportunity to disorient larger opponents.",
-    evolution: { next: [["822", "Level 18"]] },
+      "Pulando ágilmente, este Pokémon de corpo pequeno tira proveito até mesmo da menor oportunidade para desorientar oponentes maiores.",
+    evolution: {
+      next: [["822", "Level 18"]],
+    },
     profile: {
       height: "0 m",
       weight: "2 kg",
@@ -32971,12 +31828,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/821.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/821.png",
-      hires:
-        "./Imagens/Pokedex/hires/821.png",
+      sprite: "./Imagens/Pokedex/sprites/821.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/821.png",
+      hires: "./Imagens/Pokedex/hires/821.png",
     },
   },
   {
@@ -32990,8 +31844,11 @@ const POKEDEX_JSON = [
     type: ["Flying"],
     species: "Raven Pokémon",
     description:
-      "The lessons of many harsh battles have taught it how to accurately judge an opponent’s strength.",
-    evolution: { prev: ["821", "Level 18"], next: [["823", "Level 38"]] },
+      "As lições de muitas batalhas duras ensinaram-lhe como julgar com precisão a força de um oponente.",
+    evolution: {
+      prev: ["821", "Level 18"],
+      next: [["823", "Level 38"]],
+    },
     profile: {
       height: "1 m",
       weight: "16 kg",
@@ -33003,12 +31860,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/822.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/822.png",
-      hires:
-        "./Imagens/Pokedex/hires/822.png",
+      sprite: "./Imagens/Pokedex/sprites/822.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/822.png",
+      hires: "./Imagens/Pokedex/hires/822.png",
     },
   },
   {
@@ -33022,8 +31876,10 @@ const POKEDEX_JSON = [
     type: ["Flying", "Steel"],
     species: "Raven Pokémon",
     description:
-      "With their great intellect and flying skills, these Pokémon very successfully act as the Galar region’s airborne taxi service.",
-    evolution: { prev: ["822", "Level 38"] },
+      "Com seu grande intelecto e habilidades de vôo, esses Pokémon atuam com muito sucesso como serviço de táxi aéreo da região de Galar.",
+    evolution: {
+      prev: ["822", "Level 38"],
+    },
     profile: {
       height: "2 m",
       weight: "75 kg",
@@ -33035,12 +31891,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/823.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/823.png",
-      hires:
-        "./Imagens/Pokedex/hires/823.png",
+      sprite: "./Imagens/Pokedex/sprites/823.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/823.png",
+      hires: "./Imagens/Pokedex/hires/823.png",
     },
   },
   {
@@ -33054,8 +31907,10 @@ const POKEDEX_JSON = [
     type: ["Bug"],
     species: "Larva Pokémon",
     description:
-      "Often found in gardens, this Pokémon has hairs on its body that it uses to assess its surroundings.",
-    evolution: { next: [["825", "Level 10"]] },
+      "Comumente encontrado em jardins, este Pokémon tem pelos em seu corpo que ele usa para avaliar seus arredores.",
+    evolution: {
+      next: [["825", "Level 10"]],
+    },
     profile: {
       height: "0 m",
       weight: "8 kg",
@@ -33067,12 +31922,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/824.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/824.png",
-      hires:
-        "./Imagens/Pokedex/hires/824.png",
+      sprite: "./Imagens/Pokedex/sprites/824.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/824.png",
+      hires: "./Imagens/Pokedex/hires/824.png",
     },
   },
   {
@@ -33086,8 +31938,11 @@ const POKEDEX_JSON = [
     type: ["Bug", "Psychic"],
     species: "Radome Pokémon",
     description:
-      "As it grows inside its shell, it uses its psychic abilities to monitor the outside world and prepare for evolution.",
-    evolution: { prev: ["824", "Level 10"], next: [["826", "Level 30"]] },
+      "Enquanto cresce dentro de sua concha, ele usa suas habilidades psíquicas para monitorar o mundo exterior e se preparar para a evolução.",
+    evolution: {
+      prev: ["824", "Level 10"],
+      next: [["826", "Level 30"]],
+    },
     profile: {
       height: "0 m",
       weight: "20 kg",
@@ -33099,12 +31954,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/825.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/825.png",
-      hires:
-        "./Imagens/Pokedex/hires/825.png",
+      sprite: "./Imagens/Pokedex/sprites/825.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/825.png",
+      hires: "./Imagens/Pokedex/hires/825.png",
     },
   },
   {
@@ -33118,8 +31970,10 @@ const POKEDEX_JSON = [
     type: ["Bug", "Psychic"],
     species: "Seven Spot Pokémon",
     description:
-      "It emits psychic energy to observe and study what’s around it—and what’s around it can include things over six miles away.",
-    evolution: { prev: ["825", "Level 30"] },
+      "Ele emite energia psíquica para observar e estudar o que está ao seu redor - e o que está ao seu redor pode incluir coisas a mais de seis milhas de distância.",
+    evolution: {
+      prev: ["825", "Level 30"],
+    },
     profile: {
       height: "0 m",
       weight: "41 kg",
@@ -33131,12 +31985,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/826.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/826.png",
-      hires:
-        "./Imagens/Pokedex/hires/826.png",
+      sprite: "./Imagens/Pokedex/sprites/826.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/826.png",
+      hires: "./Imagens/Pokedex/hires/826.png",
     },
   },
   {
@@ -33150,8 +32001,10 @@ const POKEDEX_JSON = [
     type: ["Dark"],
     species: "Fox Pokémon",
     description:
-      "Cunning and cautious, this Pokémon survives by stealing food from others. It erases its tracks with swipes of its tail as it makes off with its plunder.",
-    evolution: { next: [["828", "Level 18"]] },
+      "Astuto e cauteloso, este Pokémon sobrevive roubando comida dos outros. Ele apaga suas trilhas com golpes de sua cauda enquanto faz sua pilhagem.",
+    evolution: {
+      next: [["828", "Level 18"]],
+    },
     profile: {
       height: "1 m",
       weight: "9 kg",
@@ -33163,12 +32016,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/827.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/827.png",
-      hires:
-        "./Imagens/Pokedex/hires/827.png",
+      sprite: "./Imagens/Pokedex/sprites/827.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/827.png",
+      hires: "./Imagens/Pokedex/hires/827.png",
     },
   },
   {
@@ -33182,8 +32032,10 @@ const POKEDEX_JSON = [
     type: ["Dark"],
     species: "Fox Pokémon",
     description:
-      "With a lithe body and sharp claws, it goes around stealing food and eggs. Boltund is its natural enemy.",
-    evolution: { prev: ["827", "Level 18"] },
+      "Com um corpo lithe e garras afiadas, ele anda roubando comida e ovos. Boltund é seu inimigo natural.",
+    evolution: {
+      prev: ["827", "Level 18"],
+    },
     profile: {
       height: "1 m",
       weight: "20 kg",
@@ -33195,12 +32047,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/828.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/828.png",
-      hires:
-        "./Imagens/Pokedex/hires/828.png",
+      sprite: "./Imagens/Pokedex/sprites/828.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/828.png",
+      hires: "./Imagens/Pokedex/hires/828.png",
     },
   },
   {
@@ -33214,8 +32063,10 @@ const POKEDEX_JSON = [
     type: ["Grass"],
     species: "Flowering Pokémon",
     description:
-      "It whirls around in the wind while singing a joyous song. This delightful display has charmed many into raising this Pokémon.",
-    evolution: { next: [["830", "Level 20"]] },
+      "Ele gira no vento enquanto canta uma música alegre. Essa exibição deliciosa encantou muitos a criar este Pokémon.",
+    evolution: {
+      next: [["830", "Level 20"]],
+    },
     profile: {
       height: "0 m",
       weight: "2 kg",
@@ -33227,12 +32078,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/829.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/829.png",
-      hires:
-        "./Imagens/Pokedex/hires/829.png",
+      sprite: "./Imagens/Pokedex/sprites/829.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/829.png",
+      hires: "./Imagens/Pokedex/hires/829.png",
     },
   },
   {
@@ -33246,8 +32094,10 @@ const POKEDEX_JSON = [
     type: ["Grass"],
     species: "Cotton Bloom Pokémon",
     description:
-      "The cotton on the head of this Pokémon can be spun into a glossy, gorgeous yarn—a Galar regional specialty.",
-    evolution: { prev: ["829", "Level 20"] },
+      "O algodão na cabeça deste Pokémon pode ser fiado em um fio brilhante e lindo - uma especialidade regional de Galar.",
+    evolution: {
+      prev: ["829", "Level 20"],
+    },
     profile: {
       height: "1 m",
       weight: "2 kg",
@@ -33259,12 +32109,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/830.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/830.png",
-      hires:
-        "./Imagens/Pokedex/hires/830.png",
+      sprite: "./Imagens/Pokedex/sprites/830.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/830.png",
+      hires: "./Imagens/Pokedex/hires/830.png",
     },
   },
   {
@@ -33278,8 +32125,10 @@ const POKEDEX_JSON = [
     type: ["Normal"],
     species: "Sheep Pokémon",
     description:
-      "If its fleece grows too long, Wooloo won’t be able to move. Cloth made with the wool of this Pokémon is surprisingly strong.",
-    evolution: { next: [["832", "Level 24"]] },
+      "Se sua lã crescer demais, Wooloo não poderá se mover. O tecido feito com a lã deste Pokémon é surpreendentemente forte.",
+    evolution: {
+      next: [["832", "Level 24"]],
+    },
     profile: {
       height: "1 m",
       weight: "6 kg",
@@ -33291,12 +32140,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/831.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/831.png",
-      hires:
-        "./Imagens/Pokedex/hires/831.png",
+      sprite: "./Imagens/Pokedex/sprites/831.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/831.png",
+      hires: "./Imagens/Pokedex/hires/831.png",
     },
   },
   {
@@ -33310,8 +32156,10 @@ const POKEDEX_JSON = [
     type: ["Normal"],
     species: "Sheep Pokémon",
     description:
-      "Its majestic horns are meant only to impress the opposite gender. They never see use in battle.",
-    evolution: { prev: ["831", "Level 24"] },
+      "Seus chifres majestosos são destinados apenas a impressionar o sexo oposto. Eles nunca são usados em batalha.",
+    evolution: {
+      prev: ["831", "Level 24"],
+    },
     profile: {
       height: "1 m",
       weight: "43 kg",
@@ -33323,12 +32171,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/832.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/832.png",
-      hires:
-        "./Imagens/Pokedex/hires/832.png",
+      sprite: "./Imagens/Pokedex/sprites/832.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/832.png",
+      hires: "./Imagens/Pokedex/hires/832.png",
     },
   },
   {
@@ -33342,8 +32187,10 @@ const POKEDEX_JSON = [
     type: ["Water"],
     species: "Snapping Pokémon",
     description:
-      "It starts off battles by attacking with its rock-hard horn, but as soon as the opponent flinches, this Pokémon bites down and never lets go.",
-    evolution: { next: [["834", "Level 22"]] },
+      "Ele começa as batalhas atacando com seu chifre duro como uma rocha, mas assim que o oponente recua, este Pokémon morde e nunca solta.",
+    evolution: {
+      next: [["834", "Level 22"]],
+    },
     profile: {
       height: "0 m",
       weight: "8 kg",
@@ -33355,12 +32202,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/833.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/833.png",
-      hires:
-        "./Imagens/Pokedex/hires/833.png",
+      sprite: "./Imagens/Pokedex/sprites/833.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/833.png",
+      hires: "./Imagens/Pokedex/hires/833.png",
     },
   },
   {
@@ -33374,8 +32218,10 @@ const POKEDEX_JSON = [
     type: ["Water", "Rock"],
     species: "Bite Pokémon",
     description:
-      "This Pokémon rapidly extends its retractable neck to sink its sharp fangs into distant enemies and take them down.",
-    evolution: { prev: ["833", "Level 22"] },
+      "Este Pokémon estende rapidamente seu pescoço retrátil para afundar suas presas afiadas em inimigos distantes e derrubá-los.",
+    evolution: {
+      prev: ["833", "Level 22"],
+    },
     profile: {
       height: "1 m",
       weight: "116 kg",
@@ -33387,12 +32233,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/834.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/834.png",
-      hires:
-        "./Imagens/Pokedex/hires/834.png",
+      sprite: "./Imagens/Pokedex/sprites/834.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/834.png",
+      hires: "./Imagens/Pokedex/hires/834.png",
     },
   },
   {
@@ -33406,8 +32249,10 @@ const POKEDEX_JSON = [
     type: ["Electric"],
     species: "Puppy Pokémon",
     description:
-      "This gluttonous Pokémon only assists people with their work because it wants treats. As it runs, it crackles with electricity.",
-    evolution: { next: [["836", "Level 25"]] },
+      "Este Pokémon guloso só ajuda as pessoas com seu trabalho porque quer guloseimas. Enquanto corre, ele crepita com eletricidade.",
+    evolution: {
+      next: [["836", "Level 25"]],
+    },
     profile: {
       height: "0 m",
       weight: "14 kg",
@@ -33418,12 +32263,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/835.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/835.png",
-      hires:
-        "./Imagens/Pokedex/hires/835.png",
+      sprite: "./Imagens/Pokedex/sprites/835.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/835.png",
+      hires: "./Imagens/Pokedex/hires/835.png",
     },
   },
   {
@@ -33437,8 +32279,10 @@ const POKEDEX_JSON = [
     type: ["Electric"],
     species: "Dog Pokémon",
     description:
-      "It sends electricity through its legs to boost their strength. Running at top speed, it easily breaks 50 mph.",
-    evolution: { prev: ["835", "Level 25"] },
+      "Ele envia eletricidade através de suas pernas para aumentar sua força. Correndo em velocidade máxima, ele facilmente quebra 50 mph.",
+    evolution: {
+      prev: ["835", "Level 25"],
+    },
     profile: {
       height: "1 m",
       weight: "34 kg",
@@ -33449,12 +32293,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/836.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/836.png",
-      hires:
-        "./Imagens/Pokedex/hires/836.png",
+      sprite: "./Imagens/Pokedex/sprites/836.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/836.png",
+      hires: "./Imagens/Pokedex/hires/836.png",
     },
   },
   {
@@ -33468,8 +32309,10 @@ const POKEDEX_JSON = [
     type: ["Rock"],
     species: "Coal Pokémon",
     description:
-      "It can race around like a unicycle, even on rough, rocky terrain. Burning coal sustains it.",
-    evolution: { next: [["838", "Level 18"]] },
+      "Ele pode correr como um monociclo, mesmo em terrenos acidentados e rochosos. O carvão em chamas o sustenta.",
+    evolution: {
+      next: [["838", "Level 18"]],
+    },
     profile: {
       height: "0 m",
       weight: "12 kg",
@@ -33481,12 +32324,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/837.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/837.png",
-      hires:
-        "./Imagens/Pokedex/hires/837.png",
+      sprite: "./Imagens/Pokedex/sprites/837.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/837.png",
+      hires: "./Imagens/Pokedex/hires/837.png",
     },
   },
   {
@@ -33500,8 +32340,11 @@ const POKEDEX_JSON = [
     type: ["Rock", "Fire"],
     species: "Coal Pokémon",
     description:
-      "By rapidly rolling its legs, it can travel at over 18 mph. The temperature of the flames it breathes exceeds 1,800 degrees Fahrenheit.",
-    evolution: { prev: ["837", "Level 18"], next: [["839", "Level 34"]] },
+      "Girando rapidamente as pernas, ele pode viajar a mais de 18 mph. A temperatura das chamas que ele respira excede 1.800 graus Fahrenheit.",
+    evolution: {
+      prev: ["837", "Level 18"],
+      next: [["839", "Level 34"]],
+    },
     profile: {
       height: "1 m",
       weight: "78 kg",
@@ -33513,12 +32356,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/838.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/838.png",
-      hires:
-        "./Imagens/Pokedex/hires/838.png",
+      sprite: "./Imagens/Pokedex/sprites/838.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/838.png",
+      hires: "./Imagens/Pokedex/hires/838.png",
     },
   },
   {
@@ -33532,8 +32372,10 @@ const POKEDEX_JSON = [
     type: ["Rock", "Fire"],
     species: "Coal Pokémon",
     description:
-      "While it’s engaged in battle, its mountain of coal will burn bright red, sending off sparks that scorch the surrounding area.",
-    evolution: { prev: ["838", "Level 34"] },
+      "Enquanto está envolvido em batalha, sua montanha de carvão queimará vermelho brilhante, enviando faíscas que queimam a área circundante.",
+    evolution: {
+      prev: ["838", "Level 34"],
+    },
     profile: {
       height: "3 m",
       weight: "310 kg",
@@ -33545,12 +32387,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/839.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/839.png",
-      hires:
-        "./Imagens/Pokedex/hires/839.png",
+      sprite: "./Imagens/Pokedex/sprites/839.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/839.png",
+      hires: "./Imagens/Pokedex/hires/839.png",
     },
   },
   {
@@ -33564,7 +32403,7 @@ const POKEDEX_JSON = [
     type: ["Grass", "Dragon"],
     species: "Apple Core Pokémon",
     description:
-      "As soon as it’s born, it burrows into an apple. Not only does the apple serve as its food source, but the flavor of the fruit determines its evolution.",
+      "Assim que nasce, ele se enterra em uma maçã. Não só a maçã serve como fonte de alimento, mas o sabor da fruta determina sua evolução.",
     evolution: {
       next: [
         ["841", "use "],
@@ -33582,12 +32421,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/840.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/840.png",
-      hires:
-        "./Imagens/Pokedex/hires/840.png",
+      sprite: "./Imagens/Pokedex/sprites/840.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/840.png",
+      hires: "./Imagens/Pokedex/hires/840.png",
     },
   },
   {
@@ -33601,8 +32437,10 @@ const POKEDEX_JSON = [
     type: ["Grass", "Dragon"],
     species: "Apple Wing Pokémon",
     description:
-      "It flies on wings of apple skin and spits a powerful acid. It can also change its shape into that of an apple.",
-    evolution: { prev: ["840", "use "] },
+      "Ele voa em asas de casca de maçã e cospe um ácido poderoso. Ele também pode mudar sua forma para a de uma maçã.",
+    evolution: {
+      prev: ["840", "use "],
+    },
     profile: {
       height: "0 m",
       weight: "1 kg",
@@ -33614,12 +32452,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/841.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/841.png",
-      hires:
-        "./Imagens/Pokedex/hires/841.png",
+      sprite: "./Imagens/Pokedex/sprites/841.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/841.png",
+      hires: "./Imagens/Pokedex/hires/841.png",
     },
   },
   {
@@ -33633,8 +32468,10 @@ const POKEDEX_JSON = [
     type: ["Grass", "Dragon"],
     species: "Apple Nectar Pokémon",
     description:
-      "Its body is covered in sweet nectar, and the skin on its back is especially yummy. Children used to have it as a snack.",
-    evolution: { prev: ["840", "use "] },
+      "Seu corpo é coberto de néctar doce e a pele nas costas é especialmente gostosa. Crianças costumavam comê-lo como lanche.",
+    evolution: {
+      prev: ["840", "use "],
+    },
     profile: {
       height: "0 m",
       weight: "13 kg",
@@ -33646,12 +32483,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/842.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/842.png",
-      hires:
-        "./Imagens/Pokedex/hires/842.png",
+      sprite: "./Imagens/Pokedex/sprites/842.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/842.png",
+      hires: "./Imagens/Pokedex/hires/842.png",
     },
   },
   {
@@ -33665,8 +32499,10 @@ const POKEDEX_JSON = [
     type: ["Ground"],
     species: "Sand Snake Pokémon",
     description:
-      "It spews sand from its nostrils. While the enemy is blinded, it burrows into the ground to hide.",
-    evolution: { next: [["844", "Level 36"]] },
+      "Ele cospe areia de suas narinas. Enquanto o inimigo está cego, ele se esconde no chão para se esconder.",
+    evolution: {
+      next: [["844", "Level 36"]],
+    },
     profile: {
       height: "2 m",
       weight: "8 kg",
@@ -33678,12 +32514,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/843.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/843.png",
-      hires:
-        "./Imagens/Pokedex/hires/843.png",
+      sprite: "./Imagens/Pokedex/sprites/843.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/843.png",
+      hires: "./Imagens/Pokedex/hires/843.png",
     },
   },
   {
@@ -33697,8 +32530,10 @@ const POKEDEX_JSON = [
     type: ["Ground"],
     species: "Sand Snake Pokémon",
     description:
-      "Its unique style of coiling allows it to blast sand out of its sand sac more efficiently.",
-    evolution: { prev: ["843", "Level 36"] },
+      "Seu estilo único de enrolamento permite que ele expulse areia de seu saco de areia com mais eficiência.",
+    evolution: {
+      prev: ["843", "Level 36"],
+    },
     profile: {
       height: "4 m",
       weight: "66 kg",
@@ -33710,12 +32545,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/844.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/844.png",
-      hires:
-        "./Imagens/Pokedex/hires/844.png",
+      sprite: "./Imagens/Pokedex/sprites/844.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/844.png",
+      hires: "./Imagens/Pokedex/hires/844.png",
     },
   },
   {
@@ -33729,7 +32561,7 @@ const POKEDEX_JSON = [
     type: ["Flying", "Water"],
     species: "Gulp Pokémon",
     description:
-      "This hungry Pokémon swallows Arrokuda whole. Occasionally, it makes a mistake and tries to swallow a Pokémon other than its preferred prey.",
+      "Este Pokémon faminto engole Arrokuda inteiro. Ocasionalmente, ele comete um erro e tenta engolir um Pokémon diferente de sua presa preferida.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -33738,12 +32570,9 @@ const POKEDEX_JSON = [
       ability: [["Gulp-missile", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/845.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/845.png",
-      hires:
-        "./Imagens/Pokedex/hires/845.png",
+      sprite: "./Imagens/Pokedex/sprites/845.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/845.png",
+      hires: "./Imagens/Pokedex/hires/845.png",
     },
   },
   {
@@ -33757,8 +32586,10 @@ const POKEDEX_JSON = [
     type: ["Water"],
     species: "Rush Pokémon",
     description:
-      "After it’s eaten its fill, its movements become extremely sluggish. That’s when Cramorant swallows it up.",
-    evolution: { next: [["847", "Level 26"]] },
+      "Depois de comer o suficiente, seus movimentos se tornam extremamente lentos. É quando Cramorant o engole.",
+    evolution: {
+      next: [["847", "Level 26"]],
+    },
     profile: {
       height: "1 m",
       weight: "1 kg",
@@ -33769,12 +32600,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/846.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/846.png",
-      hires:
-        "./Imagens/Pokedex/hires/846.png",
+      sprite: "./Imagens/Pokedex/sprites/846.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/846.png",
+      hires: "./Imagens/Pokedex/hires/846.png",
     },
   },
   {
@@ -33788,8 +32616,10 @@ const POKEDEX_JSON = [
     type: ["Water"],
     species: "Skewer Pokémon",
     description:
-      "It spins its tail fins to propel itself, surging forward at speeds of over 100 knots before ramming prey and spearing into them.",
-    evolution: { prev: ["846", "Level 26"] },
+      "Ele gira suas nadadeiras caudais para se impulsionar, surgindo para frente em velocidades superiores a 100 nós antes de bater na presa e lançar-se neles.",
+    evolution: {
+      prev: ["846", "Level 26"],
+    },
     profile: {
       height: "1 m",
       weight: "30 kg",
@@ -33800,12 +32630,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/847.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/847.png",
-      hires:
-        "./Imagens/Pokedex/hires/847.png",
+      sprite: "./Imagens/Pokedex/sprites/847.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/847.png",
+      hires: "./Imagens/Pokedex/hires/847.png",
     },
   },
   {
@@ -33819,8 +32646,10 @@ const POKEDEX_JSON = [
     type: ["Electric", "Poison"],
     species: "Baby Pokémon",
     description:
-      "It manipulates the chemical makeup of its poison to produce electricity. The voltage is weak, but it can cause a tingling paralysis.",
-    evolution: { next: [["849", "Level 30, with a "]] },
+      "Ele manipula a composição química de seu veneno para produzir eletricidade. A voltagem é fraca, mas pode causar uma paralisia formigante.",
+    evolution: {
+      next: [["849", "Level 30, with a "]],
+    },
     profile: {
       height: "0 m",
       weight: "11 kg",
@@ -33832,12 +32661,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/848.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/848.png",
-      hires:
-        "./Imagens/Pokedex/hires/848.png",
+      sprite: "./Imagens/Pokedex/sprites/848.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/848.png",
+      hires: "./Imagens/Pokedex/hires/848.png",
     },
   },
   {
@@ -33851,8 +32677,10 @@ const POKEDEX_JSON = [
     type: ["Electric", "Poison"],
     species: "Punk Pokémon",
     description:
-      "This short-tempered and aggressive Pokémon chugs stagnant water to absorb any toxins it might contain.",
-    evolution: { next: [["849", "Level 30, with a "]] },
+      "Este Pokémon de temperamento curto e agressivo bebe água estagnada para absorver quaisquer toxinas que possa conter.",
+    evolution: {
+      next: [["849", "Level 30, with a "]],
+    },
     profile: {
       height: "2 m",
       weight: "40 kg",
@@ -33864,12 +32692,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/849.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/849.png",
-      hires:
-        "./Imagens/Pokedex/hires/849.png",
+      sprite: "./Imagens/Pokedex/sprites/849.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/849.png",
+      hires: "./Imagens/Pokedex/hires/849.png",
     },
   },
   {
@@ -33883,8 +32708,10 @@ const POKEDEX_JSON = [
     type: ["Fire", "Bug"],
     species: "Radiator Pokémon",
     description:
-      "It wraps prey up with its heated body, cooking them in its coils. Once they’re well-done, it will voraciously nibble them down to the last morsel.",
-    evolution: { next: [["851", "Level 28"]] },
+      "Ele envolve a presa com seu corpo aquecido, cozinhando-os em suas bobinas. Uma vez bem cozidos, ele os mordiscará vorazmente até o último pedaço.",
+    evolution: {
+      next: [["851", "Level 28"]],
+    },
     profile: {
       height: "1 m",
       weight: "1 kg",
@@ -33896,12 +32723,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/850.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/850.png",
-      hires:
-        "./Imagens/Pokedex/hires/850.png",
+      sprite: "./Imagens/Pokedex/sprites/850.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/850.png",
+      hires: "./Imagens/Pokedex/hires/850.png",
     },
   },
   {
@@ -33915,8 +32739,10 @@ const POKEDEX_JSON = [
     type: ["Fire", "Bug"],
     species: "Radiator Pokémon",
     description:
-      "While its burning body is already dangerous on its own, this excessively hostile Pokémon also has large and very sharp fangs.",
-    evolution: { prev: ["850", "Level 28"] },
+      "Enquanto seu corpo em chamas já é perigoso por si só, este Pokémon excessivamente hostil também tem presas grandes e muito afiadas.",
+    evolution: {
+      prev: ["850", "Level 28"],
+    },
     profile: {
       height: "3 m",
       weight: "120 kg",
@@ -33928,12 +32754,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/851.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/851.png",
-      hires:
-        "./Imagens/Pokedex/hires/851.png",
+      sprite: "./Imagens/Pokedex/sprites/851.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/851.png",
+      hires: "./Imagens/Pokedex/hires/851.png",
     },
   },
   {
@@ -33947,8 +32770,10 @@ const POKEDEX_JSON = [
     type: ["Fighting"],
     species: "Tantrum Pokémon",
     description:
-      "Its tentacles tear off easily, but it isn’t alarmed when that happens—it knows they’ll grow back. It’s about as smart as a three-year-old.",
-    evolution: { next: [["853", "after "]] },
+      "Seus tentáculos se desprendem facilmente, mas ele não fica alarmado quando isso acontece - ele sabe que eles voltarão a crescer. É tão inteligente quanto uma criança de três anos.",
+    evolution: {
+      next: [["853", "after "]],
+    },
     profile: {
       height: "1 m",
       weight: "4 kg",
@@ -33959,12 +32784,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/852.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/852.png",
-      hires:
-        "./Imagens/Pokedex/hires/852.png",
+      sprite: "./Imagens/Pokedex/sprites/852.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/852.png",
+      hires: "./Imagens/Pokedex/hires/852.png",
     },
   },
   {
@@ -33978,8 +32800,10 @@ const POKEDEX_JSON = [
     type: ["Fighting"],
     species: "Tantrum Pokémon",
     description:
-      "Searching for an opponent to test its skills against, it emerges onto land. Once the battle is over, it returns to the sea.",
-    evolution: { prev: ["852", "after "] },
+      "Procurando um oponente para testar suas habilidades, ele emerge na terra. Uma vez que a batalha acabou, ele retorna para o mar.",
+    evolution: {
+      prev: ["852", "after "],
+    },
     profile: {
       height: "2 m",
       weight: "39 kg",
@@ -33990,12 +32814,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/853.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/853.png",
-      hires:
-        "./Imagens/Pokedex/hires/853.png",
+      sprite: "./Imagens/Pokedex/sprites/853.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/853.png",
+      hires: "./Imagens/Pokedex/hires/853.png",
     },
   },
   {
@@ -34009,8 +32830,10 @@ const POKEDEX_JSON = [
     type: ["Ghost"],
     species: "Black Tea Pokémon",
     description:
-      "The teacup in which this Pokémon makes its home is a famous piece of antique tableware. Many forgeries are in circulation.",
-    evolution: { next: [["855", "use "]] },
+      "A xícara de chá em que este Pokémon faz sua casa é uma famosa peça de louça antiga. Muitas falsificações estão em circulação.",
+    evolution: {
+      next: [["855", "use "]],
+    },
     profile: {
       height: "0 m",
       weight: "0 kg",
@@ -34021,12 +32844,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/854.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/854.png",
-      hires:
-        "./Imagens/Pokedex/hires/854.png",
+      sprite: "./Imagens/Pokedex/sprites/854.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/854.png",
+      hires: "./Imagens/Pokedex/hires/854.png",
     },
   },
   {
@@ -34040,8 +32860,10 @@ const POKEDEX_JSON = [
     type: ["Ghost"],
     species: "Black Tea Pokémon",
     description:
-      "Leaving leftover black tea unattended is asking for this Pokémon to come along and pour itself into it, turning the tea into a new Polteageist.",
-    evolution: { prev: ["854", "use "] },
+      "Deixar o chá preto restante desatendido é pedir para este Pokémon aparecer e despejá-lo nele, transformando o chá em um novo Polteageist.",
+    evolution: {
+      prev: ["854", "use "],
+    },
     profile: {
       height: "0 m",
       weight: "0 kg",
@@ -34052,12 +32874,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/855.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/855.png",
-      hires:
-        "./Imagens/Pokedex/hires/855.png",
+      sprite: "./Imagens/Pokedex/sprites/855.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/855.png",
+      hires: "./Imagens/Pokedex/hires/855.png",
     },
   },
   {
@@ -34071,8 +32890,10 @@ const POKEDEX_JSON = [
     type: ["Psychic"],
     species: "Calm Pokémon",
     description:
-      "If this Pokémon senses a strong emotion, it will run away as fast as it can. It prefers areas without people.",
-    evolution: { next: [["857", "Level 32"]] },
+      "Se este Pokémon sentir uma emoção forte, ele fugirá o mais rápido que puder. Ele prefere áreas sem pessoas.",
+    evolution: {
+      next: [["857", "Level 32"]],
+    },
     profile: {
       height: "0 m",
       weight: "3 kg",
@@ -34084,12 +32905,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/856.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/856.png",
-      hires:
-        "./Imagens/Pokedex/hires/856.png",
+      sprite: "./Imagens/Pokedex/sprites/856.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/856.png",
+      hires: "./Imagens/Pokedex/hires/856.png",
     },
   },
   {
@@ -34103,8 +32921,11 @@ const POKEDEX_JSON = [
     type: ["Psychic"],
     species: "Serene Pokémon",
     description:
-      "Using the braids on its head, it pummels foes to get them to quiet down. One blow from those braids would knock out a professional boxer.",
-    evolution: { prev: ["856", "Level 32"], next: [["858", "Level 42"]] },
+      "Usando as tranças em sua cabeça, ele golpeia inimigos para fazê-los calar a boca. Um golpe dessas tranças nocautearia um boxeador profissional.",
+    evolution: {
+      prev: ["856", "Level 32"],
+      next: [["858", "Level 42"]],
+    },
     profile: {
       height: "1 m",
       weight: "5 kg",
@@ -34116,12 +32937,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/857.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/857.png",
-      hires:
-        "./Imagens/Pokedex/hires/857.png",
+      sprite: "./Imagens/Pokedex/sprites/857.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/857.png",
+      hires: "./Imagens/Pokedex/hires/857.png",
     },
   },
   {
@@ -34135,8 +32953,10 @@ const POKEDEX_JSON = [
     type: ["Psychic", "Fairy"],
     species: "Silent Pokémon",
     description:
-      "If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.",
-    evolution: { prev: ["857", "Level 42"] },
+      "Se você for muito alto ao seu redor, corre o risco de ser dilacerado pelas garras de seu tentáculo. Este Pokémon também é conhecido como Bruxa da Floresta.",
+    evolution: {
+      prev: ["857", "Level 42"],
+    },
     profile: {
       height: "2 m",
       weight: "5 kg",
@@ -34148,12 +32968,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/858.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/858.png",
-      hires:
-        "./Imagens/Pokedex/hires/858.png",
+      sprite: "./Imagens/Pokedex/sprites/858.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/858.png",
+      hires: "./Imagens/Pokedex/hires/858.png",
     },
   },
   {
@@ -34167,8 +32984,10 @@ const POKEDEX_JSON = [
     type: ["Dark", "Fairy"],
     species: "Wily Pokémon",
     description:
-      "It sneaks into people’s homes, stealing things and feasting on the negative energy of the frustrated occupants.",
-    evolution: { next: [["860", "Level 32"]] },
+      "Ele se esgueira nas casas das pessoas, roubando coisas e festejando com a energia negativa dos ocupantes frustrados.",
+    evolution: {
+      next: [["860", "Level 32"]],
+    },
     profile: {
       height: "0 m",
       weight: "6 kg",
@@ -34180,12 +32999,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/859.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/859.png",
-      hires:
-        "./Imagens/Pokedex/hires/859.png",
+      sprite: "./Imagens/Pokedex/sprites/859.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/859.png",
+      hires: "./Imagens/Pokedex/hires/859.png",
     },
   },
   {
@@ -34199,8 +33015,11 @@ const POKEDEX_JSON = [
     type: ["Dark", "Fairy"],
     species: "Devious Pokémon",
     description:
-      "With sly cunning, it tries to lure people into the woods. Some believe it to have the power to make crops grow.",
-    evolution: { prev: ["859", "Level 32"], next: [["861", "Level 42"]] },
+      "Com astúcia astuta, ele tenta atrair as pessoas para a floresta. Alguns acreditam que ele tem o poder de fazer as plantações crescerem.",
+    evolution: {
+      prev: ["859", "Level 32"],
+      next: [["861", "Level 42"]],
+    },
     profile: {
       height: "1 m",
       weight: "12 kg",
@@ -34212,12 +33031,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/860.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/860.png",
-      hires:
-        "./Imagens/Pokedex/hires/860.png",
+      sprite: "./Imagens/Pokedex/sprites/860.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/860.png",
+      hires: "./Imagens/Pokedex/hires/860.png",
     },
   },
   {
@@ -34231,8 +33047,10 @@ const POKEDEX_JSON = [
     type: ["Dark", "Fairy"],
     species: "Bulk Up Pokémon",
     description:
-      "Its hairs work like muscle fibers. When its hairs unfurl, they latch on to opponents, ensnaring them as tentacles would.",
-    evolution: { prev: ["860", "Level 42"] },
+      "Seus cabelos funcionam como fibras musculares. Quando seus cabelos se desenrolam, eles se agarram aos oponentes, prendendo-os como tentáculos.",
+    evolution: {
+      prev: ["860", "Level 42"],
+    },
     profile: {
       height: "1 m",
       weight: "61 kg",
@@ -34244,12 +33062,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/861.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/861.png",
-      hires:
-        "./Imagens/Pokedex/hires/861.png",
+      sprite: "./Imagens/Pokedex/sprites/861.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/861.png",
+      hires: "./Imagens/Pokedex/hires/861.png",
     },
   },
   {
@@ -34263,8 +33078,10 @@ const POKEDEX_JSON = [
     type: ["Dark", "Normal"],
     species: "Blocking Pokémon",
     description:
-      "It evolved after experiencing numerous fights. While crossing its arms, it lets out a shout that would make any opponent flinch.",
-    evolution: { prev: ["264", "Level 35, Nighttime"] },
+      "Ele evoluiu após experimentar inúmeras lutas. Enquanto cruza os braços, ele deixa escapar um grito que faria qualquer oponente recuar.",
+    evolution: {
+      prev: ["264", "Level 35, Nighttime"],
+    },
     profile: {
       height: "2 m",
       weight: "46 kg",
@@ -34276,12 +33093,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/862.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/862.png",
-      hires:
-        "./Imagens/Pokedex/hires/862.png",
+      sprite: "./Imagens/Pokedex/sprites/862.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/862.png",
+      hires: "./Imagens/Pokedex/hires/862.png",
     },
   },
   {
@@ -34295,8 +33109,10 @@ const POKEDEX_JSON = [
     type: ["Steel"],
     species: "Viking Pokémon",
     description:
-      "After many battles, it evolved dangerous claws that come together to form daggers when extended.",
-    evolution: { prev: ["52", "Level 28"] },
+      "Após muitas batalhas, ele evoluiu garras perigosas que se unem para formar adagas quando estendidas.",
+    evolution: {
+      prev: ["52", "Level 28"],
+    },
     profile: {
       height: "1 m",
       weight: "28 kg",
@@ -34308,12 +33124,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/863.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/863.png",
-      hires:
-        "./Imagens/Pokedex/hires/863.png",
+      sprite: "./Imagens/Pokedex/sprites/863.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/863.png",
+      hires: "./Imagens/Pokedex/hires/863.png",
     },
   },
   {
@@ -34327,8 +33140,10 @@ const POKEDEX_JSON = [
     type: ["Ghost"],
     species: "Coral Pokémon",
     description:
-      "Be cautious of the ectoplasmic body surrounding its soul. You’ll become stiff as stone if you touch it.",
-    evolution: { prev: ["222", "Level 38"] },
+      "Cuidado com o corpo ectoplasmático que envolve sua alma. Você ficará rígido como pedra se tocá-lo.",
+    evolution: {
+      prev: ["222", "Level 38"],
+    },
     profile: {
       height: "1 m",
       weight: "0 kg",
@@ -34339,12 +33154,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/864.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/864.png",
-      hires:
-        "./Imagens/Pokedex/hires/864.png",
+      sprite: "./Imagens/Pokedex/sprites/864.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/864.png",
+      hires: "./Imagens/Pokedex/hires/864.png",
     },
   },
   {
@@ -34358,8 +33170,10 @@ const POKEDEX_JSON = [
     type: ["Fighting"],
     species: "Wild Duck Pokémon",
     description:
-      "After deflecting attacks with its hard leaf shield, it strikes back with its sharp leek stalk. The leek stalk is both weapon and food.",
-    evolution: { prev: ["83", "achieve 3 critical hits in one battle"] },
+      "Após desviar ataques com seu escudo de folhas duras, ele ataca de volta com seu talo de alho-poró afiado. O talo de alho-poró é arma e alimento.",
+    evolution: {
+      prev: ["83", "achieve 3 critical hits in one battle"],
+    },
     profile: {
       height: "1 m",
       weight: "117 kg",
@@ -34370,12 +33184,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/865.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/865.png",
-      hires:
-        "./Imagens/Pokedex/hires/865.png",
+      sprite: "./Imagens/Pokedex/sprites/865.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/865.png",
+      hires: "./Imagens/Pokedex/hires/865.png",
     },
   },
   {
@@ -34389,8 +33200,10 @@ const POKEDEX_JSON = [
     type: ["Ice", "Psychic"],
     species: "Comedian Pokémon",
     description:
-      "Its amusing movements make it very popular. It releases its psychic power from the pattern on its belly.",
-    evolution: { prev: ["122", "Level 42"] },
+      "Seus movimentos divertidos o tornam muito popular. Ele libera seu poder psíquico do padrão em seu ventre.",
+    evolution: {
+      prev: ["122", "Level 42"],
+    },
     profile: {
       height: "1 m",
       weight: "58 kg",
@@ -34402,12 +33215,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/866.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/866.png",
-      hires:
-        "./Imagens/Pokedex/hires/866.png",
+      sprite: "./Imagens/Pokedex/sprites/866.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/866.png",
+      hires: "./Imagens/Pokedex/hires/866.png",
     },
   },
   {
@@ -34421,8 +33231,10 @@ const POKEDEX_JSON = [
     type: ["Ground", "Ghost"],
     species: "Grudge Pokémon",
     description:
-      "Never touch its shadowlike body, or you’ll be shown the horrific memories behind the picture carved into it.",
-    evolution: { prev: ["562", "Level 34"] },
+      "Nunca toque em seu corpo semelhante a uma sombra, ou você verá as horríveis memórias por trás da imagem esculpida nele.",
+    evolution: {
+      prev: ["562", "Level 34"],
+    },
     profile: {
       height: "2 m",
       weight: "67 kg",
@@ -34430,12 +33242,9 @@ const POKEDEX_JSON = [
       ability: [["Wandering-spirit", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/867.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/867.png",
-      hires:
-        "./Imagens/Pokedex/hires/867.png",
+      sprite: "./Imagens/Pokedex/sprites/867.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/867.png",
+      hires: "./Imagens/Pokedex/hires/867.png",
     },
   },
   {
@@ -34449,8 +33258,10 @@ const POKEDEX_JSON = [
     type: ["Fairy"],
     species: "Cream Pokémon",
     description:
-      "They say that any patisserie visited by Milcery is guaranteed success and good fortune.",
-    evolution: { next: [["869", "spin around holding Sweet"]] },
+      "Diz-se que qualquer pastelaria visitada por Milcery é garantida sucesso e boa sorte.",
+    evolution: {
+      next: [["869", "spin around holding Sweet"]],
+    },
     profile: {
       height: "0 m",
       weight: "0 kg",
@@ -34461,12 +33272,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/868.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/868.png",
-      hires:
-        "./Imagens/Pokedex/hires/868.png",
+      sprite: "./Imagens/Pokedex/sprites/868.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/868.png",
+      hires: "./Imagens/Pokedex/hires/868.png",
     },
   },
   {
@@ -34480,8 +33288,10 @@ const POKEDEX_JSON = [
     type: ["Fairy"],
     species: "Cream Pokémon",
     description:
-      "When Alcremie is content, the cream it secretes from its hands becomes sweeter and richer.",
-    evolution: { prev: ["868", "spin around holding Sweet"] },
+      "Quando Alcremie está contente, o creme que secreta de suas mãos fica mais doce e rico.",
+    evolution: {
+      prev: ["868", "spin around holding Sweet"],
+    },
     profile: {
       height: "0 m",
       weight: "0 kg",
@@ -34492,12 +33302,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/869.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/869.png",
-      hires:
-        "./Imagens/Pokedex/hires/869.png",
+      sprite: "./Imagens/Pokedex/sprites/869.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/869.png",
+      hires: "./Imagens/Pokedex/hires/869.png",
     },
   },
   {
@@ -34511,7 +33318,7 @@ const POKEDEX_JSON = [
     type: ["Fighting"],
     species: "Formation Pokémon",
     description:
-      "The six of them work together as one Pokémon. Teamwork is also their battle strategy, and they constantly change their formation as they fight.",
+      "Os seis deles trabalham juntos como um Pokémon. O trabalho em equipe também é sua estratégia de batalha e eles mudam constantemente sua formação enquanto lutam.",
     evolution: {},
     profile: {
       height: "3 m",
@@ -34523,12 +33330,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/870.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/870.png",
-      hires:
-        "./Imagens/Pokedex/hires/870.png",
+      sprite: "./Imagens/Pokedex/sprites/870.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/870.png",
+      hires: "./Imagens/Pokedex/hires/870.png",
     },
   },
   {
@@ -34542,7 +33346,7 @@ const POKEDEX_JSON = [
     type: ["Electric"],
     species: "Sea Urchin Pokémon",
     description:
-      "It stores electricity in each spine. Even if one gets broken off, it still continues to emit electricity for at least three hours.",
+      "Ele armazena eletricidade em cada espinha. Mesmo que um se quebre, ele ainda continua emitindo eletricidade por pelo menos três horas.",
     evolution: {},
     profile: {
       height: "0 m",
@@ -34554,12 +33358,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/871.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/871.png",
-      hires:
-        "./Imagens/Pokedex/hires/871.png",
+      sprite: "./Imagens/Pokedex/sprites/871.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/871.png",
+      hires: "./Imagens/Pokedex/hires/871.png",
     },
   },
   {
@@ -34573,8 +33374,10 @@ const POKEDEX_JSON = [
     type: ["Ice", "Bug"],
     species: "Worm Pokémon",
     description:
-      "It eats snow that piles up on the ground. The more snow it eats, the bigger and more impressive the spikes on its back grow.",
-    evolution: { next: [["873", "high "]] },
+      "Ele come neve que se acumula no chão. Quanto mais neve comer, maiores e mais impressionantes ficarão os espinhos nas costas.",
+    evolution: {
+      next: [["873", "high "]],
+    },
     profile: {
       height: "0 m",
       weight: "4 kg",
@@ -34585,12 +33388,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/872.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/872.png",
-      hires:
-        "./Imagens/Pokedex/hires/872.png",
+      sprite: "./Imagens/Pokedex/sprites/872.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/872.png",
+      hires: "./Imagens/Pokedex/hires/872.png",
     },
   },
   {
@@ -34604,8 +33404,10 @@ const POKEDEX_JSON = [
     type: ["Ice", "Bug"],
     species: "Frost Moth Pokémon",
     description:
-      "It shows no mercy to any who desecrate fields and mountains. It will fly around on its icy wings, causing a blizzard to chase offenders away.",
-    evolution: { prev: ["872", "high "] },
+      "Ele não mostra nenhuma misericórdia para qualquer um que desconsagre campos e montanhas. Ele voará em suas asas geladas, causando uma nevasca para afastar os infratores.",
+    evolution: {
+      prev: ["872", "high "],
+    },
     profile: {
       height: "1 m",
       weight: "42 kg",
@@ -34616,12 +33418,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/873.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/873.png",
-      hires:
-        "./Imagens/Pokedex/hires/873.png",
+      sprite: "./Imagens/Pokedex/sprites/873.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/873.png",
+      hires: "./Imagens/Pokedex/hires/873.png",
     },
   },
   {
@@ -34635,7 +33434,7 @@ const POKEDEX_JSON = [
     type: ["Rock"],
     species: "Big Rock Pokémon",
     description:
-      "Once a year, on a specific date and at a specific time, they gather out of nowhere and form up in a circle.",
+      "Uma vez por ano, em uma data específica e em um horário específico, eles se reúnem do nada e formam um círculo.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -34644,12 +33443,9 @@ const POKEDEX_JSON = [
       ability: [["Power-spot", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/874.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/874.png",
-      hires:
-        "./Imagens/Pokedex/hires/874.png",
+      sprite: "./Imagens/Pokedex/sprites/874.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/874.png",
+      hires: "./Imagens/Pokedex/hires/874.png",
     },
   },
   {
@@ -34663,7 +33459,7 @@ const POKEDEX_JSON = [
     type: ["Ice"],
     species: "Penguin Pokémon",
     description:
-      "This Pokémon keeps its heat-sensitive head cool with ice. It fishes for its food, dangling its single hair into the sea to lure in prey.",
+      "Este Pokémon mantém sua cabeça sensível ao calor fria com gelo. Ele pesca para sua comida, pendurando seu único cabelo no mar para atrair presas.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -34672,12 +33468,9 @@ const POKEDEX_JSON = [
       ability: [["Ice-face", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/875.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/875.png",
-      hires:
-        "./Imagens/Pokedex/hires/875.png",
+      sprite: "./Imagens/Pokedex/sprites/875.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/875.png",
+      hires: "./Imagens/Pokedex/hires/875.png",
     },
   },
   {
@@ -34691,7 +33484,7 @@ const POKEDEX_JSON = [
     type: ["Psychic", "Normal"],
     species: "Emotion Pokémon",
     description:
-      "Through its horns, it can pick up on the emotions of creatures around it. Positive emotions are the source of its strength.",
+      "Através de seus chifres, ele pode captar as emoções das criaturas ao seu redor. Emoções positivas são a fonte de sua força.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -34704,12 +33497,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/876.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/876.png",
-      hires:
-        "./Imagens/Pokedex/hires/876.png",
+      sprite: "./Imagens/Pokedex/sprites/876.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/876.png",
+      hires: "./Imagens/Pokedex/hires/876.png",
     },
   },
   {
@@ -34723,7 +33513,7 @@ const POKEDEX_JSON = [
     type: ["Electric", "Dark"],
     species: "Two-Sided Pokémon",
     description:
-      "It carries electrically roasted seeds with it as if they’re precious treasures. No matter how much it eats, it always gets hungry again in short order.",
+      "Ele carrega sementes eletricamente torradas consigo como se fossem tesouros preciosos. Não importa quanto coma, sempre fica com fome novamente em pouco tempo.",
     evolution: {},
     profile: {
       height: "0 m",
@@ -34732,10 +33522,8 @@ const POKEDEX_JSON = [
       ability: [["Hunger-switch", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/877.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/877.png",
+      sprite: "./Imagens/Pokedex/sprites/877.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/877.png",
     },
   },
   {
@@ -34749,8 +33537,10 @@ const POKEDEX_JSON = [
     type: ["Steel"],
     species: "Copperderm Pokémon",
     description:
-      "If a job requires serious strength, this Pokémon will excel at it. Its copper body tarnishes in the rain, turning a vibrant green color.",
-    evolution: { next: [["879", "Level 34"]] },
+      "Se um trabalho exigir muita força, este Pokémon se destacará nele. Seu corpo de cobre mancha na chuva, ficando verde vibrante.",
+    evolution: {
+      next: [["879", "Level 34"]],
+    },
     profile: {
       height: "1 m",
       weight: "100 kg",
@@ -34761,12 +33551,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/878.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/878.png",
-      hires:
-        "./Imagens/Pokedex/hires/878.png",
+      sprite: "./Imagens/Pokedex/sprites/878.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/878.png",
+      hires: "./Imagens/Pokedex/hires/878.png",
     },
   },
   {
@@ -34780,8 +33567,10 @@ const POKEDEX_JSON = [
     type: ["Steel"],
     species: "Copperderm Pokémon",
     description:
-      "These Pokémon live in herds. Their trunks have incredible grip strength, strong enough to crush giant rocks into powder.",
-    evolution: { prev: ["878", "Level 34"] },
+      "Esses Pokémon vivem em rebanhos. Suas trombas têm força de aderência incrível, forte o suficiente para esmagar rochas gigantes em pó.",
+    evolution: {
+      prev: ["878", "Level 34"],
+    },
     profile: {
       height: "3 m",
       weight: "650 kg",
@@ -34792,12 +33581,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/879.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/879.png",
-      hires:
-        "./Imagens/Pokedex/hires/879.png",
+      sprite: "./Imagens/Pokedex/sprites/879.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/879.png",
+      hires: "./Imagens/Pokedex/hires/879.png",
     },
   },
   {
@@ -34811,7 +33597,7 @@ const POKEDEX_JSON = [
     type: ["Electric", "Dragon"],
     species: "Fossil Pokémon",
     description:
-      "The powerful muscles in its tail generate its electricity. Compared to its lower body, its upper half is entirely too small.",
+      "Os poderosos músculos de sua cauda geram sua eletricidade. Em comparação com sua parte inferior do corpo, sua metade superior é inteiramente pequena.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -34824,12 +33610,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/880.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/880.png",
-      hires:
-        "./Imagens/Pokedex/hires/880.png",
+      sprite: "./Imagens/Pokedex/sprites/880.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/880.png",
+      hires: "./Imagens/Pokedex/hires/880.png",
     },
   },
   {
@@ -34843,7 +33626,7 @@ const POKEDEX_JSON = [
     type: ["Electric", "Ice"],
     species: "Fossil Pokémon",
     description:
-      "This Pokémon lived on prehistoric seashores and was able to preserve food with the ice on its body. It went extinct because it moved so slowly.",
+      "Este Pokémon vivia em praias pré-históricas e era capaz de preservar alimentos com o gelo em seu corpo. Ele se extinguiu porque se movia tão lentamente.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -34856,12 +33639,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/881.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/881.png",
-      hires:
-        "./Imagens/Pokedex/hires/881.png",
+      sprite: "./Imagens/Pokedex/sprites/881.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/881.png",
+      hires: "./Imagens/Pokedex/hires/881.png",
     },
   },
   {
@@ -34875,7 +33655,7 @@ const POKEDEX_JSON = [
     type: ["Water", "Dragon"],
     species: "Fossil Pokémon",
     description:
-      "Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.",
+      "Suas poderosas pernas são capazes de correr em velocidades superiores a 40 mph, mas este Pokémon não pode respirar a menos que esteja debaixo d'água.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -34888,12 +33668,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/882.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/882.png",
-      hires:
-        "./Imagens/Pokedex/hires/882.png",
+      sprite: "./Imagens/Pokedex/sprites/882.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/882.png",
+      hires: "./Imagens/Pokedex/hires/882.png",
     },
   },
   {
@@ -34907,7 +33684,7 @@ const POKEDEX_JSON = [
     type: ["Water", "Ice"],
     species: "Fossil Pokémon",
     description:
-      "The skin on its face is impervious to attack, but breathing difficulties made this Pokémon go extinct anyway.",
+      "A pele em seu rosto é impenetrável ao ataque, mas as dificuldades respiratórias fizeram este Pokémon se extinguir de qualquer maneira.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -34920,12 +33697,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/883.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/883.png",
-      hires:
-        "./Imagens/Pokedex/hires/883.png",
+      sprite: "./Imagens/Pokedex/sprites/883.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/883.png",
+      hires: "./Imagens/Pokedex/hires/883.png",
     },
   },
   {
@@ -34939,7 +33713,7 @@ const POKEDEX_JSON = [
     type: ["Steel", "Dragon"],
     species: "Alloy Pokémon",
     description:
-      "The special metal that composes its body is very light, so this Pokémon has considerable agility. It lives in caves because it dislikes the rain.",
+      "O metal especial que compõe seu corpo é muito leve, por isso este Pokémon tem agilidade considerável. Ele vive em cavernas porque não gosta da chuva.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -34952,12 +33726,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/884.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/884.png",
-      hires:
-        "./Imagens/Pokedex/hires/884.png",
+      sprite: "./Imagens/Pokedex/sprites/884.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/884.png",
+      hires: "./Imagens/Pokedex/hires/884.png",
     },
   },
   {
@@ -34971,8 +33742,10 @@ const POKEDEX_JSON = [
     type: ["Dragon", "Ghost"],
     species: "Lingering Pokémon",
     description:
-      "If this weak Pokémon is by itself, a mere child could defeat it. But if Dreepy has friends to help it train, it can evolve and become much stronger.",
-    evolution: { next: [["886", "Level 50"]] },
+      "Se este Pokémon fraco estiver sozinho, uma mera criança poderia derrotá-lo. Mas se Dreepy tiver amigos para ajudá-lo a treinar, ele pode evoluir e se tornar muito mais forte.",
+    evolution: {
+      next: [["886", "Level 50"]],
+    },
     profile: {
       height: "1 m",
       weight: "2 kg",
@@ -34984,12 +33757,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/885.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/885.png",
-      hires:
-        "./Imagens/Pokedex/hires/885.png",
+      sprite: "./Imagens/Pokedex/sprites/885.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/885.png",
+      hires: "./Imagens/Pokedex/hires/885.png",
     },
   },
   {
@@ -35003,8 +33773,11 @@ const POKEDEX_JSON = [
     type: ["Dragon", "Ghost"],
     species: "Caretaker Pokémon",
     description:
-      "Without a Dreepy to place on its head and care for, it gets so uneasy it’ll try to substitute any Pokémon it finds for the missing Dreepy.",
-    evolution: { prev: ["885", "Level 50"], next: [["887", "Level 60"]] },
+      "Sem um Dreepy para colocar em sua cabeça e cuidar, ele fica tão desconfortável que tentará substituir qualquer Pokémon que encontrar pelo Dreepy desaparecido.",
+    evolution: {
+      prev: ["885", "Level 50"],
+      next: [["887", "Level 60"]],
+    },
     profile: {
       height: "1 m",
       weight: "11 kg",
@@ -35016,12 +33789,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/886.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/886.png",
-      hires:
-        "./Imagens/Pokedex/hires/886.png",
+      sprite: "./Imagens/Pokedex/sprites/886.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/886.png",
+      hires: "./Imagens/Pokedex/hires/886.png",
     },
   },
   {
@@ -35035,8 +33805,10 @@ const POKEDEX_JSON = [
     type: ["Dragon", "Ghost"],
     species: "Stealth Pokémon",
     description:
-      "Apparently the Dreepy inside Dragapult’s horns eagerly look forward to being launched out at Mach speeds.",
-    evolution: { prev: ["886", "Level 60"] },
+      "Aparentemente, o Dreepy dentro das cornas de Dragapult ansiosamente espera ser lançado em velocidades Mach.",
+    evolution: {
+      prev: ["886", "Level 60"],
+    },
     profile: {
       height: "3 m",
       weight: "50 kg",
@@ -35048,12 +33820,9 @@ const POKEDEX_JSON = [
       ],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/887.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/887.png",
-      hires:
-        "./Imagens/Pokedex/hires/887.png",
+      sprite: "./Imagens/Pokedex/sprites/887.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/887.png",
+      hires: "./Imagens/Pokedex/hires/887.png",
     },
   },
   {
@@ -35067,7 +33836,7 @@ const POKEDEX_JSON = [
     type: ["Fairy"],
     species: "Warrior Pokémon",
     description:
-      "This Pokémon has slumbered for many years. Some say it’s Zamazenta’s elder sister—others say the two Pokémon are rivals.",
+      "Este Pokémon está adormecido há muitos anos. Alguns dizem que é a irmã mais velha de Zamazenta - outros dizem que os dois Pokémon são rivais.",
     evolution: {},
     profile: {
       height: "3 m",
@@ -35076,12 +33845,9 @@ const POKEDEX_JSON = [
       ability: [["Intrepid-sword", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/888.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/888.png",
-      hires:
-        "./Imagens/Pokedex/hires/888.png",
+      sprite: "./Imagens/Pokedex/sprites/888.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/888.png",
+      hires: "./Imagens/Pokedex/hires/888.png",
     },
   },
   {
@@ -35095,7 +33861,7 @@ const POKEDEX_JSON = [
     type: ["Fighting"],
     species: "Warrior Pokémon",
     description:
-      "This Pokémon slept for aeons while in the form of a statue. It was asleep for so long, people forgot that it ever existed.",
+      "Este Pokémon dormiu por éons enquanto estava na forma de uma estátua. Ele estava dormindo há tanto tempo que as pessoas esqueceram que ele já existia.",
     evolution: {},
     profile: {
       height: "3 m",
@@ -35104,12 +33870,9 @@ const POKEDEX_JSON = [
       ability: [["Dauntless-shield", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/889.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/889.png",
-      hires:
-        "./Imagens/Pokedex/hires/889.png",
+      sprite: "./Imagens/Pokedex/sprites/889.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/889.png",
+      hires: "./Imagens/Pokedex/hires/889.png",
     },
   },
   {
@@ -35123,7 +33886,7 @@ const POKEDEX_JSON = [
     type: ["Poison", "Dragon"],
     species: "Gigantic Pokémon",
     description:
-      "It was inside a meteorite that fell 20,000 years ago. There seems to be a connection between this Pokémon and the Dynamax phenomenon.",
+      "Estava dentro de um meteorito que caiu há 20.000 anos. Parece haver uma conexão entre este Pokémon e o fenômeno Dynamax.",
     evolution: {},
     profile: {
       height: "20 m",
@@ -35132,12 +33895,9 @@ const POKEDEX_JSON = [
       ability: [["Pressure", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/890.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/890.png",
-      hires:
-        "./Imagens/Pokedex/hires/890.png",
+      sprite: "./Imagens/Pokedex/sprites/890.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/890.png",
+      hires: "./Imagens/Pokedex/hires/890.png",
     },
   },
   {
@@ -35151,7 +33911,7 @@ const POKEDEX_JSON = [
     type: ["Fighting"],
     species: "Wushu Pokémon",
     description:
-      "If Kubfu pulls the long white hair on its head, its fighting spirit heightens and power wells up from the depths of its belly.",
+      "Se Kubfu puxar o longo cabelo branco em sua cabeça, seu espírito de luta aumenta e o poder brota das profundezas de seu ventre.",
     evolution: {
       next: [
         ["892", "Scroll of Darkness"],
@@ -35165,12 +33925,9 @@ const POKEDEX_JSON = [
       ability: [["Inner-focus", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/891.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/891.png",
-      hires:
-        "./Imagens/Pokedex/hires/891.png",
+      sprite: "./Imagens/Pokedex/sprites/891.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/891.png",
+      hires: "./Imagens/Pokedex/hires/891.png",
     },
   },
   {
@@ -35184,8 +33941,10 @@ const POKEDEX_JSON = [
     type: ["Fighting", "Dark"],
     species: "Wushu Pokémon",
     description:
-      "Inhabiting the mountains of a distant region, this Pokémon races across sheer cliffs, training its legs and refining its moves.",
-    evolution: { prev: ["892", "Scroll of Darkness"] },
+      "Habitando as montanhas de uma região distante, este Pokémon corre por penhascos íngremes, treinando suas pernas e refinando seus movimentos.",
+    evolution: {
+      prev: ["892", "Scroll of Darkness"],
+    },
     profile: {
       height: "2 m",
       weight: "105 kg",
@@ -35193,12 +33952,9 @@ const POKEDEX_JSON = [
       ability: [["Unseen-fist", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/892.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/892.png",
-      hires:
-        "./Imagens/Pokedex/hires/892.png",
+      sprite: "./Imagens/Pokedex/sprites/892.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/892.png",
+      hires: "./Imagens/Pokedex/hires/892.png",
     },
   },
   {
@@ -35212,7 +33968,7 @@ const POKEDEX_JSON = [
     type: ["Dark", "Grass"],
     species: "Rogue Monkey Pokémon",
     description:
-      "Once the vines on Zarude’s body tear off, they become nutrients in the soil. This helps the plants of the forest grow.",
+      "Uma vez que as videiras no corpo de Zarude se desprendem, elas se tornam nutrientes no solo. Isso ajuda as plantas da floresta a crescer.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -35221,12 +33977,9 @@ const POKEDEX_JSON = [
       ability: [["Leaf-guard", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/893.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/893.png",
-      hires:
-        "./Imagens/Pokedex/hires/893.png",
+      sprite: "./Imagens/Pokedex/sprites/893.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/893.png",
+      hires: "./Imagens/Pokedex/hires/893.png",
     },
   },
   {
@@ -35240,7 +33993,7 @@ const POKEDEX_JSON = [
     type: ["Electric"],
     species: "Electron Pokémon",
     description:
-      "Its entire body is made up of a single organ that generates electrical energy. Regieleki is capable of creating all Galar’s electricity.",
+      "Seu corpo inteiro é composto de um único órgão que gera energia elétrica. Regieleki é capaz de criar toda a eletricidade de Galar.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -35249,12 +34002,9 @@ const POKEDEX_JSON = [
       ability: [["Transistor", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/894.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/894.png",
-      hires:
-        "./Imagens/Pokedex/hires/894.png",
+      sprite: "./Imagens/Pokedex/sprites/894.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/894.png",
+      hires: "./Imagens/Pokedex/hires/894.png",
     },
   },
   {
@@ -35268,7 +34018,7 @@ const POKEDEX_JSON = [
     type: ["Dragon"],
     species: "Dragon Orb Pokémon",
     description:
-      "Its body is composed of crystallized dragon energy. Regidrago is said to have the powers of every dragon Pokémon.",
+      "Seu corpo é composto de energia de dragão cristalizada. Regidrago diz-se que tem os poderes de todos os Pokémon dragão.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -35277,12 +34027,9 @@ const POKEDEX_JSON = [
       ability: [["Dragons-maw", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/895.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/895.png",
-      hires:
-        "./Imagens/Pokedex/hires/895.png",
+      sprite: "./Imagens/Pokedex/sprites/895.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/895.png",
+      hires: "./Imagens/Pokedex/hires/895.png",
     },
   },
   {
@@ -35296,7 +34043,7 @@ const POKEDEX_JSON = [
     type: ["Ice"],
     species: "Wild Horse Pokémon",
     description:
-      "Glastrier has tremendous physical strength, and the mask of ice covering its face is 100 times harder than diamond.",
+      "Glastrier tem uma força física tremenda, e a máscara de gelo que cobre seu rosto é 100 vezes mais dura que o diamante.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -35305,12 +34052,9 @@ const POKEDEX_JSON = [
       ability: [["Chilling-neigh", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/896.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/896.png",
-      hires:
-        "./Imagens/Pokedex/hires/896.png",
+      sprite: "./Imagens/Pokedex/sprites/896.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/896.png",
+      hires: "./Imagens/Pokedex/hires/896.png",
     },
   },
   {
@@ -35324,7 +34068,7 @@ const POKEDEX_JSON = [
     type: ["Ghost"],
     species: "Swift Horse Pokémon",
     description:
-      "As it dashes through the night, Spectrier absorbs the life-force of sleeping creatures. It craves silence and solitude.",
+      "Enquanto corre pela noite, Spectrier absorve a força vital das criaturas adormecidas. Ele anseia por silêncio e solidão.",
     evolution: {},
     profile: {
       height: "2 m",
@@ -35333,12 +34077,9 @@ const POKEDEX_JSON = [
       ability: [["Grim-neigh", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/897.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/897.png",
-      hires:
-        "./Imagens/Pokedex/hires/897.png",
+      sprite: "./Imagens/Pokedex/sprites/897.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/897.png",
+      hires: "./Imagens/Pokedex/hires/897.png",
     },
   },
   {
@@ -35352,7 +34093,7 @@ const POKEDEX_JSON = [
     type: ["Psychic", "Grass"],
     species: "King Pokémon",
     description:
-      "Calyrex is known in legend as a king that ruled over Galar in ancient times. It has the power to cause hearts to mend and plants to spring forth.",
+      "Calyrex é conhecido na lenda como um rei que governou Galar nos tempos antigos. Ele tem o poder de fazer corações se curarem e plantas brotarem.",
     evolution: {},
     profile: {
       height: "1 m",
@@ -35361,12 +34102,9 @@ const POKEDEX_JSON = [
       ability: [["Unnerve", "false"]],
     },
     image: {
-      sprite:
-        "./Imagens/Pokedex/sprites/898.png",
-      thumbnail:
-        "./Imagens/Pokedex/thumbnails/898.png",
-      hires:
-        "./Imagens/Pokedex/hires/898.png",
+      sprite: "./Imagens/Pokedex/sprites/898.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/898.png",
+      hires: "./Imagens/Pokedex/hires/898.png",
     },
   },
 ];
