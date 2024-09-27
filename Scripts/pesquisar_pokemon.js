@@ -5,7 +5,17 @@
  * 
  * @returns {array} Pokémons possíveis.
  */
-function procurar_pokemon(nome_pokemon) {
+function procurar_pokemon(nome_pokemon)
+{
+  /*
+    Evita buscar o Pokémon por toda Pokédex
+    caso o usuário tenha escrito o nome corretamente.
+  */
+  if (POKEDEX[nome_pokemon] != undefined)
+  {
+    return [nome_pokemon];
+  }
+
   let possiveis_pokemons = [];
 
   /*
