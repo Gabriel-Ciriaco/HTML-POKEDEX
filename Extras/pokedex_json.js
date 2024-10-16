@@ -6299,7 +6299,7 @@ const POKEDEX_JSON = [
   {
     id: 160,
     name: {
-      english: "Feraligatr",
+      english: "Feraligator",
       japanese: "オーダイル",
       chinese: "大力鳄",
       french: "Aligatueur",
@@ -6315,7 +6315,7 @@ const POKEDEX_JSON = [
     },
     species: "Big Jaw Pokémon",
     description:
-      "Feraligatr intimida seus inimigos abrindo sua enorme boca. Na batalha, ele chuta o chão com força com suas grossas e poderosas pernas traseiras para atacar o inimigo em uma velocidade incrível.",
+      "Feraligator intimida seus inimigos abrindo sua enorme boca. Na batalha, ele chuta o chão com força com suas grossas e poderosas pernas traseiras para atacar o inimigo em uma velocidade incrível.",
     evolution: {
       prev: ["159", "Level 30"],
     },
