@@ -22,10 +22,6 @@ class Pokedex {
    */
   get_pokemon_by_name(pokemon_name)
   {
-    // Deixar o nome do Pokémon na estrutura correta.
-    pokemon_name =
-     pokemon_name[0].toLocaleUpperCase() + pokemon_name.slice(1).toLocaleLowerCase();
-
     return this.pokemons[pokemon_name] !== undefined
      ? this.pokemons[pokemon_name] : null;
   }
