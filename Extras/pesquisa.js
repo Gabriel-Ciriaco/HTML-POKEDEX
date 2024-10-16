@@ -78,10 +78,11 @@ function levenshtein(string1, string2)
  * 
  * @param {string} string1 - Given string.
  * @param {string} string2 - String to compare to.
+ * @param {int} precision - Precision of the float result.
  *
  * @returns {number} similarity.
  */
-function strings_similarity(string1, string2)
+function strings_similarity(string1, string2, precision=1)
 {
   string1 = string1.toLowerCase();
   string2 = string2.toLowerCase();
@@ -89,5 +90,5 @@ function strings_similarity(string1, string2)
   let distance = levenshtein(string1, string2);
   let max_length = Math.max(string1.length, string2.length);
 
-  return 1 - distance / max_length;
+  return (1 - distance / max_length).toFixed(precision);
 }

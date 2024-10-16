@@ -22,6 +22,10 @@ class Pokedex {
    */
   get_pokemon_by_name(pokemon_name)
   {
+    // Deixar o nome do Pokémon na estrutura correta.
+    pokemon_name =
+     pokemon_name[0].toLocaleUpperCase() + pokemon_name.slice(1).toLocaleLowerCase();
+
     return this.pokemons[pokemon_name] !== undefined
      ? this.pokemons[pokemon_name] : null;
   }
@@ -61,10 +65,12 @@ class Pokedex {
 
     if (match_total !== null)
     {
-      return [match_total];
+      return [match_total.name];
     }
 
-    let possible_pokemons = [];
+    let possible_pokemons = {};
+    let possible_pokemons_list = [];
+    let possible_pokemons_sim = [];
 
     /*
       Calcula o quão similar é o nome do Pokémon em relação
@@ -72,15 +78,40 @@ class Pokedex {
     */
     for (let pokemon in this.pokemons)
     {
-      let similarity = strings_similarity(pokemon_name, pokemon);
+      const PRECISION = 3;
+
+      const SIMILARITY_ERROR = 0.001;
+      let same_similarity_err = SIMILARITY_ERROR;
+
+      let similarity = strings_similarity(pokemon_name, pokemon, PRECISION);
 
       if (similarity >= SIMILARITY_PERCENTAGE)
       {
-        possible_pokemons.push(pokemon);
+        // Evitar sobrescrever o Pokémon pela similaridade.
+        if (possible_pokemons[similarity] !== undefined)
+        {
+          similarity = parseFloat(similarity);
+          similarity += same_similarity_err;
+
+          same_similarity_err += SIMILARITY_ERROR;
+        }
+
+        possible_pokemons_sim.push(similarity);
+        possible_pokemons[similarity] = pokemon;
       }
     }
 
+    // Ordena a similaridade das strings para a mais parecida até a menos parecida.
+    possible_pokemons_sim.sort();
+    possible_pokemons_sim.reverse();
+
+    // Retornamos a lista do Pokémon mais parecido para o menos parecido.
+    for (let sim of possible_pokemons_sim)
+    {
+      possible_pokemons_list.push(possible_pokemons[sim]);
+    }
+
     // Retorna apenas as sugestões mais plausíveis.
-    return possible_pokemons.length == 0 ? null : possible_pokemons;
+    return possible_pokemons_list.length == 0 ? null : possible_pokemons_list;
   }
 }

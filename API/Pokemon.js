@@ -30,13 +30,13 @@ class Pokemon {
    *
    * @param {object} evolution_object - O objeto evolution no JSON.
    *
-   * @param {[level: int, preRequisito: string]} evolution_object.prev - A pré-evolução do Pokémon.
+   * @param {[pokemon_id: int, preRequisito: string]} evolution_object.prev - A pré-evolução do Pokémon.
    *
-   * @param {[[level: int, preRequisito: string]]} evolution_object.next - A evolução do Pokémon.
+   * @param {[[pokemon_id: int, preRequisito: string]]} evolution_object.next - A evolução do Pokémon.
    *
    * @returns { {
-   *    prev: {level: int, requirement: string},
-   *    next: {level: int, requirement: string}
+   *    prev: {id: int, requirement: string},
+   *    next: {id: int, requirement: string}
    *  }
    * } Um objeto com as condições necessárias das evoluções do Pokémon.
    */
@@ -45,14 +45,14 @@ class Pokemon {
 
     if (evolution_object.prev !== undefined) {
       evolution.prev = {
-        level: evolution_object.prev[0],
+        pokemon_id: evolution_object.prev[0],
         requirement: evolution_object.prev[1],
       };
     }
 
     if (evolution_object.next !== undefined) {
       evolution.next = {
-        level: evolution_object.next[0][0],
+        pokemon_id: evolution_object.next[0][0],
         requirement: evolution_object.next[0][1],
       };
     }
