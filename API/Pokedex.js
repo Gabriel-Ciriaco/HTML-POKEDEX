@@ -1,7 +1,20 @@
+/**
+ * Objeto contendo todos os Pokémons e suas características.
+ */
 class Pokedex {
+  /**
+   * @param {JSON} POKEDEX_JSON - Json contendo todos os dados da Pokédex.
+   */
   constructor(POKEDEX_JSON)
   {
+    /**
+     * @type {object} - Objeto com todos os Pokémons organizados pelo nome.
+     */
     this.pokemons = {};
+
+    /**
+     * @type {object} - Objeto com todos os Pokémons organizados pelo ID.
+     */
     this.pokemons_ids = {};
 
     for (let i = 0; i < POKEDEX_JSON.length; i++)

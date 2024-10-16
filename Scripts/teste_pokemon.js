@@ -60,7 +60,7 @@ search_pokemon.addEventListener("submit", (event) => {
     // O Pokémon possui evolução
     if (pokemon.evolution.next !== undefined)
     {
-      let pokemon_prox = POKEDEX.get_pokemon_by_id(pokemon.evolution.next.pokemon_id);
+      let pokemon_prox = POKEDEX.get_pokemon_by_id(pokemon.evolution.next[0].pokemon_id);
 
       dados_pokemon.hidden = false;
       prox_evol.hidden = false;
