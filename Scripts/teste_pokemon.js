@@ -17,10 +17,12 @@ search_pokemon.addEventListener("submit", (event) => {
   // Validar aqui os elementos
   if (pokemons_encontrados == null) eh_Valido = false;
 
-  if (!eh_Valido) {
+  if (!eh_Valido)
+  {
     alert("Não foi possível encontrar esse Pokémon.");
     return false;
-  } else
+  } 
+  else
   {
     let pokemon = null;
 
@@ -34,9 +36,9 @@ search_pokemon.addEventListener("submit", (event) => {
     }
 
 
-    image_pokemon.src = pokemon.image.hires;
-    desc_pokemon.textContent = pokemon.description;
-    name_pokemon.textContent = pokemon.name;
+    display_pokeInfo_to_tag(pokemon.image.hires, image_pokemon, "image");
+    display_pokeInfo_to_tag(pokemon.description, desc_pokemon);
+    display_pokeInfo_to_tag(pokemon.name, name_pokemon);
 
     dados_pokemon.hidden = true;
 
@@ -46,26 +48,26 @@ search_pokemon.addEventListener("submit", (event) => {
     pre_evol.hidden = true;
     prox_evol.hidden = true;
 
-    // O Pokémon possui pré-evolução
-    if (pokemon.evolution.prev !== undefined)
+    try
     {
-      let pokemon_pre = POKEDEX.get_pokemon_by_id(pokemon.evolution.prev.pokemon_id);
-
       dados_pokemon.hidden = false;
-      pre_evol.hidden = false;
 
-      pre_evol.children[1].textContent = pokemon_pre.name;
+      let pokemon_pre = pokemon.get_evolution("prev"); // O Pokémon possui pré-evolução
+      let pokemon_prox = pokemon.get_evolution("next"); // O Pokémon possui evolução(ões)
+
+      if (pokemon_pre !== null) {
+        pre_evol.hidden = false;
+        display_pokeInfo_to_tag(pokemon_pre.name, pre_evol.children[1]);
+      }
+
+      if (pokemon_prox !== null) {
+        prox_evol.hidden = false;
+        display_pokeInfo_to_tag(pokemon_prox[0].name, prox_evol.children[0]);
+      }
     }
-
-    // O Pokémon possui evolução
-    if (pokemon.evolution.next !== undefined)
+    catch (error)
     {
-      let pokemon_prox = POKEDEX.get_pokemon_by_id(pokemon.evolution.next[0].pokemon_id);
-
-      dados_pokemon.hidden = false;
-      prox_evol.hidden = false;
-
-      prox_evol.children[1].textContent = pokemon_prox.name;
+      console.error(`GET_EVOLUTION: ${error}`);
     }
 
     return true;

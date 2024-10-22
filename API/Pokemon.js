@@ -117,7 +117,7 @@ class Pokemon {
      * ou seja, sobre a pré-evolução e a(s) evolução(ões).
      * @type {{
      *    prev: {id: int, requirement: string},
-     *    next: {id: int, requirement: string}
+     *    next: [...{id: int, requirement: string}]
      *  }}
      */
     this.evolution = this.load_evolution(POKEMON_JSON.evolution);
@@ -182,5 +182,37 @@ class Pokemon {
     }
 
     return evolution;
+  }
+
+  get_evolution(evolution_type)
+  {
+    try
+    {
+      switch (evolution_type) {
+        case "prev":
+          return this.evolution.prev !== undefined
+           ? POKEDEX.get_pokemon_by_id(this.evolution.prev.pokemon_id)
+           : null;
+
+        case "next":
+          if (this.evolution.next === undefined) return null;
+
+          let evolutions = [];
+
+          for (let evolution of this.evolution.next)
+          {
+            evolutions.push(POKEDEX.get_pokemon_by_id(evolution.pokemon_id));
+          }
+
+          return evolutions;
+      }
+      
+    }
+    catch (error)
+    {
+      console.error(`EVOLUTION_ERROR: ${error}`);
+
+      return null;
+    }
   }
 }

@@ -1,6 +1,26 @@
-function is_object_empty(object)
+/**
+ * Disponibiliza uma informação do Pokémon numa tag desejada.
+ * 
+ * @param {object} poke_info - A informação do Pokémon.
+ * @param {HTMLElement} tag - Uma tag HTML na qual a informação aparecerá.
+ * @param {("text"|"image")} tag_type - O tipo de conteúdo dessa tag.
+ */
+function display_pokeInfo_to_tag(poke_info, tag, tag_type = "text")
 {
-  if (object == undefined || object == null) return true;
+  try
+  {
+    switch (tag_type) {
+      case "text":
+        tag.textContent = poke_info;
+        break;
 
-  return Object.keys(object).length == 0 ? true : false;
+      case "image":
+        tag.src = poke_info;
+        break;
+    }
+  }
+  catch (error)
+  {
+    console.error(`DISPLAY_ERROR: ${error}`);
+  }
 }
