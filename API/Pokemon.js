@@ -184,6 +184,13 @@ class Pokemon {
     return evolution;
   }
 
+  /**
+   * Pegar a evolução do Pokémon.
+   * 
+   * @param {("prev"|"next")} evolution_type - Pré ou próxima evolução.
+   *
+   * @returns {Pokemon|[...Pokemon]}
+   */
   get_evolution(evolution_type)
   {
     try

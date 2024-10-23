@@ -64,7 +64,7 @@ class Pokedex {
    *
    * @returns {[pokemon_name1: string, pokemon_name2: string, ...strings]} Pokémons possíveis.
    */
-  get_possible_pokemon(pokemon_name, SIMILARITY_PERCENTAGE=0.5)
+  get_possible_pokemon(pokemon_name, SIMILARITY_PERCENTAGE=0.500)
   {
     /*
       Evita buscar o Pokémon por toda Pokédex
@@ -78,8 +78,6 @@ class Pokedex {
     }
 
     let possible_pokemons = {};
-    let possible_pokemons_list = [];
-    let possible_pokemons_sim = [];
 
     /*
       Calcula o quão similar é o nome do Pokémon em relação
@@ -89,38 +87,33 @@ class Pokedex {
     {
       const PRECISION = 3;
 
-      const SIMILARITY_ERROR = 0.001;
-      let same_similarity_err = SIMILARITY_ERROR;
+      let SIMILARITY_ERROR = 0.01;
 
       let similarity = strings_similarity(pokemon_name, pokemon, PRECISION);
 
       if (similarity >= SIMILARITY_PERCENTAGE)
       {
-        // Evitar sobrescrever o Pokémon pela similaridade.
         if (possible_pokemons[similarity] !== undefined)
         {
-          similarity = parseFloat(similarity);
-          similarity += same_similarity_err;
-
-          same_similarity_err += SIMILARITY_ERROR;
+          possible_pokemons[similarity + SIMILARITY_ERROR] = pokemon;
+          SIMILARITY_ERROR += 0.01;
         }
-
-        possible_pokemons_sim.push(similarity);
-        possible_pokemons[similarity] = pokemon;
+        else
+        {
+          possible_pokemons[similarity] = pokemon;
+        }
       }
     }
 
-    // Ordena a similaridade das strings para a mais parecida até a menos parecida.
-    possible_pokemons_sim.sort();
-    possible_pokemons_sim.reverse();
+    let sorted_keys = Object.keys(possible_pokemons).sort((a, b) => a - b);
 
-    // Retornamos a lista do Pokémon mais parecido para o menos parecido.
-    for (let sim of possible_pokemons_sim)
-    {
-      possible_pokemons_list.push(possible_pokemons[sim]);
-    }
+    let possible_pokemons_sorted = {};
+  
+    sorted_keys.filter((key) => {
+      possible_pokemons_sorted[key] = possible_pokemons[key];
+    });
 
     // Retorna apenas as sugestões mais plausíveis.
-    return possible_pokemons_list.length == 0 ? null : possible_pokemons_list;
+    return sorted_keys.length > 0 ? Object.values(possible_pokemons_sorted) : null;
   }
 }

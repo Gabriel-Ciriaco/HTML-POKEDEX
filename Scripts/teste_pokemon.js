@@ -6,6 +6,18 @@ let dados_pokemon = document.getElementById("poke_dados");
 
 var POKEDEX = new Pokedex(POKEDEX_JSON);
 
+
+search_pokemon.addEventListener("input", (event) => {
+  let desired_pokemon = document.getElementById("pokemon_pesquisado");
+
+  let pokemons_encontrados = POKEDEX.get_possible_pokemon(desired_pokemon.value);
+
+  if (pokemons_encontrados !== null)
+  {
+    autocomplete(desired_pokemon, pokemons_encontrados);
+  }
+})
+
 search_pokemon.addEventListener("submit", (event) => {
   event.preventDefault(); // Autoexplicativo
 
@@ -34,7 +46,6 @@ search_pokemon.addEventListener("submit", (event) => {
     {
       pokemon = POKEDEX.get_pokemon_by_name(pokemons_encontrados[0]);
     }
-
 
     display_pokeInfo_to_tag(pokemon.image.hires, image_pokemon, "image");
     display_pokeInfo_to_tag(pokemon.description, desc_pokemon);

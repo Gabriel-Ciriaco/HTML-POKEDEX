@@ -90,5 +90,5 @@ function strings_similarity(string1, string2, precision=1)
   let distance = levenshtein(string1, string2);
   let max_length = Math.max(string1.length, string2.length);
 
-  return (1 - distance / max_length).toFixed(precision);
+  return parseFloat((1 - distance / max_length).toFixed(precision));
 }
