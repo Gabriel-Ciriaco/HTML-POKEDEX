@@ -93,10 +93,10 @@ class Pokedex {
 
       if (similarity >= SIMILARITY_PERCENTAGE)
       {
+        // Evitar sobreescrever Pokémons com a mesma similaridade.
         if (possible_pokemons[similarity] !== undefined)
         {
           possible_pokemons[similarity + SIMILARITY_ERROR] = pokemon;
-          SIMILARITY_ERROR += 0.01;
         }
         else
         {
@@ -105,7 +105,8 @@ class Pokedex {
       }
     }
 
-    let sorted_keys = Object.keys(possible_pokemons).sort((a, b) => a - b);
+    // Ordernar os Pokémons do mais parecido para o menos parecido.
+    let sorted_keys = Object.keys(possible_pokemons).sort((a, b) => b - a);
 
     let possible_pokemons_sorted = {};
   

@@ -25,6 +25,11 @@ function display_pokeInfo_to_tag(poke_info, tag, tag_type = "text")
   }
 }
 
+/**
+ * Remove todos os elementos de uma lista.
+ * 
+ * @param {HTMLElement} list - Uma tag do tipo <ul>.
+ */
 function _closeAllLists(list)
 {
   if (list.hasChildNodes())
@@ -35,6 +40,12 @@ function _closeAllLists(list)
   }
 }
 
+/**
+ * Cria e adiciona items a uma lista HTML de classe ".sugestoes".
+ * 
+ * @param {HTMLElement} input - Uma tag do tipo <input>.
+ * @param {Array} array - Um array contendo os possíveis valores do Input.
+ */
 function autocomplete(input, array)
 {
   let sugestions = document.querySelector(".sugestoes");
@@ -43,6 +54,7 @@ function autocomplete(input, array)
 
   for (let i = 0; i < array.length; i++)
   {
+    // Cria o elemento caso a lista esteja vazia.
     if (sugestions.childNodes[i] === undefined)
     {
       let new_sugestion = document.createElement("li");
@@ -55,6 +67,7 @@ function autocomplete(input, array)
       sugestions.childNodes[i].textContent = array[i];
     }
 
+    // Implementa o evento de clique num elemento da lista.
     sugestions.childNodes[i].addEventListener("click", function (e) {
       input.value = array[i];
       // Limpamos a lista duas vezes a fim de evitar um bug com o evento input
@@ -65,34 +78,3 @@ function autocomplete(input, array)
     });
   }
 }
-
-/** TODO: IMPLEMENTAR NOSSA PRÓPRIA FUNÇÃO! */
-const getStringMap = (str) => {
-  const map = new Map();
-
-  for (let char of str) {
-    if (map.has(char)) {
-      map.set(char, map.get(char) + 1);
-    } else {
-      map.set(char, 1);
-    }
-  }
-
-  return map;
-};
-
-const getCommonCount = (str1, str2) => {
-  const map1 = getStringMap(str1);
-  const map2 = getStringMap(str2);
-
-  let commonCount = 0;
-
-  for (let k of map1.keys()) {
-    if (map2.has(k)) {
-      commonCount += Math.min(map1.get(k), map2.get(k));
-    }
-  }
-
-  return commonCount;
-};
-/**/
