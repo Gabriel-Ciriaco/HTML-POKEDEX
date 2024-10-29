@@ -73,7 +73,7 @@ search_pokemon.addEventListener("submit", (event) => {
 
       if (pokemon_prox !== null) {
         prox_evol.hidden = false;
-        display_pokeInfo_to_tag(pokemon_prox[0].name, prox_evol.children[0]);
+        display_pokeInfo_to_tag(pokemon_prox[0].name, prox_evol.children[1]);
       }
     }
     catch (error)

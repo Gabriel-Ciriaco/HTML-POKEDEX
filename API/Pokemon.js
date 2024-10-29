@@ -120,7 +120,10 @@ class Pokemon {
      *    next: [...{id: int, requirement: string}]
      *  }}
      */
-    this.evolution = this.load_evolution(POKEMON_JSON.evolution);
+    if (!!POKEMON_JSON.evolution)
+    {
+      this.evolution = this.load_evolution(POKEMON_JSON.evolution);
+    }
 
     /**
      * Dados fisiológicos do Pokémon.
@@ -163,25 +166,31 @@ class Pokemon {
   load_evolution(evolution_object) {
     let evolution = {};
 
-    if (evolution_object.prev !== undefined) {
-      evolution.prev = {
-        pokemon_id: evolution_object.prev[0],
-        requirement: evolution_object.prev[1],
-      };
-    }
-
-    if (evolution_object.next !== undefined) {
-      evolution.next = [];
-
-      for (let pokemon of evolution_object.next) {
-        evolution.next.push({
-          pokemon_id: pokemon[0],
-          requirement: pokemon[1],
-        });
+    try{
+      if (evolution_object.prev !== undefined) {
+        evolution.prev = {
+          pokemon_id: evolution_object.prev[0],
+          requirement: evolution_object.prev[1],
+        };
       }
-    }
+  
+      if (evolution_object.next !== undefined) {
+        evolution.next = [];
+  
+        for (let pokemon of evolution_object.next) {
+          evolution.next.push({
+            pokemon_id: pokemon[0],
+            requirement: pokemon[1],
+          });
+        }
+      }
 
-    return evolution;
+      return evolution;
+    }
+    catch(error)
+    {
+      console.error(`LOAD EVOLUTION ERROR ${this.id}: ${error}`)
+    }
   }
 
   /**
