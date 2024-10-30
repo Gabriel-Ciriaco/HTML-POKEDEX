@@ -34107,6 +34107,7 @@ const POKEDEX_JSON = [
       hires: "./Imagens/Pokedex/hires/898.png",
     },
   },
+  
   {
     name: {
       english: "Sprigatito",
@@ -34148,6 +34149,10 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5"
     },
     evolution: {
+      prev: [
+        "906",
+        "Level INITIAL"
+      ],
       next: [
         [
           "907",
@@ -34212,6 +34217,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "907",
+          "Level 16"
+        ],
+        [
           "908",
           "Level 36"
         ]
@@ -34266,8 +34275,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "907",
-        "Level 16"
+        "906",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "907",
+          "Level 16"
+        ],
+        [
+          "908",
+          "Level 36"
+        ]
       ]
     },
     image: {
@@ -34316,6 +34335,10 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5"
     },
     evolution: {
+      prev: [
+        "909",
+        "Level INITIAL"
+      ],
       next: [
         [
           "910",
@@ -34379,6 +34402,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "910",
+          "Level 16"
+        ],
+        [
           "911",
           "Level 36"
         ]
@@ -34432,8 +34459,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "910",
-        "Level 16"
+        "909",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "910",
+          "Level 16"
+        ],
+        [
+          "911",
+          "Level 36"
+        ]
       ]
     },
     image: {
@@ -34483,6 +34520,10 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5"
     },
     evolution: {
+      prev: [
+        "912",
+        "Level INITIAL"
+      ],
       next: [
         [
           "913",
@@ -34547,6 +34588,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "913",
+          "Level 16"
+        ],
+        [
           "914",
           "Level 36"
         ]
@@ -34601,8 +34646,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "913",
-        "Level 16"
+        "912",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "913",
+          "Level 16"
+        ],
+        [
+          "914",
+          "Level 36"
+        ]
       ]
     },
     image: {
@@ -34654,6 +34709,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "915",
+        "Level INITIAL"
+      ],
       next: [
         [
           "916",
@@ -34706,6 +34765,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "917",
+        "Level INITIAL"
+      ],
       next: [
         [
           "918",
@@ -34762,7 +34825,12 @@ const POKEDEX_JSON = [
         "917",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "918",
+          "Level 15"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -34809,6 +34877,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "919",
+        "Level INITIAL"
+      ],
       next: [
         [
           "920",
@@ -34866,7 +34938,12 @@ const POKEDEX_JSON = [
         "919",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "920",
+          "Level 24"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -34917,11 +34994,15 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "921",
+        "Level INITIAL"
+      ],
       next: [
         [
           "922",
           "Level 18"
-        ]
+        ],
       ]
     },
     image: {
@@ -34978,6 +35059,12 @@ const POKEDEX_JSON = [
         "921",
         "Level INITIAL"
       ],
+      next: [
+        [
+          "922",
+          "Level 18"
+        ],
+      ]
     },
     image: {
       sprite: null,
@@ -35037,7 +35124,7 @@ const POKEDEX_JSON = [
         [
           "922",
           "Level 18"
-        ]
+        ],
       ]
     },
     image: {
@@ -35090,7 +35177,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      next: []
+      prev: [
+        "924",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -35138,6 +35228,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "926",
+        "Level INITIAL"
+      ],
       next: [
         [
           "927",
@@ -35195,7 +35289,12 @@ const POKEDEX_JSON = [
         "926",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "927",
+          "Level 26"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -35243,6 +35342,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "928",
+        "Level INITIAL"
+      ],
       next: [
         [
           "929",
@@ -35306,6 +35409,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "929",
+          "Level 25"
+        ],
+        [
           "930",
           "Level 35"
         ]
@@ -35358,8 +35465,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "929",
-        "Level 25"
+        "928",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "929",
+          "Level 25"
+        ],
+        [
+          "930",
+          "Level 35"
+        ]
       ]
     },
     image: {
@@ -35411,6 +35528,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "932",
+        "Level INITIAL"
+      ],
       next: [
         [
           "933",
@@ -35477,6 +35598,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "933",
+          "Level 24"
+        ],
+        [
           "934",
           "Level 38"
         ]
@@ -35532,8 +35657,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "933",
-        "Level 24"
+        "932",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "933",
+          "Level 24"
+        ],
+        [
+          "934",
+          "Level 38"
+        ]
       ]
     },
     image: {
@@ -35581,6 +35716,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "935",
+        "Level INITIAL"
+      ],
       next: [
         [
           "937",
@@ -35639,8 +35778,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "937",
-        "use malicious-armor"
+        "935",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "937",
+          "use malicious-armor"
+        ],
+        [
+          "936",
+          "use auspicious-armor"
+        ]
       ]
     },
     image: {
@@ -35694,6 +35843,10 @@ const POKEDEX_JSON = [
         "Level INITIAL"
       ],
       next: [
+        [
+          "937",
+          "use malicious-armor"
+        ],
         [
           "936",
           "use auspicious-armor"
@@ -35749,6 +35902,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "938",
+        "Level INITIAL"
+      ],
       next: [
         [
           "939",
@@ -35809,7 +35966,12 @@ const POKEDEX_JSON = [
         "938",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "939",
+          "use thunder-stone"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -35862,6 +36024,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "940",
+        "Level INITIAL"
+      ],
       next: [
         [
           "941",
@@ -35924,7 +36090,12 @@ const POKEDEX_JSON = [
         "940",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "941",
+          "Level 25"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -35975,6 +36146,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "942",
+        "Level INITIAL"
+      ],
       next: [
         [
           "943",
@@ -36035,7 +36210,12 @@ const POKEDEX_JSON = [
         "942",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "943",
+          "Level 30"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -36087,6 +36267,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "944",
+        "Level INITIAL"
+      ],
       next: [
         [
           "945",
@@ -36148,7 +36332,12 @@ const POKEDEX_JSON = [
         "944",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "945",
+          "Level 28"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -36196,7 +36385,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      next: []
+      prev: [
+        "946",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -36248,7 +36440,6 @@ const POKEDEX_JSON = [
         "946",
         "Level INITIAL"
       ],
-      next: []
     },
     image: {
       sprite: null,
@@ -36296,6 +36487,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "948",
+        "Level INITIAL"
+      ],
       next: [
         [
           "949",
@@ -36353,7 +36548,12 @@ const POKEDEX_JSON = [
         "948",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "949",
+          "Level 30"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -36402,6 +36602,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "950",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -36452,6 +36658,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "951",
+        "Level INITIAL"
+      ],
       next: [
         [
           "952",
@@ -36513,7 +36723,12 @@ const POKEDEX_JSON = [
         "951",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "952",
+          "use fire-stone"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -36560,7 +36775,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      next: []
+      prev: [
+        "953",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -36612,7 +36830,6 @@ const POKEDEX_JSON = [
         "953",
         "Level INITIAL"
       ],
-      next: []
     },
     image: {
       sprite: null,
@@ -36663,6 +36880,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "955",
+        "Level INITIAL"
+      ],
       next: [
         [
           "956",
@@ -36723,7 +36944,12 @@ const POKEDEX_JSON = [
         "955",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "956",
+          "Level 35"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -36775,6 +37001,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "957",
+        "Level INITIAL"
+      ],
       next: [
         [
           "958",
@@ -36842,6 +37072,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "958",
+          "Level 24"
+        ],
+        [
           "959",
           "Level 38"
         ]
@@ -36898,8 +37132,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "958",
-        "Level 24"
+        "957",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "958",
+          "Level 24"
+        ],
+        [
+          "959",
+          "Level 38"
+        ]
       ]
     },
     image: {
@@ -36951,6 +37195,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "960",
+        "Level INITIAL"
+      ],
       next: [
         [
           "961",
@@ -37011,7 +37259,12 @@ const POKEDEX_JSON = [
         "960",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "961",
+          "Level 26"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -37062,6 +37315,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "962",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
@@ -37108,7 +37367,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      next: []
+      prev: [
+        "963",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -37156,6 +37418,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "965",
+        "Level INITIAL"
+      ],
       next: [
         [
           "966",
@@ -37213,7 +37479,12 @@ const POKEDEX_JSON = [
         "965",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "966",
+          "Level 40"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -37260,6 +37531,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "967",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
@@ -37303,6 +37580,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "968",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -37350,6 +37633,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "969",
+        "Level INITIAL"
+      ],
       next: [
         [
           "970",
@@ -37407,7 +37694,12 @@ const POKEDEX_JSON = [
         "969",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "970",
+          "Level 35"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -37454,6 +37746,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "971",
+        "Level INITIAL"
+      ],
       next: [
         [
           "972",
@@ -37510,7 +37806,12 @@ const POKEDEX_JSON = [
         "971",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "972",
+          "Level 30"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -37561,6 +37862,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "973",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
@@ -37610,6 +37917,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "974",
+        "Level INITIAL"
+      ],
       next: [
         [
           "975",
@@ -37670,7 +37981,12 @@ const POKEDEX_JSON = [
         "974",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "975",
+          "use ice-stone"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -37716,6 +38032,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "976",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -37764,6 +38086,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "977",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -37823,7 +38151,7 @@ const POKEDEX_JSON = [
         [
           "57",
           "Level 28"
-        ]
+        ],
       ]
     },
     image: {
@@ -37882,6 +38210,10 @@ const POKEDEX_JSON = [
         "Level INITIAL"
       ],
       next: [
+        [
+          "980",
+          "Level 20"
+        ],
         [
           "195",
           "Level 20"
@@ -37942,7 +38274,12 @@ const POKEDEX_JSON = [
         "203",
         "Level INITIAL"
       ],
-      next: []
+      next: [
+        [
+          "981",
+          "Level null"
+        ]
+      ]
     },
     image: {
       sprite: null,
@@ -38002,7 +38339,7 @@ const POKEDEX_JSON = [
         [
           "625",
           "Level 52"
-        ]
+        ],
       ]
     },
     image: {
@@ -38050,6 +38387,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "984",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
@@ -38094,6 +38437,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "985",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38140,6 +38489,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "986",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
@@ -38184,6 +38539,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "987",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38230,6 +38591,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "988",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
@@ -38274,6 +38641,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "989",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38320,6 +38693,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "990",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
@@ -38364,6 +38743,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "991",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38410,6 +38795,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "992",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
@@ -38454,6 +38845,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "993",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38500,6 +38897,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "994",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
@@ -38544,6 +38947,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "995",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38592,6 +39001,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
+      prev: [
+        "996",
+        "Level INITIAL"
+      ],
       next: [
         [
           "997",
@@ -38656,6 +39069,10 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
+          "997",
+          "Level 35"
+        ],
+        [
           "998",
           "Level 54"
         ]
@@ -38709,8 +39126,18 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "997",
-        "Level 35"
+        "996",
+        "Level INITIAL"
+      ],
+      next: [
+        [
+          "997",
+          "Level 35"
+        ],
+        [
+          "998",
+          "Level 54"
+        ]
       ]
     },
     image: {
@@ -38758,7 +39185,10 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      next: []
+      prev: [
+        "999",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38810,7 +39240,6 @@ const POKEDEX_JSON = [
         "999",
         "Level INITIAL"
       ],
-      next: []
     },
     image: {
       sprite: null,
@@ -38857,6 +39286,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1001",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
@@ -38901,6 +39336,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1002",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -38947,6 +39388,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1003",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
@@ -38991,6 +39438,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1004",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -39037,6 +39490,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1005",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
@@ -39081,6 +39540,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1006",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -39127,6 +39592,12 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1007",
+        "Level INITIAL"
+      ],
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
@@ -39171,6 +39642,12 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1008",
+        "Level INITIAL"
+      ],
     },
     image: {
       sprite: null,
@@ -39217,6 +39694,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1009",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
@@ -39261,6 +39745,13 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1010",
+        "Level INITIAL"
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39368,6 +39859,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1012",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
@@ -39415,7 +39913,8 @@ const POKEDEX_JSON = [
       prev: [
         "1012",
         "Level INITIAL"
-      ]
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39460,6 +39959,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1014",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
@@ -39502,6 +40008,13 @@ const POKEDEX_JSON = [
           true
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1015",
+        "Level INITIAL"
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39546,6 +40059,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1016",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
@@ -39583,6 +40103,13 @@ const POKEDEX_JSON = [
           false
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1017",
+        "Level INITIAL"
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39635,7 +40162,8 @@ const POKEDEX_JSON = [
       prev: [
         "884",
         "Level INITIAL"
-      ]
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39739,6 +40267,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1020",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
@@ -39777,6 +40312,13 @@ const POKEDEX_JSON = [
           false
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1021",
+        "Level INITIAL"
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39817,6 +40359,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1022",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
@@ -39856,6 +40405,13 @@ const POKEDEX_JSON = [
         ]
       ]
     },
+    evolution: {
+      prev: [
+        "1023",
+        "Level INITIAL"
+      ],
+      
+    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
@@ -39893,6 +40449,13 @@ const POKEDEX_JSON = [
           false
         ]
       ]
+    },
+    evolution: {
+      prev: [
+        "1024",
+        "Level INITIAL"
+      ],
+      
     },
     image: {
       sprite: null,
@@ -39932,6 +40495,9 @@ const POKEDEX_JSON = [
           false
         ]
       ]
+    },
+    evolution: {
+      
     },
     image: {
       sprite: null,

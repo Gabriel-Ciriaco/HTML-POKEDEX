@@ -120,10 +120,7 @@ class Pokemon {
      *    next: [...{id: int, requirement: string}]
      *  }}
      */
-    if (!!POKEMON_JSON.evolution)
-    {
-      this.evolution = this.load_evolution(POKEMON_JSON.evolution);
-    }
+    this.evolution = this.load_evolution(POKEMON_JSON.evolution);
 
     /**
      * Dados fisiológicos do Pokémon.
@@ -165,6 +162,7 @@ class Pokemon {
    */
   load_evolution(evolution_object) {
     let evolution = {};
+    if (!evolution_object) return;
 
     try{
       if (evolution_object.prev !== undefined) {

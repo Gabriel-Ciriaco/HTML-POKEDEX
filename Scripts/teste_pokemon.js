@@ -27,7 +27,7 @@ search_pokemon.addEventListener("submit", (event) => {
 
   let eh_Valido = true;
   // Validar aqui os elementos
-  if (pokemons_encontrados == null) eh_Valido = false;
+  if (pokemons_encontrados == null && !/^\d+$/.test(desired_pokemon)) eh_Valido = false;
 
   if (!eh_Valido)
   {
@@ -37,8 +37,12 @@ search_pokemon.addEventListener("submit", (event) => {
   else
   {
     let pokemon = null;
-
-    if (POKEDEX.get_pokemon_by_name(desired_pokemon) !== null)
+  
+    if (/^\d+$/.test(desired_pokemon))
+    {
+      pokemon = POKEDEX.get_pokemon_by_id(desired_pokemon);
+    }
+    else if (POKEDEX.get_pokemon_by_name(desired_pokemon) !== null)
     {
       pokemon = POKEDEX.get_pokemon_by_name(desired_pokemon);
     }
