@@ -34107,5814 +34107,4621 @@ const POKEDEX_JSON = [
       hires: "./Imagens/Pokedex/hires/898.png",
     },
   },
-  
+
   {
     name: {
       english: "Sprigatito",
       japanese: "ニャオハ",
       chinese: "新叶喵",
-      french: "Poussacha"
+      french: "Poussacha",
     },
     id: 906,
-    type: [
-      "Grass"
-    ],
+    type: ["Grass"],
     base: {
       HP: 40,
       Attack: 61,
       Defense: 54,
       "Sp. Attack": 45,
       "Sp. Defense": 45,
-      Speed: 65
+      Speed: 65,
     },
     species: "Grass Cat Pokémon",
-    description: "Sua pelagem macia é similar em composição às plantas. Este Pokémon costuma lavar o rosto para evitar que ele resseque.",
+    description:
+      "Sua pelagem macia é similar em composição às plantas. Este Pokémon costuma lavar o rosto para evitar que ele resseque.",
     profile: {
       height: "0.4 m",
       weight: "4.1 kg",
-      egg: [
-        "Ground",
-        "Plant"
-      ],
+      egg: ["Ground", "Plant"],
       ability: [
-        [
-          "Overgrow",
-          false
-        ],
-        [
-          "Protean",
-          true
-        ]
+        ["Overgrow", false],
+        ["Protean", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
       next: [
-        [
-          "907",
-          "Level 16"
-        ],
-        [
-          "908",
-          "Level 36"
-        ]
-      ]
+        ["907", "Level 16"],
+        ["908", "Level 36"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+    },
   },
   {
     name: {
       english: "Floragato",
       japanese: "ニャローテ",
       chinese: "蒂蕾喵",
-      french: "Matourgeon"
+      french: "Matourgeon",
     },
     id: 907,
-    type: [
-      "Grass"
-    ],
+    type: ["Grass"],
     base: {
       HP: 61,
       Attack: 80,
       Defense: 63,
       "Sp. Attack": 60,
       "Sp. Defense": 63,
-      Speed: 83
+      Speed: 83,
     },
     species: "Grass Cat Pokémon",
-    description: "Floragato maneja habilmente a videira escondida sob sua longa pelagem, golpeando seus oponentes com a dura flor.",
+    description:
+      "Floragato maneja habilmente a videira escondida sob sua longa pelagem, golpeando seus oponentes com a dura flor.",
     profile: {
       height: "0.9 m",
       weight: "12.2 kg",
-      egg: [
-        "Ground",
-        "Plant"
-      ],
+      egg: ["Ground", "Plant"],
       ability: [
-        [
-          "Overgrow",
-          false
-        ],
-        [
-          "Protean",
-          true
-        ]
+        ["Overgrow", false],
+        ["Protean", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
-      prev: [
-        "906",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "908",
-          "Level 36"
-        ]
-      ]
+      prev: ["906", "Level INITIAL"],
+      next: [["908", "Level 36"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    },
   },
   {
     name: {
       english: "Meowscarada",
       japanese: "マスカーニャ",
       chinese: "魔幻假面喵",
-      french: "Miascarade"
+      french: "Miascarade",
     },
     id: 908,
-    type: [
-      "Grass",
-      "Dark"
-    ],
+    type: ["Grass", "Dark"],
     base: {
       HP: 76,
       Attack: 110,
       Defense: 70,
       "Sp. Attack": 81,
       "Sp. Defense": 70,
-      Speed: 123
+      Speed: 123,
     },
     species: "Magician Pokémon",
-    description: "Este Pokémon usa a pelagem reflexiva que reveste seu manto para camuflar o caule de sua flor, criando a ilusão de que a flor está flutuando.",
+    description:
+      "Este Pokémon usa a pelagem reflexiva que reveste seu manto para camuflar o caule de sua flor, criando a ilusão de que a flor está flutuando.",
     profile: {
       height: "1.5 m",
       weight: "31.2 kg",
-      egg: [
-        "Ground",
-        "Plant"
-      ],
+      egg: ["Ground", "Plant"],
       ability: [
-        [
-          "Overgrow",
-          false
-        ],
-        [
-          "Protean",
-          true
-        ]
+        ["Overgrow", false],
+        ["Protean", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
-      prev: [
-        "907",
-        "Level 16"
-      ],
+      prev: ["907", "Level 16"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+    },
   },
   {
     name: {
       english: "Fuecoco",
       japanese: "ホゲータ",
       chinese: "呆火鳄",
-      french: "Chochodile"
+      french: "Chochodile",
     },
     id: 909,
-    type: [
-      "Fire"
-    ],
+    type: ["Fire"],
     base: {
       HP: 67,
       Attack: 45,
       Defense: 59,
       "Sp. Attack": 63,
       "Sp. Defense": 40,
-      Speed: 36
+      Speed: 36,
     },
     species: "Fire Croc Pokémon",
-    description: "Ele deita em rochas quentes e usa o calor absorvido por suas escamas quadradas para criar energia de fogo.",
+    description:
+      "Ele deita em rochas quentes e usa o calor absorvido por suas escamas quadradas para criar energia de fogo.",
     profile: {
       height: "0.4 m",
       weight: "9.8 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Blaze",
-          false
-        ],
-        [
-          "Unaware",
-          true
-        ]
+        ["Blaze", false],
+        ["Unaware", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
       next: [
-        [
-          "910",
-          "Level 16"
-        ],
-        [
-          "911",
-          "Level 36"
-        ]
-      ]
+        ["910", "Level 16"],
+        ["911", "Level 36"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+    },
   },
   {
     name: {
       english: "Crocalor",
       japanese: "アチゲータ",
       chinese: "炙烫鳄",
-      french: "Crocogril"
+      french: "Crocogril",
     },
     id: 910,
-    type: [
-      "Fire"
-    ],
+    type: ["Fire"],
     base: {
       HP: 81,
       Attack: 55,
       Defense: 78,
       "Sp. Attack": 90,
       "Sp. Defense": 58,
-      Speed: 49
+      Speed: 49,
     },
     species: "Fire Croc Pokémon",
-    description: "A combinação da energia de fogo de Crocalor e sua vitalidade transbordante fez com que uma bola de fogo em forma de ovo aparecesse na cabeça do Pokémon.",
+    description:
+      "A combinação da energia de fogo de Crocalor e sua vitalidade transbordante fez com que uma bola de fogo em forma de ovo aparecesse na cabeça do Pokémon.",
     profile: {
       height: "1 m",
       weight: "30.7 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Blaze",
-          false
-        ],
-        [
-          "Unaware",
-          true
-        ]
+        ["Blaze", false],
+        ["Unaware", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
-      prev: [
-        "909",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "911",
-          "Level 36"
-        ]
-      ]
+      prev: ["909", "Level INITIAL"],
+      next: [["911", "Level 36"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+    },
   },
   {
     name: {
       english: "Skeledirge",
       japanese: "ラウドボーン",
       chinese: "骨纹巨声鳄",
-      french: "Flâmigator"
+      french: "Flâmigator",
     },
     id: 911,
-    type: [
-      "Fire",
-      "Ghost"
-    ],
+    type: ["Fire", "Ghost"],
     base: {
       HP: 104,
       Attack: 75,
       Defense: 100,
       "Sp. Attack": 110,
       "Sp. Defense": 75,
-      Speed: 66
+      Speed: 66,
     },
     species: "Singer Pokémon",
-    description: "A ave de fogo muda de forma quando Skeledirge canta. Dizem que a ave nasceu quando a bola de fogo na cabeça de Skeledirge ganhou uma alma.",
+    description:
+      "A ave de fogo muda de forma quando Skeledirge canta. Dizem que a ave nasceu quando a bola de fogo na cabeça de Skeledirge ganhou uma alma.",
     profile: {
       height: "1.6 m",
       weight: "326.5 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Blaze",
-          false
-        ],
-        [
-          "Unaware",
-          true
-        ]
+        ["Blaze", false],
+        ["Unaware", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
-      prev: [
-        "910",
-        "Level 16"
-      ],
+      prev: ["910", "Level 16"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+    },
   },
   {
     name: {
       english: "Quaxly",
       japanese: "クワッス",
       chinese: "润水鸭",
-      french: "Coiffeton"
+      french: "Coiffeton",
     },
     id: 912,
-    type: [
-      "Water"
-    ],
+    type: ["Water"],
     base: {
       HP: 55,
       Attack: 65,
       Defense: 45,
       "Sp. Attack": 50,
       "Sp. Defense": 45,
-      Speed: 50
+      Speed: 50,
     },
     species: "Duckling Pokémon",
-    description: "Este Pokémon migrou para Paldea de terras distantes há muito tempo. O gel secretado por suas penas repele água e sujeira.",
+    description:
+      "Este Pokémon migrou para Paldea de terras distantes há muito tempo. O gel secretado por suas penas repele água e sujeira.",
     profile: {
       height: "0.5 m",
       weight: "6.1 kg",
-      egg: [
-        "Flying",
-        "Water1"
-      ],
+      egg: ["Flying", "Water1"],
       ability: [
-        [
-          "Torrent",
-          false
-        ],
-        [
-          "Moxie",
-          true
-        ]
+        ["Torrent", false],
+        ["Moxie", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
       next: [
-        [
-          "913",
-          "Level 16"
-        ],
-        [
-          "914",
-          "Level 36"
-        ]
-      ]
+        ["913", "Level 16"],
+        ["914", "Level 36"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+    },
   },
   {
     name: {
       english: "Quaxwell",
       japanese: "ウェルカモ",
       chinese: "涌跃鸭",
-      french: "Canarbello"
+      french: "Canarbello",
     },
     id: 913,
-    type: [
-      "Water"
-    ],
+    type: ["Water"],
     base: {
       HP: 70,
       Attack: 85,
       Defense: 65,
       "Sp. Attack": 65,
       "Sp. Defense": 60,
-      Speed: 65
+      Speed: 65,
     },
     species: "Practicing Pokémon",
-    description: "Esses Pokémon correm constantemente por águas rasas para treinar suas pernas, depois competem entre si para ver qual deles chuta com mais graça.",
+    description:
+      "Esses Pokémon correm constantemente por águas rasas para treinar suas pernas, depois competem entre si para ver qual deles chuta com mais graça.",
     profile: {
       height: "1.2 m",
       weight: "21.5 kg",
-      egg: [
-        "Flying",
-        "Water1"
-      ],
+      egg: ["Flying", "Water1"],
       ability: [
-        [
-          "Torrent",
-          false
-        ],
-        [
-          "Moxie",
-          true
-        ]
+        ["Torrent", false],
+        ["Moxie", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
-      prev: [
-        "912",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "914",
-          "Level 36"
-        ]
-      ]
+      prev: ["912", "Level INITIAL"],
+      next: [["914", "Level 36"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+    },
   },
   {
     name: {
       english: "Quaquaval",
       japanese: "ウェーニバル",
       chinese: "狂欢浪舞鸭",
-      french: "Palmaval"
+      french: "Palmaval",
     },
     id: 914,
-    type: [
-      "Water",
-      "Fighting"
-    ],
+    type: ["Water", "Fighting"],
     base: {
       HP: 85,
       Attack: 120,
       Defense: 80,
       "Sp. Attack": 85,
       "Sp. Defense": 75,
-      Speed: 85
+      Speed: 85,
     },
     species: "Dancer Pokémon",
-    description: "Um único chute de um Quaquaval pode fazer um caminhão rolar. Este Pokémon usa suas poderosas pernas para realizar danças impressionantes de terras distantes.",
+    description:
+      "Um único chute de um Quaquaval pode fazer um caminhão rolar. Este Pokémon usa suas poderosas pernas para realizar danças impressionantes de terras distantes.",
     profile: {
       height: "1.8 m",
       weight: "61.9 kg",
-      egg: [
-        "Flying",
-        "Water1"
-      ],
+      egg: ["Flying", "Water1"],
       ability: [
-        [
-          "Torrent",
-          false
-        ],
-        [
-          "Moxie",
-          true
-        ]
+        ["Torrent", false],
+        ["Moxie", true],
       ],
-      gender: "87.5:12.5"
+      gender: "87.5:12.5",
     },
     evolution: {
-      prev: [
-        "913",
-        "Level 16"
-      ],
+      prev: ["913", "Level 16"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+    },
   },
   {
     name: {
       english: "Lechonk",
       japanese: "グルトン",
       chinese: "爱吃豚",
-      french: "Gourmelet"
+      french: "Gourmelet",
     },
     id: 915,
-    type: [
-      "Normal"
-    ],
+    type: ["Normal"],
     base: {
       HP: 54,
       Attack: 45,
       Defense: 40,
       "Sp. Attack": 35,
       "Sp. Defense": 45,
-      Speed: 35
+      Speed: 35,
     },
     species: "Hog Pokémon",
-    description: "Ele procura comida o dia todo. Possui um olfato aguçado, mas não o usa para nada além de procurar comida.",
+    description:
+      "Ele procura comida o dia todo. Possui um olfato aguçado, mas não o usa para nada além de procurar comida.",
     profile: {
       height: "0.5 m",
       weight: "10.2 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Aroma-veil",
-          false
-        ],
-        [
-          "Gluttony",
-          false
-        ],
-        [
-          "Thick-fat",
-          true
-        ]
-      ]
+        ["Aroma-veil", false],
+        ["Gluttony", false],
+        ["Thick-fat", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "916",
-          "Level 18"
-        ]
-      ]
+      next: [["916", "Level 18"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+    },
+  },
+  {
+    name: {
+      english: "Oinkologne - Male",
+      japanese: "オインケルン",
+      chinese: "奥因科洛涅",
+      french: "Fragoin",
+    },
+    id: 916,
+    type: ["Normal"],
+    base: {
+      HP: 110,
+      Attack: 100,
+      Defense: 75,
+      "Sp. Attack": 59,
+      "Sp. Defense": 80,
+      Speed: 65,
+    },
+    species: "Hog Pokémon",
+    description:
+      "Este é um Pokémon meticuloso que gosta de manter as coisas arrumadas. Ele se envolve em um aroma floral que acalma os Pokémon ao seu redor.",
+    profile: {
+      height: "1.0 m",
+      weight: "120.0 kg",
+      egg: ["Field"],
+      ability: [
+        ["Tackle", false],
+        ["Tail Whip", true],
+      ],
+      gender: "87.5:12.5",
+    },
+    evolution: {
+      prev: ["915", "Level 18"],
+    },
+    image: {
+      sprite: "./Imagens/Pokedex/sprites/916.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/916.png",
+      hires: "./Imagens/Pokedex/hires/916.png",
+    },
   },
   {
     name: {
       english: "Tarountula",
       japanese: "タマンチュラ",
       chinese: "团珠蛛",
-      french: "Tissenboule"
+      french: "Tissenboule",
     },
     id: 917,
-    type: [
-      "Bug"
-    ],
+    type: ["Bug"],
     base: {
       HP: 35,
       Attack: 41,
       Defense: 45,
       "Sp. Attack": 29,
       "Sp. Defense": 40,
-      Speed: 20
+      Speed: 20,
     },
     species: "String Ball Pokémon",
-    description: "A bola de fios enrolada em seu corpo é elástica o suficiente para desviar as foices de Scyther, o inimigo natural deste Pokémon.",
+    description:
+      "A bola de fios enrolada em seu corpo é elástica o suficiente para desviar as foices de Scyther, o inimigo natural deste Pokémon.",
     profile: {
       height: "0.3 m",
       weight: "4 kg",
-      egg: [
-        "Bug"
-      ],
+      egg: ["Bug"],
       ability: [
-        [
-          "Insomnia",
-          false
-        ],
-        [
-          "Stakeout",
-          true
-        ]
-      ]
+        ["Insomnia", false],
+        ["Stakeout", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "918",
-          "Level 15"
-        ]
-      ]
+      next: [["918", "Level 15"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+    },
   },
   {
     name: {
       english: "Spidops",
       japanese: "ワナイダー",
       chinese: "操陷蛛",
-      french: "Filentrappe"
+      french: "Filentrappe",
     },
     id: 918,
-    type: [
-      "Bug"
-    ],
+    type: ["Bug"],
     base: {
       HP: 60,
       Attack: 79,
       Defense: 92,
       "Sp. Attack": 52,
       "Sp. Defense": 86,
-      Speed: 35
+      Speed: 35,
     },
     species: "Trap Pokémon",
-    description: "Ele se agarra a galhos e tetos usando seus fios e se move sem fazer barulho. Ele elimina sua presa antes mesmo que ela perceba.",
+    description:
+      "Ele se agarra a galhos e tetos usando seus fios e se move sem fazer barulho. Ele elimina sua presa antes mesmo que ela perceba.",
     profile: {
       height: "1 m",
       weight: "16.5 kg",
-      egg: [
-        "Bug"
-      ],
+      egg: ["Bug"],
       ability: [
-        [
-          "Insomnia",
-          false
-        ],
-        [
-          "Stakeout",
-          true
-        ]
-      ]
+        ["Insomnia", false],
+        ["Stakeout", true],
+      ],
     },
     evolution: {
-      prev: [
-        "917",
-        "Level INITIAL"
-      ],
+      prev: ["917", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+    },
   },
   {
     name: {
       english: "Nymble",
       japanese: "マメバッタ",
       chinese: "豆蟋蟀",
-      french: "Lilliterelle"
+      french: "Lilliterelle",
     },
     id: 919,
-    type: [
-      "Bug"
-    ],
+    type: ["Bug"],
     base: {
       HP: 33,
       Attack: 46,
       Defense: 40,
       "Sp. Attack": 21,
       "Sp. Defense": 25,
-      Speed: 45
+      Speed: 45,
     },
     species: "Grasshopper Pokémon",
-    description: "Ele tem seu terceiro par de pernas dobrado. Quando está em uma situação difícil, este Pokémon pula mais de 9 metros usando a força de suas pernas.",
+    description:
+      "Ele tem seu terceiro par de pernas dobrado. Quando está em uma situação difícil, este Pokémon pula mais de 9 metros usando a força de suas pernas.",
     profile: {
       height: "0.2 m",
       weight: "1 kg",
-      egg: [
-        "Bug"
-      ],
+      egg: ["Bug"],
       ability: [
-        [
-          "Swarm",
-          false
-        ],
-        [
-          "Tinted-lens",
-          true
-        ]
-      ]
+        ["Swarm", false],
+        ["Tinted-lens", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "920",
-          "Level 24"
-        ]
-      ]
+      next: [["920", "Level 24"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+    },
   },
   {
     name: {
       english: "Lokix",
       japanese: "エクスレッグ",
       chinese: "烈腿蝗",
-      french: "Gambex"
+      french: "Gambex",
     },
     id: 920,
-    type: [
-      "Bug",
-      "Dark"
-    ],
+    type: ["Bug", "Dark"],
     base: {
       HP: 71,
       Attack: 102,
       Defense: 78,
       "Sp. Attack": 52,
       "Sp. Defense": 55,
-      Speed: 92
+      Speed: 92,
     },
     species: "Grasshopper Pokémon",
-    description: "Quando decide lutar com tudo, ele se coloca em pé sobre suas pernas anteriormente dobradas para entrar no Modo de Confronto. Ele neutraliza seus inimigos em pouco tempo.",
+    description:
+      "Quando decide lutar com tudo, ele se coloca em pé sobre suas pernas anteriormente dobradas para entrar no Modo de Confronto. Ele neutraliza seus inimigos em pouco tempo.",
     profile: {
       height: "1 m",
       weight: "17.5 kg",
-      egg: [
-        "Bug"
-      ],
+      egg: ["Bug"],
       ability: [
-        [
-          "Swarm",
-          false
-        ],
-        [
-          "Tinted-lens",
-          true
-        ]
-      ]
+        ["Swarm", false],
+        ["Tinted-lens", true],
+      ],
     },
     evolution: {
-      prev: [
-        "919",
-        "Level INITIAL"
-      ],
+      prev: ["919", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+    },
   },
   {
     name: {
       english: "Pawmi",
       japanese: "パモ",
       chinese: "布拨",
-      french: "Pohm"
+      french: "Pohm",
     },
     id: 921,
-    type: [
-      "Electric"
-    ],
+    type: ["Electric"],
     base: {
       HP: 45,
       Attack: 50,
       Defense: 20,
       "Sp. Attack": 40,
       "Sp. Defense": 25,
-      Speed: 60
+      Speed: 60,
     },
     species: "Mouse Pokémon",
-    description: "Ele tem sacos elétricos subdesenvolvidos em suas bochechas. Esses sacos só podem produzir eletricidade se Pawmi esfregá-los furiosamente com as almofadas de suas patas dianteiras.",
+    description:
+      "Ele tem sacos elétricos subdesenvolvidos em suas bochechas. Esses sacos só podem produzir eletricidade se Pawmi esfregá-los furiosamente com as almofadas de suas patas dianteiras.",
     profile: {
       height: "0.3 m",
       weight: "2.5 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Static",
-          false
-        ],
-        [
-          "Natural-cure",
-          false
-        ],
-        [
-          "Iron-fist",
-          true
-        ]
-      ]
+        ["Static", false],
+        ["Natural-cure", false],
+        ["Iron-fist", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "922",
-          "Level 18"
-        ],
-      ]
+      next: [["922", "Level 18"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+    },
   },
   {
     name: {
       english: "Pawmo",
       japanese: "パモット",
       chinese: "布土拨",
-      french: "Pohmotte"
+      french: "Pohmotte",
     },
     id: 922,
-    type: [
-      "Electric",
-      "Fighting"
-    ],
+    type: ["Electric", "Fighting"],
     base: {
       HP: 60,
       Attack: 75,
       Defense: 40,
       "Sp. Attack": 50,
       "Sp. Defense": 40,
-      Speed: 85
+      Speed: 85,
     },
     species: "Mouse Pokémon",
-    description: "Quando seu grupo é atacado, Pawmo é o primeiro a saltar para a batalha, derrotando os inimigos com uma técnica de luta que utiliza choques elétricos.",
+    description:
+      "Quando seu grupo é atacado, Pawmo é o primeiro a saltar para a batalha, derrotando os inimigos com uma técnica de luta que utiliza choques elétricos.",
     profile: {
       height: "0.4 m",
       weight: "6.5 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Volt-absorb",
-          false
-        ],
-        [
-          "Natural-cure",
-          false
-        ],
-        [
-          "Iron-fist",
-          true
-        ]
-      ]
+        ["Volt-absorb", false],
+        ["Natural-cure", false],
+        ["Iron-fist", true],
+      ],
     },
     evolution: {
-      prev: [
-        "921",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "923",
-          "Level up + ande 1000 passos com a função Let's Go!"
-        ],
-      ]
+      prev: ["921", "Level INITIAL"],
+      next: [["923", "Level up + ande 1000 passos com a função Let's Go!"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+    },
   },
   {
     name: {
       english: "Pawmot",
       japanese: "パーモット",
       chinese: "巴布土拨",
-      french: "Pohmarmotte"
+      french: "Pohmarmotte",
     },
     id: 923,
-    type: [
-      "Electric",
-      "Fighting"
-    ],
+    type: ["Electric", "Fighting"],
     base: {
       HP: 70,
       Attack: 115,
       Defense: 70,
       "Sp. Attack": 70,
       "Sp. Defense": 60,
-      Speed: 105
+      Speed: 105,
     },
     species: "Hands-On Pokémon",
-    description: "Este Pokémon normalmente é lento para reagir, mas uma vez que entra em batalha, ele derrubará seus inimigos com movimentos rápidos como um raio.",
+    description:
+      "Este Pokémon normalmente é lento para reagir, mas uma vez que entra em batalha, ele derrubará seus inimigos com movimentos rápidos como um raio.",
     profile: {
       height: "0.9 m",
       weight: "41 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Volt-absorb",
-          false
-        ],
-        [
-          "Natural-cure",
-          false
-        ],
-        [
-          "Iron-fist",
-          true
-        ]
-      ]
+        ["Volt-absorb", false],
+        ["Natural-cure", false],
+        ["Iron-fist", true],
+      ],
     },
     evolution: {
-      prev: [
-        "922",
-        "Level 18"
-      ]
+      prev: ["922", "Level 18"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+    },
   },
   {
     name: {
       english: "Tandemaus",
       japanese: "ワッカネズミ",
       chinese: "一对鼠",
-      french: "Compagnol"
+      french: "Compagnol",
     },
     id: 924,
-    type: [
-      "Normal"
-    ],
+    type: ["Normal"],
     base: {
       HP: 50,
       Attack: 50,
       Defense: 45,
       "Sp. Attack": 40,
       "Sp. Defense": 45,
-      Speed: 75
+      Speed: 75,
     },
     species: "Couple Pokémon",
-    description: "Mostrando grande trabalho em equipe, eles usam seus incisivos para cortar pedaços de qualquer material que possa ser útil para um ninho, e depois fogem com eles.",
+    description:
+      "Mostrando grande trabalho em equipe, eles usam seus incisivos para cortar pedaços de qualquer material que possa ser útil para um ninho, e depois fogem com eles.",
     profile: {
       height: "0.3 m",
       weight: "1.8 kg",
-      egg: [
-        "Ground",
-        "Fairy"
-      ],
+      egg: ["Ground", "Fairy"],
       ability: [
-        [
-          "Run-away",
-          false
-        ],
-        [
-          "Pickup",
-          false
-        ],
-        [
-          "Own-tempo",
-          true
-        ]
-      ]
+        ["Run-away", false],
+        ["Pickup", false],
+        ["Own-tempo", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-        "925",
-        "Level 25 + com uma certa constante de criptografia"
-        ]
-      ],
+      next: [["925", "Level 25 + com uma certa constante de criptografia"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+    },
+  },
+  {
+    name: {
+      english: "Maushold",
+      japanese: "イッカネズミ",
+      chinese: "莫霍德",
+      french: "Famignol",
+    },
+    id: 925,
+    type: ["Normal"],
+    base: {
+      HP: 74,
+      Attack: 75,
+      Defense: 70,
+      "Sp. Attack": 65,
+      "Sp. Defense": 75,
+      Speed: 111,
+    },
+    species: "Family Pokémon",
+    description:
+      "Os dois pequeninos apareceram um dia. O grupo pode ser uma família de Pokémon relacionados, mas ninguém sabe ao certo.",
+    profile: {
+      height: "0.3 m",
+      weight: "2.8 kg",
+      egg: ["Field", "Fairy"],
+      ability: [
+        ["Tackle", false],
+        ["Tail Whip", true],
+      ],
+      gender: "87.5:12.5",
+    },
+    evolution: {
+      prev: ["924", "Level 25 + com uma certa constante de criptografia"],
+    },
+    image: {
+      sprite: "./Imagens/Pokedex/sprites/925.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/925.png",
+      hires: "./Imagens/Pokedex/hires/925.png",
+    },
   },
   {
     name: {
       english: "Fidough",
       japanese: "パピモッチ",
       chinese: "狗仔包",
-      french: "Pâtachiot"
+      french: "Pâtachiot",
     },
     id: 926,
-    type: [
-      "Fairy"
-    ],
+    type: ["Fairy"],
     base: {
       HP: 37,
       Attack: 55,
       Defense: 70,
       "Sp. Attack": 30,
       "Sp. Defense": 55,
-      Speed: 65
+      Speed: 65,
     },
     species: "Puppy Pokémon",
-    description: "Este Pokémon é liso e úmido ao toque. O levedo no hálito de Fidough induz a fermentação nas proximidades do Pokémon.",
+    description:
+      "Este Pokémon é liso e úmido ao toque. O levedo no hálito de Fidough induz a fermentação nas proximidades do Pokémon.",
     profile: {
       height: "0.3 m",
       weight: "10.9 kg",
-      egg: [
-        "Ground",
-        "Mineral"
-      ],
+      egg: ["Ground", "Mineral"],
       ability: [
-        [
-          "Own-tempo",
-          false
-        ],
-        [
-          "Klutz",
-          true
-        ]
-      ]
+        ["Own-tempo", false],
+        ["Klutz", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "927",
-          "Level 26"
-        ]
-      ]
+      next: [["927", "Level 26"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+    },
   },
   {
     name: {
       english: "Dachsbun",
       japanese: "バウッツェル",
       chinese: "麻花犬",
-      french: "Briochien"
+      french: "Briochien",
     },
     id: 927,
-    type: [
-      "Fairy"
-    ],
+    type: ["Fairy"],
     base: {
       HP: 57,
       Attack: 80,
       Defense: 115,
       "Sp. Attack": 50,
       "Sp. Defense": 80,
-      Speed: 95
+      Speed: 95,
     },
     species: "Dog Pokémon",
-    description: "O aroma agradável que emana do corpo deste Pokémon ajuda o trigo a crescer, por isso Dachsbun tem sido apreciado pelas aldeias agrícolas.",
+    description:
+      "O aroma agradável que emana do corpo deste Pokémon ajuda o trigo a crescer, por isso Dachsbun tem sido apreciado pelas aldeias agrícolas.",
     profile: {
       height: "0.5 m",
       weight: "14.9 kg",
-      egg: [
-        "Ground",
-        "Mineral"
-      ],
+      egg: ["Ground", "Mineral"],
       ability: [
-        [
-          "Well-baked-body",
-          false
-        ],
-        [
-          "Aroma-veil",
-          true
-        ]
-      ]
+        ["Well-baked-body", false],
+        ["Aroma-veil", true],
+      ],
     },
     evolution: {
-      prev: [
-        "926",
-        "Level INITIAL"
-      ],
+      prev: ["926", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+    },
   },
   {
     name: {
       english: "Smoliv",
       japanese: "ミニーブ",
       chinese: "迷你芙",
-      french: "Olivini"
+      french: "Olivini",
     },
     id: 928,
-    type: [
-      "Grass",
-      "Normal"
-    ],
+    type: ["Grass", "Normal"],
     base: {
       HP: 41,
       Attack: 35,
       Defense: 45,
       "Sp. Attack": 58,
       "Sp. Defense": 51,
-      Speed: 30
+      Speed: 30,
     },
     species: "Olive Pokémon",
-    description: "Ele se protege de inimigos emitindo óleo da fruta em sua cabeça. Este óleo é amargo e adstringente o suficiente para fazer alguém recuar.",
+    description:
+      "Ele se protege de inimigos emitindo óleo da fruta em sua cabeça. Este óleo é amargo e adstringente o suficiente para fazer alguém recuar.",
     profile: {
       height: "0.3 m",
       weight: "6.5 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Early-bird",
-          false
-        ],
-        [
-          "Harvest",
-          true
-        ]
-      ]
+        ["Early-bird", false],
+        ["Harvest", true],
+      ],
     },
     evolution: {
       next: [
-        [
-          "929",
-          "Level 25"
-        ],
-        [
-          "930",
-          "Level 35"
-        ]
-      ]
+        ["929", "Level 25"],
+        ["930", "Level 35"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+    },
   },
   {
     name: {
       english: "Dolliv",
       japanese: "オリーニョ",
       chinese: "奥利纽",
-      french: "Olivado"
+      french: "Olivado",
     },
     id: 929,
-    type: [
-      "Grass",
-      "Normal"
-    ],
+    type: ["Grass", "Normal"],
     base: {
       HP: 52,
       Attack: 53,
       Defense: 60,
       "Sp. Attack": 78,
       "Sp. Defense": 78,
-      Speed: 33
+      Speed: 33,
     },
     species: "Olive Pokémon",
-    description: "Dolliv compartilha seu óleo saboroso e fresco com os outros. Esta espécie tem coexistido com os humanos desde tempos imemoriais.",
+    description:
+      "Dolliv compartilha seu óleo saboroso e fresco com os outros. Esta espécie tem coexistido com os humanos desde tempos imemoriais.",
     profile: {
       height: "0.6 m",
       weight: "11.9 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Early-bird",
-          false
-        ],
-        [
-          "Harvest",
-          true
-        ]
-      ]
+        ["Early-bird", false],
+        ["Harvest", true],
+      ],
     },
     evolution: {
-      prev: [
-        "928",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "930",
-          "Level 35"
-        ]
-      ]
+      prev: ["928", "Level INITIAL"],
+      next: [["930", "Level 35"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+    },
   },
   {
     name: {
       english: "Arboliva",
       japanese: "オリーヴァ",
       chinese: "奥利瓦",
-      french: "Arboliva"
+      french: "Arboliva",
     },
     id: 930,
-    type: [
-      "Grass",
-      "Normal"
-    ],
+    type: ["Grass", "Normal"],
     base: {
       HP: 78,
       Attack: 69,
       Defense: 90,
       "Sp. Attack": 125,
       "Sp. Defense": 109,
-      Speed: 39
+      Speed: 39,
     },
     species: "Olive Pokémon",
-    description: "Este Pokémon calmo é muito compassivo. Ele compartilhará seu óleo delicioso e rico em nutrientes com Pokémon enfraquecidos.",
+    description:
+      "Este Pokémon calmo é muito compassivo. Ele compartilhará seu óleo delicioso e rico em nutrientes com Pokémon enfraquecidos.",
     profile: {
       height: "1.4 m",
       weight: "48.2 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Seed-sower",
-          false
-        ],
-        [
-          "Harvest",
-          true
-        ]
-      ]
+        ["Seed-sower", false],
+        ["Harvest", true],
+      ],
     },
     evolution: {
-      prev: [
-        "929",
-        "Level 25"
-      ],
+      prev: ["929", "Level 25"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+    },
+  },
+  {
+    name: {
+      english: "Squawkabilly",
+      japanese: "イキリンコ ",
+      chinese: "怒鸚哥",
+      french: "Tapatoès",
+    },
+    id: 931,
+    type: ["Normal", "Flying"],
+    base: {
+      HP: 82,
+      Attack: 96,
+      Defense: 51,
+      "Sp. Attack": 45,
+      "Sp. Defense": 51,
+      Speed: 92,
+    },
+    species: "Parrot Pokémon",
+    description:
+      "Esses Pokémon preferem viver em cidades. Eles formam bandos com base na cor de suas penas e lutam por território.",
+    profile: {
+      height: "0.6 m",
+      weight: "2.4 kg",
+      egg: ["Flying"],
+      ability: [
+        ["Tackle", false],
+        ["Tail Whip", true],
+      ],
+      gender: "87.5:12.5",
+    },
+    image: {
+      sprite: "./Imagens/Pokedex/sprites/931.png",
+      thumbnail: "./Imagens/Pokedex/thumbnails/931.png",
+      hires: "./Imagens/Pokedex/hires/931.png",
+    },
   },
   {
     name: {
       english: "Nacli",
       japanese: "コジオ",
       chinese: "盐石宝",
-      french: "Selutin"
+      french: "Selutin",
     },
     id: 932,
-    type: [
-      "Rock"
-    ],
+    type: ["Rock"],
     base: {
       HP: 55,
       Attack: 55,
       Defense: 75,
       "Sp. Attack": 35,
       "Sp. Defense": 35,
-      Speed: 25
+      Speed: 25,
     },
     species: "Rock Salt Pokémon",
-    description: "Ele nasceu em uma camada de sal-gema no fundo da terra. Esta espécie era particularmente apreciada nos tempos antigos, pois compartilhava sal precioso.",
+    description:
+      "Ele nasceu em uma camada de sal-gema no fundo da terra. Esta espécie era particularmente apreciada nos tempos antigos, pois compartilhava sal precioso.",
     profile: {
       height: "0.4 m",
       weight: "16 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Purifying-salt",
-          false
-        ],
-        [
-          "Sturdy",
-          false
-        ],
-        [
-          "Clear-body",
-          true
-        ]
-      ]
+        ["Purifying-salt", false],
+        ["Sturdy", false],
+        ["Clear-body", true],
+      ],
     },
     evolution: {
       next: [
-        [
-          "933",
-          "Level 24"
-        ],
-        [
-          "934",
-          "Level 38"
-        ]
-      ]
+        ["933", "Level 24"],
+        ["934", "Level 38"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+    },
   },
   {
     name: {
       english: "Naclstack",
       japanese: "ジオヅム",
       chinese: "盐石垒",
-      french: "Amassel"
+      french: "Amassel",
     },
     id: 933,
-    type: [
-      "Rock"
-    ],
+    type: ["Rock"],
     base: {
       HP: 60,
       Attack: 60,
       Defense: 100,
       "Sp. Attack": 35,
       "Sp. Defense": 65,
-      Speed: 35
+      Speed: 35,
     },
     species: "Rock Salt Pokémon",
-    description: "Este Pokémon seca sua presa borrifando sal sobre ela. O processo de cura rouba a água do corpo da presa.",
+    description:
+      "Este Pokémon seca sua presa borrifando sal sobre ela. O processo de cura rouba a água do corpo da presa.",
     profile: {
       height: "0.6 m",
       weight: "105 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Purifying-salt",
-          false
-        ],
-        [
-          "Sturdy",
-          false
-        ],
-        [
-          "Clear-body",
-          true
-        ]
-      ]
+        ["Purifying-salt", false],
+        ["Sturdy", false],
+        ["Clear-body", true],
+      ],
     },
     evolution: {
-      prev: [
-        "932",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "934",
-          "Level 38"
-        ]
-      ]
+      prev: ["932", "Level INITIAL"],
+      next: [["934", "Level 38"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+    },
   },
   {
     name: {
       english: "Garganacl",
       japanese: "キョジオーン",
       chinese: "盐石巨灵",
-      french: "Gigansel"
+      french: "Gigansel",
     },
     id: 934,
-    type: [
-      "Rock"
-    ],
+    type: ["Rock"],
     base: {
       HP: 100,
       Attack: 100,
       Defense: 130,
       "Sp. Attack": 45,
       "Sp. Defense": 90,
-      Speed: 35
+      Speed: 35,
     },
     species: "Rock Salt Pokémon",
-    description: "Garganacl esfregará as pontas dos dedos e aspergirá sal sobre Pokémon feridos. Mesmo ferimentos graves cicatrizarão prontamente depois.",
+    description:
+      "Garganacl esfregará as pontas dos dedos e aspergirá sal sobre Pokémon feridos. Mesmo ferimentos graves cicatrizarão prontamente depois.",
     profile: {
       height: "2.3 m",
       weight: "240 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Purifying-salt",
-          false
-        ],
-        [
-          "Sturdy",
-          false
-        ],
-        [
-          "Clear-body",
-          true
-        ]
-      ]
+        ["Purifying-salt", false],
+        ["Sturdy", false],
+        ["Clear-body", true],
+      ],
     },
     evolution: {
-      prev: [
-        "933",
-        "Level 24"
-      ],
+      prev: ["933", "Level 24"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+    },
   },
   {
     name: {
       english: "Charcadet",
       japanese: "カルボウ",
       chinese: "炭小侍",
-      french: "Charbambin"
+      french: "Charbambin",
     },
     id: 935,
-    type: [
-      "Fire"
-    ],
+    type: ["Fire"],
     base: {
       HP: 40,
       Attack: 50,
       Defense: 40,
       "Sp. Attack": 50,
       "Sp. Defense": 40,
-      Speed: 35
+      Speed: 35,
     },
     species: "Fire Child Pokémon",
-    description: "Carvão queimado ganhou vida e se tornou um Pokémon. Possuindo um espírito de luta fervoroso, Charcadet lutará até mesmo contra oponentes difíceis.",
+    description:
+      "Carvão queimado ganhou vida e se tornou um Pokémon. Possuindo um espírito de luta fervoroso, Charcadet lutará até mesmo contra oponentes difíceis.",
     profile: {
       height: "0.6 m",
       weight: "10.5 kg",
-      egg: [
-        "Humanshape"
-      ],
+      egg: ["Humanshape"],
       ability: [
-        [
-          "Flash-fire",
-          false
-        ],
-        [
-          "Flame-body",
-          true
-        ]
-      ]
+        ["Flash-fire", false],
+        ["Flame-body", true],
+      ],
     },
     evolution: {
       next: [
-        [
-          "937",
-          "use malicious-armor"
-        ],
-        [
-          "936",
-          "use auspicious-armor"
-        ]
-      ]
+        ["937", "use malicious-armor"],
+        ["936", "use auspicious-armor"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+    },
   },
   {
     name: {
       english: "Armarouge",
       japanese: "グレンアルマ",
       chinese: "红莲铠骑",
-      french: "Carmadura"
+      french: "Carmadura",
     },
     id: 936,
-    type: [
-      "Fire",
-      "Psychic"
-    ],
+    type: ["Fire", "Psychic"],
     base: {
       HP: 85,
       Attack: 60,
       Defense: 100,
       "Sp. Attack": 125,
       "Sp. Defense": 80,
-      Speed: 75
+      Speed: 75,
     },
     species: "Fire Warrior Pokémon",
-    description: "Armarouge evoluiu por meio do uso de um conjunto de armadura que pertencia a um guerreiro distinto. Este Pokémon é incrivelmente leal.",
+    description:
+      "Armarouge evoluiu por meio do uso de um conjunto de armadura que pertencia a um guerreiro distinto. Este Pokémon é incrivelmente leal.",
     profile: {
       height: "1.5 m",
       weight: "85 kg",
-      egg: [
-        "Humanshape"
-      ],
+      egg: ["Humanshape"],
       ability: [
-        [
-          "Flash-fire",
-          false
-        ],
-        [
-          "Weak-armor",
-          true
-        ]
-      ]
+        ["Flash-fire", false],
+        ["Weak-armor", true],
+      ],
     },
     evolution: {
-      prev: [
-        "935",
-        "Level INITIAL"
-      ],
+      prev: ["935", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+    },
   },
   {
     name: {
       english: "Ceruledge",
       japanese: "ソウブレイズ",
       chinese: "苍炎刃鬼",
-      french: "Malvalame"
+      french: "Malvalame",
     },
     id: 937,
-    type: [
-      "Fire",
-      "Ghost"
-    ],
+    type: ["Fire", "Ghost"],
     base: {
       HP: 75,
       Attack: 125,
       Defense: 80,
       "Sp. Attack": 60,
       "Sp. Defense": 100,
-      Speed: 85
+      Speed: 85,
     },
     species: "Fire Blades Pokémon",
-    description: "As lâminas de fogo em seus braços queimam ferozmente com o ressentimento persistente de um portador de espada que caiu antes de atingir seu objetivo.",
+    description:
+      "As lâminas de fogo em seus braços queimam ferozmente com o ressentimento persistente de um portador de espada que caiu antes de atingir seu objetivo.",
     profile: {
       height: "1.6 m",
       weight: "62 kg",
-      egg: [
-        "Humanshape"
-      ],
+      egg: ["Humanshape"],
       ability: [
-        [
-          "Flash-fire",
-          false
-        ],
-        [
-          "Weak-armor",
-          true
-        ]
-      ]
+        ["Flash-fire", false],
+        ["Weak-armor", true],
+      ],
     },
     evolution: {
-      prev: [
-        "935",
-        "Level INITIAL"
-      ],
+      prev: ["935", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+    },
   },
   {
     name: {
       english: "Tadbulb",
       japanese: "ズピカ",
       chinese: "光蚪仔",
-      french: "Têtampoule"
+      french: "Têtampoule",
     },
     id: 938,
-    type: [
-      "Electric"
-    ],
+    type: ["Electric"],
     base: {
       HP: 61,
       Attack: 31,
       Defense: 41,
       "Sp. Attack": 59,
       "Sp. Defense": 35,
-      Speed: 45
+      Speed: 45,
     },
     species: "EleTadpole Pokémon",
-    description: "Tadbulb balança seu rabo para gerar eletricidade. Se sentir perigo, ele piscará sua cabeça ligando e desligando para alertar seus aliados.",
+    description:
+      "Tadbulb balança seu rabo para gerar eletricidade. Se sentir perigo, ele piscará sua cabeça ligando e desligando para alertar seus aliados.",
     profile: {
       height: "0.3 m",
       weight: "0.4 kg",
-      egg: [
-        "Water1"
-      ],
+      egg: ["Water1"],
       ability: [
-        [
-          "Own-tempo",
-          false
-        ],
-        [
-          "Static",
-          false
-        ],
-        [
-          "Damp",
-          true
-        ]
-      ]
+        ["Own-tempo", false],
+        ["Static", false],
+        ["Damp", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "939",
-          "use thunder-stone"
-        ]
-      ]
+      next: [["939", "use thunder-stone"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+    },
   },
   {
     name: {
       english: "Bellibolt",
       japanese: "ハラバリー",
       chinese: "电肚蛙",
-      french: "Ampibidou"
+      french: "Ampibidou",
     },
     id: 939,
-    type: [
-      "Electric"
-    ],
+    type: ["Electric"],
     base: {
       HP: 109,
       Attack: 64,
       Defense: 91,
       "Sp. Attack": 103,
       "Sp. Defense": 83,
-      Speed: 45
+      Speed: 45,
     },
     species: "EleFrog Pokémon",
-    description: "Quando este Pokémon expande e contrai seu corpo instável, o dínamo do umbigo em seu estômago produz uma enorme quantidade de eletricidade.",
+    description:
+      "Quando este Pokémon expande e contrai seu corpo instável, o dínamo do umbigo em seu estômago produz uma enorme quantidade de eletricidade.",
     profile: {
       height: "1.2 m",
       weight: "113 kg",
-      egg: [
-        "Water1"
-      ],
+      egg: ["Water1"],
       ability: [
-        [
-          "Electromorphosis",
-          false
-        ],
-        [
-          "Static",
-          false
-        ],
-        [
-          "Damp",
-          true
-        ]
-      ]
+        ["Electromorphosis", false],
+        ["Static", false],
+        ["Damp", true],
+      ],
     },
     evolution: {
-      prev: [
-        "938",
-        "Level INITIAL"
-      ],
+      prev: ["938", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+    },
   },
   {
     name: {
       english: "Wattrel",
       japanese: "カイデン",
       chinese: "电海燕",
-      french: "Zapétrel"
+      french: "Zapétrel",
     },
     id: 940,
-    type: [
-      "Electric",
-      "Flying"
-    ],
+    type: ["Electric", "Flying"],
     base: {
       HP: 40,
       Attack: 40,
       Defense: 35,
       "Sp. Attack": 55,
       "Sp. Defense": 40,
-      Speed: 70
+      Speed: 70,
     },
     species: "Storm Petrel Pokémon",
-    description: "Quando suas asas pegam o vento, os ossos dentro produzem eletricidade. Este Pokémon mergulha no oceano, capturando presas eletrocutando-as.",
+    description:
+      "Quando suas asas pegam o vento, os ossos dentro produzem eletricidade. Este Pokémon mergulha no oceano, capturando presas eletrocutando-as.",
     profile: {
       height: "0.4 m",
       weight: "3.6 kg",
-      egg: [
-        "Water1",
-        "Flying"
-      ],
+      egg: ["Water1", "Flying"],
       ability: [
-        [
-          "Wind-power",
-          false
-        ],
-        [
-          "Volt-absorb",
-          false
-        ],
-        [
-          "Competitive",
-          true
-        ]
-      ]
+        ["Wind-power", false],
+        ["Volt-absorb", false],
+        ["Competitive", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "941",
-          "Level 25"
-        ]
-      ]
+      next: [["941", "Level 25"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+    },
   },
   {
     name: {
       english: "Kilowattrel",
       japanese: "タイカイデン",
       chinese: "大电海燕",
-      french: "Fulgulairo"
+      french: "Fulgulairo",
     },
     id: 941,
-    type: [
-      "Electric",
-      "Flying"
-    ],
+    type: ["Electric", "Flying"],
     base: {
       HP: 70,
       Attack: 70,
       Defense: 60,
       "Sp. Attack": 105,
       "Sp. Defense": 60,
-      Speed: 125
+      Speed: 125,
     },
     species: "Frigatebird Pokémon",
-    description: "Kilowattrel infla seu saco da garganta para amplificar sua eletricidade. Ao andar com o vento, este Pokémon pode voar mais de 690 quilômetros em um dia.",
+    description:
+      "Kilowattrel infla seu saco da garganta para amplificar sua eletricidade. Ao andar com o vento, este Pokémon pode voar mais de 690 quilômetros em um dia.",
     profile: {
       height: "1.4 m",
       weight: "38.6 kg",
-      egg: [
-        "Water1",
-        "Flying"
-      ],
+      egg: ["Water1", "Flying"],
       ability: [
-        [
-          "Wind-power",
-          false
-        ],
-        [
-          "Volt-absorb",
-          false
-        ],
-        [
-          "Competitive",
-          true
-        ]
-      ]
+        ["Wind-power", false],
+        ["Volt-absorb", false],
+        ["Competitive", true],
+      ],
     },
     evolution: {
-      prev: [
-        "940",
-        "Level INITIAL"
-      ],
+      prev: ["940", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+    },
   },
   {
     name: {
       english: "Maschiff",
       japanese: "オラチフ",
       chinese: "偶叫獒",
-      french: "Grondogue"
+      french: "Grondogue",
     },
     id: 942,
-    type: [
-      "Dark"
-    ],
+    type: ["Dark"],
     base: {
       HP: 60,
       Attack: 78,
       Defense: 60,
       "Sp. Attack": 40,
       "Sp. Defense": 51,
-      Speed: 51
+      Speed: 51,
     },
     species: "Rascal Pokémon",
-    description: "Ele sempre faz uma careta na tentativa de fazer os oponentes levá-lo a sério, mas até mesmo crianças choronas caem na gargalhada ao ver o rosto de Maschiff.",
+    description:
+      "Ele sempre faz uma careta na tentativa de fazer os oponentes levá-lo a sério, mas até mesmo crianças choronas caem na gargalhada ao ver o rosto de Maschiff.",
     profile: {
       height: "0.5 m",
       weight: "16 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Intimidate",
-          false
-        ],
-        [
-          "Run-away",
-          false
-        ],
-        [
-          "Stakeout",
-          true
-        ]
-      ]
+        ["Intimidate", false],
+        ["Run-away", false],
+        ["Stakeout", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "943",
-          "Level 30"
-        ]
-      ]
+      next: [["943", "Level 30"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    },
   },
   {
     name: {
       english: "Mabosstiff",
       japanese: "マフィティフ",
       chinese: "獒教父",
-      french: "Dogrino"
+      french: "Dogrino",
     },
     id: 943,
-    type: [
-      "Dark"
-    ],
+    type: ["Dark"],
     base: {
       HP: 80,
       Attack: 120,
       Defense: 90,
       "Sp. Attack": 60,
       "Sp. Defense": 70,
-      Speed: 85
+      Speed: 85,
     },
     species: "Boss Pokémon",
-    description: "Este Pokémon pode armazenar energia em sua grande papada. Mabosstiff libera essa energia de uma vez só para explodir os inimigos.",
+    description:
+      "Este Pokémon pode armazenar energia em sua grande papada. Mabosstiff libera essa energia de uma vez só para explodir os inimigos.",
     profile: {
       height: "1.1 m",
       weight: "61 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Intimidate",
-          false
-        ],
-        [
-          "Guard-dog",
-          false
-        ],
-        [
-          "Stakeout",
-          true
-        ]
-      ]
+        ["Intimidate", false],
+        ["Guard-dog", false],
+        ["Stakeout", true],
+      ],
     },
     evolution: {
-      prev: [
-        "942",
-        "Level INITIAL"
-      ],
+      prev: ["942", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+    },
   },
   {
     name: {
       english: "Shroodle",
       japanese: "シルシュルー",
       chinese: "滋汁鼹",
-      french: "Gribouraigne"
+      french: "Gribouraigne",
     },
     id: 944,
-    type: [
-      "Poison",
-      "Normal"
-    ],
+    type: ["Poison", "Normal"],
     base: {
       HP: 40,
       Attack: 65,
       Defense: 35,
       "Sp. Attack": 40,
       "Sp. Defense": 35,
-      Speed: 75
+      Speed: 75,
     },
     species: "Toxic Mouse Pokémon",
-    description: "Embora geralmente seja um Pokémon calmo, ele afundará seus dentes frontais afiados e embebidos em veneno em qualquer um que o irrite, causando paralisia no objeto de sua ira.",
+    description:
+      "Embora geralmente seja um Pokémon calmo, ele afundará seus dentes frontais afiados e embebidos em veneno em qualquer um que o irrite, causando paralisia no objeto de sua ira.",
     profile: {
       height: "0.2 m",
       weight: "0.7 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Unburden",
-          false
-        ],
-        [
-          "Pickpocket",
-          false
-        ],
-        [
-          "Prankster",
-          true
-        ]
-      ]
+        ["Unburden", false],
+        ["Pickpocket", false],
+        ["Prankster", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "945",
-          "Level 28"
-        ]
-      ]
+      next: [["945", "Level 28"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    },
   },
   {
     name: {
       english: "Grafaiai",
       japanese: "タギングル",
       chinese: "涂标客",
-      french: "Tag-Tag"
+      french: "Tag-Tag",
     },
     id: 945,
-    type: [
-      "Poison",
-      "Normal"
-    ],
+    type: ["Poison", "Normal"],
     base: {
       HP: 63,
       Attack: 95,
       Defense: 65,
       "Sp. Attack": 80,
       "Sp. Defense": 72,
-      Speed: 110
+      Speed: 110,
     },
     species: "Toxic Monkey Pokémon",
-    description: "A cor da saliva venenosa depende do que o Pokémon come. Grafaiai cobre seus dedos com sua saliva e desenha padrões nas árvores nas florestas.",
+    description:
+      "A cor da saliva venenosa depende do que o Pokémon come. Grafaiai cobre seus dedos com sua saliva e desenha padrões nas árvores nas florestas.",
     profile: {
       height: "0.7 m",
       weight: "27.2 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Unburden",
-          false
-        ],
-        [
-          "Poison-touch",
-          false
-        ],
-        [
-          "Prankster",
-          true
-        ]
-      ]
+        ["Unburden", false],
+        ["Poison-touch", false],
+        ["Prankster", true],
+      ],
     },
     evolution: {
-      prev: [
-        "944",
-        "Level INITIAL"
-      ],
+      prev: ["944", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+    },
   },
   {
     name: {
       english: "Bramblin",
       japanese: "アノクサ",
       chinese: "纳噬草",
-      french: "Virovent"
+      french: "Virovent",
     },
     id: 946,
-    type: [
-      "Grass",
-      "Ghost"
-    ],
+    type: ["Grass", "Ghost"],
     base: {
       HP: 40,
       Attack: 65,
       Defense: 30,
       "Sp. Attack": 45,
       "Sp. Defense": 35,
-      Speed: 60
+      Speed: 60,
     },
     species: "Tumbleweed Pokémon",
-    description: "Uma alma incapaz de seguir para a vida após a morte foi levada pelo vento até que se enroscou na grama seca e se tornou um Pokémon.",
+    description:
+      "Uma alma incapaz de seguir para a vida após a morte foi levada pelo vento até que se enroscou na grama seca e se tornou um Pokémon.",
     profile: {
       height: "0.6 m",
       weight: "0.6 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Wind-rider",
-          false
-        ],
-        [
-          "Infiltrator",
-          true
-        ]
-      ]
+        ["Wind-rider", false],
+        ["Infiltrator", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "947",
-          "Level up + ande 1000 passos com a função Let's Go!"
-        ]
-      ],
+      next: [["947", "Level up + ande 1000 passos com a função Let's Go!"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    },
   },
   {
     name: {
       english: "Brambleghast",
       japanese: "アノホラグサ",
       chinese: "怖纳噬草",
-      french: "Virevorreur"
+      french: "Virevorreur",
     },
     id: 947,
-    type: [
-      "Grass",
-      "Ghost"
-    ],
+    type: ["Grass", "Ghost"],
     base: {
       HP: 55,
       Attack: 115,
       Defense: 70,
       "Sp. Attack": 80,
       "Sp. Defense": 70,
-      Speed: 90
+      Speed: 90,
     },
     species: "Tumbleweed Pokémon",
-    description: "Ele abrirá os ramos de sua cabeça para envolver sua presa. Uma vez que absorve toda a energia vital de que precisa, ele expulsa a presa e a descarta.",
+    description:
+      "Ele abrirá os ramos de sua cabeça para envolver sua presa. Uma vez que absorve toda a energia vital de que precisa, ele expulsa a presa e a descarta.",
     profile: {
       height: "1.2 m",
       weight: "6 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Wind-rider",
-          false
-        ],
-        [
-          "Infiltrator",
-          true
-        ]
-      ]
+        ["Wind-rider", false],
+        ["Infiltrator", true],
+      ],
     },
     evolution: {
-      prev: [
-        "946",
-        "Level INITIAL"
-      ],
+      prev: ["946", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    },
   },
   {
     name: {
       english: "Toedscool",
       japanese: "ノノクラゲ",
       chinese: "原野水母",
-      french: "Terracool"
+      french: "Terracool",
     },
     id: 948,
-    type: [
-      "Ground",
-      "Grass"
-    ],
+    type: ["Ground", "Grass"],
     base: {
       HP: 40,
       Attack: 40,
       Defense: 35,
       "Sp. Attack": 50,
       "Sp. Defense": 100,
-      Speed: 70
+      Speed: 70,
     },
     species: "Woodear Pokémon",
-    description: "Toedscool vive em florestas úmidas. As abas que caem de seu corpo são mastigáveis e muito deliciosas.",
+    description:
+      "Toedscool vive em florestas úmidas. As abas que caem de seu corpo são mastigáveis e muito deliciosas.",
     profile: {
       height: "0.9 m",
       weight: "33 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Mycelium-might",
-          false
-        ],
-        [
-          "Mycelium-might",
-          true
-        ]
-      ]
+        ["Mycelium-might", false],
+        ["Mycelium-might", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "949",
-          "Level 30"
-        ]
-      ]
+      next: [["949", "Level 30"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+    },
   },
   {
     name: {
       english: "Toedscruel",
       japanese: "リククラゲ",
       chinese: "陆地水母",
-      french: "Terracruel"
+      french: "Terracruel",
     },
     id: 949,
-    type: [
-      "Ground",
-      "Grass"
-    ],
+    type: ["Ground", "Grass"],
     base: {
       HP: 80,
       Attack: 70,
       Defense: 65,
       "Sp. Attack": 80,
       "Sp. Defense": 120,
-      Speed: 100
+      Speed: 100,
     },
     species: "Woodear Pokémon",
-    description: "Esses Pokémon se reúnem em grupos e formam colônias no fundo das florestas. Eles absolutamente odeiam quando estranhos se aproximam.",
+    description:
+      "Esses Pokémon se reúnem em grupos e formam colônias no fundo das florestas. Eles absolutamente odeiam quando estranhos se aproximam.",
     profile: {
       height: "1.9 m",
       weight: "58 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Mycelium-might",
-          false
-        ],
-        [
-          "Mycelium-might",
-          true
-        ]
-      ]
+        ["Mycelium-might", false],
+        ["Mycelium-might", true],
+      ],
     },
     evolution: {
-      prev: [
-        "948",
-        "Level INITIAL"
-      ],
+      prev: ["948", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+    },
   },
   {
     name: {
       english: "Klawf",
       japanese: "ガケガニ",
       chinese: "毛崖蟹",
-      french: "Craparoi"
+      french: "Craparoi",
     },
     id: 950,
-    type: [
-      "Rock"
-    ],
+    type: ["Rock"],
     base: {
       HP: 70,
       Attack: 100,
       Defense: 115,
       "Sp. Attack": 35,
       "Sp. Defense": 55,
-      Speed: 75
+      Speed: 75,
     },
     species: "Ambush Pokémon",
-    description: "Klawf fica de cabeça para baixo em penhascos, esperando por presas. Mas Klawf não pode permanecer nesta posição por muito tempo porque seu sangue corre para sua cabeça.",
+    description:
+      "Klawf fica de cabeça para baixo em penhascos, esperando por presas. Mas Klawf não pode permanecer nesta posição por muito tempo porque seu sangue corre para sua cabeça.",
     profile: {
       height: "1.3 m",
       weight: "79 kg",
-      egg: [
-        "Water3"
-      ],
+      egg: ["Water3"],
       ability: [
-        [
-          "Anger-shell",
-          false
-        ],
-        [
-          "Shell-armor",
-          false
-        ],
-        [
-          "Regenerator",
-          true
-        ]
-      ]
+        ["Anger-shell", false],
+        ["Shell-armor", false],
+        ["Regenerator", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+    },
   },
   {
     name: {
       english: "Capsakid",
       japanese: "カプサイジ",
       chinese: "热辣娃",
-      french: "Pimito"
+      french: "Pimito",
     },
     id: 951,
-    type: [
-      "Grass"
-    ],
+    type: ["Grass"],
     base: {
       HP: 50,
       Attack: 62,
       Defense: 40,
       "Sp. Attack": 62,
       "Sp. Defense": 40,
-      Speed: 50
+      Speed: 50,
     },
     species: "Spicy Pepper Pokémon",
-    description: "Quanto mais luz solar este Pokémon toma banho, mais produtos químicos picantes são produzidos por seu corpo, e assim seus movimentos se tornam mais picantes.",
+    description:
+      "Quanto mais luz solar este Pokémon toma banho, mais produtos químicos picantes são produzidos por seu corpo, e assim seus movimentos se tornam mais picantes.",
     profile: {
       height: "0.3 m",
       weight: "3 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Chlorophyll",
-          false
-        ],
-        [
-          "Insomnia",
-          false
-        ],
-        [
-          "Klutz",
-          true
-        ]
-      ]
+        ["Chlorophyll", false],
+        ["Insomnia", false],
+        ["Klutz", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "952",
-          "use fire-stone"
-        ]
-      ]
+      next: [["952", "use fire-stone"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    },
   },
   {
     name: {
       english: "Scovillain",
       japanese: "スコヴィラン",
       chinese: "狠辣椒",
-      french: "Scovilain"
+      french: "Scovilain",
     },
     id: 952,
-    type: [
-      "Grass",
-      "Fire"
-    ],
+    type: ["Grass", "Fire"],
     base: {
       HP: 65,
       Attack: 108,
       Defense: 65,
       "Sp. Attack": 108,
       "Sp. Defense": 65,
-      Speed: 75
+      Speed: 75,
     },
     species: "Spicy Pepper Pokémon",
-    description: "A cabeça vermelha converte produtos químicos picantes em energia de fogo e explode a área ao redor com um fluxo de chamas super picantes.",
+    description:
+      "A cabeça vermelha converte produtos químicos picantes em energia de fogo e explode a área ao redor com um fluxo de chamas super picantes.",
     profile: {
       height: "0.9 m",
       weight: "15 kg",
-      egg: [
-        "Plant"
-      ],
+      egg: ["Plant"],
       ability: [
-        [
-          "Chlorophyll",
-          false
-        ],
-        [
-          "Insomnia",
-          false
-        ],
-        [
-          "Moody",
-          true
-        ]
-      ]
+        ["Chlorophyll", false],
+        ["Insomnia", false],
+        ["Moody", true],
+      ],
     },
     evolution: {
-      prev: [
-        "951",
-        "Level INITIAL"
-      ],
+      prev: ["951", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    },
   },
   {
     name: {
       english: "Rellor",
       japanese: "シガロコ",
       chinese: "虫滚泥",
-      french: "Léboulérou"
+      french: "Léboulérou",
     },
     id: 953,
-    type: [
-      "Bug"
-    ],
+    type: ["Bug"],
     base: {
       HP: 41,
       Attack: 50,
       Defense: 60,
       "Sp. Attack": 31,
       "Sp. Defense": 58,
-      Speed: 30
+      Speed: 30,
     },
     species: "Rolling Pokémon",
-    description: "Este Pokémon cria uma bola de lama misturando areia e sujeira com energia psíquica. Ele valoriza sua bola de lama mais do que sua própria vida.",
+    description:
+      "Este Pokémon cria uma bola de lama misturando areia e sujeira com energia psíquica. Ele valoriza sua bola de lama mais do que sua própria vida.",
     profile: {
       height: "0.2 m",
       weight: "1 kg",
-      egg: [
-        "Bug"
-      ],
+      egg: ["Bug"],
       ability: [
-        [
-          "Compound-eyes",
-          false
-        ],
-        [
-          "Shed-skin",
-          true
-        ]
-      ]
+        ["Compound-eyes", false],
+        ["Shed-skin", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "954",
-          "Ande 1000 passos com a função Let's Go!"
-        ]
-      ],
+      next: [["954", "Ande 1000 passos com a função Let's Go!"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+    },
   },
   {
     name: {
       english: "Rabsca",
       japanese: "ベラカス",
       chinese: "虫甲圣",
-      french: "Bérasca"
+      french: "Bérasca",
     },
     id: 954,
-    type: [
-      "Bug",
-      "Psychic"
-    ],
+    type: ["Bug", "Psychic"],
     base: {
       HP: 75,
       Attack: 50,
       Defense: 85,
       "Sp. Attack": 115,
       "Sp. Defense": 100,
-      Speed: 45
+      Speed: 45,
     },
     species: "Rolling Pokémon",
-    description: "O corpo que sustenta a bola mal se move. Portanto, acredita-se que o verdadeiro corpo deste Pokémon esteja realmente dentro da bola.",
+    description:
+      "O corpo que sustenta a bola mal se move. Portanto, acredita-se que o verdadeiro corpo deste Pokémon esteja realmente dentro da bola.",
     profile: {
       height: "0.3 m",
       weight: "3.5 kg",
-      egg: [
-        "Bug"
-      ],
+      egg: ["Bug"],
       ability: [
-        [
-          "Synchronize",
-          false
-        ],
-        [
-          "Telepathy",
-          true
-        ]
-      ]
+        ["Synchronize", false],
+        ["Telepathy", true],
+      ],
     },
     evolution: {
-      prev: [
-        "953",
-        "Level INITIAL"
-      ],
+      prev: ["953", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+    },
   },
   {
     name: {
       english: "Flittle",
       japanese: "ヒラヒナ",
       chinese: "飘飘雏",
-      french: "Flotillon"
+      french: "Flotillon",
     },
     id: 955,
-    type: [
-      "Psychic"
-    ],
+    type: ["Psychic"],
     base: {
       HP: 30,
       Attack: 35,
       Defense: 30,
       "Sp. Attack": 55,
       "Sp. Defense": 30,
-      Speed: 75
+      Speed: 75,
     },
     species: "Frill Pokémon",
-    description: "Os dedos dos pés de Flittle levitam cerca de 1,27 centímetros acima do solo devido ao poder psíquico emitido pelas babados na barriga do Pokémon.",
+    description:
+      "Os dedos dos pés de Flittle levitam cerca de 1,27 centímetros acima do solo devido ao poder psíquico emitido pelas babados na barriga do Pokémon.",
     profile: {
       height: "0.2 m",
       weight: "1.5 kg",
-      egg: [
-        "Flying"
-      ],
+      egg: ["Flying"],
       ability: [
-        [
-          "Anticipation",
-          false
-        ],
-        [
-          "Frisk",
-          false
-        ],
-        [
-          "Speed-boost",
-          true
-        ]
-      ]
+        ["Anticipation", false],
+        ["Frisk", false],
+        ["Speed-boost", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "956",
-          "Level 35"
-        ]
-      ]
+      next: [["956", "Level 35"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+    },
   },
   {
     name: {
       english: "Espathra",
       japanese: "クエスパトラ",
       chinese: "超能艳鸵",
-      french: "Cléopsytra"
+      french: "Cléopsytra",
     },
     id: 956,
-    type: [
-      "Psychic"
-    ],
+    type: ["Psychic"],
     base: {
       HP: 95,
       Attack: 60,
       Defense: 60,
       "Sp. Attack": 101,
       "Sp. Defense": 60,
-      Speed: 105
+      Speed: 105,
     },
     species: "Ostrich Pokémon",
-    description: "Ele imobiliza oponentes banhando-os em poder psíquico de seus grandes olhos. Apesar de sua aparência, ele tem um temperamento cruel.",
+    description:
+      "Ele imobiliza oponentes banhando-os em poder psíquico de seus grandes olhos. Apesar de sua aparência, ele tem um temperamento cruel.",
     profile: {
       height: "1.9 m",
       weight: "90 kg",
-      egg: [
-        "Flying"
-      ],
+      egg: ["Flying"],
       ability: [
-        [
-          "Opportunist",
-          false
-        ],
-        [
-          "Frisk",
-          false
-        ],
-        [
-          "Speed-boost",
-          true
-        ]
-      ]
+        ["Opportunist", false],
+        ["Frisk", false],
+        ["Speed-boost", true],
+      ],
     },
     evolution: {
-      prev: [
-        "955",
-        "Level INITIAL"
-      ],
+      prev: ["955", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    },
   },
   {
     name: {
       english: "Tinkatink",
       japanese: "カヌチャン",
       chinese: "小锻匠",
-      french: "Forgerette"
+      french: "Forgerette",
     },
     id: 957,
-    type: [
-      "Fairy",
-      "Steel"
-    ],
+    type: ["Fairy", "Steel"],
     base: {
       HP: 50,
       Attack: 45,
       Defense: 45,
       "Sp. Attack": 35,
       "Sp. Defense": 64,
-      Speed: 58
+      Speed: 58,
     },
     species: "Metalsmith Pokémon",
-    description: "Ele balança seu martelo feito à mão para se proteger, mas o martelo costuma ser roubado por Pokémon que comem metal.",
+    description:
+      "Ele balança seu martelo feito à mão para se proteger, mas o martelo costuma ser roubado por Pokémon que comem metal.",
     profile: {
       height: "0.4 m",
       weight: "8.9 kg",
-      egg: [
-        "Fairy"
-      ],
+      egg: ["Fairy"],
       ability: [
-        [
-          "Mold-breaker",
-          false
-        ],
-        [
-          "Own-tempo",
-          false
-        ],
-        [
-          "Pickpocket",
-          true
-        ]
-      ]
+        ["Mold-breaker", false],
+        ["Own-tempo", false],
+        ["Pickpocket", true],
+      ],
     },
     evolution: {
       next: [
-        [
-          "958",
-          "Level 24"
-        ],
-        [
-          "959",
-          "Level 38"
-        ]
-      ]
+        ["958", "Level 24"],
+        ["959", "Level 38"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+    },
   },
   {
     name: {
       english: "Tinkatuff",
       japanese: "ナカヌチャン",
       chinese: "巧锻匠",
-      french: "Forgella"
+      french: "Forgella",
     },
     id: 958,
-    type: [
-      "Fairy",
-      "Steel"
-    ],
+    type: ["Fairy", "Steel"],
     base: {
       HP: 65,
       Attack: 55,
       Defense: 55,
       "Sp. Attack": 45,
       "Sp. Defense": 82,
-      Speed: 78
+      Speed: 78,
     },
     species: "Hammer Pokémon",
-    description: "Este Pokémon atacará grupos de Pawniard e Bisharp, coletando metal deles para criar um martelo grande e resistente.",
+    description:
+      "Este Pokémon atacará grupos de Pawniard e Bisharp, coletando metal deles para criar um martelo grande e resistente.",
     profile: {
       height: "0.7 m",
       weight: "59.1 kg",
-      egg: [
-        "Fairy"
-      ],
+      egg: ["Fairy"],
       ability: [
-        [
-          "Mold-breaker",
-          false
-        ],
-        [
-          "Own-tempo",
-          false
-        ],
-        [
-          "Pickpocket",
-          true
-        ]
-      ]
+        ["Mold-breaker", false],
+        ["Own-tempo", false],
+        ["Pickpocket", true],
+      ],
     },
     evolution: {
-      prev: [
-        "957",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "959",
-          "Level 38"
-        ]
-      ]
+      prev: ["957", "Level INITIAL"],
+      next: [["959", "Level 38"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+    },
   },
   {
     name: {
       english: "Tinkaton",
       japanese: "デカヌチャン",
       chinese: "巨锻匠",
-      french: "Forgelina"
+      french: "Forgelina",
     },
     id: 959,
-    type: [
-      "Fairy",
-      "Steel"
-    ],
+    type: ["Fairy", "Steel"],
     base: {
       HP: 85,
       Attack: 75,
       Defense: 77,
       "Sp. Attack": 70,
       "Sp. Defense": 105,
-      Speed: 94
+      Speed: 94,
     },
     species: "Hammer Pokémon",
-    description: "Este Pokémon inteligente tem uma disposição muito ousada. Ele joga pedras no céu com seu martelo, mirando em Corviknight voador.",
+    description:
+      "Este Pokémon inteligente tem uma disposição muito ousada. Ele joga pedras no céu com seu martelo, mirando em Corviknight voador.",
     profile: {
       height: "0.7 m",
       weight: "112.8 kg",
-      egg: [
-        "Fairy"
-      ],
+      egg: ["Fairy"],
       ability: [
-        [
-          "Mold-breaker",
-          false
-        ],
-        [
-          "Own-tempo",
-          false
-        ],
-        [
-          "Pickpocket",
-          true
-        ]
-      ]
+        ["Mold-breaker", false],
+        ["Own-tempo", false],
+        ["Pickpocket", true],
+      ],
     },
     evolution: {
-      prev: [
-        "958",
-        "Level 24"
-      ],
+      prev: ["958", "Level 24"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    },
   },
   {
     name: {
       english: "Wiglett",
       japanese: "ウミディグダ",
       chinese: "海地鼠",
-      french: "Taupikeau"
+      french: "Taupikeau",
     },
     id: 960,
-    type: [
-      "Water"
-    ],
+    type: ["Water"],
     base: {
       HP: 10,
       Attack: 55,
       Defense: 25,
       "Sp. Attack": 35,
       "Sp. Defense": 25,
-      Speed: 95
+      Speed: 95,
     },
     species: "Garden Eel Pokémon",
-    description: "Este Pokémon pode captar o cheiro de um Veluza a mais de 20 metros de distância e se esconderá na areia.",
+    description:
+      "Este Pokémon pode captar o cheiro de um Veluza a mais de 20 metros de distância e se esconderá na areia.",
     profile: {
       height: "1.2 m",
       weight: "1.8 kg",
-      egg: [
-        "Water3"
-      ],
+      egg: ["Water3"],
       ability: [
-        [
-          "Gooey",
-          false
-        ],
-        [
-          "Rattled",
-          false
-        ],
-        [
-          "Sand-veil",
-          true
-        ]
-      ]
+        ["Gooey", false],
+        ["Rattled", false],
+        ["Sand-veil", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "961",
-          "Level 26"
-        ]
-      ]
+      next: [["961", "Level 26"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    },
   },
   {
     name: {
       english: "Wugtrio",
       japanese: "ウミトリオ",
       chinese: "三海地鼠",
-      french: "Triopikeau"
+      french: "Triopikeau",
     },
     id: 961,
-    type: [
-      "Water"
-    ],
+    type: ["Water"],
     base: {
       HP: 35,
       Attack: 100,
       Defense: 50,
       "Sp. Attack": 50,
       "Sp. Defense": 70,
-      Speed: 120
+      Speed: 120,
     },
     species: "Garden Eel Pokémon",
-    description: "Ele tem um temperamento cruel, ao contrário do que sua aparência pode sugerir. Ele envolve seus longos corpos ao redor da presa, depois arrasta a presa para sua toca.",
+    description:
+      "Ele tem um temperamento cruel, ao contrário do que sua aparência pode sugerir. Ele envolve seus longos corpos ao redor da presa, depois arrasta a presa para sua toca.",
     profile: {
       height: "1.2 m",
       weight: "5.4 kg",
-      egg: [
-        "Water3"
-      ],
+      egg: ["Water3"],
       ability: [
-        [
-          "Gooey",
-          false
-        ],
-        [
-          "Rattled",
-          false
-        ],
-        [
-          "Sand-veil",
-          true
-        ]
-      ]
+        ["Gooey", false],
+        ["Rattled", false],
+        ["Sand-veil", true],
+      ],
     },
     evolution: {
-      prev: [
-        "960",
-        "Level INITIAL"
-      ],
+      prev: ["960", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+    },
   },
   {
     name: {
       english: "Bombirdier",
       japanese: "オトシドリ",
       chinese: "下石鸟",
-      french: "Lestombaile"
+      french: "Lestombaile",
     },
     id: 962,
-    type: [
-      "Flying",
-      "Dark"
-    ],
+    type: ["Flying", "Dark"],
     base: {
       HP: 70,
       Attack: 103,
       Defense: 85,
       "Sp. Attack": 60,
       "Sp. Defense": 85,
-      Speed: 82
+      Speed: 82,
     },
     species: "Item Drop Pokémon",
-    description: "Ele reúne coisas em um avental feito de penas descartadas adicionadas às penas do peito do Pokémon, depois deixa cair essas coisas de lugares altos por diversão.",
+    description:
+      "Ele reúne coisas em um avental feito de penas descartadas adicionadas às penas do peito do Pokémon, depois deixa cair essas coisas de lugares altos por diversão.",
     profile: {
       height: "1.5 m",
       weight: "42.9 kg",
-      egg: [
-        "Flying"
-      ],
+      egg: ["Flying"],
       ability: [
-        [
-          "Big-pecks",
-          false
-        ],
-        [
-          "Keen-eye",
-          false
-        ],
-        [
-          "Rocky-payload",
-          true
-        ]
-      ]
+        ["Big-pecks", false],
+        ["Keen-eye", false],
+        ["Rocky-payload", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+    },
   },
   {
     name: {
       english: "Finizen",
       japanese: "ナミイルカ",
       chinese: "波普海豚",
-      french: "Dofin"
+      french: "Dofin",
     },
     id: 963,
-    type: [
-      "Water"
-    ],
+    type: ["Water"],
     base: {
       HP: 70,
       Attack: 45,
       Defense: 40,
       "Sp. Attack": 45,
       "Sp. Defense": 40,
-      Speed: 75
+      Speed: 75,
     },
     species: "Dolphin Pokémon",
-    description: "Ele gosta de brincar com outros da sua espécie usando o anel de água em sua cauda. Ele usa ondas ultrassônicas para sentir as emoções de outras criaturas vivas.",
+    description:
+      "Ele gosta de brincar com outros da sua espécie usando o anel de água em sua cauda. Ele usa ondas ultrassônicas para sentir as emoções de outras criaturas vivas.",
     profile: {
       height: "1.3 m",
       weight: "60.2 kg",
-      egg: [
-        "Ground",
-        "Water2"
-      ],
+      egg: ["Ground", "Water2"],
       ability: [
-        [
-          "Water-veil",
-          false
-        ],
-        [
-          "Water-veil",
-          true
-        ]
-      ]
+        ["Water-veil", false],
+        ["Water-veil", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "964",
-          "Level 38 + entrar no jogo online"
-        ]
-      ],
+      next: [["964", "Level 38 + entrar no jogo online"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+    },
   },
   {
     name: {
       english: "Varoom",
       japanese: "ブロロン",
       chinese: "噗隆隆",
-      french: "Vrombi"
+      french: "Vrombi",
     },
     id: 965,
-    type: [
-      "Steel",
-      "Poison"
-    ],
+    type: ["Steel", "Poison"],
     base: {
       HP: 45,
       Attack: 70,
       Defense: 63,
       "Sp. Attack": 30,
       "Sp. Defense": 45,
-      Speed: 47
+      Speed: 47,
     },
     species: "Single-Cyl Pokémon",
-    description: "Dizem que este Pokémon nasceu quando um Pokémon de veneno desconhecido entrou e inspirou um motor deixado em uma fábrica de processamento de sucata.",
+    description:
+      "Dizem que este Pokémon nasceu quando um Pokémon de veneno desconhecido entrou e inspirou um motor deixado em uma fábrica de processamento de sucata.",
     profile: {
       height: "1 m",
       weight: "35 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Overcoat",
-          false
-        ],
-        [
-          "Slow-start",
-          true
-        ]
-      ]
+        ["Overcoat", false],
+        ["Slow-start", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "966",
-          "Level 40"
-        ]
-      ]
+      next: [["966", "Level 40"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+    },
   },
   {
     name: {
       english: "Revavroom",
       japanese: "ブロロローム",
       chinese: "普隆隆姆",
-      french: "Vrombotor"
+      french: "Vrombotor",
     },
     id: 966,
-    type: [
-      "Steel",
-      "Poison"
-    ],
+    type: ["Steel", "Poison"],
     base: {
       HP: 80,
       Attack: 119,
       Defense: 90,
       "Sp. Attack": 54,
       "Sp. Defense": 67,
-      Speed: 90
+      Speed: 90,
     },
     species: "Multi-Cyl Pokémon",
-    description: "Ele cria um gás a partir de veneno e minerais de rochas. Em seguida, detona o gás em seus cilindros - agora oito em número - para gerar energia.",
+    description:
+      "Ele cria um gás a partir de veneno e minerais de rochas. Em seguida, detona o gás em seus cilindros - agora oito em número - para gerar energia.",
     profile: {
       height: "1.8 m",
       weight: "120 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Overcoat",
-          false
-        ],
-        [
-          "Filter",
-          true
-        ]
-      ]
+        ["Overcoat", false],
+        ["Filter", true],
+      ],
     },
     evolution: {
-      prev: [
-        "965",
-        "Level INITIAL"
-      ],
+      prev: ["965", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+    },
   },
   {
     name: {
       english: "Cyclizar",
       japanese: "モトトカゲ",
       chinese: "摩托蜥",
-      french: "Motorizard"
+      french: "Motorizard",
     },
     id: 967,
-    type: [
-      "Dragon",
-      "Normal"
-    ],
+    type: ["Dragon", "Normal"],
     base: {
       HP: 70,
       Attack: 95,
       Defense: 65,
       "Sp. Attack": 85,
       "Sp. Defense": 65,
-      Speed: 121
+      Speed: 121,
     },
     species: "Mount Pokémon",
-    description: "Aparentemente, Cyclizar tem permitido que as pessoas montem em suas costas desde os tempos antigos. Representações disso foram encontradas em murais de 10.000 anos.",
+    description:
+      "Aparentemente, Cyclizar tem permitido que as pessoas montem em suas costas desde os tempos antigos. Representações disso foram encontradas em murais de 10.000 anos.",
     profile: {
       height: "1.6 m",
       weight: "63 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Shed-skin",
-          false
-        ],
-        [
-          "Regenerator",
-          true
-        ]
-      ]
+        ["Shed-skin", false],
+        ["Regenerator", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+    },
   },
   {
     name: {
       english: "Orthworm",
       japanese: "ミミズズ",
       chinese: "拖拖蚓",
-      french: "Ferdeter"
+      french: "Ferdeter",
     },
     id: 968,
-    type: [
-      "Steel"
-    ],
+    type: ["Steel"],
     base: {
       HP: 70,
       Attack: 85,
       Defense: 145,
       "Sp. Attack": 60,
       "Sp. Defense": 55,
-      Speed: 65
+      Speed: 65,
     },
     species: "Earthworm Pokémon",
-    description: "Quando atacado, este Pokémon empunhará os tentáculos em seu corpo como punhos e atacará o oponente com uma tempestade de socos.",
+    description:
+      "Quando atacado, este Pokémon empunhará os tentáculos em seu corpo como punhos e atacará o oponente com uma tempestade de socos.",
     profile: {
       height: "2.5 m",
       weight: "310 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Earth-eater",
-          false
-        ],
-        [
-          "Sand-veil",
-          true
-        ]
-      ]
+        ["Earth-eater", false],
+        ["Sand-veil", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+    },
   },
   {
     name: {
       english: "Glimmet",
       japanese: "キラーメ",
       chinese: "晶光芽",
-      french: "Germéclat"
+      french: "Germéclat",
     },
     id: 969,
-    type: [
-      "Rock",
-      "Poison"
-    ],
+    type: ["Rock", "Poison"],
     base: {
       HP: 48,
       Attack: 35,
       Defense: 42,
       "Sp. Attack": 105,
       "Sp. Defense": 60,
-      Speed: 60
+      Speed: 60,
     },
     species: "Ore Pokémon",
-    description: "Ele absorve nutrientes das paredes das cavernas. As pétalas que ele usa são feitas de veneno cristalizado.",
+    description:
+      "Ele absorve nutrientes das paredes das cavernas. As pétalas que ele usa são feitas de veneno cristalizado.",
     profile: {
       height: "0.7 m",
       weight: "8 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Toxic-debris",
-          false
-        ],
-        [
-          "Corrosion",
-          true
-        ]
-      ]
+        ["Toxic-debris", false],
+        ["Corrosion", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "970",
-          "Level 35"
-        ]
-      ]
+      next: [["970", "Level 35"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+    },
   },
   {
     name: {
       english: "Glimmora",
       japanese: "キラフロル",
       chinese: "晶光花",
-      french: "Floréclat"
+      french: "Floréclat",
     },
     id: 970,
-    type: [
-      "Rock",
-      "Poison"
-    ],
+    type: ["Rock", "Poison"],
     base: {
       HP: 83,
       Attack: 55,
       Defense: 90,
       "Sp. Attack": 130,
       "Sp. Defense": 81,
-      Speed: 86
+      Speed: 86,
     },
     species: "Ore Pokémon",
-    description: "Quando este Pokémon detecta perigo, ele abrirá suas pétalas cristalinas e disparará raios de seu corpo cônico.",
+    description:
+      "Quando este Pokémon detecta perigo, ele abrirá suas pétalas cristalinas e disparará raios de seu corpo cônico.",
     profile: {
       height: "1.5 m",
       weight: "45 kg",
-      egg: [
-        "Mineral"
-      ],
+      egg: ["Mineral"],
       ability: [
-        [
-          "Toxic-debris",
-          false
-        ],
-        [
-          "Corrosion",
-          true
-        ]
-      ]
+        ["Toxic-debris", false],
+        ["Corrosion", true],
+      ],
     },
     evolution: {
-      prev: [
-        "969",
-        "Level INITIAL"
-      ],
+      prev: ["969", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+    },
   },
   {
     name: {
       english: "Greavard",
       japanese: "ボチ",
       chinese: "墓仔狗",
-      french: "Toutombe"
+      french: "Toutombe",
     },
     id: 971,
-    type: [
-      "Ghost"
-    ],
+    type: ["Ghost"],
     base: {
       HP: 50,
       Attack: 61,
       Defense: 60,
       "Sp. Attack": 30,
       "Sp. Defense": 55,
-      Speed: 34
+      Speed: 34,
     },
     species: "Ghost Dog Pokémon",
-    description: "Dizem que um Pokémon cão que morreu na natureza sem jamais interagir com um humano renasceu como este Pokémon.",
+    description:
+      "Dizem que um Pokémon cão que morreu na natureza sem jamais interagir com um humano renasceu como este Pokémon.",
     profile: {
       height: "0.6 m",
       weight: "35 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Pickup",
-          false
-        ],
-        [
-          "Fluffy",
-          true
-        ]
-      ]
+        ["Pickup", false],
+        ["Fluffy", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "972",
-          "Level 30"
-        ]
-      ]
+      next: [["972", "Level 30"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+    },
   },
   {
     name: {
       english: "Houndstone",
       japanese: "ハカドッグ",
       chinese: "墓扬犬",
-      french: "Tomberro"
+      french: "Tomberro",
     },
     id: 972,
-    type: [
-      "Ghost"
-    ],
+    type: ["Ghost"],
     base: {
       HP: 72,
       Attack: 101,
       Defense: 100,
       "Sp. Attack": 50,
       "Sp. Defense": 97,
-      Speed: 68
+      Speed: 68,
     },
     species: "Ghost Dog Pokémon",
-    description: "Houndstone passa a maior parte do tempo dormindo em cemitérios. Entre todos os Pokémon cães, este é o mais leal a seu mestre.",
+    description:
+      "Houndstone passa a maior parte do tempo dormindo em cemitérios. Entre todos os Pokémon cães, este é o mais leal a seu mestre.",
     profile: {
       height: "2 m",
       weight: "15 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Sand-rush",
-          false
-        ],
-        [
-          "Fluffy",
-          true
-        ]
-      ]
+        ["Sand-rush", false],
+        ["Fluffy", true],
+      ],
     },
     evolution: {
-      prev: [
-        "971",
-        "Level INITIAL"
-      ],
+      prev: ["971", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    },
   },
   {
     name: {
       english: "Flamigo",
       japanese: "カラミンゴ",
       chinese: "纏红鹤",
-      french: "Flamenroule"
+      french: "Flamenroule",
     },
     id: 973,
-    type: [
-      "Flying",
-      "Fighting"
-    ],
+    type: ["Flying", "Fighting"],
     base: {
       HP: 82,
       Attack: 115,
       Defense: 74,
       "Sp. Attack": 75,
       "Sp. Defense": 64,
-      Speed: 90
+      Speed: 90,
     },
     species: "Synchronize Pokémon",
-    description: "Aparentemente, esta espécie amarra a base de seu pescoço em um nó para que a energia armazenada em sua barriga não escape de seu bico.",
+    description:
+      "Aparentemente, esta espécie amarra a base de seu pescoço em um nó para que a energia armazenada em sua barriga não escape de seu bico.",
     profile: {
       height: "1.6 m",
       weight: "37 kg",
-      egg: [
-        "Flying"
-      ],
+      egg: ["Flying"],
       ability: [
-        [
-          "Scrappy",
-          false
-        ],
-        [
-          "Tangled-feet",
-          false
-        ],
-        [
-          "Costar",
-          true
-        ]
-      ]
+        ["Scrappy", false],
+        ["Tangled-feet", false],
+        ["Costar", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+    },
   },
   {
     name: {
       english: "Cetoddle",
       japanese: "アルクジラ",
       chinese: "走鲸",
-      french: "Piétacé"
+      french: "Piétacé",
     },
     id: 974,
-    type: [
-      "Ice"
-    ],
+    type: ["Ice"],
     base: {
       HP: 108,
       Attack: 68,
       Defense: 45,
       "Sp. Attack": 30,
       "Sp. Defense": 40,
-      Speed: 43
+      Speed: 43,
     },
     species: "Terra Whale Pokémon",
-    description: "Esta espécie deixou o oceano e começou a viver em terra há muito tempo. Parece ser intimamente relacionado a Wailmer.",
+    description:
+      "Esta espécie deixou o oceano e começou a viver em terra há muito tempo. Parece ser intimamente relacionado a Wailmer.",
     profile: {
       height: "1.2 m",
       weight: "45 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Thick-fat",
-          false
-        ],
-        [
-          "Snow-cloak",
-          false
-        ],
-        [
-          "Sheer-force",
-          true
-        ]
-      ]
+        ["Thick-fat", false],
+        ["Snow-cloak", false],
+        ["Sheer-force", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "975",
-          "use ice-stone"
-        ]
-      ]
+      next: [["975", "use ice-stone"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+    },
   },
   {
     name: {
       english: "Cetitan",
       japanese: "ハルクジラ",
       chinese: "浩大鲸",
-      french: "Balbalèze"
+      french: "Balbalèze",
     },
     id: 975,
-    type: [
-      "Ice"
-    ],
+    type: ["Ice"],
     base: {
       HP: 170,
       Attack: 113,
       Defense: 65,
       "Sp. Attack": 45,
       "Sp. Defense": 55,
-      Speed: 73
+      Speed: 73,
     },
     species: "Terra Whale Pokémon",
-    description: "Este Pokémon vagueia por áreas nevadas e geladas. Ele protege seu corpo com músculos poderosos e uma camada grossa de gordura sob sua pele.",
+    description:
+      "Este Pokémon vagueia por áreas nevadas e geladas. Ele protege seu corpo com músculos poderosos e uma camada grossa de gordura sob sua pele.",
     profile: {
       height: "4.5 m",
       weight: "700 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Thick-fat",
-          false
-        ],
-        [
-          "Slush-rush",
-          false
-        ],
-        [
-          "Sheer-force",
-          true
-        ]
-      ]
+        ["Thick-fat", false],
+        ["Slush-rush", false],
+        ["Sheer-force", true],
+      ],
     },
     evolution: {
-      prev: [
-        "974",
-        "Level INITIAL"
-      ],
+      prev: ["974", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+    },
   },
   {
     name: {
       english: "Veluza",
       japanese: "ミガルーサ",
       chinese: "轻身鳕",
-      french: "Délestin"
+      french: "Délestin",
     },
     id: 976,
-    type: [
-      "Water",
-      "Psychic"
-    ],
+    type: ["Water", "Psychic"],
     base: {
       HP: 90,
       Attack: 102,
       Defense: 73,
       "Sp. Attack": 78,
       "Sp. Defense": 65,
-      Speed: 70
+      Speed: 70,
     },
     species: "Jettison Pokémon",
-    description: "Quando Veluza descarta carne desnecessária, sua mente se torna aguçada e seu poder psíquico aumenta. A carne extra tem um sabor leve, mas delicioso.",
+    description:
+      "Quando Veluza descarta carne desnecessária, sua mente se torna aguçada e seu poder psíquico aumenta. A carne extra tem um sabor leve, mas delicioso.",
     profile: {
       height: "2.5 m",
       weight: "90 kg",
-      egg: [
-        "Water2"
-      ],
+      egg: ["Water2"],
       ability: [
-        [
-          "Mold-breaker",
-          false
-        ],
-        [
-          "Sharpness",
-          true
-        ]
-      ]
+        ["Mold-breaker", false],
+        ["Sharpness", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+    },
   },
   {
     name: {
       english: "Dondozo",
       japanese: "ヘイラッシャ",
       chinese: "吃吼霸",
-      french: "Oyacata"
+      french: "Oyacata",
     },
     id: 977,
-    type: [
-      "Water"
-    ],
+    type: ["Water"],
     base: {
       HP: 150,
       Attack: 100,
       Defense: 115,
       "Sp. Attack": 65,
       "Sp. Defense": 65,
-      Speed: 35
+      Speed: 35,
     },
     species: "Big Catfish Pokémon",
-    description: "Este Pokémon é um glutão, mas é péssimo em conseguir comida. Ele faz dupla com um Tatsugiri para caçar presas.",
+    description:
+      "Este Pokémon é um glutão, mas é péssimo em conseguir comida. Ele faz dupla com um Tatsugiri para caçar presas.",
     profile: {
       height: "12 m",
       weight: "220 kg",
-      egg: [
-        "Water2"
-      ],
+      egg: ["Water2"],
       ability: [
-        [
-          "Unaware",
-          false
-        ],
-        [
-          "Oblivious",
-          false
-        ],
-        [
-          "Water-veil",
-          true
-        ]
-      ]
+        ["Unaware", false],
+        ["Oblivious", false],
+        ["Water-veil", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+    },
   },
   {
     name: {
       english: "Annihilape",
       japanese: "コノヨザル",
       chinese: "弃世猴",
-      french: "Courrousinge"
+      french: "Courrousinge",
     },
     id: 979,
-    type: [
-      "Fighting",
-      "Ghost"
-    ],
+    type: ["Fighting", "Ghost"],
     base: {
       HP: 110,
       Attack: 115,
       Defense: 80,
       "Sp. Attack": 50,
       "Sp. Defense": 90,
-      Speed: 90
+      Speed: 90,
     },
     species: "Rage Monkey Pokémon",
-    description: "Quando sua raiva subiu além de um ponto crítico, este Pokémon ganhou poder que não é limitado pelos limites de seu corpo físico.",
+    description:
+      "Quando sua raiva subiu além de um ponto crítico, este Pokémon ganhou poder que não é limitado pelos limites de seu corpo físico.",
     profile: {
       height: "1.2 m",
       weight: "56 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Vital-spirit",
-          false
-        ],
-        [
-          "Inner-focus",
-          false
-        ],
-        [
-          "Defiant",
-          true
-        ]
-      ]
+        ["Vital-spirit", false],
+        ["Inner-focus", false],
+        ["Defiant", true],
+      ],
     },
     evolution: {
-      prev: [
-        "57",
-        "Level 28"
-      ],
+      prev: ["57", "Level 28"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    },
   },
   {
     name: {
       english: "Clodsire",
       japanese: "ドオー",
       chinese: "土王",
-      french: "Terraiste"
+      french: "Terraiste",
     },
     id: 980,
-    type: [
-      "Poison",
-      "Ground"
-    ],
+    type: ["Poison", "Ground"],
     base: {
       HP: 130,
       Attack: 75,
       Defense: 60,
       "Sp. Attack": 45,
       "Sp. Defense": 100,
-      Speed: 20
+      Speed: 20,
     },
     species: "Spiny Fish Pokémon",
-    description: "Quando atacado, este Pokémon retaliará espetando espinhos grossos em seu corpo. É um movimento arriscado que coloca tudo em jogo.",
+    description:
+      "Quando atacado, este Pokémon retaliará espetando espinhos grossos em seu corpo. É um movimento arriscado que coloca tudo em jogo.",
     profile: {
       height: "1.8 m",
       weight: "223 kg",
-      egg: [
-        "Water1",
-        "Ground"
-      ],
+      egg: ["Water1", "Ground"],
       ability: [
-        [
-          "Poison-point",
-          false
-        ],
-        [
-          "Water-absorb",
-          false
-        ],
-        [
-          "Unaware",
-          true
-        ]
-      ]
+        ["Poison-point", false],
+        ["Water-absorb", false],
+        ["Unaware", true],
+      ],
     },
     evolution: {
-      prev: [
-        "194",
-        "Level INITIAL"
-      ],
+      prev: ["194", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+    },
   },
   {
     name: {
       english: "Farigiraf",
       japanese: "リキキリン",
       chinese: "奇麒麟",
-      french: "Farigiraf"
+      french: "Farigiraf",
     },
     id: 981,
-    type: [
-      "Normal",
-      "Psychic"
-    ],
+    type: ["Normal", "Psychic"],
     base: {
       HP: 120,
       Attack: 90,
       Defense: 70,
       "Sp. Attack": 110,
       "Sp. Defense": 70,
-      Speed: 60
+      Speed: 60,
     },
     species: "Long Neck Pokémon",
-    description: "Agora que as ondas cerebrais da cabeça e da cauda estão sincronizadas, o poder psíquico deste Pokémon é 10 vezes mais forte do que o de Girafarig.",
+    description:
+      "Agora que as ondas cerebrais da cabeça e da cauda estão sincronizadas, o poder psíquico deste Pokémon é 10 vezes mais forte do que o de Girafarig.",
     profile: {
       height: "3.2 m",
       weight: "160 kg",
-      egg: [
-        "Ground"
-      ],
+      egg: ["Ground"],
       ability: [
-        [
-          "Cud-chew",
-          false
-        ],
-        [
-          "Armor-tail",
-          false
-        ],
-        [
-          "Sap-sipper",
-          true
-        ]
-      ]
+        ["Cud-chew", false],
+        ["Armor-tail", false],
+        ["Sap-sipper", true],
+      ],
     },
     evolution: {
-      prev: [
-        "203",
-        "Level INITIAL"
-      ],
+      prev: ["203", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+    },
   },
   {
     name: {
       english: "Kingambit",
       japanese: "ドドゲザン",
       chinese: "仆刀将军",
-      french: "Scalpereur"
+      french: "Scalpereur",
     },
     id: 983,
-    type: [
-      "Dark",
-      "Steel"
-    ],
+    type: ["Dark", "Steel"],
     base: {
       HP: 100,
       Attack: 135,
       Defense: 120,
       "Sp. Attack": 60,
       "Sp. Defense": 85,
-      Speed: 50
+      Speed: 50,
     },
     species: "Big Blade Pokémon",
-    description: "Apenas um Bisharp que se destaca acima de todos os outros em seu vasto exército pode evoluir para Kingambit.",
+    description:
+      "Apenas um Bisharp que se destaca acima de todos os outros em seu vasto exército pode evoluir para Kingambit.",
     profile: {
       height: "2 m",
       weight: "120 kg",
-      egg: [
-        "Humanshape"
-      ],
+      egg: ["Humanshape"],
       ability: [
-        [
-          "Defiant",
-          false
-        ],
-        [
-          "Supreme-overlord",
-          false
-        ],
-        [
-          "Pressure",
-          true
-        ]
-      ]
+        ["Defiant", false],
+        ["Supreme-overlord", false],
+        ["Pressure", true],
+      ],
     },
     evolution: {
-      prev: [
-        "625",
-        "Level 52"
-      ],
+      prev: ["625", "Level 52"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+    },
   },
   {
     name: {
       english: "Great Tusk",
       japanese: "イダイナキバ",
       chinese: "雄伟牙",
-      french: "Fort-Ivoire"
+      french: "Fort-Ivoire",
     },
     id: 984,
-    type: [
-      "Ground",
-      "Fighting"
-    ],
+    type: ["Ground", "Fighting"],
     base: {
       HP: 115,
       Attack: 131,
       Defense: 131,
       "Sp. Attack": 53,
       "Sp. Defense": 53,
-      Speed: 87
+      Speed: 87,
     },
     species: "Paradox Pokémon",
-    description: "Observações deste Pokémon ocorreram nos últimos anos. O nome Great Tusk foi retirado de uma criatura listada em um determinado livro.",
+    description:
+      "Observações deste Pokémon ocorreram nos últimos anos. O nome Great Tusk foi retirado de uma criatura listada em um determinado livro.",
     profile: {
       height: "2.2 m",
       weight: "320 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+    },
   },
   {
     name: {
       english: "Scream Tail",
       japanese: "サケブシッポ",
       chinese: "吼叫尾",
-      french: "Hurle-Queue"
+      french: "Hurle-Queue",
     },
     id: 985,
-    type: [
-      "Fairy",
-      "Psychic"
-    ],
+    type: ["Fairy", "Psychic"],
     base: {
       HP: 115,
       Attack: 65,
       Defense: 99,
       "Sp. Attack": 65,
       "Sp. Defense": 115,
-      Speed: 111
+      Speed: 111,
     },
     species: "Paradox Pokémon",
-    description: "Houve apenas uma observação relatada deste Pokémon. Ele se assemelha a uma criatura misteriosa retratada em um antigo diário de expedição.",
+    description:
+      "Houve apenas uma observação relatada deste Pokémon. Ele se assemelha a uma criatura misteriosa retratada em um antigo diário de expedição.",
     profile: {
       height: "1.2 m",
       weight: "8 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+    },
   },
   {
     name: {
       english: "Brute Bonnet",
       japanese: "アラブルタケ",
       chinese: "猛恶菇",
-      french: "Fongus-Furie"
+      french: "Fongus-Furie",
     },
     id: 986,
-    type: [
-      "Grass",
-      "Dark"
-    ],
+    type: ["Grass", "Dark"],
     base: {
       HP: 111,
       Attack: 127,
       Defense: 99,
       "Sp. Attack": 79,
       "Sp. Defense": 99,
-      Speed: 55
+      Speed: 55,
     },
     species: "Paradox Pokémon",
-    description: "É possível que a criatura listada como Brute Bonnet em um determinado livro seja realmente este Pokémon.",
+    description:
+      "É possível que a criatura listada como Brute Bonnet em um determinado livro seja realmente este Pokémon.",
     profile: {
       height: "1.2 m",
       weight: "21 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+    },
   },
   {
     name: {
       english: "Flutter Mane",
       japanese: "ハバタクカミ",
       chinese: "振翼发",
-      french: "Flotte-Mèche"
+      french: "Flotte-Mèche",
     },
     id: 987,
-    type: [
-      "Ghost",
-      "Fairy"
-    ],
+    type: ["Ghost", "Fairy"],
     base: {
       HP: 55,
       Attack: 55,
       Defense: 55,
       "Sp. Attack": 135,
       "Sp. Defense": 135,
-      Speed: 135
+      Speed: 135,
     },
     species: "Paradox Pokémon",
-    description: "Este Pokémon possui características semelhantes às de Flutter Mane, uma criatura mencionada em um determinado livro.",
+    description:
+      "Este Pokémon possui características semelhantes às de Flutter Mane, uma criatura mencionada em um determinado livro.",
     profile: {
       height: "1.4 m",
       weight: "4 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+    },
   },
   {
     name: {
       english: "Slither Wing",
       japanese: "チヲハウハネ",
       chinese: "爬地翅",
-      french: "Rampe-Ailes"
+      french: "Rampe-Ailes",
     },
     id: 988,
-    type: [
-      "Bug",
-      "Fighting"
-    ],
+    type: ["Bug", "Fighting"],
     base: {
       HP: 85,
       Attack: 135,
       Defense: 79,
       "Sp. Attack": 85,
       "Sp. Defense": 105,
-      Speed: 81
+      Speed: 81,
     },
     species: "Paradox Pokémon",
-    description: "Este Pokémon misterioso tem algumas semelhanças com uma criatura que um livro antigo apresentou como Slither Wing.",
+    description:
+      "Este Pokémon misterioso tem algumas semelhanças com uma criatura que um livro antigo apresentou como Slither Wing.",
     profile: {
       height: "3.2 m",
       weight: "92 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+    },
   },
   {
     name: {
       english: "Sandy Shocks",
       japanese: "スナノケガワ",
       chinese: "沙铁皮",
-      french: "Pelage-Sablé"
+      french: "Pelage-Sablé",
     },
     id: 989,
-    type: [
-      "Electric",
-      "Ground"
-    ],
+    type: ["Electric", "Ground"],
     base: {
       HP: 85,
       Attack: 81,
       Defense: 97,
       "Sp. Attack": 121,
       "Sp. Defense": 85,
-      Speed: 101
+      Speed: 101,
     },
     species: "Paradox Pokémon",
-    description: "Não existem registros de este Pokémon ter sido capturado. Os dados são escassos, mas as características do Pokémon coincidem com uma criatura mostrada em um diário de expedição.",
+    description:
+      "Não existem registros de este Pokémon ter sido capturado. Os dados são escassos, mas as características do Pokémon coincidem com uma criatura mostrada em um diário de expedição.",
     profile: {
       height: "2.3 m",
       weight: "60 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+    },
   },
   {
     name: {
       english: "Iron Treads",
       japanese: "テツノワダチ",
       chinese: "铁轍迹",
-      french: "Roue-de-Fer"
+      french: "Roue-de-Fer",
     },
     id: 990,
-    type: [
-      "Ground",
-      "Steel"
-    ],
+    type: ["Ground", "Steel"],
     base: {
       HP: 90,
       Attack: 112,
       Defense: 120,
       "Sp. Attack": 72,
       "Sp. Defense": 70,
-      Speed: 106
+      Speed: 106,
     },
     species: "Paradox Pokémon",
-    description: "Este Pokémon se assemelha muito a uma arma científica que uma revista paranormal afirmou ter sido enviada a este planeta por alienígenas.",
+    description:
+      "Este Pokémon se assemelha muito a uma arma científica que uma revista paranormal afirmou ter sido enviada a este planeta por alienígenas.",
     profile: {
       height: "0.9 m",
       weight: "240 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+    },
   },
   {
     name: {
       english: "Iron Bundle",
       japanese: "テツノツツミ",
       chinese: "铁包袱",
-      french: "Hotte-de-Fer"
+      french: "Hotte-de-Fer",
     },
     id: 991,
-    type: [
-      "Ice",
-      "Water"
-    ],
+    type: ["Ice", "Water"],
     base: {
       HP: 56,
       Attack: 80,
       Defense: 114,
       "Sp. Attack": 124,
       "Sp. Defense": 60,
-      Speed: 136
+      Speed: 136,
     },
     species: "Paradox Pokémon",
-    description: "Sua forma é semelhante a um robô apresentado em um artigo de uma revista paranormal. O robô teria sido criado por uma civilização antiga.",
+    description:
+      "Sua forma é semelhante a um robô apresentado em um artigo de uma revista paranormal. O robô teria sido criado por uma civilização antiga.",
     profile: {
       height: "0.6 m",
       weight: "11 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+    },
   },
   {
     name: {
       english: "Iron Hands",
       japanese: "テツノカイナ",
       chinese: "铁臂膀",
-      french: "Paume-de-Fer"
+      french: "Paume-de-Fer",
     },
     id: 992,
-    type: [
-      "Fighting",
-      "Electric"
-    ],
+    type: ["Fighting", "Electric"],
     base: {
       HP: 154,
       Attack: 140,
       Defense: 108,
       "Sp. Attack": 50,
       "Sp. Defense": 68,
-      Speed: 50
+      Speed: 50,
     },
     species: "Paradox Pokémon",
-    description: "Ele é muito semelhante a um ciborgue coberto exclusivamente por uma revista paranormal. O ciborgue teria sido a forma modificada de um determinado atleta.",
+    description:
+      "Ele é muito semelhante a um ciborgue coberto exclusivamente por uma revista paranormal. O ciborgue teria sido a forma modificada de um determinado atleta.",
     profile: {
       height: "1.8 m",
       weight: "380.7 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+    },
   },
   {
     name: {
       english: "Iron Jugulis",
       japanese: "テツノコウベ",
       chinese: "铁脖颈",
-      french: "Têtes-de-Fer"
+      french: "Têtes-de-Fer",
     },
     id: 993,
-    type: [
-      "Dark",
-      "Flying"
-    ],
+    type: ["Dark", "Flying"],
     base: {
       HP: 94,
       Attack: 80,
       Defense: 86,
       "Sp. Attack": 122,
       "Sp. Defense": 80,
-      Speed: 108
+      Speed: 108,
     },
     species: "Paradox Pokémon",
-    description: "Ele se assemelha a um determinado Pokémon apresentado em uma revista paranormal, descrito como a prole de um Hydreigon que se apaixonou por um robô.",
+    description:
+      "Ele se assemelha a um determinado Pokémon apresentado em uma revista paranormal, descrito como a prole de um Hydreigon que se apaixonou por um robô.",
     profile: {
       height: "1.3 m",
       weight: "111 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+    },
   },
   {
     name: {
       english: "Iron Moth",
       japanese: "テツノドクガ",
       chinese: "铁毒蛾",
-      french: "Mite-de-Fer"
+      french: "Mite-de-Fer",
     },
     id: 994,
-    type: [
-      "Fire",
-      "Poison"
-    ],
+    type: ["Fire", "Poison"],
     base: {
       HP: 80,
       Attack: 70,
       Defense: 60,
       "Sp. Attack": 140,
       "Sp. Defense": 110,
-      Speed: 110
+      Speed: 110,
     },
     species: "Paradox Pokémon",
-    description: "Este Pokémon se assemelha a um objeto desconhecido descrito em uma revista paranormal como um OVNI enviado para observar a humanidade.",
+    description:
+      "Este Pokémon se assemelha a um objeto desconhecido descrito em uma revista paranormal como um OVNI enviado para observar a humanidade.",
     profile: {
       height: "1.2 m",
       weight: "36 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+    },
   },
   {
     name: {
       english: "Iron Thorns",
       japanese: "テツノイバラ",
       chinese: "铁荆棘",
-      french: "Épine-de-Fer"
+      french: "Épine-de-Fer",
     },
     id: 995,
-    type: [
-      "Rock",
-      "Electric"
-    ],
+    type: ["Rock", "Electric"],
     base: {
       HP: 100,
       Attack: 134,
       Defense: 110,
       "Sp. Attack": 70,
       "Sp. Defense": 84,
-      Speed: 72
+      Speed: 72,
     },
     species: "Paradox Pokémon",
-    description: "Ele tem algumas semelhanças com um Pokémon apresentado em uma revista duvidosa como um Tyranitar de um bilhão de anos no futuro.",
+    description:
+      "Ele tem algumas semelhanças com um Pokémon apresentado em uma revista duvidosa como um Tyranitar de um bilhão de anos no futuro.",
     profile: {
       height: "1.6 m",
       weight: "303 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+    },
   },
   {
     name: {
       english: "Frigibax",
       japanese: "セビエ",
       chinese: "凉脊龙",
-      french: "Frigodo"
+      french: "Frigodo",
     },
     id: 996,
-    type: [
-      "Dragon",
-      "Ice"
-    ],
+    type: ["Dragon", "Ice"],
     base: {
       HP: 65,
       Attack: 75,
       Defense: 45,
       "Sp. Attack": 35,
       "Sp. Defense": 45,
-      Speed: 55
+      Speed: 55,
     },
     species: "Ice Fin Pokémon",
-    description: "Frigibax absorve calor através de sua barbatana dorsal e converte o calor em energia de gelo. Quanto maior a temperatura, mais energia Frigibax armazena.",
+    description:
+      "Frigibax absorve calor através de sua barbatana dorsal e converte o calor em energia de gelo. Quanto maior a temperatura, mais energia Frigibax armazena.",
     profile: {
       height: "0.5 m",
       weight: "17 kg",
-      egg: [
-        "Dragon",
-        "Mineral"
-      ],
+      egg: ["Dragon", "Mineral"],
       ability: [
-        [
-          "Thermal-exchange",
-          false
-        ],
-        [
-          "Ice-body",
-          true
-        ]
-      ]
+        ["Thermal-exchange", false],
+        ["Ice-body", true],
+      ],
     },
     evolution: {
       next: [
-        [
-          "997",
-          "Level 35"
-        ],
-        [
-          "998",
-          "Level 54"
-        ]
-      ]
+        ["997", "Level 35"],
+        ["998", "Level 54"],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+    },
   },
   {
     name: {
       english: "Arctibax",
       japanese: "セゴール",
       chinese: "冻脊龙",
-      french: "Cryodo"
+      french: "Cryodo",
     },
     id: 997,
-    type: [
-      "Dragon",
-      "Ice"
-    ],
+    type: ["Dragon", "Ice"],
     base: {
       HP: 90,
       Attack: 95,
       Defense: 66,
       "Sp. Attack": 45,
       "Sp. Defense": 65,
-      Speed: 62
+      Speed: 62,
     },
     species: "Ice Fin Pokémon",
-    description: "Arctibax congela o ar ao seu redor, protegendo seu rosto com uma máscara de gelo e transformando sua barbatana dorsal em uma lâmina de gelo.",
+    description:
+      "Arctibax congela o ar ao seu redor, protegendo seu rosto com uma máscara de gelo e transformando sua barbatana dorsal em uma lâmina de gelo.",
     profile: {
       height: "0.8 m",
       weight: "30 kg",
-      egg: [
-        "Dragon",
-        "Mineral"
-      ],
+      egg: ["Dragon", "Mineral"],
       ability: [
-        [
-          "Thermal-exchange",
-          false
-        ],
-        [
-          "Ice-body",
-          true
-        ]
-      ]
+        ["Thermal-exchange", false],
+        ["Ice-body", true],
+      ],
     },
     evolution: {
-      prev: [
-        "996",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "998",
-          "Level 54"
-        ]
-      ]
+      prev: ["996", "Level INITIAL"],
+      next: [["998", "Level 54"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+    },
   },
   {
     name: {
       english: "Baxcalibur",
       japanese: "セグレイブ",
       chinese: "戟脊龙",
-      french: "Glaivodo"
+      french: "Glaivodo",
     },
     id: 998,
-    type: [
-      "Dragon",
-      "Ice"
-    ],
+    type: ["Dragon", "Ice"],
     base: {
       HP: 115,
       Attack: 145,
       Defense: 92,
       "Sp. Attack": 75,
       "Sp. Defense": 86,
-      Speed: 87
+      Speed: 87,
     },
     species: "Ice Dragon Pokémon",
-    description: "Este Pokémon lança ar criogênico de sua boca. Este ar pode congelar instantaneamente até mesmo lava quente líquida.",
+    description:
+      "Este Pokémon lança ar criogênico de sua boca. Este ar pode congelar instantaneamente até mesmo lava quente líquida.",
     profile: {
       height: "2.1 m",
       weight: "210 kg",
-      egg: [
-        "Dragon",
-        "Mineral"
-      ],
+      egg: ["Dragon", "Mineral"],
       ability: [
-        [
-          "Thermal-exchange",
-          false
-        ],
-        [
-          "Ice-body",
-          true
-        ]
-      ]
+        ["Thermal-exchange", false],
+        ["Ice-body", true],
+      ],
     },
     evolution: {
-      prev: [
-        "997",
-        "Level 35"
-      ],
+      prev: ["997", "Level 35"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+    },
   },
   {
     name: {
       english: "Gimmighoul",
       japanese: "コレクレー",
       chinese: "索财灵",
-      french: "Mordudor"
+      french: "Mordudor",
     },
     id: 999,
-    type: [
-      "Ghost"
-    ],
+    type: ["Ghost"],
     base: {
       HP: 45,
       Attack: 30,
       Defense: 70,
       "Sp. Attack": 75,
       "Sp. Defense": 70,
-      Speed: 10
+      Speed: 10,
     },
     species: "Coin Chest Pokémon",
-    description: "Este Pokémon nasceu dentro de um baú do tesouro há cerca de 1.500 anos. Ele suga a força vital de patifes que tentam roubar o tesouro.",
+    description:
+      "Este Pokémon nasceu dentro de um baú do tesouro há cerca de 1.500 anos. Ele suga a força vital de patifes que tentam roubar o tesouro.",
     profile: {
       height: "0.3 m",
       weight: "5 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Rattled",
-          false
-        ],
-        [
-          "Rattled",
-          true
-        ]
-      ]
+        ["Rattled", false],
+        ["Rattled", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "1000",
-          "Level up com 999 Moedas Gimmighoul"
-        ]
-    ],
+      next: [["1000", "Level up com 999 Moedas Gimmighoul"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+    },
   },
   {
     name: {
       english: "Gholdengo",
       japanese: "サーフゴー",
       chinese: "赛富豪",
-      french: "Gromago"
+      french: "Gromago",
     },
     id: 1000,
-    type: [
-      "Steel",
-      "Ghost"
-    ],
+    type: ["Steel", "Ghost"],
     base: {
       HP: 87,
       Attack: 60,
       Defense: 95,
       "Sp. Attack": 133,
       "Sp. Defense": 91,
-      Speed: 84
+      Speed: 84,
     },
     species: "Coin Entity Pokémon",
-    description: "Seu corpo parece ser feito de 1.000 moedas. Este Pokémon se dá bem com os outros e é rápido em fazer amizade com qualquer pessoa.",
+    description:
+      "Seu corpo parece ser feito de 1.000 moedas. Este Pokémon se dá bem com os outros e é rápido em fazer amizade com qualquer pessoa.",
     profile: {
       height: "1.2 m",
       weight: "30 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Good-as-gold",
-          false
-        ],
-        [
-          "Good-as-gold",
-          true
-        ]
-      ]
+        ["Good-as-gold", false],
+        ["Good-as-gold", true],
+      ],
     },
     evolution: {
-      prev: [
-        "999",
-        "Level INITIAL"
-      ],
+      prev: ["999", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+    },
   },
   {
     name: {
       english: "Wo-Chien",
       japanese: "チオンジェン",
       chinese: "古简蜗",
-      french: "Chongjian"
+      french: "Chongjian",
     },
     id: 1001,
-    type: [
-      "Dark",
-      "Grass"
-    ],
+    type: ["Dark", "Grass"],
     base: {
       HP: 85,
       Attack: 85,
       Defense: 100,
       "Sp. Attack": 95,
       "Sp. Defense": 135,
-      Speed: 70
+      Speed: 70,
     },
     species: "Ruinous Pokémon",
-    description: "O rancor de uma pessoa punida por escrever as más ações do rei em tábuas de madeira se vestiu com folhas mortas para se tornar um Pokémon.",
+    description:
+      "O rancor de uma pessoa punida por escrever as más ações do rei em tábuas de madeira se vestiu com folhas mortas para se tornar um Pokémon.",
     profile: {
       height: "1.5 m",
       weight: "74.2 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Tablets-of-ruin",
-          false
-        ],
-        [
-          "Tablets-of-ruin",
-          true
-        ]
-      ]
+        ["Tablets-of-ruin", false],
+        ["Tablets-of-ruin", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+    },
   },
   {
     name: {
       english: "Chien-Pao",
       japanese: "パオジアン",
       chinese: "古剑豹",
-      french: "Baojian"
+      french: "Baojian",
     },
     id: 1002,
-    type: [
-      "Dark",
-      "Ice"
-    ],
+    type: ["Dark", "Ice"],
     base: {
       HP: 80,
       Attack: 120,
       Defense: 80,
       "Sp. Attack": 90,
       "Sp. Defense": 65,
-      Speed: 135
+      Speed: 135,
     },
     species: "Ruinous Pokémon",
-    description: "Este Pokémon pode controlar 100 toneladas de neve caída. Ele brinca inocentemente saltando para dentro e para fora de avalanches que causou.",
+    description:
+      "Este Pokémon pode controlar 100 toneladas de neve caída. Ele brinca inocentemente saltando para dentro e para fora de avalanches que causou.",
     profile: {
       height: "1.9 m",
       weight: "152.2 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Sword-of-ruin",
-          false
-        ],
-        [
-          "Sword-of-ruin",
-          true
-        ]
-      ]
+        ["Sword-of-ruin", false],
+        ["Sword-of-ruin", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+    },
   },
   {
     name: {
       english: "Ting-Lu",
       japanese: "ディンルー",
       chinese: "古鼎鹿",
-      french: "Dinglu"
+      french: "Dinglu",
     },
     id: 1003,
-    type: [
-      "Dark",
-      "Ground"
-    ],
+    type: ["Dark", "Ground"],
     base: {
       HP: 155,
       Attack: 110,
       Defense: 125,
       "Sp. Attack": 55,
       "Sp. Defense": 80,
-      Speed: 45
+      Speed: 45,
     },
     species: "Ruinous Pokémon",
-    description: "O medo injetado em um antigo vaso ritual se vestiu com rochas e sujeira para se tornar um Pokémon.",
+    description:
+      "O medo injetado em um antigo vaso ritual se vestiu com rochas e sujeira para se tornar um Pokémon.",
     profile: {
       height: "2.7 m",
       weight: "699.7 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Vessel-of-ruin",
-          false
-        ],
-        [
-          "Vessel-of-ruin",
-          true
-        ]
-      ]
+        ["Vessel-of-ruin", false],
+        ["Vessel-of-ruin", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+    },
   },
   {
     name: {
       english: "Chi-Yu",
       japanese: "イーユイ",
       chinese: "古玉鱼",
-      french: "Yuyu"
+      french: "Yuyu",
     },
     id: 1004,
-    type: [
-      "Dark",
-      "Fire"
-    ],
+    type: ["Dark", "Fire"],
     base: {
       HP: 55,
       Attack: 80,
       Defense: 80,
       "Sp. Attack": 135,
       "Sp. Defense": 120,
-      Speed: 100
+      Speed: 100,
     },
     species: "Ruinous Pokémon",
-    description: "Ele controla chamas que queimam a mais de 2.980 graus Celsius. Ele nada casualmente no mar de lava que cria derretendo rocha e areia.",
+    description:
+      "Ele controla chamas que queimam a mais de 2.980 graus Celsius. Ele nada casualmente no mar de lava que cria derretendo rocha e areia.",
     profile: {
       height: "0.4 m",
       weight: "4.9 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Beads-of-ruin",
-          false
-        ],
-        [
-          "Beads-of-ruin",
-          true
-        ]
-      ]
+        ["Beads-of-ruin", false],
+        ["Beads-of-ruin", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+    },
   },
   {
     name: {
       english: "Roaring Moon",
       japanese: "トドロクツキ",
       chinese: "轰鸣月",
-      french: "Rugit-Lune"
+      french: "Rugit-Lune",
     },
     id: 1005,
-    type: [
-      "Dragon",
-      "Dark"
-    ],
+    type: ["Dragon", "Dark"],
     base: {
       HP: 105,
       Attack: 139,
       Defense: 71,
       "Sp. Attack": 55,
       "Sp. Defense": 101,
-      Speed: 119
+      Speed: 119,
     },
     species: "Paradox Pokémon",
-    description: "É possível que esta seja a criatura listada como Roaring Moon em um diário de expedição que ainda guarda muitos mistérios.",
+    description:
+      "É possível que esta seja a criatura listada como Roaring Moon em um diário de expedição que ainda guarda muitos mistérios.",
     profile: {
       height: "2 m",
       weight: "380 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+    },
   },
   {
     name: {
       english: "Iron Valiant",
       japanese: "テツノブジン",
       chinese: "铁武者",
-      french: "Garde-de-Fer"
+      french: "Garde-de-Fer",
     },
     id: 1006,
-    type: [
-      "Fairy",
-      "Fighting"
-    ],
+    type: ["Fairy", "Fighting"],
     base: {
       HP: 74,
       Attack: 130,
       Defense: 90,
       "Sp. Attack": 120,
       "Sp. Defense": 60,
-      Speed: 116
+      Speed: 116,
     },
     species: "Paradox Pokémon",
-    description: "Ele tem algumas semelhanças com a invenção de um cientista maluco coberta em uma revista paranormal.",
+    description:
+      "Ele tem algumas semelhanças com a invenção de um cientista maluco coberta em uma revista paranormal.",
     profile: {
       height: "1.4 m",
       weight: "35 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+    },
   },
   {
     name: {
       english: "Koraidon",
       japanese: "コライドン",
       chinese: "故勒顿",
-      french: "Koraidon"
+      french: "Koraidon",
     },
     id: 1007,
-    type: [
-      "Fighting",
-      "Dragon"
-    ],
+    type: ["Fighting", "Dragon"],
     base: {
       HP: 100,
       Attack: 135,
       Defense: 115,
       "Sp. Attack": 85,
       "Sp. Defense": 100,
-      Speed: 135
+      Speed: 135,
     },
     species: "Paradox Pokémon",
-    description: "Este parece ser o Rei Alado mencionado em um antigo diário de expedição. Dizia-se que ele havia dividido a terra com suas próprias mãos.",
+    description:
+      "Este parece ser o Rei Alado mencionado em um antigo diário de expedição. Dizia-se que ele havia dividido a terra com suas próprias mãos.",
     profile: {
       height: "2.5 m",
       weight: "303 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Orichalcum-pulse",
-          false
-        ],
-        [
-          "Orichalcum-pulse",
-          true
-        ]
-      ]
+        ["Orichalcum-pulse", false],
+        ["Orichalcum-pulse", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+    },
   },
   {
     name: {
       english: "Miraidon",
       japanese: "ミライドン",
       chinese: "密勒顿",
-      french: "Miraidon"
+      french: "Miraidon",
     },
     id: 1008,
-    type: [
-      "Electric",
-      "Dragon"
-    ],
+    type: ["Electric", "Dragon"],
     base: {
       HP: 100,
       Attack: 85,
       Defense: 100,
       "Sp. Attack": 135,
       "Sp. Defense": 115,
-      Speed: 135
+      Speed: 135,
     },
     species: "Paradox Pokémon",
-    description: "Muito permanece desconhecido sobre esta criatura. Ele se assemelha a Cyclizar, mas é muito mais implacável e poderoso.",
+    description:
+      "Muito permanece desconhecido sobre esta criatura. Ele se assemelha a Cyclizar, mas é muito mais implacável e poderoso.",
     profile: {
       height: "3.5 m",
       weight: "240 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Hadron-engine",
-          false
-        ],
-        [
-          "Hadron-engine",
-          true
-        ]
-      ]
+        ["Hadron-engine", false],
+        ["Hadron-engine", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+    },
   },
   {
     name: {
       english: "Walking Wake",
       japanese: "ウネルミナモ",
       chinese: "波荡水",
-      french: "Serpente-Eau"
+      french: "Serpente-Eau",
     },
     id: 1009,
-    type: [
-      "Water",
-      "Dragon"
-    ],
+    type: ["Water", "Dragon"],
     base: {
       HP: 99,
       Attack: 83,
       Defense: 91,
       "Sp. Attack": 125,
       "Sp. Defense": 83,
-      Speed: 109
+      Speed: 109,
     },
     species: "Paradox Pokémon",
-    description: "Esta criatura feroz está envolta em mistério. Ele leva o nome de um monstro aquático mencionado em um antigo diário de expedição.",
+    description:
+      "Esta criatura feroz está envolta em mistério. Ele leva o nome de um monstro aquático mencionado em um antigo diário de expedição.",
     profile: {
       height: "3.5 m",
       weight: "280 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Protosynthesis",
-          false
-        ],
-        [
-          "Protosynthesis",
-          true
-        ]
-      ]
+        ["Protosynthesis", false],
+        ["Protosynthesis", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+    },
   },
   {
     name: {
       english: "Iron Leaves",
       japanese: "テツノイサハ",
       chinese: "铁斑叶",
-      french: "Vert-de-Fer"
+      french: "Vert-de-Fer",
     },
     id: 1010,
-    type: [
-      "Grass",
-      "Psychic"
-    ],
+    type: ["Grass", "Psychic"],
     base: {
       HP: 90,
       Attack: 130,
       Defense: 88,
       "Sp. Attack": 70,
       "Sp. Defense": 108,
-      Speed: 104
+      Speed: 104,
     },
     species: "Paradox Pokémon",
-    description: "Muitas de suas características físicas correspondem às de um Virizion do futuro que foi coberto em uma revista paranormal.",
+    description:
+      "Muitas de suas características físicas correspondem às de um Virizion do futuro que foi coberto em uma revista paranormal.",
     profile: {
       height: "1.5 m",
       weight: "125 kg",
-      egg: [
-        "No-eggs"
-      ],
+      egg: ["No-eggs"],
       ability: [
-        [
-          "Quark-drive",
-          false
-        ],
-        [
-          "Quark-drive",
-          true
-        ]
-      ]
+        ["Quark-drive", false],
+        ["Quark-drive", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+    },
   },
   {
     name: {
       english: "Dipplin",
       japanese: "カミッチュ",
       chinese: "裹蜜虫",
-      french: "Pomdramour"
+      french: "Pomdramour",
     },
     id: 1011,
-    type: [
-      "Grass",
-      "Dragon"
-    ],
+    type: ["Grass", "Dragon"],
     base: {
       HP: 80,
       Attack: 80,
       Defense: 110,
       "Sp. Attack": 95,
       "Sp. Defense": 80,
-      Speed: 40
+      Speed: 40,
     },
     species: "Candy Apple Pokémon",
-    description: "Dipplin é duas criaturas em um Pokémon. Sua evolução foi desencadeada por uma maçã especial que só cresce em um lugar.",
+    description:
+      "Dipplin é duas criaturas em um Pokémon. Sua evolução foi desencadeada por uma maçã especial que só cresce em um lugar.",
     profile: {
       height: "0.4 m",
       weight: "9.7 kg",
       egg: [],
       ability: [
-        [
-          "Supersweet-syrup",
-          false
-        ],
-        [
-          "Gluttony",
-          false
-        ],
-        [
-          "Sticky-hold",
-          true
-        ]
-      ]
+        ["Supersweet-syrup", false],
+        ["Gluttony", false],
+        ["Sticky-hold", true],
+      ],
     },
     evolution: {
-      prev: [
-        "840",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "1019",
-          "Level up depois de aprender Dragon Cheer"
-        ],
-      ]
+      prev: ["840", "Level INITIAL"],
+      next: [["1019", "Level up depois de aprender Dragon Cheer"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+    },
   },
   {
     name: {
       english: "Poltchageist",
       japanese: "チャデス",
       chinese: "斯魔茶",
-      french: "Poltchageist"
+      french: "Poltchageist",
     },
     id: 1012,
-    type: [
-      "Grass",
-      "Ghost"
-    ],
+    type: ["Grass", "Ghost"],
     base: {
       HP: 40,
       Attack: 45,
       Defense: 45,
       "Sp. Attack": 74,
       "Sp. Defense": 54,
-      Speed: 50
+      Speed: 50,
     },
     species: "Matcha Pokémon",
-    description: "Supõe-se que os arrependimentos de um mestre em cerimônia de chá que morreu antes de aperfeiçoar seu ofício persistiram em algum matcha e se tornaram um Pokémon.",
+    description:
+      "Supõe-se que os arrependimentos de um mestre em cerimônia de chá que morreu antes de aperfeiçoar seu ofício persistiram em algum matcha e se tornaram um Pokémon.",
     profile: {
       height: "0.1 m",
       weight: "1.1 kg",
       egg: [],
       ability: [
-        [
-          "Hospitality",
-          false
-        ],
-        [
-          "Heatproof",
-          true
-        ]
-      ]
+        ["Hospitality", false],
+        ["Heatproof", true],
+      ],
     },
     evolution: {
-      next: [
-        [
-          "1013",
-          "use Unremarkable Teacup"
-        ]
-      ],
+      next: [["1013", "use Unremarkable Teacup"]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+    },
   },
   {
     name: {
       english: "Sinistcha",
       japanese: "ヤバソチャ",
       chinese: "来悲粗茶",
-      french: "Théffroyable"
+      french: "Théffroyable",
     },
     id: 1013,
-    type: [
-      "Grass",
-      "Ghost"
-    ],
+    type: ["Grass", "Ghost"],
     base: {
       HP: 71,
       Attack: 60,
       Defense: 106,
       "Sp. Attack": 121,
       "Sp. Defense": 80,
-      Speed: 70
+      Speed: 70,
     },
     species: "Matcha Pokémon",
-    description: "Ele finge ser chá, tentando enganar as pessoas para que o bebam, para que possa drenar sua força vital. Sua artimanha geralmente é malsucedida.",
+    description:
+      "Ele finge ser chá, tentando enganar as pessoas para que o bebam, para que possa drenar sua força vital. Sua artimanha geralmente é malsucedida.",
     profile: {
       height: "0.2 m",
       weight: "2.2 kg",
       egg: [],
       ability: [
-        [
-          "Hospitality",
-          false
-        ],
-        [
-          "Heatproof",
-          true
-        ]
-      ]
+        ["Hospitality", false],
+        ["Heatproof", true],
+      ],
     },
     evolution: {
-      prev: [
-        "1012",
-        "Level INITIAL"
-      ],
+      prev: ["1012", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+    },
   },
   {
     name: {
       english: "Okidogi",
       japanese: "イイネイヌ",
       chinese: "够赞狗",
-      french: "Félicanis"
+      french: "Félicanis",
     },
     id: 1014,
-    type: [
-      "Poison",
-      "Fighting"
-    ],
+    type: ["Poison", "Fighting"],
     base: {
       HP: 88,
       Attack: 128,
       Defense: 115,
       "Sp. Attack": 58,
       "Sp. Defense": 86,
-      Speed: 80
+      Speed: 80,
     },
     species: "Retainer Pokémon",
-    description: "Depois que todos os seus músculos foram estimulados pela corrente tóxica ao redor de seu pescoço, Okidogi se transformou e ganhou um físico poderoso.",
+    description:
+      "Depois que todos os seus músculos foram estimulados pela corrente tóxica ao redor de seu pescoço, Okidogi se transformou e ganhou um físico poderoso.",
     profile: {
       height: "1.8 m",
       weight: "92.2 kg",
       egg: [],
       ability: [
-        [
-          "Toxic-chain",
-          false
-        ],
-        [
-          "Guard-dog",
-          true
-        ]
-      ]
+        ["Toxic-chain", false],
+        ["Guard-dog", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+    },
   },
   {
     name: {
       english: "Munkidori",
       japanese: "マシマシラ",
       chinese: "愿增猿",
-      french: "Fortusimia"
+      french: "Fortusimia",
     },
     id: 1015,
-    type: [
-      "Poison",
-      "Psychic"
-    ],
+    type: ["Poison", "Psychic"],
     base: {
       HP: 88,
       Attack: 75,
       Defense: 66,
       "Sp. Attack": 130,
       "Sp. Defense": 90,
-      Speed: 106
+      Speed: 106,
     },
     species: "Retainer Pokémon",
-    description: "A corrente é feita de toxinas que aumentam as capacidades. Estimulou o cérebro de Munkidori e fez com que os poderes psíquicos do Pokémon florescessem.",
+    description:
+      "A corrente é feita de toxinas que aumentam as capacidades. Estimulou o cérebro de Munkidori e fez com que os poderes psíquicos do Pokémon florescessem.",
     profile: {
       height: "1 m",
       weight: "12.2 kg",
       egg: [],
       ability: [
-        [
-          "Toxic-chain",
-          false
-        ],
-        [
-          "Frisk",
-          true
-        ]
-      ]
+        ["Toxic-chain", false],
+        ["Frisk", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
+    },
   },
   {
     name: {
       english: "Fezandipiti",
       japanese: "キチキギス",
       chinese: "吉雉鸡",
-      french: "Favianos"
+      french: "Favianos",
     },
     id: 1016,
-    type: [
-      "Poison",
-      "Fairy"
-    ],
+    type: ["Poison", "Fairy"],
     base: {
       HP: 88,
       Attack: 91,
       Defense: 82,
       "Sp. Attack": 70,
       "Sp. Defense": 125,
-      Speed: 99
+      Speed: 99,
     },
     species: "Retainer Pokémon",
-    description: "Fezandipiti deve sua beleza e voz encantadora aos estimulantes tóxicos que emanam da corrente enrolada em seu corpo.",
+    description:
+      "Fezandipiti deve sua beleza e voz encantadora aos estimulantes tóxicos que emanam da corrente enrolada em seu corpo.",
     profile: {
       height: "1.4 m",
       weight: "30.1 kg",
       egg: [],
       ability: [
-        [
-          "Toxic-chain",
-          false
-        ],
-        [
-          "Technician",
-          true
-        ]
-      ]
+        ["Toxic-chain", false],
+        ["Technician", true],
+      ],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+    },
   },
   {
     name: {
       english: "Ogerpon",
       japanese: "オーガポン",
       chinese: "厄诡椪",
-      french: "Ogerpon"
+      french: "Ogerpon",
     },
     id: 1017,
-    type: [
-      "Grass"
-    ],
+    type: ["Grass"],
     base: {
       HP: 80,
       Attack: 120,
       Defense: 84,
       "Sp. Attack": 60,
       "Sp. Defense": 96,
-      Speed: 110
+      Speed: 110,
     },
     species: "Mask Pokémon",
-    description: "O tipo deste Pokémon muda com base na máscara que ele está usando. Ele confunde seus inimigos com movimentos ágeis e chutes.",
+    description:
+      "O tipo deste Pokémon muda com base na máscara que ele está usando. Ele confunde seus inimigos com movimentos ágeis e chutes.",
     profile: {
       height: "1.2 m",
       weight: "39.8 kg",
       egg: [],
-      ability: [
-        [
-          "Defiant",
-          false
-        ]
-      ]
+      ability: [["Defiant", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+    },
   },
   {
     name: {
       english: "Archaludon",
       japanese: "ブリジュラス",
       chinese: "铝钢桥龙",
-      french: "Pondralugon"
+      french: "Pondralugon",
     },
     id: 1018,
-    type: [
-      "Steel",
-      "Dragon"
-    ],
+    type: ["Steel", "Dragon"],
     base: {
       HP: 90,
       Attack: 105,
       Defense: 130,
       "Sp. Attack": 125,
       "Sp. Defense": 65,
-      Speed: 85
+      Speed: 85,
     },
     species: "Alloy Pokémon",
-    description: "Ele coleta eletricidade estática de seus arredores. Os raios que ele lança quando está de quatro são tremendamente poderosos.",
+    description:
+      "Ele coleta eletricidade estática de seus arredores. Os raios que ele lança quando está de quatro são tremendamente poderosos.",
     profile: {
       height: "2 m",
       weight: "60 kg",
       egg: [],
       ability: [
-        [
-          "Stamina",
-          false
-        ],
-        [
-          "Sturdy",
-          false
-        ],
-        [
-          "Stalwart",
-          true
-        ]
-      ]
+        ["Stamina", false],
+        ["Sturdy", false],
+        ["Stalwart", true],
+      ],
     },
     evolution: {
-      prev: [
-        "884",
-        "Level INITIAL"
-      ],
-      
+      prev: ["884", "Level INITIAL"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+    },
   },
   {
     name: {
       english: "Hydrapple",
       japanese: "カミツオロチ",
       chinese: "蜜集大蛇",
-      french: "Pomdorochi"
+      french: "Pomdorochi",
     },
     id: 1019,
-    type: [
-      "Grass",
-      "Dragon"
-    ],
+    type: ["Grass", "Dragon"],
     base: {
       HP: 106,
       Attack: 80,
       Defense: 110,
       "Sp. Attack": 120,
       "Sp. Defense": 80,
-      Speed: 44
+      Speed: 44,
     },
     species: "Apple Hydra Pokémon",
-    description: "Sete serpentes vivem dentro de uma maçã feita de xarope. A serpente no centro é a comandante.",
+    description:
+      "Sete serpentes vivem dentro de uma maçã feita de xarope. A serpente no centro é a comandante.",
     profile: {
       height: "1.8 m",
       weight: "93 kg",
       egg: [],
       ability: [
-        [
-          "Supersweet-syrup",
-          false
-        ],
-        [
-          "Regenerator",
-          false
-        ],
-        [
-          "Sticky-hold",
-          true
-        ]
-      ]
+        ["Supersweet-syrup", false],
+        ["Regenerator", false],
+        ["Sticky-hold", true],
+      ],
     },
     evolution: {
-      prev: [
-        "1011",
-        "Level up depois de aprender Dragon Cheer"
-      ],
+      prev: ["1011", "Level up depois de aprender Dragon Cheer"],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+    },
   },
   {
     name: {
       english: "Gouging Fire",
       japanese: "ウガツホムラ",
       chinese: "破空焰",
-      french: "Feu-Perçant"
+      french: "Feu-Perçant",
     },
     id: 1020,
-    type: [
-      "Fire",
-      "Dragon"
-    ],
+    type: ["Fire", "Dragon"],
     base: {
       HP: 105,
       Attack: 115,
       Defense: 121,
       "Sp. Attack": 65,
       "Sp. Defense": 93,
-      Speed: 91
+      Speed: 91,
     },
     species: "Paradox Pokémon",
-    description: "Existem poucos relatos de que esta criatura tenha sido avistada. Um breve vídeo mostra-o causando estragos e lançando colunas de chamas.",
+    description:
+      "Existem poucos relatos de que esta criatura tenha sido avistada. Um breve vídeo mostra-o causando estragos e lançando colunas de chamas.",
     profile: {
       height: "3.5 m",
       weight: "590 kg",
       egg: [],
-      ability: [
-        [
-          "Protosynthesis",
-          false
-        ]
-      ]
+      ability: [["Protosynthesis", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+    },
   },
   {
     name: {
       english: "Raging Bolt",
       japanese: "タケルライコ",
       chinese: "猛雷鼓",
-      french: "Ire-Foudre"
+      french: "Ire-Foudre",
     },
     id: 1021,
-    type: [
-      "Electric",
-      "Dragon"
-    ],
+    type: ["Electric", "Dragon"],
     base: {
       HP: 125,
       Attack: 73,
       Defense: 91,
       "Sp. Attack": 137,
       "Sp. Defense": 89,
-      Speed: 75
+      Speed: 75,
     },
     species: "Paradox Pokémon",
-    description: "Dizem que ele incinera tudo ao seu redor com raios lançados de sua pelagem. Muito pouco se sabe sobre esta criatura.",
+    description:
+      "Dizem que ele incinera tudo ao seu redor com raios lançados de sua pelagem. Muito pouco se sabe sobre esta criatura.",
     profile: {
       height: "5.2 m",
       weight: "480 kg",
       egg: [],
-      ability: [
-        [
-          "Protosynthesis",
-          false
-        ]
-      ]
+      ability: [["Protosynthesis", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+    },
   },
   {
     name: {
       english: "Iron Boulder",
       japanese: "テツノイワオ",
       chinese: "鐵磐岩",
-      french: "Roc-de-Fer"
+      french: "Roc-de-Fer",
     },
     id: 1022,
-    type: [
-      "Rock",
-      "Psychic"
-    ],
+    type: ["Rock", "Psychic"],
     base: {
       HP: 90,
       Attack: 120,
       Defense: 80,
       "Sp. Attack": 68,
       "Sp. Defense": 108,
-      Speed: 124
+      Speed: 124,
     },
     species: "Paradox Pokémon",
-    description: "Ele se assemelha a um Pokémon descrito em uma revista duvidosa como um Terrakion que foi modificado por uma organização maligna.",
+    description:
+      "Ele se assemelha a um Pokémon descrito em uma revista duvidosa como um Terrakion que foi modificado por uma organização maligna.",
     profile: {
       height: "1.5 m",
       weight: "162.5 kg",
       egg: [],
-      ability: [
-        [
-          "Quark-drive",
-          false
-        ]
-      ]
+      ability: [["Quark-drive", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+    },
   },
   {
     name: {
       english: "Iron Crown",
       japanese: "テツノカシラ",
       chinese: "鐵頭殼",
-      french: "Chef-de-Fer"
+      french: "Chef-de-Fer",
     },
     id: 1023,
-    type: [
-      "Steel",
-      "Psychic"
-    ],
+    type: ["Steel", "Psychic"],
     base: {
       HP: 90,
       Attack: 72,
       Defense: 100,
       "Sp. Attack": 122,
       "Sp. Defense": 108,
-      Speed: 98
+      Speed: 98,
     },
     species: "Paradox Pokémon",
-    description: "Ele se assemelha a um objeto misterioso apresentado em uma revista paranormal como uma arma de última geração com a forma de um Cobalion.",
+    description:
+      "Ele se assemelha a um objeto misterioso apresentado em uma revista paranormal como uma arma de última geração com a forma de um Cobalion.",
     profile: {
       height: "1.6 m",
       weight: "156 kg",
       egg: [],
-      ability: [
-        [
-          "Quark-drive",
-          false
-        ]
-      ]
+      ability: [["Quark-drive", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+    },
   },
   {
     name: {
       english: "Terapagos",
       japanese: "テラパゴス",
       chinese: "太乐巴戈斯",
-      french: "Terapagos"
+      french: "Terapagos",
     },
     id: 1024,
-    type: [
-      "Normal"
-    ],
+    type: ["Normal"],
     base: {
       HP: 90,
       Attack: 65,
       Defense: 85,
       "Sp. Attack": 65,
       "Sp. Defense": 85,
-      Speed: 60
+      Speed: 60,
     },
     species: "Tera Pokémon",
-    description: "Terapagos se protege usando seu poder para transformar energia em cristais duros. Este Pokémon é a fonte do fenômeno Terastal.",
+    description:
+      "Terapagos se protege usando seu poder para transformar energia em cristais duros. Este Pokémon é a fonte do fenômeno Terastal.",
     profile: {
       height: "0.2 m",
       weight: "6.5 kg",
       egg: [],
-      ability: [
-        [
-          "Tera-shift",
-          false
-        ]
-      ]
+      ability: [["Tera-shift", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+    },
   },
   {
     name: {
       english: "Pecharunt",
       japanese: "モモワロウ",
       chinese: "桃歹郎",
-      french: "Pêchaminus"
+      french: "Pêchaminus",
     },
     id: 1025,
-    type: [
-      "Poison",
-      "Ghost"
-    ],
+    type: ["Poison", "Ghost"],
     base: {
       HP: 88,
       Attack: 88,
       Defense: 160,
       "Sp. Attack": 88,
       "Sp. Defense": 88,
-      Speed: 88
+      Speed: 88,
     },
     species: "Subjugation Pokémon",
-    description: "Ele alimenta outros com mochi tóxico que atraem desejos e capacidades. Aqueles que comem o mochi caem sob o controle de Pecharunt, presos à sua vontade",
+    description:
+      "Ele alimenta outros com mochi tóxico que atraem desejos e capacidades. Aqueles que comem o mochi caem sob o controle de Pecharunt, presos à sua vontade",
     profile: {
       height: "0.3 m",
       weight: "0.3 kg",
       egg: [],
-      ability: [
-        [
-          "Poison-puppeteer",
-          false
-        ]
-      ]
+      ability: [["Poison-puppeteer", false]],
     },
     image: {
       sprite: null,
-      thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
-      hires: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png"
-    }
+      thumbnail:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+      hires:
+        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+    },
   },
 ];
