@@ -34149,10 +34149,6 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5"
     },
     evolution: {
-      prev: [
-        "906",
-        "Level INITIAL"
-      ],
       next: [
         [
           "907",
@@ -34217,10 +34213,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "907",
-          "Level 16"
-        ],
-        [
           "908",
           "Level 36"
         ]
@@ -34275,19 +34267,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "906",
-        "Level INITIAL"
+        "907",
+        "Level 16"
       ],
-      next: [
-        [
-          "907",
-          "Level 16"
-        ],
-        [
-          "908",
-          "Level 36"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -34335,10 +34317,6 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5"
     },
     evolution: {
-      prev: [
-        "909",
-        "Level INITIAL"
-      ],
       next: [
         [
           "910",
@@ -34402,10 +34380,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "910",
-          "Level 16"
-        ],
-        [
           "911",
           "Level 36"
         ]
@@ -34459,19 +34433,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "909",
-        "Level INITIAL"
+        "910",
+        "Level 16"
       ],
-      next: [
-        [
-          "910",
-          "Level 16"
-        ],
-        [
-          "911",
-          "Level 36"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -34520,10 +34484,6 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5"
     },
     evolution: {
-      prev: [
-        "912",
-        "Level INITIAL"
-      ],
       next: [
         [
           "913",
@@ -34588,10 +34548,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "913",
-          "Level 16"
-        ],
-        [
           "914",
           "Level 36"
         ]
@@ -34646,19 +34602,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "912",
-        "Level INITIAL"
+        "913",
+        "Level 16"
       ],
-      next: [
-        [
-          "913",
-          "Level 16"
-        ],
-        [
-          "914",
-          "Level 36"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -34709,10 +34655,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "915",
-        "Level INITIAL"
-      ],
       next: [
         [
           "916",
@@ -34765,10 +34707,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "917",
-        "Level INITIAL"
-      ],
       next: [
         [
           "918",
@@ -34825,12 +34763,6 @@ const POKEDEX_JSON = [
         "917",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "918",
-          "Level 15"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -34877,10 +34809,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "919",
-        "Level INITIAL"
-      ],
       next: [
         [
           "920",
@@ -34938,12 +34866,6 @@ const POKEDEX_JSON = [
         "919",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "920",
-          "Level 24"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -34994,10 +34916,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "921",
-        "Level INITIAL"
-      ],
       next: [
         [
           "922",
@@ -35061,8 +34979,8 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "922",
-          "Level 18"
+          "923",
+          "Level up + ande 1000 passos com a função Let's Go!"
         ],
       ]
     },
@@ -35117,14 +35035,8 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "921",
-        "Level INITIAL"
-      ],
-      next: [
-        [
-          "922",
-          "Level 18"
-        ],
+        "922",
+        "Level 18"
       ]
     },
     image: {
@@ -35177,9 +35089,11 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "924",
-        "Level INITIAL"
+      next: [
+        [
+        "925",
+        "Level 25 + com uma certa constante de criptografia"
+        ]
       ],
     },
     image: {
@@ -35228,10 +35142,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "926",
-        "Level INITIAL"
-      ],
       next: [
         [
           "927",
@@ -35289,12 +35199,6 @@ const POKEDEX_JSON = [
         "926",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "927",
-          "Level 26"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -35342,10 +35246,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "928",
-        "Level INITIAL"
-      ],
       next: [
         [
           "929",
@@ -35409,10 +35309,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "929",
-          "Level 25"
-        ],
-        [
           "930",
           "Level 35"
         ]
@@ -35465,19 +35361,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "928",
-        "Level INITIAL"
+        "929",
+        "Level 25"
       ],
-      next: [
-        [
-          "929",
-          "Level 25"
-        ],
-        [
-          "930",
-          "Level 35"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -35528,10 +35414,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "932",
-        "Level INITIAL"
-      ],
       next: [
         [
           "933",
@@ -35598,10 +35480,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "933",
-          "Level 24"
-        ],
-        [
           "934",
           "Level 38"
         ]
@@ -35657,19 +35535,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "932",
-        "Level INITIAL"
+        "933",
+        "Level 24"
       ],
-      next: [
-        [
-          "933",
-          "Level 24"
-        ],
-        [
-          "934",
-          "Level 38"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -35716,10 +35584,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "935",
-        "Level INITIAL"
-      ],
       next: [
         [
           "937",
@@ -35781,16 +35645,6 @@ const POKEDEX_JSON = [
         "935",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "937",
-          "use malicious-armor"
-        ],
-        [
-          "936",
-          "use auspicious-armor"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -35842,16 +35696,6 @@ const POKEDEX_JSON = [
         "935",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "937",
-          "use malicious-armor"
-        ],
-        [
-          "936",
-          "use auspicious-armor"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -35902,10 +35746,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "938",
-        "Level INITIAL"
-      ],
       next: [
         [
           "939",
@@ -35966,12 +35806,6 @@ const POKEDEX_JSON = [
         "938",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "939",
-          "use thunder-stone"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -36024,10 +35858,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "940",
-        "Level INITIAL"
-      ],
       next: [
         [
           "941",
@@ -36090,12 +35920,6 @@ const POKEDEX_JSON = [
         "940",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "941",
-          "Level 25"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -36146,10 +35970,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "942",
-        "Level INITIAL"
-      ],
       next: [
         [
           "943",
@@ -36210,12 +36030,6 @@ const POKEDEX_JSON = [
         "942",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "943",
-          "Level 30"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -36267,10 +36081,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "944",
-        "Level INITIAL"
-      ],
       next: [
         [
           "945",
@@ -36332,12 +36142,6 @@ const POKEDEX_JSON = [
         "944",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "945",
-          "Level 28"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -36385,9 +36189,11 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "946",
-        "Level INITIAL"
+      next: [
+        [
+          "947",
+          "Level up + ande 1000 passos com a função Let's Go!"
+        ]
       ],
     },
     image: {
@@ -36487,10 +36293,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "948",
-        "Level INITIAL"
-      ],
       next: [
         [
           "949",
@@ -36548,12 +36350,6 @@ const POKEDEX_JSON = [
         "948",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "949",
-          "Level 30"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -36602,12 +36398,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "950",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -36658,10 +36448,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "951",
-        "Level INITIAL"
-      ],
       next: [
         [
           "952",
@@ -36723,12 +36509,6 @@ const POKEDEX_JSON = [
         "951",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "952",
-          "use fire-stone"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -36775,9 +36555,11 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "953",
-        "Level INITIAL"
+      next: [
+        [
+          "954",
+          "Ande 1000 passos com a função Let's Go!"
+        ]
       ],
     },
     image: {
@@ -36880,10 +36662,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "955",
-        "Level INITIAL"
-      ],
       next: [
         [
           "956",
@@ -36944,12 +36722,6 @@ const POKEDEX_JSON = [
         "955",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "956",
-          "Level 35"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -37001,10 +36773,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "957",
-        "Level INITIAL"
-      ],
       next: [
         [
           "958",
@@ -37072,10 +36840,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "958",
-          "Level 24"
-        ],
-        [
           "959",
           "Level 38"
         ]
@@ -37132,19 +36896,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "957",
-        "Level INITIAL"
+        "958",
+        "Level 24"
       ],
-      next: [
-        [
-          "958",
-          "Level 24"
-        ],
-        [
-          "959",
-          "Level 38"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -37195,10 +36949,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "960",
-        "Level INITIAL"
-      ],
       next: [
         [
           "961",
@@ -37259,12 +37009,6 @@ const POKEDEX_JSON = [
         "960",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "961",
-          "Level 26"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -37315,12 +37059,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "962",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
@@ -37367,9 +37105,11 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "963",
-        "Level INITIAL"
+      next: [
+        [
+          "964",
+          "Level 38 + entrar no jogo online"
+        ]
       ],
     },
     image: {
@@ -37418,10 +37158,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "965",
-        "Level INITIAL"
-      ],
       next: [
         [
           "966",
@@ -37479,12 +37215,6 @@ const POKEDEX_JSON = [
         "965",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "966",
-          "Level 40"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -37531,12 +37261,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "967",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
@@ -37580,12 +37304,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "968",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -37633,10 +37351,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "969",
-        "Level INITIAL"
-      ],
       next: [
         [
           "970",
@@ -37694,12 +37408,6 @@ const POKEDEX_JSON = [
         "969",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "970",
-          "Level 35"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -37746,10 +37454,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "971",
-        "Level INITIAL"
-      ],
       next: [
         [
           "972",
@@ -37806,12 +37510,6 @@ const POKEDEX_JSON = [
         "971",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "972",
-          "Level 30"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -37862,12 +37560,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "973",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
@@ -37917,10 +37609,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "974",
-        "Level INITIAL"
-      ],
       next: [
         [
           "975",
@@ -37981,12 +37669,6 @@ const POKEDEX_JSON = [
         "974",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "975",
-          "use ice-stone"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -38032,12 +37714,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "976",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38086,12 +37762,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "977",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38144,15 +37814,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "56",
-        "Level INITIAL"
+        "57",
+        "Level 28"
       ],
-      next: [
-        [
-          "57",
-          "Level 28"
-        ],
-      ]
     },
     image: {
       sprite: null,
@@ -38209,16 +37873,6 @@ const POKEDEX_JSON = [
         "194",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "980",
-          "Level 20"
-        ],
-        [
-          "195",
-          "Level 20"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -38274,12 +37928,6 @@ const POKEDEX_JSON = [
         "203",
         "Level INITIAL"
       ],
-      next: [
-        [
-          "981",
-          "Level null"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -38332,15 +37980,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "624",
-        "Level INITIAL"
+        "625",
+        "Level 52"
       ],
-      next: [
-        [
-          "625",
-          "Level 52"
-        ],
-      ]
     },
     image: {
       sprite: null,
@@ -38389,8 +38031,8 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "984",
-        "Level INITIAL"
+        "232",
+        "Level 25"
       ],
     },
     image: {
@@ -38440,8 +38082,8 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "985",
-        "Level INITIAL"
+        "39",
+        "use Moon Stone"
       ],
     },
     image: {
