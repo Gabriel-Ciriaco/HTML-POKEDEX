@@ -38029,12 +38029,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "232",
-        "Level 25"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
@@ -38079,12 +38073,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "39",
-        "use Moon Stone"
-      ],
     },
     image: {
       sprite: null,
@@ -38131,12 +38119,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "986",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
@@ -38181,12 +38163,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "987",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38233,12 +38209,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "988",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
@@ -38283,12 +38253,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "989",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38335,12 +38299,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "990",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
@@ -38385,12 +38343,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "991",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38437,12 +38389,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "992",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
@@ -38487,12 +38433,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "993",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38539,12 +38479,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "994",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
@@ -38589,12 +38523,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "995",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -38643,10 +38571,6 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "996",
-        "Level INITIAL"
-      ],
       next: [
         [
           "997",
@@ -38711,10 +38635,6 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "997",
-          "Level 35"
-        ],
-        [
           "998",
           "Level 54"
         ]
@@ -38768,19 +38688,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "996",
-        "Level INITIAL"
+        "997",
+        "Level 35"
       ],
-      next: [
-        [
-          "997",
-          "Level 35"
-        ],
-        [
-          "998",
-          "Level 54"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -38827,10 +38737,12 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "999",
-        "Level INITIAL"
-      ],
+      next: [
+        [
+          "1000",
+          "Level up com 999 Moedas Gimmighoul"
+        ]
+    ],
     },
     image: {
       sprite: null,
@@ -38928,12 +38840,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1001",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
@@ -38978,12 +38884,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1002",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -39030,12 +38930,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1003",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
@@ -39080,12 +38974,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1004",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -39132,12 +39020,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1005",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
@@ -39182,12 +39064,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1006",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -39234,12 +39110,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1007",
-        "Level INITIAL"
-      ],
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
@@ -39284,12 +39154,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1008",
-        "Level INITIAL"
-      ],
     },
     image: {
       sprite: null,
@@ -39336,13 +39200,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1009",
-        "Level INITIAL"
-      ],
-      
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
@@ -39387,13 +39244,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1010",
-        "Level INITIAL"
-      ],
-      
     },
     image: {
       sprite: null,
@@ -39449,13 +39299,9 @@ const POKEDEX_JSON = [
       ],
       next: [
         [
-          "842",
-          "use sweet-apple"
+          "1019",
+          "Level up depois de aprender Dragon Cheer"
         ],
-        [
-          "841",
-          "use tart-apple"
-        ]
       ]
     },
     image: {
@@ -39502,11 +39348,12 @@ const POKEDEX_JSON = [
       ]
     },
     evolution: {
-      prev: [
-        "1012",
-        "Level INITIAL"
+      next: [
+        [
+          "1013",
+          "use Unremarkable Teacup"
+        ]
       ],
-      
     },
     image: {
       sprite: null,
@@ -39556,7 +39403,6 @@ const POKEDEX_JSON = [
         "1012",
         "Level INITIAL"
       ],
-      
     },
     image: {
       sprite: null,
@@ -39601,13 +39447,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1014",
-        "Level INITIAL"
-      ],
-      
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
@@ -39650,13 +39489,6 @@ const POKEDEX_JSON = [
           true
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1015",
-        "Level INITIAL"
-      ],
-      
     },
     image: {
       sprite: null,
@@ -39701,13 +39533,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1016",
-        "Level INITIAL"
-      ],
-      
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
@@ -39745,13 +39570,6 @@ const POKEDEX_JSON = [
           false
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1017",
-        "Level INITIAL"
-      ],
-      
     },
     image: {
       sprite: null,
@@ -39856,19 +39674,9 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: [
-        "840",
-        "Level INITIAL"
+        "1011",
+        "Level up depois de aprender Dragon Cheer"
       ],
-      next: [
-        [
-          "842",
-          "use sweet-apple"
-        ],
-        [
-          "841",
-          "use tart-apple"
-        ]
-      ]
     },
     image: {
       sprite: null,
@@ -39909,13 +39717,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1020",
-        "Level INITIAL"
-      ],
-      
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
@@ -39954,13 +39755,6 @@ const POKEDEX_JSON = [
           false
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1021",
-        "Level INITIAL"
-      ],
-      
     },
     image: {
       sprite: null,
@@ -40001,13 +39795,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1022",
-        "Level INITIAL"
-      ],
-      
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
@@ -40047,13 +39834,6 @@ const POKEDEX_JSON = [
         ]
       ]
     },
-    evolution: {
-      prev: [
-        "1023",
-        "Level INITIAL"
-      ],
-      
-    },
     image: {
       sprite: null,
       thumbnail: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
@@ -40091,13 +39871,6 @@ const POKEDEX_JSON = [
           false
         ]
       ]
-    },
-    evolution: {
-      prev: [
-        "1024",
-        "Level INITIAL"
-      ],
-      
     },
     image: {
       sprite: null,
@@ -40137,9 +39910,6 @@ const POKEDEX_JSON = [
           false
         ]
       ]
-    },
-    evolution: {
-      
     },
     image: {
       sprite: null,
