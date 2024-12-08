@@ -1,52 +1,82 @@
 <!DOCTYPE HTML>
 <html>
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Pokedex</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pokedex</title>
 
-        <link rel="stylesheet" href="./Estilos/teste.css">
-    </head>
+    <link rel="stylesheet" href="./Estilos/teste.css">
+    <link rel="shortcut icon" type="image/jpg" href="/Favicon.png" />
+</head>
 
-    <body>
-        <h1>Nome do Pokémon: </h1>
-        <form id="search_pokemon" autocomplete="off">
-            <input id="pokemon_pesquisado" placeholder="Nome do Pokémon ou ID"></input>
-            <ul class="sugestoes"></ul>
-        </form>
+<body style="background-color: rgb(235, 239, 242);">
+    <header>
+        <nav class="Navbar">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="https://www.pokemon.com/br/pokedex">Pokedex Oficial</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Mapa PokeCenters</a>
+                    <ul class="dropdown-content">
+                        <li><a href="MapaPokedex.html">Tóquio</a></li>
+                        <li><a href="MapaPokedex_2.html">Taipei</a></li>
+                        <li><a href="MapaPokedex_3.html">Singapura</a></li>
+                    </ul>
+                </li>
+                <li style="float:right"><a href="#" class="active">Criadores</a></li>
+            </ul>
+        </nav>
+    </header>
 
+
+    <h1>Nome do Pokémon: </h1>
+    <form id="search_pokemon" autocomplete="off">
+        <input id="pokemon_pesquisado" placeholder="Nome do Pokémon ou ID" class="border"></input>
+        <ul class="sugestoes"></ul>
+    </form>
+
+    <div class="img_poke">
         <h2>Imagem do Pokémon</h2>
         <img id="pokemon_imagem" src="" alt="Imagem do Pokémon"></img>
+    </div>
 
-        <h2>Informações do Pokémon: </h2>
+    <h2>Informações do Pokémon: </h2>
 
-        <h3>Nome: </h3>
-        <p id="poke_nome"></p>
+    <h3>Nome: </h3>
+    <p id="poke_nome" class="borda1"></p>
 
-        <div id="poke_dados">
-            <h3>Dados técnicos: </h3>
-            <div id="pre_evolucao">
-                <h4>Pré-evolução:</h4>
-                <p></p>
-            </div>
+    <div id="poke_dados">
 
-            <div id="prox_evolucao">
-                <h4>Próxima evolução:</h4>
-                <p></p>
-            </div>
+        <h3>Dados técnicos: </h3>
+        <div id="pre_evolucao">
+            <h4>Pré-evolução:</h4>
+            <p class="borda1"></p>
         </div>
-        
-        <h3>Descrição: </h3>
-        <p id="poke_descricao"></p>
-    </body>
 
-    <script src="./Extras/utils.js"></script>
-    <script src="./Extras/pokedex_json.js"></script>
-    <script src="./Extras/pesquisa.js"></script>
-    <script src="./API/Pokedex.js"></script>
-    <script src="./API/Pokemon.js"></script>
-    <script src="./Scripts/pesquisar_pokemon.js"></script>
-    <script src="./Scripts/teste_pokemon.js"></script>
+        <div id="prox_evolucao">
+            <h4>Próxima evolução:</h4>
+            <p class="borda1"></p>
+        </div>
+    </div>
+
+    <h3>Descrição: </h3>
+    <p id="poke_descricao"></p>
+
+    <div class="iframe-container">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/-PlAg8R9TG4?si=4zQ8WCYe5KgkfWzG"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</body>
+
+<script src="./Extras/utils.js"></script>
+<script src="./Extras/pokedex_json.js"></script>
+<script src="./Extras/pesquisa.js"></script>
+<script src="./API/Pokedex.js"></script>
+<script src="./API/Pokemon.js"></script>
+<script src="./Scripts/pesquisar_pokemon.js"></script>
+<script src="./Scripts/teste_pokemon.js"></script>
 
 </html>

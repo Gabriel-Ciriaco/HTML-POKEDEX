@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa PokeCenters</title>
+    <style>
+        body {
+            background-image: url(IMG_POKEDEX.png);
+            background-size: contain;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-color: rgb(247, 242, 242);
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .pokedex-container {
+            position: relative;
+            width: 600px;
+            height: 450px;
+        }
+
+        .map-frame {
+            position: absolute;
+            top: 20%;
+            left: 29%;
+            width: 41.5%;
+            height: 50%;
+            border: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="pokedex-container">
+        <iframe class="map-frame"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3614.932703600924!2d121.56471747537667!3d25.036357777814903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3442ab005f0e4781%3A0x634d7d8073bc2fae!2sPok%C3%A9mon%20Center%20Taipei!5e0!3m2!1spt-BR!2sbr!4v1733624066898!5m2!1spt-BR!2sbr"
+            width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade" allowfullscreen="" loading="lazy"
+            referrerpolicy="no-referrer-when-downgrade">
+        </iframe>
+    </div>
+</body>
+
+</html>
