@@ -1,8 +1,7 @@
 .sugestoes{
     position: relative;
     z-index: 99;
-    border: 1px solid #dddddd;
-    border-top: none;
+    border: 2px solid #dddddd;
     border-radius: 4px 4px 4px 4px;
     list-style-type: none;
     padding: 0; 
@@ -10,6 +9,7 @@
     margin-left: auto;
     margin-right: auto;
     text-justify: center;
+    border-color: rgb(67, 67, 67);
 }
 
 .sugestoes > li:hover{
@@ -47,6 +47,7 @@
     display: inline-block;
 }
 
+    
 .box_align{
     text-align: center;
 }
@@ -59,6 +60,49 @@
     margin-left: 75px;
     background-color: white;
     display: inline-block;
+}
+
+.div_center
+{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: darkgray;
+    padding-top: 25px;
+}
+
+
+.bordaCampoNome {
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 38%;
+    padding: 15px;
+    margin-left: 20px; /* Reduzido para um alinhamento melhor */
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle; /* Alinha verticalmente ao texto */
+}
+
+.bordaCampoNome2 {
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 30.5%;
+    padding: 15px;
+    margin-left: 60px; /* Reduzido para um alinhamento melhor */
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle; /* Alinha verticalmente ao texto */
+}
+
+.bordaCampoNome3 {
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 30.5%;
+    padding: 15px;
+    margin-left: 20px; /* Reduzido para um alinhamento melhor */
+    background-color: white;
+    display: inline-block;
+    vertical-align: middle; /* Alinha verticalmente ao texto */
 }
 
 .Navbar{
