@@ -38724,4 +38724,38 @@ const POKEDEX_JSON = [
         "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
     },
   },
+  {
+    name: {
+      english: "Celso",
+      japanese: "Xing Celso",
+      chinese: "Xong Celso",
+      french: "Meci Celso",
+    },
+    id: 1026,
+    type: ["Cachaça"],
+    base: {
+      HP: 100,
+      Attack: 100,
+      Defense: 100,
+      "Sp. Attack": 100,
+      "Sp. Defense": 100,
+      Speed: 100,
+    },
+    species: "Professor Pokémon",
+    description:
+      `Quando chega o final da aula, este Pokémon utiliza o seu especial "Joga Rápido" com o qual a finaliza em milésimos de segundos.`,
+    profile: {
+      height: "1.80 m",
+      weight: "85.0 kg",
+      egg: ["Raul", "Heitor"],
+      ability: [["Professor-Top", false]],
+    },
+    image: {
+      sprite: null,
+      thumbnail:
+        "./Imagens/Pokedex/thumbnails/1026.png",
+      hires:
+        "./Imagens/Pokedex/hires/1026.png",
+    },
+  },
 ];
