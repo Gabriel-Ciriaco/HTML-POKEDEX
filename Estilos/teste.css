@@ -1,20 +1,29 @@
 .sugestoes{
     position: relative;
     z-index: 99;
-    width: 168px;
-    border: 1px solid #ddd;
+    border: 1px solid #dddddd;
     border-top: none;
-    border-radius: 0 0 4px 4px;
+    border-radius: 4px 4px 4px 4px;
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    padding: 0; 
+    width: 48%;
+    margin-left: auto;
+    margin-right: auto;
+    text-justify: center;
 }
 
 .sugestoes > li:hover{
-    background-color: beige;
+    background-color: rgb(11, 119, 207);
+    color: white;
+    text-align: center;    
 }
 
 .img_poke {
+    text-align: center;
+    color: red;
+}
+
+.pesq_poke{
     text-align: center;
 }
 
@@ -25,12 +34,31 @@
     padding: 10px;
 }
 
+.bordername{
+    border: rgb(231, 222, 222);
+    border-radius: 8px;
+    width: 45%;
+    padding: 10px;
+    text-align: center;
+}
+
+.EspacoAlinha{
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.box_align{
+    text-align: center;
+}
+
 .borda1{
     border: 5px solid white;
     border-radius: 20px;
-    width: 10%;
+    width: 30%;
     padding: 15px;
+    margin-left: 75px;
     background-color: white;
+    display: inline-block;
 }
 
 .Navbar{
@@ -109,4 +137,16 @@ body{
 .iframe-container iframe {
     border: 5px outset black; 
     border-radius: 5px;    
+}
+
+.bordaDesc{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    margin: 20px;
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 15px;
+    background-color: white;
 }
