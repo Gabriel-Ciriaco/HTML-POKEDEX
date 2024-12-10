@@ -1,4 +1,8 @@
 window.onload = () => {
+  let INITIAL_GEN = 1;
+  let CUR_GEN = 1;
+  let NEW_QTD_POKE = 11;
+
   function displayPokemons(generation)
   {
     const container = document.querySelector('.container');
@@ -12,9 +16,10 @@ window.onload = () => {
       }
     }
 
-    let MAX_POKEMONS = generation + 15;
+    let MAX_POKEMONS = generation + NEW_QTD_POKE;
+    CUR_GEN = MAX_POKEMONS;
 
-    for (let i = generation; i <= MAX_POKEMONS; i++)
+    for (let i = INITIAL_GEN; i <= MAX_POKEMONS; i++)
       {
         let pokemon = POKEDEX.get_pokemon_by_id(i);
         
@@ -53,6 +58,7 @@ window.onload = () => {
       // Exibe o valor e o texto no console
       console.log(`Valor Selecionado: ${selectedValue}`);
       // console.log(`Texto Selecionado: ${selectedText}`);
+      INITIAL_GEN = selectedValue;
 
       displayPokemons(selectedValue);
       
@@ -67,6 +73,11 @@ window.onload = () => {
       button.addEventListener("click", captureGeneration);
     }
 
-    displayPokemons(1);
+    displayPokemons(CUR_GEN);
+
+    $(".more_pokemons").on("click", () => {
+      CUR_GEN += NEW_QTD_POKE;
+      displayPokemons(CUR_GEN)
+    })
 
 }

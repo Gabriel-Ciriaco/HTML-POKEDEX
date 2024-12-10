@@ -123,7 +123,7 @@ function pokemon_type_color(pokemon_type)
       return "light_pink";
 
     case "Bug":
-      return "dark_green";
+      return " green";
 
    case "Rock":
     return "brown";
