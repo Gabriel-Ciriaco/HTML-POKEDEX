@@ -78,3 +78,70 @@ function autocomplete(input, array)
     });
   }
 }
+
+/**
+ * Muda a cor do fundo de acordo com o tipo do Pokémon.
+ * 
+ * @param {string} pokemon_type - O tipo do Pokémon
+ * 
+ * @returns {string}
+ */
+function pokemon_type_color(pokemon_type)
+{
+  switch (pokemon_type) {
+    case "Normal":
+      return "darkgray";
+
+    case "Fire":
+      return "red";
+
+    case "Water":
+      return "blue";
+
+    case "Electric":
+      return "yellow";
+
+    case "Grass":
+      return "green";
+
+    case "Ice":
+      return "light_blue";
+
+    case "Fighting":
+      return "light_red";
+
+    case "Poison":
+      return "purple";
+
+    case "Ground":
+      return "blue";
+
+    case "Flying":
+      return "red";
+
+    case "Psychic":
+      return "light_pink";
+
+    case "Bug":
+      return "dark_green";
+
+   case "Rock":
+    return "brown";
+
+    case "Ghost":
+      return "purple";
+
+    case "Dragon":
+      return "dark_purple";
+
+    case "Dark":
+      return "black";
+
+    case "Steel":
+      return "silver";
+
+    case "Fairy":
+      return "pink";
+
+  }
+}

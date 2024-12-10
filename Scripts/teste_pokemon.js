@@ -34,6 +34,7 @@ function load_pokemon(desired_pokemon, pokemons_encontrados)
   display_pokeInfo_to_tag(pokemon.image.hires, image_pokemon, "image");
   display_pokeInfo_to_tag(pokemon.description, desc_pokemon);
   display_pokeInfo_to_tag(pokemon.name, name_pokemon);
+  $(".div_center").css("background-color", pokemon_type_color(pokemon.type[0]));
 
   dados_pokemon.hidden = true;
 
