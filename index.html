@@ -5,20 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Pokedex</title>
 
-    <link rel="stylesheet" href="./Estilos/teste.css">
+    <link rel="stylesheet" href="./Estilos/styles.css">
     <link rel="shortcut icon" type="image/jpg" href="/Favicon.png" />
     <link href="https://fonts.cdnfonts.com/css/common-pixel" rel="stylesheet">
+    
 </head>
 
 <body style="background-color: rgb(235, 239, 242);">
     <header>
         <nav class="Navbar">
             <ul>
-                <li><a href="home.html">Home</a></li>
-                <li><a href="index.html">Pesquisar</a></li>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="pesquisa.html">Pesquisar</a></li>
                 <li><a href="https://www.pokemon.com/br/pokedex" target="_blank" >Pokedex Oficial</a></li>
                 <li class="dropdown">
-                    <a href="javascript:void(0)" class="dropbtn">Mapa PokeCenters</a>
+                    <a href="javascript:void(0)" \class="dropbtn">Mapa PokeCenters</a>
                     <ul class="dropdown-content">
                         <li><a href="MapaPokedex.html" target="_blank">Tóquio</a></li>
                         <li><a href="MapaPokedex_2.html" target="_blank">Taipei</a></li>
@@ -29,63 +30,49 @@
             </ul>
         </nav>
     </header>
-    
-    
+
+    <main>
 
     <div class="div_center">
-    <h1 class = "pesq_poke">Nome do Pokémon </h1>
-    <form id="search_pokemon" class="box_align" autocomplete="off">
-        <input id="pokemon_pesquisado" placeholder="Nome do Pokémon ou ID" class="bordername"></input>
-        <ul class="sugestoes"></ul>
-    </form>
 
-    <div class="img_poke">
-        <h2></h2>
-        <img id="pokemon_imagem" src="" alt="Imagem do Pokémon"></img>
+    <div class="dropdown_select"> <button class="dropdown_select-btn">Selecionar</button>
+      <div class="dropdown_select-content">
+        <button class="gen" value="1">Geração 1</button>
+        <button class="gen" value="152">Geração 2</button>
+        <button class="gen" value="252">Geração 3</button>
+        <button class="gen" value="387">Geração 4</button>
+        <button class="gen" value="494">Geração 5</button>
+        <button class="gen" value="650">Geração 6</button>
+        <button class="gen" value="722">Geração 7</button>
+        <button class="gen" value="810">Geração 8</button>
+        <button class="gen" value="906">Geração 9</button>
+      </div>
     </div>
-
-    <br>
-    <h2 class="box_align">INFORMAÇÕES DO POKÉMON</h2>
-
-    <h3 class="EspacoAlinha" >NOME</h3>
-    <p id="poke_nome" class="bordaCampoNome" ></p>
-
-    <br>
-
-    <div id="poke_dados">
-
-        <h2 class="box_align"> DADOS TÉCNICOS </h2>
-        <div id="pre_evolucao">
-            <h4 class = "EspacoAlinha" >PRÉ-EVOLUÇÃO</h4>
-            <p class="bordaCampoNome2"></p>
+        <div class="container">
+          
+          <!-- Adicione mais itens dinamicamente -->
         </div>
 
-        <div id="prox_evolucao">
-            <h4 class = "EspacoAlinha">PRÓXIMA EVOLUÇÃO</h4>
-            <p class="bordaCampoNome3"></p>
-        </div>
+      <footer>
+        <p>© 2024 Minha Página</p>
+      </footer>
+
     </div>
+      
+  </main>
 
-    <br>
-    <h2 class="box_align" > DESCRIÇÃO </h2>
-    <p class = "bordaDesc"id="poke_descricao"></p>
+  
 
-    <div class="iframe-container">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/-PlAg8R9TG4?si=4zQ8WCYe5KgkfWzG"
-        title="YouTube video player" frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+  <script src="./Extras/utils.js"></script>
+  <script src="./Extras/pokedex_json.js"></script>
+  <script src="./Extras/pesquisa.js"></script>
+  <script src="./API/Pokedex.js"></script>
+  <script src="./API/Pokemon.js"></script>
+  <script src="./Scripts/pesquisar_pokemon.js"></script>
+  <script src="./Scripts/carregar_json.js"></script>
+  <script src="./Scripts/home_script.js"></script>
 
-</div>
 </body>
+    
+    
 
-<script src="./Extras/utils.js"></script>
-<script src="./Extras/pokedex_json.js"></script>
-<script src="./Extras/pesquisa.js"></script>
-<script src="./API/Pokedex.js"></script>
-<script src="./API/Pokemon.js"></script>
-<script src="./Scripts/pesquisar_pokemon.js"></script>
-<script src="./Scripts/teste_pokemon.js"></script>
-
-</html>

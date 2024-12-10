@@ -32,7 +32,7 @@ window.onload = () => {
         image.src = image_src;
 
         let link = document.createElement("a");
-        link.href = `index.html?pokemon_name=${pokemon.name}`;
+        link.href = `pesquisa.html?pokemon_name=${pokemon.name}`;
 
         link.appendChild(image);
 
