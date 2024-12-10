@@ -32,11 +32,11 @@ function display_pokeInfo_to_tag(poke_info, tag, tag_type = "text")
  */
 function _closeAllLists(list)
 {
-  if (list.hasChildNodes())
+  if (list.childElementCount > 0)
   {
-    list.childNodes.forEach((node) => {
-      node.remove();
-    })
+    while (list.firstChild) {
+      list.removeChild(list.lastChild)
+    }
   }
 }
 
@@ -72,7 +72,6 @@ function autocomplete(input, array)
       input.value = array[i];
       // Limpamos a lista duas vezes a fim de evitar um bug com o evento input
       _closeAllLists(sugestions);
-      _closeAllLists(sugestions);
       // Create the event
       input.parentElement.dispatchEvent(new CustomEvent("submit"));
     });
@@ -90,58 +89,58 @@ function pokemon_type_color(pokemon_type)
 {
   switch (pokemon_type) {
     case "Normal":
-      return "darkgray";
+      return "#aaaa99";
 
     case "Fire":
-      return "red";
+      return "#ff4422";
 
     case "Water":
-      return "blue";
+      return "#3399ff";
 
     case "Electric":
-      return "yellow";
+      return "#fcca31";
 
     case "Grass":
-      return "green";
+      return "#77cc55";
 
     case "Ice":
-      return "light_blue";
+      return "#66ccff";
 
     case "Fighting":
-      return "light_red";
+      return "#ba5544";
 
     case "Poison":
-      return "purple";
+      return "#a95598";
 
     case "Ground":
-      return "blue";
+      return "#ddbb55";
 
     case "Flying":
-      return "red";
+      return "#8899ff";
 
     case "Psychic":
-      return "light_pink";
+      return "#fe5598";
 
     case "Bug":
-      return " green";
+      return "#a7b821";
 
    case "Rock":
-    return "brown";
+    return "#bbaa66";
 
     case "Ghost":
-      return "purple";
+      return "#6666bb";
 
     case "Dragon":
-      return "dark_purple";
+      return "#7766ee";
 
     case "Dark":
-      return "black";
+      return "#775544";
 
     case "Steel":
-      return "silver";
+      return "#aaaabb";
 
     case "Fairy":
-      return "pink";
+      return "#ee99ee";
 
   }
 }

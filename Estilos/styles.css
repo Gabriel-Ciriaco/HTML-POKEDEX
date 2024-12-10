@@ -1,3 +1,10 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
 .sugestoes{
   position: relative;
   z-index: 99;
@@ -24,6 +31,7 @@
 }
 
 .pesq_poke{
+  color: white;
   text-align: center;
 }
 
@@ -151,6 +159,13 @@ li.dropdown {
   display: block;
 }
 }
+
+header {
+  top: 0;
+  position: sticky;
+  z-index: 2;
+}
+
 body{
   margin: 0;
   padding: 0;
@@ -199,6 +214,8 @@ body{
 }
 
 .dropdown_select {
+  margin: auto;
+  margin-bottom: 10px;
   position: relative;
   display: inline-block;
 }
@@ -248,7 +265,7 @@ body{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 10px;
-  }
+}
 
   .item_repeat {
     display: inline-block;
@@ -278,11 +295,28 @@ body{
   margin-left: 10px;
   }
 
-  @media (max-width: 1024px) {
-  .container {
-    grid-template-columns: repeat(3, 1fr); /* 3 colunas com 1fr cada */
+  .more_pokemons {
+    margin: auto;
+    margin-top: 10px;
+    display: block;
+    padding: 10px 20px;
+    width: 120px;
+    background-color: #19b4cf;
+    color: white;
+    border: none;
+    border-radius: 8px;
   }
-}
+
+  .more_pokemons:hover {
+    background-color: #1594ab;
+  }
+
+
+  @media (max-width: 1024px) {
+    .container {
+      grid-template-columns: repeat(3, 1fr); /* 3 colunas com 1fr cada */
+    }
+  }
 
 /* Para telas menores que 768px (como celulares em paisagem) */
 @media (max-width: 768px) {

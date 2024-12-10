@@ -3,6 +3,7 @@ let image_pokemon = document.getElementById("pokemon_imagem");
 let desc_pokemon = document.getElementById("poke_descricao");
 let name_pokemon = document.getElementById("poke_nome");
 let dados_pokemon = document.getElementById("poke_dados");
+let sugestoes = document.querySelector(".sugestoes");
 
 var POKEDEX = new Pokedex(POKEDEX_JSON);
 
@@ -34,7 +35,19 @@ function load_pokemon(desired_pokemon, pokemons_encontrados)
   display_pokeInfo_to_tag(pokemon.image.hires, image_pokemon, "image");
   display_pokeInfo_to_tag(pokemon.description, desc_pokemon);
   display_pokeInfo_to_tag(pokemon.name, name_pokemon);
-  $(".div_center").css("background-color", pokemon_type_color(pokemon.type[0]));
+
+  let type_color = pokemon_type_color(pokemon.type[0]);
+
+  type_color =
+    "rgba(" +
+    parseInt(type_color.slice(-6, -4), 16) +
+    "," +
+    parseInt(type_color.slice(-4, -2), 16) +
+    "," +
+    parseInt(type_color.slice(-2), 16) +
+    ",0.7)";
+
+  $(".div_center").css("background-color", type_color);
 
   dados_pokemon.hidden = true;
 
@@ -82,11 +95,12 @@ search_pokemon.addEventListener("input", (event) => {
 
 search_pokemon.addEventListener("submit", (event) => {
   event.preventDefault(); // Autoexplicativo
-
+  
   let desired_pokemon = document.getElementById("pokemon_pesquisado").value;
 
   let pokemons_encontrados = POKEDEX.get_possible_pokemon(desired_pokemon);
 
+  _closeAllLists(sugestoes);
   let eh_Valido = true;
   // Validar aqui os elementos
   if (pokemons_encontrados == null && !/^\d+$/.test(desired_pokemon)) eh_Valido = false;
@@ -101,3 +115,12 @@ search_pokemon.addEventListener("submit", (event) => {
     load_pokemon(desired_pokemon, pokemons_encontrados);
   }
 });
+
+search_pokemon.onkeydown = function () {
+  var key = event.keyCode || event.charCode;
+
+  if (key == 8 || key == 46)
+  {
+    _closeAllLists(sugestoes);
+  }
+}

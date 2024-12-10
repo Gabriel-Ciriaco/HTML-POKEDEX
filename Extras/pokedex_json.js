@@ -34147,9 +34147,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+        "./Imagens/Pokedex/hires/906.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png",
+        "./Imagens/Pokedex/hires/906.png",
     },
   },
   {
@@ -34189,9 +34189,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+        "./Imagens/Pokedex/hires/907.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+        "./Imagens/Pokedex/hires/907.png",
     },
   },
   {
@@ -34230,9 +34230,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+        "./Imagens/Pokedex/hires/908.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png",
+        "./Imagens/Pokedex/hires/908.png",
     },
   },
   {
@@ -34274,9 +34274,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+        "./Imagens/Pokedex/hires/909.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png",
+        "./Imagens/Pokedex/hires/909.png",
     },
   },
   {
@@ -34316,9 +34316,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+        "./Imagens/Pokedex/hires/910.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/910.png",
+        "./Imagens/Pokedex/hires/910.png",
     },
   },
   {
@@ -34357,9 +34357,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+        "./Imagens/Pokedex/hires/911.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png",
+        "./Imagens/Pokedex/hires/911.png",
     },
   },
   {
@@ -34401,9 +34401,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+        "./Imagens/Pokedex/hires/912.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png",
+        "./Imagens/Pokedex/hires/912.png",
     },
   },
   {
@@ -34443,9 +34443,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+        "./Imagens/Pokedex/hires/913.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/913.png",
+        "./Imagens/Pokedex/hires/913.png",
     },
   },
   {
@@ -34484,9 +34484,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+        "./Imagens/Pokedex/hires/914.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
+        "./Imagens/Pokedex/hires/914.png",
     },
   },
   {
@@ -34525,9 +34525,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+        "./Imagens/Pokedex/hires/915.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+        "./Imagens/Pokedex/hires/915.png",
     },
   },
   {
@@ -34604,9 +34604,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+        "./Imagens/Pokedex/hires/917.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/917.png",
+        "./Imagens/Pokedex/hires/917.png",
     },
   },
   {
@@ -34644,9 +34644,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+        "./Imagens/Pokedex/hires/918.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/918.png",
+        "./Imagens/Pokedex/hires/918.png",
     },
   },
   {
@@ -34684,9 +34684,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+        "./Imagens/Pokedex/hires/919.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/919.png",
+        "./Imagens/Pokedex/hires/919.png",
     },
   },
   {
@@ -34724,9 +34724,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+        "./Imagens/Pokedex/hires/920.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/920.png",
+        "./Imagens/Pokedex/hires/920.png",
     },
   },
   {
@@ -34765,9 +34765,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+        "./Imagens/Pokedex/hires/921.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+        "./Imagens/Pokedex/hires/921.png",
     },
   },
   {
@@ -34807,9 +34807,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+        "./Imagens/Pokedex/hires/922.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+        "./Imagens/Pokedex/hires/922.png",
     },
   },
   {
@@ -34848,9 +34848,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+        "./Imagens/Pokedex/hires/923.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/923.png",
+        "./Imagens/Pokedex/hires/923.png",
     },
   },
   {
@@ -34889,9 +34889,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+        "./Imagens/Pokedex/hires/924.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+        "./Imagens/Pokedex/hires/924.png",
     },
   },
   {
@@ -34968,9 +34968,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+        "./Imagens/Pokedex/hires/926.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png",
+        "./Imagens/Pokedex/hires/926.png",
     },
   },
   {
@@ -35008,9 +35008,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+        "./Imagens/Pokedex/hires/927.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+        "./Imagens/Pokedex/hires/927.png",
     },
   },
   {
@@ -35051,9 +35051,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+        "./Imagens/Pokedex/hires/928.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/928.png",
+        "./Imagens/Pokedex/hires/928.png",
     },
   },
   {
@@ -35092,9 +35092,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+        "./Imagens/Pokedex/hires/929.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/929.png",
+        "./Imagens/Pokedex/hires/929.png",
     },
   },
   {
@@ -35132,9 +35132,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+        "./Imagens/Pokedex/hires/930.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
+        "./Imagens/Pokedex/hires/930.png",
     },
   },
   {
@@ -35212,9 +35212,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+        "./Imagens/Pokedex/hires/932.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/932.png",
+        "./Imagens/Pokedex/hires/932.png",
     },
   },
   {
@@ -35254,9 +35254,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+        "./Imagens/Pokedex/hires/933.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+        "./Imagens/Pokedex/hires/933.png",
     },
   },
   {
@@ -35295,9 +35295,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+        "./Imagens/Pokedex/hires/934.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/934.png",
+        "./Imagens/Pokedex/hires/934.png",
     },
   },
   {
@@ -35338,9 +35338,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+        "./Imagens/Pokedex/hires/935.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png",
+        "./Imagens/Pokedex/hires/935.png",
     },
   },
   {
@@ -35378,9 +35378,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+        "./Imagens/Pokedex/hires/936.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
+        "./Imagens/Pokedex/hires/936.png",
     },
   },
   {
@@ -35418,9 +35418,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+        "./Imagens/Pokedex/hires/937.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/937.png",
+        "./Imagens/Pokedex/hires/937.png",
     },
   },
   {
@@ -35459,9 +35459,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+        "./Imagens/Pokedex/hires/938.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png",
+        "./Imagens/Pokedex/hires/938.png",
     },
   },
   {
@@ -35500,9 +35500,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+        "./Imagens/Pokedex/hires/939.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
+        "./Imagens/Pokedex/hires/939.png",
     },
   },
   {
@@ -35541,9 +35541,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+        "./Imagens/Pokedex/hires/940.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/940.png",
+        "./Imagens/Pokedex/hires/940.png",
     },
   },
   {
@@ -35582,9 +35582,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+        "./Imagens/Pokedex/hires/941.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/941.png",
+        "./Imagens/Pokedex/hires/941.png",
     },
   },
   {
@@ -35623,9 +35623,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+        "./Imagens/Pokedex/hires/942.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+        "./Imagens/Pokedex/hires/942.png",
     },
   },
   {
@@ -35664,9 +35664,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+        "./Imagens/Pokedex/hires/943.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/943.png",
+        "./Imagens/Pokedex/hires/943.png",
     },
   },
   {
@@ -35705,9 +35705,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+        "./Imagens/Pokedex/hires/944.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+        "./Imagens/Pokedex/hires/944.png",
     },
   },
   {
@@ -35746,9 +35746,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+        "./Imagens/Pokedex/hires/945.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/945.png",
+        "./Imagens/Pokedex/hires/945.png",
     },
   },
   {
@@ -35786,9 +35786,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+        "./Imagens/Pokedex/hires/946.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+        "./Imagens/Pokedex/hires/946.png",
     },
   },
   {
@@ -35826,9 +35826,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+        "./Imagens/Pokedex/hires/947.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+        "./Imagens/Pokedex/hires/947.png",
     },
   },
   {
@@ -35866,9 +35866,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+        "./Imagens/Pokedex/hires/948.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/948.png",
+        "./Imagens/Pokedex/hires/948.png",
     },
   },
   {
@@ -35906,9 +35906,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+        "./Imagens/Pokedex/hires/949.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/949.png",
+        "./Imagens/Pokedex/hires/949.png",
     },
   },
   {
@@ -35944,9 +35944,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+        "./Imagens/Pokedex/hires/950.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/950.png",
+        "./Imagens/Pokedex/hires/950.png",
     },
   },
   {
@@ -35985,9 +35985,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+        "./Imagens/Pokedex/hires/951.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+        "./Imagens/Pokedex/hires/951.png",
     },
   },
   {
@@ -36026,9 +36026,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+        "./Imagens/Pokedex/hires/952.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+        "./Imagens/Pokedex/hires/952.png",
     },
   },
   {
@@ -36066,9 +36066,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+        "./Imagens/Pokedex/hires/953.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/953.png",
+        "./Imagens/Pokedex/hires/953.png",
     },
   },
   {
@@ -36106,9 +36106,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+        "./Imagens/Pokedex/hires/954.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/954.png",
+        "./Imagens/Pokedex/hires/954.png",
     },
   },
   {
@@ -36147,9 +36147,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+        "./Imagens/Pokedex/hires/955.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/955.png",
+        "./Imagens/Pokedex/hires/955.png",
     },
   },
   {
@@ -36188,9 +36188,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+        "./Imagens/Pokedex/hires/956.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+        "./Imagens/Pokedex/hires/956.png",
     },
   },
   {
@@ -36232,9 +36232,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+        "./Imagens/Pokedex/hires/957.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
+        "./Imagens/Pokedex/hires/957.png",
     },
   },
   {
@@ -36274,9 +36274,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+        "./Imagens/Pokedex/hires/958.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/958.png",
+        "./Imagens/Pokedex/hires/958.png",
     },
   },
   {
@@ -36315,9 +36315,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+        "./Imagens/Pokedex/hires/959.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+        "./Imagens/Pokedex/hires/959.png",
     },
   },
   {
@@ -36356,9 +36356,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+        "./Imagens/Pokedex/hires/960.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+        "./Imagens/Pokedex/hires/960.png",
     },
   },
   {
@@ -36397,9 +36397,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+        "./Imagens/Pokedex/hires/961.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/961.png",
+        "./Imagens/Pokedex/hires/961.png",
     },
   },
   {
@@ -36435,9 +36435,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+        "./Imagens/Pokedex/hires/962.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/962.png",
+        "./Imagens/Pokedex/hires/962.png",
     },
   },
   {
@@ -36475,9 +36475,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+        "./Imagens/Pokedex/hires/963.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/963.png",
+        "./Imagens/Pokedex/hires/963.png",
     },
   },
   {
@@ -36515,9 +36515,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+        "./Imagens/Pokedex/hires/965.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png",
+        "./Imagens/Pokedex/hires/965.png",
     },
   },
   {
@@ -36555,9 +36555,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+        "./Imagens/Pokedex/hires/966.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/966.png",
+        "./Imagens/Pokedex/hires/966.png",
     },
   },
   {
@@ -36592,9 +36592,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+        "./Imagens/Pokedex/hires/967.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/967.png",
+        "./Imagens/Pokedex/hires/967.png",
     },
   },
   {
@@ -36629,9 +36629,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+        "./Imagens/Pokedex/hires/968.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png",
+        "./Imagens/Pokedex/hires/968.png",
     },
   },
   {
@@ -36669,9 +36669,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+        "./Imagens/Pokedex/hires/969.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/969.png",
+        "./Imagens/Pokedex/hires/969.png",
     },
   },
   {
@@ -36709,9 +36709,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+        "./Imagens/Pokedex/hires/970.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+        "./Imagens/Pokedex/hires/970.png",
     },
   },
   {
@@ -36749,9 +36749,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+        "./Imagens/Pokedex/hires/971.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/971.png",
+        "./Imagens/Pokedex/hires/971.png",
     },
   },
   {
@@ -36789,9 +36789,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+        "./Imagens/Pokedex/hires/972.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+        "./Imagens/Pokedex/hires/972.png",
     },
   },
   {
@@ -36827,9 +36827,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+        "./Imagens/Pokedex/hires/973.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/973.png",
+        "./Imagens/Pokedex/hires/973.png",
     },
   },
   {
@@ -36868,9 +36868,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+        "./Imagens/Pokedex/hires/974.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/974.png",
+        "./Imagens/Pokedex/hires/974.png",
     },
   },
   {
@@ -36909,9 +36909,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+        "./Imagens/Pokedex/hires/975.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/975.png",
+        "./Imagens/Pokedex/hires/975.png",
     },
   },
   {
@@ -36946,9 +36946,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+        "./Imagens/Pokedex/hires/976.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/976.png",
+        "./Imagens/Pokedex/hires/976.png",
     },
   },
   {
@@ -36984,9 +36984,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+        "./Imagens/Pokedex/hires/977.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png",
+        "./Imagens/Pokedex/hires/977.png",
     },
   },
   {
@@ -37025,9 +37025,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+        "./Imagens/Pokedex/hires/979.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+        "./Imagens/Pokedex/hires/979.png",
     },
   },
   {
@@ -37066,9 +37066,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+        "./Imagens/Pokedex/hires/980.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/980.png",
+        "./Imagens/Pokedex/hires/980.png",
     },
   },
   {
@@ -37107,9 +37107,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+        "./Imagens/Pokedex/hires/981.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/981.png",
+        "./Imagens/Pokedex/hires/981.png",
     },
   },
   {
@@ -37148,9 +37148,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+        "./Imagens/Pokedex/hires/983.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/983.png",
+        "./Imagens/Pokedex/hires/983.png",
     },
   },
   {
@@ -37185,9 +37185,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+        "./Imagens/Pokedex/hires/984.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/984.png",
+        "./Imagens/Pokedex/hires/984.png",
     },
   },
   {
@@ -37222,9 +37222,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+        "./Imagens/Pokedex/hires/985.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/985.png",
+        "./Imagens/Pokedex/hires/985.png",
     },
   },
   {
@@ -37259,9 +37259,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+        "./Imagens/Pokedex/hires/986.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/986.png",
+        "./Imagens/Pokedex/hires/986.png",
     },
   },
   {
@@ -37296,9 +37296,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+        "./Imagens/Pokedex/hires/987.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/987.png",
+        "./Imagens/Pokedex/hires/987.png",
     },
   },
   {
@@ -37333,9 +37333,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+        "./Imagens/Pokedex/hires/988.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+        "./Imagens/Pokedex/hires/988.png",
     },
   },
   {
@@ -37370,9 +37370,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+        "./Imagens/Pokedex/hires/989.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/989.png",
+        "./Imagens/Pokedex/hires/989.png",
     },
   },
   {
@@ -37407,9 +37407,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+        "./Imagens/Pokedex/hires/990.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/990.png",
+        "./Imagens/Pokedex/hires/990.png",
     },
   },
   {
@@ -37444,9 +37444,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+        "./Imagens/Pokedex/hires/991.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+        "./Imagens/Pokedex/hires/991.png",
     },
   },
   {
@@ -37481,9 +37481,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+        "./Imagens/Pokedex/hires/992.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/992.png",
+        "./Imagens/Pokedex/hires/992.png",
     },
   },
   {
@@ -37518,9 +37518,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+        "./Imagens/Pokedex/hires/993.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/993.png",
+        "./Imagens/Pokedex/hires/993.png",
     },
   },
   {
@@ -37555,9 +37555,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+        "./Imagens/Pokedex/hires/994.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/994.png",
+        "./Imagens/Pokedex/hires/994.png",
     },
   },
   {
@@ -37592,9 +37592,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+        "./Imagens/Pokedex/hires/995.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/995.png",
+        "./Imagens/Pokedex/hires/995.png",
     },
   },
   {
@@ -37635,9 +37635,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+        "./Imagens/Pokedex/hires/996.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png",
+        "./Imagens/Pokedex/hires/996.png",
     },
   },
   {
@@ -37676,9 +37676,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+        "./Imagens/Pokedex/hires/997.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/997.png",
+        "./Imagens/Pokedex/hires/997.png",
     },
   },
   {
@@ -37716,9 +37716,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+        "./Imagens/Pokedex/hires/998.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+        "./Imagens/Pokedex/hires/998.png",
     },
   },
   {
@@ -37756,9 +37756,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+        "./Imagens/Pokedex/hires/999.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png",
+        "./Imagens/Pokedex/hires/999.png",
     },
   },
   {
@@ -37796,9 +37796,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+        "./Imagens/Pokedex/hires/1000.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1000.png",
+        "./Imagens/Pokedex/hires/1000.png",
     },
   },
   {
@@ -37833,9 +37833,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+        "./Imagens/Pokedex/hires/1001.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1001.png",
+        "./Imagens/Pokedex/hires/1001.png",
     },
   },
   {
@@ -37870,9 +37870,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+        "./Imagens/Pokedex/hires/1002.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1002.png",
+        "./Imagens/Pokedex/hires/1002.png",
     },
   },
   {
@@ -37907,9 +37907,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+        "./Imagens/Pokedex/hires/1003.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1003.png",
+        "./Imagens/Pokedex/hires/1003.png",
     },
   },
   {
@@ -37944,9 +37944,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+        "./Imagens/Pokedex/hires/1004.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1004.png",
+        "./Imagens/Pokedex/hires/1004.png",
     },
   },
   {
@@ -37981,9 +37981,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+        "./Imagens/Pokedex/hires/1005.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1005.png",
+        "./Imagens/Pokedex/hires/1005.png",
     },
   },
   {
@@ -38018,9 +38018,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+        "./Imagens/Pokedex/hires/1006.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1006.png",
+        "./Imagens/Pokedex/hires/1006.png",
     },
   },
   {
@@ -38055,9 +38055,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+        "./Imagens/Pokedex/hires/1007.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png",
+        "./Imagens/Pokedex/hires/1007.png",
     },
   },
   {
@@ -38092,9 +38092,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+        "./Imagens/Pokedex/hires/1008.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png",
+        "./Imagens/Pokedex/hires/1008.png",
     },
   },
   {
@@ -38129,9 +38129,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+        "./Imagens/Pokedex/hires/1009.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+        "./Imagens/Pokedex/hires/1009.png",
     },
   },
   {
@@ -38166,9 +38166,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+        "./Imagens/Pokedex/hires/1010.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1010.png",
+        "./Imagens/Pokedex/hires/1010.png",
     },
   },
   {
@@ -38208,9 +38208,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+        "./Imagens/Pokedex/hires/1011.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+        "./Imagens/Pokedex/hires/1011.png",
     },
   },
   {
@@ -38248,9 +38248,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+        "./Imagens/Pokedex/hires/1012.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png",
+        "./Imagens/Pokedex/hires/1012.png",
     },
   },
   {
@@ -38288,9 +38288,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+        "./Imagens/Pokedex/hires/1013.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png",
+        "./Imagens/Pokedex/hires/1013.png",
     },
   },
   {
@@ -38325,9 +38325,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+        "./Imagens/Pokedex/hires/1014.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1014.png",
+        "./Imagens/Pokedex/hires/1014.png",
     },
   },
   {
@@ -38362,9 +38362,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
+        "./Imagens/Pokedex/hires/1015.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1015.png",
+        "./Imagens/Pokedex/hires/1015.png",
     },
   },
   {
@@ -38399,9 +38399,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+        "./Imagens/Pokedex/hires/1016.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1016.png",
+        "./Imagens/Pokedex/hires/1016.png",
     },
   },
   {
@@ -38433,9 +38433,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+        "./Imagens/Pokedex/hires/1017.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1017.png",
+        "./Imagens/Pokedex/hires/1017.png",
     },
   },
   {
@@ -38474,9 +38474,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+        "./Imagens/Pokedex/hires/1018.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
+        "./Imagens/Pokedex/hires/1018.png",
     },
   },
   {
@@ -38515,9 +38515,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+        "./Imagens/Pokedex/hires/1019.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1019.png",
+        "./Imagens/Pokedex/hires/1019.png",
     },
   },
   {
@@ -38549,9 +38549,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+        "./Imagens/Pokedex/hires/1020.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1020.png",
+        "./Imagens/Pokedex/hires/1020.png",
     },
   },
   {
@@ -38583,9 +38583,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+        "./Imagens/Pokedex/hires/1021.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1021.png",
+        "./Imagens/Pokedex/hires/1021.png",
     },
   },
   {
@@ -38617,9 +38617,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+        "./Imagens/Pokedex/hires/1022.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
+        "./Imagens/Pokedex/hires/1022.png",
     },
   },
   {
@@ -38651,9 +38651,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+        "./Imagens/Pokedex/hires/1023.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1023.png",
+        "./Imagens/Pokedex/hires/1023.png",
     },
   },
   {
@@ -38685,9 +38685,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+        "./Imagens/Pokedex/hires/1024.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1024.png",
+        "./Imagens/Pokedex/hires/1024.png",
     },
   },
   {
@@ -38719,9 +38719,9 @@ const POKEDEX_JSON = [
     image: {
       sprite: null,
       thumbnail:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+        "./Imagens/Pokedex/hires/1025.png",
       hires:
-        "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1025.png",
+        "./Imagens/Pokedex/hires/1025.png",
     },
   },
   {

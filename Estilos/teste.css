@@ -1,6 +1,14 @@
+* {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  box-sizing: border-box;
+}
+
 .sugestoes{
     position: relative;
-    z-index: 99;
+    z-index: 1;
     border: 2px solid #dddddd;
     border-radius: 4px 4px 4px 4px;
     list-style-type: none;
@@ -10,6 +18,7 @@
     margin-right: auto;
     text-justify: center;
     border-color: rgb(67, 67, 67);
+    background-color: white;
 }
 
 .sugestoes > li:hover{
@@ -23,8 +32,18 @@
     color: red;
 }
 
+#pokemon_imagem {
+  margin-top: 25px;
+  width: 30em;
+  height: auto;
+}
+
 .pesq_poke{
-    text-align: center;
+  margin-top: 0px;
+  padding: 25px;
+  background-color: black;
+  color: white;
+  text-align: center;
 }
 
 .border{
@@ -39,27 +58,25 @@
     border-radius: 8px;
     width: 45%;
     padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     text-align: center;
+    line-height: 38px;
 }
 
-.EspacoAlinha{
-    margin-left: 15px;
-    display: inline-block;
-}
 
-    
 .box_align{
-    text-align: center;
+  text-align: center;
 }
 
 .borda1{
-    border: 5px solid white;
-    border-radius: 20px;
-    width: 30%;
-    padding: 15px;
-    margin-left: 75px;
-    background-color: white;
-    display: inline-block;
+  border: 5px solid white;
+  border-radius: 20px;
+  width: 30%;
+  padding: 15px;
+  margin-left: 75px;
+  background-color: white;
+  display: inline-block;
 }
 
 .div_center
@@ -68,19 +85,25 @@
     margin-left: auto;
     margin-right: auto;
     background-color: darkgray;
-    padding-top: 25px;
 }
 
+
+.EspacoAlinha{
+    margin-left: 37vh;
+    display: inline-block;
+    width: 126px;
+}
 
 .bordaCampoNome {
     border: 5px solid white;
     border-radius: 20px;
     width: 38%;
     padding: 15px;
-    margin-left: 20px; /* Reduzido para um alinhamento melhor */
+    margin-left: -2vh; /* Reduzido para um alinhamento melhor */
     background-color: white;
     display: inline-block;
     vertical-align: middle; /* Alinha verticalmente ao texto */
+    text-align: center;
 }
 
 .bordaCampoNome2 {
@@ -88,10 +111,11 @@
     border-radius: 20px;
     width: 30.5%;
     padding: 15px;
-    margin-left: 60px; /* Reduzido para um alinhamento melhor */
+    margin-left: 4vh; /* Reduzido para um alinhamento melhor */
     background-color: white;
     display: inline-block;
     vertical-align: middle; /* Alinha verticalmente ao texto */
+    text-align: center;
 }
 
 .bordaCampoNome3 {
@@ -99,14 +123,16 @@
     border-radius: 20px;
     width: 30.5%;
     padding: 15px;
-    margin-left: 20px; /* Reduzido para um alinhamento melhor */
+    margin-left: 4vh; /* Reduzido para um alinhamento melhor */
     background-color: white;
     display: inline-block;
     vertical-align: middle; /* Alinha verticalmente ao texto */
+    text-align: center;
 }
 
 .Navbar{
-ul {
+
+ul {  
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -159,6 +185,13 @@ li.dropdown {
     display: block;
 }
 }
+
+header {
+  top: 0;
+  position: sticky;
+  z-index: 2;
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -193,4 +226,90 @@ body{
     border-radius: 20px;
     padding: 15px;
     background-color: white;
+}
+
+@media (max-width: 1024px) {
+  .EspacoAlinha {
+    margin-left: 15vh;
+    width: 90px;
+  }
+
+  .bordaCampoNome {
+    margin-left: 4vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  .bordaCampoNome2 {
+    margin-left: 8vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  .bordaCampoNome3 {
+    margin-left: 8vh; /* Reduzido para um alinhamento melhor */
+  }
+}
+
+/* Para telas menores que 768px (como celulares em paisagem) */
+@media (max-width: 768px) {
+  .EspacoAlinha{
+    margin-left: 6vh;
+    display: inline-block;
+    width: 90px;
+    word-wrap: break-word;
+  }
+
+  .bordaCampoNome {
+    margin-left: 6vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  .bordaCampoNome2 {
+    margin-left: 9vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  .bordaCampoNome3 {
+    margin-left: 9vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  #pokemon_imagem{
+    width: 28em;
+    height: auto;
+  }
+
+  .bordername
+  {
+    line-height: 20px;
+  }
+}
+
+/* Para telas muito pequenas (como celulares em retrato) */
+@media (max-width: 480px) {
+  .bordername
+  {
+    line-height: 10px;
+    word-wrap: break-word;
+  }
+
+  .EspacoAlinha{
+    margin-left: 3vh;
+    display: inline-block;
+    font-size: 1em;
+    width: 88px;
+    word-wrap: break-word;
+  }
+
+  .bordaCampoNome {
+    display: inline-block;
+    margin-left: 2vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  .bordaCampoNome2 {
+    margin-left: 4vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  .bordaCampoNome3 {
+    margin-left: 4vh; /* Reduzido para um alinhamento melhor */
+  }
+
+  #pokemon_imagem{
+    width: 18em;
+    height: auto;
+  }
 }
