@@ -7,9 +7,6 @@
     <link rel="stylesheet" href="./Estilos/Forms.css">
     <link rel="shortcut icon" type="image/jpg" href="Favicon.png"/>
     <title>Bug Report</title>
-    <style>
-
-    </style>
 </head>
 
 <body>
@@ -31,22 +28,32 @@
             </ul>
         </nav>
     </header>
+    
+    
+    <h1 class="title">Encontrou algo de estranho?</h1>
+    <h2 class="subtitle">Conte para nós!</h2>
 
+    <img src="PokeComputer.png" alt="Bug_Psyduck" class="psyduck_error">
 
-    <h1>Informe Seu Bug</h1>
-    <form>
+    <form class="bug_form">
         <table>
             <caption>Formulário para Bugs</caption>
             <tr>
-                <th>Informe onde ocorreu</th>
+                <th>Informe onde ocorreu o problema.</th>
                 <td><input type="text" name="BugReport" id="BR"></td>
             </tr>
             <tr>
-                <th>Descreva o bug</th>
+                <th>Descreva-o detalhadamente.</th>
                 <td><textarea name="BugDescription" id="BD" rows="5" placeholder="Descreva o bug"></textarea></td>
+            </tr>
+            <tr>
+              <td>
+                <button>Enviar</button>
+              </td>
             </tr>
         </table>
     </form>
+
     
 </body>
 

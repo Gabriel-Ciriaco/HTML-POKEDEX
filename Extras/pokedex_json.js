@@ -38732,7 +38732,7 @@ const POKEDEX_JSON = [
       french: "Meci Celso",
     },
     id: 1026,
-    type: ["Cachaça"],
+    type: ["Normal"],
     base: {
       HP: 100,
       Attack: 100,
@@ -38743,7 +38743,7 @@ const POKEDEX_JSON = [
     },
     species: "Professor Pokémon",
     description:
-      `Quando chega o final da aula, este Pokémon utiliza o seu especial "Joga Rápido" com o qual a finaliza em milésimos de segundos.`,
+      `Quando chega o final da aula, este Pokémon utiliza o seu especial "Jogo Rápido" com o qual a finaliza em milésimos de segundos.`,
     profile: {
       height: "1.80 m",
       weight: "85.0 kg",

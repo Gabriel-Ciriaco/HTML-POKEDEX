@@ -25,9 +25,34 @@
   text-align: center;    
 }
 
+.pokemon_id {
+  font-size: 0.9rem;
+  color: hwb(0 31% 69%);
+}
+
+.pokemon_name {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-top: 12px;
+  margin-bottom: 0px;
+}
+
 .img_poke {
   text-align: center;
   color: red;
+}
+
+.pokemon_types {
+  margin-left: 10px;
+}
+
+.pokemon_type {
+  display: inline-block;
+  text-align: center;
+  color: rgb(246, 246, 246);
+  width: 82px;
+  border-radius: 10px;
+  margin-right: 10px;
 }
 
 .pesq_poke{
@@ -92,6 +117,7 @@
   background-color: white;
   display: inline-block;
   vertical-align: middle; /* Alinha verticalmente ao texto */
+  text-align: center;
 }
 
 .bordaCampoNome3 {
@@ -103,6 +129,7 @@
   background-color: white;
   display: inline-block;
   vertical-align: middle; /* Alinha verticalmente ao texto */
+  text-align: center;
 }
 
 .Navbar{
@@ -284,9 +311,9 @@ body{
   }
 
   .imageHome {
-    max-width: 100%;
-    max-height: 100%;
-    margin-left: auto;
+    max-width: 80%;
+    max-height: 80%;
+    margin-left: 10px;
     margin-right: auto;
     object-fit: contain;
   }
