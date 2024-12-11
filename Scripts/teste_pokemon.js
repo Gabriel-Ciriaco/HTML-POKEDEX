@@ -3,6 +3,15 @@ let image_pokemon = document.getElementById("pokemon_imagem");
 let desc_pokemon = document.getElementById("poke_descricao");
 let name_pokemon = document.getElementById("poke_nome");
 let dados_pokemon = document.getElementById("poke_dados");
+
+
+let hp_pokemon = document.getElementById("hp_pokemon");
+let ataque_pokemon = document.getElementById("ataque_pokemon");
+let defesa_pokemon = document.getElementById("defesa_pokemon");
+let ataque_esp_pokemon = document.getElementById("ataque_esp");
+let defesa_esp_pokemon = document.getElementById("defesa_esp");
+let velocidade_pokemon = document.getElementById("velocidade");
+
 let sugestoes = document.querySelector(".sugestoes");
 
 var POKEDEX = new Pokedex(POKEDEX_JSON);
@@ -42,6 +51,24 @@ function load_pokemon(desired_pokemon, pokemons_encontrados)
   display_pokeInfo_to_tag(pokemon.description, desc_pokemon);
   display_pokeInfo_to_tag(pokemon.name, name_pokemon);
 
+  $("#hp_num").html(pokemon.base.HP);
+  display_pokeInfo_to_tag(pokemon.base.HP, hp_pokemon, "progress");
+
+  $("#ataque_num").html(pokemon.base.Attack);
+  display_pokeInfo_to_tag(pokemon.base.Attack, ataque_pokemon, "progress");
+
+  $("#defesa_num").html(pokemon.base.Defense);
+  display_pokeInfo_to_tag(pokemon.base.Defense, defesa_pokemon, "progress");
+  
+  $("#ataque_esp_num").html(pokemon.base["Sp. Attack"]);
+  display_pokeInfo_to_tag(pokemon.base["Sp. Attack"], ataque_esp_pokemon, "progress");
+  
+  $("#defesa_esp_num").html(pokemon.base["Sp. Defense"]);
+  display_pokeInfo_to_tag(pokemon.base["Sp. Defense"], defesa_esp_pokemon, "progress");
+  
+  $("#velocidade_num").html(pokemon.base.Speed);
+  display_pokeInfo_to_tag(pokemon.base.Speed, velocidade_pokemon, "progress");
+
   let type_color = pokemon_type_color(pokemon.type[0]);
 
   type_color =
@@ -51,7 +78,7 @@ function load_pokemon(desired_pokemon, pokemons_encontrados)
     parseInt(type_color.slice(-4, -2), 16) +
     "," +
     parseInt(type_color.slice(-2), 16) +
-    ",0.7)";
+    ",0.9)";
 
   $(".div_center").css("background-color", type_color);
 

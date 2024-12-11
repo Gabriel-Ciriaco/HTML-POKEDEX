@@ -3,7 +3,7 @@
  * 
  * @param {object} poke_info - A informação do Pokémon.
  * @param {HTMLElement} tag - Uma tag HTML na qual a informação aparecerá.
- * @param {("text"|"image")} tag_type - O tipo de conteúdo dessa tag.
+ * @param {("text"|"image"|"progress")} tag_type - O tipo de conteúdo dessa tag.
  */
 function display_pokeInfo_to_tag(poke_info, tag, tag_type = "text")
 {
@@ -16,6 +16,10 @@ function display_pokeInfo_to_tag(poke_info, tag, tag_type = "text")
 
       case "image":
         tag.src = poke_info;
+        break;
+
+      case "progress":
+        tag.value = poke_info;
         break;
     }
   }
