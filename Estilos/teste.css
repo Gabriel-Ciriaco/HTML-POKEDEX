@@ -87,6 +87,27 @@
     background-color: darkgray;
 }
 
+.pokemon_stats {
+  justify-items: center;
+  margin: 40px 30px 40px 30px;
+}
+
+.pokemon_stats>table {
+  width: 100%;
+  max-width: 400px;
+  overflow-x: auto;
+}
+
+.stats_name,
+.stats_value,
+.stats_bar {
+  color: black;
+  text-align: start;
+}
+
+.stats_bar {
+  accent-color: rgb(123, 0, 15);
+}
 
 .EspacoAlinha{
     margin-left: 37vh;
@@ -266,7 +287,7 @@ body{
   }
 
   #pokemon_imagem{
-    width: 28em;
+    width: 20em;
     height: auto;
   }
 
@@ -306,7 +327,7 @@ body{
   }
 
   #pokemon_imagem{
-    width: 18em;
+    width: 14em;
     height: auto;
   }
 }

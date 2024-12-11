@@ -38734,12 +38734,12 @@ const POKEDEX_JSON = [
     id: 1026,
     type: ["Normal"],
     base: {
-      HP: 100,
-      Attack: 100,
-      Defense: 100,
-      "Sp. Attack": 100,
-      "Sp. Defense": 100,
-      Speed: 100,
+      HP: 255,
+      Attack: 255,
+      Defense: 255,
+      "Sp. Attack": 255,
+      "Sp. Defense": 255,
+      Speed: 255,
     },
     species: "Professor Pokémon",
     description:
