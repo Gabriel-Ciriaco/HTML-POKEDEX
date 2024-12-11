@@ -14,6 +14,12 @@ if (!!search_parameters.get("pokemon_name"))
   let pokemon_name = search_parameters.get("pokemon_name");
   load_pokemon(pokemon_name, null);
 }
+else
+{
+  load_pokemon("Bulbasaur", null);
+}
+
+
 
 function load_pokemon(desired_pokemon, pokemons_encontrados)
 {
