@@ -91,55 +91,55 @@ function pokemon_type_color(pokemon_type)
     case "Normal":
       return "#aaaa99";
 
-    case "Fire":
+    case "Fogo":
       return "#ff4422";
 
-    case "Water":
+    case "Água":
       return "#3399ff";
 
-    case "Electric":
+    case "Elétrico":
       return "#fcca31";
 
-    case "Grass":
+    case "Grama":
       return "#77cc55";
 
-    case "Ice":
+    case "Gelo":
       return "#66ccff";
 
-    case "Fighting":
+    case "Lutador":
       return "#ba5544";
 
-    case "Poison":
+    case "Venenoso":
       return "#a95598";
 
-    case "Ground":
+    case "Terra":
       return "#ddbb55";
 
-    case "Flying":
+    case "Voador":
       return "#8899ff";
 
-    case "Psychic":
+    case "Psíquico":
       return "#fe5598";
 
-    case "Bug":
+    case "Inseto":
       return "#a7b821";
 
    case "Rock":
     return "#bbaa66";
 
-    case "Ghost":
+    case "Fantasma":
       return "#6666bb";
 
-    case "Dragon":
+    case "Dragão":
       return "#7766ee";
 
-    case "Dark":
+    case "Sombrio":
       return "#775544";
 
-    case "Steel":
+    case "Metal":
       return "#aaaabb";
 
-    case "Fairy":
+    case "Fada":
       return "#ee99ee";
 
   }

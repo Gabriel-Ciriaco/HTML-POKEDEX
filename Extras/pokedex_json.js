@@ -7,7 +7,7 @@ const POKEDEX_JSON = [
       chinese: "妙蛙种子",
       french: "Bulbizarre",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 45,
       Attack: 49,
@@ -25,7 +25,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "6.9 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Chlorophyll", "true"],
@@ -46,7 +46,7 @@ const POKEDEX_JSON = [
       chinese: "妙蛙草",
       french: "Herbizarre",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 60,
       Attack: 62,
@@ -65,7 +65,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "13 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Chlorophyll", "true"],
@@ -86,7 +86,7 @@ const POKEDEX_JSON = [
       chinese: "妙蛙花",
       french: "Florizarre",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 80,
       Attack: 82,
@@ -104,7 +104,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "100 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Chlorophyll", "true"],
@@ -125,7 +125,7 @@ const POKEDEX_JSON = [
       chinese: "小火龙",
       french: "Salamèche",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 39,
       Attack: 52,
@@ -143,7 +143,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "8.5 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Blaze", "false"],
         ["Solar Power", "true"],
@@ -164,7 +164,7 @@ const POKEDEX_JSON = [
       chinese: "火恐龙",
       french: "Reptincel",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 58,
       Attack: 64,
@@ -183,7 +183,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "19 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Blaze", "false"],
         ["Solar Power", "true"],
@@ -204,7 +204,7 @@ const POKEDEX_JSON = [
       chinese: "喷火龙",
       french: "Dracaufeu",
     },
-    type: ["Fire", "Flying"],
+    type: ["Fogo", "Voador"],
     base: {
       HP: 78,
       Attack: 84,
@@ -222,7 +222,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "90.5 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Blaze", "false"],
         ["Solar Power", "true"],
@@ -243,7 +243,7 @@ const POKEDEX_JSON = [
       chinese: "杰尼龟",
       french: "Carapuce",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 44,
       Attack: 48,
@@ -261,7 +261,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "9 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Rain Dish", "true"],
@@ -282,7 +282,7 @@ const POKEDEX_JSON = [
       chinese: "卡咪龟",
       french: "Carabaffe",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 59,
       Attack: 63,
@@ -301,7 +301,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "22.5 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Rain Dish", "true"],
@@ -322,7 +322,7 @@ const POKEDEX_JSON = [
       chinese: "水箭龟",
       french: "Tortank",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 79,
       Attack: 83,
@@ -340,7 +340,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "85.5 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Rain Dish", "true"],
@@ -361,7 +361,7 @@ const POKEDEX_JSON = [
       chinese: "绿毛虫",
       french: "Chenipan",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 45,
       Attack: 30,
@@ -379,7 +379,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.9 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Run Away", "true"],
@@ -400,7 +400,7 @@ const POKEDEX_JSON = [
       chinese: "铁甲蛹",
       french: "Chrysacier",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 50,
       Attack: 20,
@@ -419,7 +419,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "9.9 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Shed Skin", "false"]],
       gender: "50:50",
     },
@@ -437,7 +437,7 @@ const POKEDEX_JSON = [
       chinese: "巴大蝶",
       french: "Papilusion",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 60,
       Attack: 45,
@@ -455,7 +455,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "32 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Compound Eyes", "false"],
         ["Tinted Lens", "true"],
@@ -476,7 +476,7 @@ const POKEDEX_JSON = [
       chinese: "独角虫",
       french: "Aspicot",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 40,
       Attack: 35,
@@ -485,7 +485,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 20,
       Speed: 50,
     },
-    species: "Hairy Bug Pokémon",
+    species: "Hairy Inseto Pokémon",
     description:
       "Weedle possui um olfato extremamente aguçado. É capaz de distinguir seus tipos favoritos de folhas daquelas que não gosta apenas cheirando com seu grande probóscide vermelho (nariz).",
     evolution: {
@@ -494,7 +494,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "3.2 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Run Away", "true"],
@@ -515,7 +515,7 @@ const POKEDEX_JSON = [
       chinese: "铁壳蛹",
       french: "Coconfort",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 45,
       Attack: 25,
@@ -534,7 +534,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "10 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Shed Skin", "false"]],
       gender: "50:50",
     },
@@ -552,7 +552,7 @@ const POKEDEX_JSON = [
       chinese: "大针蜂",
       french: "Dardargnan",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 65,
       Attack: 90,
@@ -561,7 +561,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 80,
       Speed: 75,
     },
-    species: "Poison Bee Pokémon",
+    species: "Venenoso Bee Pokémon",
     description:
       "Beedrill é extremamente territorial. Ninguém deve se aproximar de seu ninho - isso é para sua própria segurança. Se enfurecido, eles atacarão em um enxame furioso.",
     evolution: {
@@ -570,7 +570,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "29.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Sniper", "true"],
@@ -591,7 +591,7 @@ const POKEDEX_JSON = [
       chinese: "波波",
       french: "Roucool",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 40,
       Attack: 45,
@@ -609,7 +609,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.8 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Tangled Feet", "false"],
@@ -631,7 +631,7 @@ const POKEDEX_JSON = [
       chinese: "比比鸟",
       french: "Roucoups",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 63,
       Attack: 60,
@@ -650,7 +650,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "30 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Tangled Feet", "false"],
@@ -672,7 +672,7 @@ const POKEDEX_JSON = [
       chinese: "大比鸟",
       french: "Roucarnage",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 83,
       Attack: 80,
@@ -690,7 +690,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "39.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Tangled Feet", "false"],
@@ -792,7 +792,7 @@ const POKEDEX_JSON = [
       chinese: "烈雀",
       french: "Piafabec",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 40,
       Attack: 60,
@@ -810,7 +810,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Sniper", "true"],
@@ -831,7 +831,7 @@ const POKEDEX_JSON = [
       chinese: "大嘴雀",
       french: "Rapasdepic",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 65,
       Attack: 90,
@@ -849,7 +849,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "38 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Sniper", "true"],
@@ -870,7 +870,7 @@ const POKEDEX_JSON = [
       chinese: "阿柏蛇",
       french: "Abo",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 35,
       Attack: 60,
@@ -888,7 +888,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "6.9 kg",
-      egg: ["Field", "Dragon"],
+      egg: ["Field", "Dragão"],
       ability: [
         ["Intimidate", "false"],
         ["Shed Skin", "false"],
@@ -910,7 +910,7 @@ const POKEDEX_JSON = [
       chinese: "阿柏怪",
       french: "Arbok",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 60,
       Attack: 95,
@@ -928,7 +928,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "3.5 m",
       weight: "65 kg",
-      egg: ["Field", "Dragon"],
+      egg: ["Field", "Dragão"],
       ability: [
         ["Intimidate", "false"],
         ["Shed Skin", "false"],
@@ -950,7 +950,7 @@ const POKEDEX_JSON = [
       chinese: "皮卡丘",
       french: "Pikachu",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 35,
       Attack: 55,
@@ -969,7 +969,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "6 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Static", "false"],
         ["Lightning Rod", "true"],
@@ -990,7 +990,7 @@ const POKEDEX_JSON = [
       chinese: "雷丘",
       french: "Raichu",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 60,
       Attack: 90,
@@ -1008,7 +1008,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "30 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Static", "false"],
         ["Lightning Rod", "true"],
@@ -1029,7 +1029,7 @@ const POKEDEX_JSON = [
       chinese: "穿山鼠",
       french: "Sabelette",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 50,
       Attack: 75,
@@ -1068,7 +1068,7 @@ const POKEDEX_JSON = [
       chinese: "穿山王",
       french: "Sablaireau",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 75,
       Attack: 100,
@@ -1107,7 +1107,7 @@ const POKEDEX_JSON = [
       chinese: "尼多兰",
       french: "Nidoran♀",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 55,
       Attack: 47,
@@ -1116,7 +1116,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 40,
       Speed: 41,
     },
-    species: "Poison Pin Pokémon",
+    species: "Venenoso Pin Pokémon",
     description:
       "Nidoran♀ possui farpas que secretam um veneno poderoso. Acredita-se que se desenvolveram como proteção para este Pokémon de corpo pequeno. Quando enfurecido, ele libera uma toxina horrível de seu chifre.",
     evolution: {
@@ -1127,7 +1127,7 @@ const POKEDEX_JSON = [
       weight: "7 kg",
       egg: ["Monster", "Field"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Rivalry", "false"],
         ["Hustle", "true"],
       ],
@@ -1147,7 +1147,7 @@ const POKEDEX_JSON = [
       chinese: "尼多娜",
       french: "Nidorina",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 70,
       Attack: 62,
@@ -1156,7 +1156,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 56,
     },
-    species: "Poison Pin Pokémon",
+    species: "Venenoso Pin Pokémon",
     description:
       "Quando Nidorina estão com seus amigos ou família, mantêm suas farpas escondidas para evitar machucar um ao outro. Este Pokémon parece ficar nervoso se separado dos outros.",
     evolution: {
@@ -1168,7 +1168,7 @@ const POKEDEX_JSON = [
       weight: "20 kg",
       egg: ["Undiscovered"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Rivalry", "false"],
         ["Hustle", "true"],
       ],
@@ -1188,7 +1188,7 @@ const POKEDEX_JSON = [
       chinese: "尼多后",
       french: "Nidoqueen",
     },
-    type: ["Poison", "Ground"],
+    type: ["Venenoso", "Terra"],
     base: {
       HP: 90,
       Attack: 92,
@@ -1208,7 +1208,7 @@ const POKEDEX_JSON = [
       weight: "60 kg",
       egg: ["Undiscovered"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Rivalry", "false"],
         ["Sheer Force", "true"],
       ],
@@ -1228,7 +1228,7 @@ const POKEDEX_JSON = [
       chinese: "尼多朗",
       french: "Nidoran♂",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 46,
       Attack: 57,
@@ -1237,7 +1237,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 40,
       Speed: 50,
     },
-    species: "Poison Pin Pokémon",
+    species: "Venenoso Pin Pokémon",
     description:
       "Nidoran♂ desenvolveu músculos para mover seus ouvidos. Graças a eles, os ouvidos podem ser livremente movidos em qualquer direção. Nem mesmo o menor som escapa da atenção deste Pokémon.",
     evolution: {
@@ -1248,7 +1248,7 @@ const POKEDEX_JSON = [
       weight: "9 kg",
       egg: ["Monster", "Field"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Rivalry", "false"],
         ["Hustle", "true"],
       ],
@@ -1268,7 +1268,7 @@ const POKEDEX_JSON = [
       chinese: "尼多力诺",
       french: "Nidorino",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 61,
       Attack: 72,
@@ -1277,7 +1277,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 65,
     },
-    species: "Poison Pin Pokémon",
+    species: "Venenoso Pin Pokémon",
     description:
       "Nidorino possui um chifre mais duro que um diamante. Se sentir uma presença hostil, todas as farpas em suas costas se eriçam de uma vez e ele desafia o inimigo com todas as suas forças.",
     evolution: {
@@ -1289,7 +1289,7 @@ const POKEDEX_JSON = [
       weight: "19.5 kg",
       egg: ["Monster", "Field"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Rivalry", "false"],
         ["Hustle", "true"],
       ],
@@ -1309,7 +1309,7 @@ const POKEDEX_JSON = [
       chinese: "尼多王",
       french: "Nidoking",
     },
-    type: ["Poison", "Ground"],
+    type: ["Venenoso", "Terra"],
     base: {
       HP: 81,
       Attack: 102,
@@ -1329,7 +1329,7 @@ const POKEDEX_JSON = [
       weight: "62 kg",
       egg: ["Monster", "Field"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Rivalry", "false"],
         ["Sheer Force", "true"],
       ],
@@ -1349,7 +1349,7 @@ const POKEDEX_JSON = [
       chinese: "皮皮",
       french: "Mélofée",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 70,
       Attack: 45,
@@ -1358,7 +1358,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 35,
     },
-    species: "Fairy Pokémon",
+    species: "Fada Pokémon",
     description:
       "Banhado pelo luar, suas asas brilham levemente. Sem nem mesmo bater, Clefairy sobe no ar, onde dança ao redor.",
     evolution: {
@@ -1368,7 +1368,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "7.5 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Cute Charm", "false"],
         ["Magic Guard", "false"],
@@ -1390,7 +1390,7 @@ const POKEDEX_JSON = [
       chinese: "皮可西",
       french: "Mélodelfe",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 95,
       Attack: 70,
@@ -1399,7 +1399,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 90,
       Speed: 60,
     },
-    species: "Fairy Pokémon",
+    species: "Fada Pokémon",
     description:
       "Alguns cientistas acreditam que ele olha intensamente para o céu nas noites de lua cheia porque está com saudades de casa.",
     evolution: {
@@ -1408,7 +1408,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "40 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Cute Charm", "false"],
         ["Magic Guard", "false"],
@@ -1430,7 +1430,7 @@ const POKEDEX_JSON = [
       chinese: "六尾",
       french: "Goupix",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 38,
       Attack: 41,
@@ -1443,14 +1443,14 @@ const POKEDEX_JSON = [
     description:
       "Ele manipula bolas de fogo para capturar sua presa. Se você criar um desde quando é jovem, ele crescerá perto de você como um Pokémon filhote.",
     evolution: {
-      next: [["38", "use Fire Stone"]],
+      next: [["38", "use Fogo Stone"]],
     },
     profile: {
       height: "0.6 m",
       weight: "9.9 kg",
       egg: ["Field"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Drought", "true"],
       ],
       gender: "25:75",
@@ -1469,7 +1469,7 @@ const POKEDEX_JSON = [
       chinese: "九尾",
       french: "Feunard",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 73,
       Attack: 76,
@@ -1482,14 +1482,14 @@ const POKEDEX_JSON = [
     description:
       "As chamas flutuantes que ele expele de sua boca deixam seus oponentes hipnotizados. Então, este Pokémon extremamente inteligente ataca.",
     evolution: {
-      prev: ["37", "use Fire Stone"],
+      prev: ["37", "use Fogo Stone"],
     },
     profile: {
       height: "1.1 m",
       weight: "19.9 kg",
       egg: ["Field"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Drought", "true"],
       ],
       gender: "25:75",
@@ -1508,7 +1508,7 @@ const POKEDEX_JSON = [
       chinese: "胖丁",
       french: "Rondoudou",
     },
-    type: ["Normal", "Fairy"],
+    type: ["Normal", "Fada"],
     base: {
       HP: 115,
       Attack: 45,
@@ -1527,7 +1527,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "5.5 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Cute Charm", "false"],
         ["Competitive", "false"],
@@ -1549,7 +1549,7 @@ const POKEDEX_JSON = [
       chinese: "胖可丁",
       french: "Grodoudou",
     },
-    type: ["Normal", "Fairy"],
+    type: ["Normal", "Fada"],
     base: {
       HP: 140,
       Attack: 70,
@@ -1567,7 +1567,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "12 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Cute Charm", "false"],
         ["Competitive", "false"],
@@ -1589,7 +1589,7 @@ const POKEDEX_JSON = [
       chinese: "超音蝠",
       french: "Nosferapti",
     },
-    type: ["Poison", "Flying"],
+    type: ["Venenoso", "Voador"],
     base: {
       HP: 40,
       Attack: 45,
@@ -1607,7 +1607,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "7.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Inner Focus", "false"],
         ["Infiltrator", "true"],
@@ -1628,7 +1628,7 @@ const POKEDEX_JSON = [
       chinese: "大嘴蝠",
       french: "Nosferalto",
     },
-    type: ["Poison", "Flying"],
+    type: ["Venenoso", "Voador"],
     base: {
       HP: 75,
       Attack: 80,
@@ -1647,7 +1647,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "55 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Inner Focus", "false"],
         ["Infiltrator", "true"],
@@ -1668,7 +1668,7 @@ const POKEDEX_JSON = [
       chinese: "走路草",
       french: "Mystherbe",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 45,
       Attack: 50,
@@ -1686,7 +1686,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "5.4 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Run Away", "true"],
@@ -1707,7 +1707,7 @@ const POKEDEX_JSON = [
       chinese: "臭臭花",
       french: "Ortide",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 60,
       Attack: 65,
@@ -1729,7 +1729,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "8.6 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Stench", "true"],
@@ -1750,7 +1750,7 @@ const POKEDEX_JSON = [
       chinese: "霸王花",
       french: "Rafflesia",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 75,
       Attack: 80,
@@ -1768,7 +1768,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "18.6 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Effect Spore", "true"],
@@ -1789,7 +1789,7 @@ const POKEDEX_JSON = [
       chinese: "派拉斯",
       french: "Paras",
     },
-    type: ["Bug", "Grass"],
+    type: ["Inseto", "Grama"],
     base: {
       HP: 35,
       Attack: 70,
@@ -1807,7 +1807,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "5.4 kg",
-      egg: ["Bug", "Grass"],
+      egg: ["Inseto", "Grama"],
       ability: [
         ["Effect Spore", "false"],
         ["Dry Skin", "false"],
@@ -1829,7 +1829,7 @@ const POKEDEX_JSON = [
       chinese: "派拉斯特",
       french: "Parasect",
     },
-    type: ["Bug", "Grass"],
+    type: ["Inseto", "Grama"],
     base: {
       HP: 60,
       Attack: 95,
@@ -1847,7 +1847,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "29.5 kg",
-      egg: ["Bug", "Grass"],
+      egg: ["Inseto", "Grama"],
       ability: [
         ["Effect Spore", "false"],
         ["Dry Skin", "false"],
@@ -1869,7 +1869,7 @@ const POKEDEX_JSON = [
       chinese: "毛球",
       french: "Mimitoss",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 60,
       Attack: 55,
@@ -1887,7 +1887,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "30 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Compound Eyes", "false"],
         ["Tinted Lens", "false"],
@@ -1909,7 +1909,7 @@ const POKEDEX_JSON = [
       chinese: "摩鲁蛾",
       french: "Aéromite",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 70,
       Attack: 65,
@@ -1918,7 +1918,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 75,
       Speed: 90,
     },
-    species: "Poison Moth Pokémon",
+    species: "Venenoso Moth Pokémon",
     description:
       "Venomoth é noturno - é um Pokémon que só se torna ativo à noite. Suas presas favoritas são pequenos insetos que se reúnem em torno de postes de luz, atraídos pela luz na escuridão.",
     evolution: {
@@ -1927,7 +1927,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "12.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Tinted Lens", "false"],
@@ -1949,7 +1949,7 @@ const POKEDEX_JSON = [
       chinese: "地鼠",
       french: "Taupiqueur",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 10,
       Attack: 55,
@@ -1989,7 +1989,7 @@ const POKEDEX_JSON = [
       chinese: "三地鼠",
       french: "Triopikeur",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 35,
       Attack: 100,
@@ -2109,7 +2109,7 @@ const POKEDEX_JSON = [
       chinese: "可达鸭",
       french: "Psykokwak",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 52,
@@ -2127,7 +2127,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "19.6 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Damp", "false"],
         ["Cloud Nine", "false"],
@@ -2149,7 +2149,7 @@ const POKEDEX_JSON = [
       chinese: "哥达鸭",
       french: "Akwakwak",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 80,
       Attack: 82,
@@ -2167,7 +2167,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "76.6 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Damp", "false"],
         ["Cloud Nine", "false"],
@@ -2189,7 +2189,7 @@ const POKEDEX_JSON = [
       chinese: "猴怪",
       french: "Férosinge",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 40,
       Attack: 80,
@@ -2229,7 +2229,7 @@ const POKEDEX_JSON = [
       chinese: "火暴猴",
       french: "Colossinge",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 65,
       Attack: 105,
@@ -2269,7 +2269,7 @@ const POKEDEX_JSON = [
       chinese: "卡蒂狗",
       french: "Caninos",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 55,
       Attack: 70,
@@ -2282,7 +2282,7 @@ const POKEDEX_JSON = [
     description:
       "Ele vive ao lado dos humanos desde tempos imemoriais. Seus ossos foram encontrados em escavações de ruínas da Idade da Pedra.",
     evolution: {
-      next: [["59", "use Fire Stone"]],
+      next: [["59", "use Fogo Stone"]],
     },
     profile: {
       height: "0.7 m",
@@ -2290,7 +2290,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Intimidate", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Justified", "true"],
       ],
       gender: "75:25",
@@ -2309,7 +2309,7 @@ const POKEDEX_JSON = [
       chinese: "风速狗",
       french: "Arcanin",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 90,
       Attack: 110,
@@ -2322,7 +2322,7 @@ const POKEDEX_JSON = [
     description:
       "Existem tantos contos antigos sobre eles que são chamados de Pokémon lendários, mas há muito mais deles por aí do que você esperaria.",
     evolution: {
-      prev: ["58", "use Fire Stone"],
+      prev: ["58", "use Fogo Stone"],
     },
     profile: {
       height: "1.9 m",
@@ -2330,7 +2330,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Intimidate", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Justified", "true"],
       ],
       gender: "75:25",
@@ -2349,7 +2349,7 @@ const POKEDEX_JSON = [
       chinese: "蚊香蝌蚪",
       french: "Ptitard",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 40,
       Attack: 50,
@@ -2367,9 +2367,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "12.4 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Damp", "false"],
         ["Swift Swim", "true"],
       ],
@@ -2389,7 +2389,7 @@ const POKEDEX_JSON = [
       chinese: "蚊香君",
       french: "Têtarte",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 65,
       Attack: 65,
@@ -2404,16 +2404,16 @@ const POKEDEX_JSON = [
     evolution: {
       prev: ["60", "Level 25"],
       next: [
-        ["62", "use Water Stone"],
-        ["186", "trade holding Kings Rock"],
+        ["62", "use Água Stone"],
+        ["186", "trade holding Kings Rocha"],
       ],
     },
     profile: {
       height: "1 m",
       weight: "20 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Damp", "false"],
         ["Swift Swim", "true"],
       ],
@@ -2433,7 +2433,7 @@ const POKEDEX_JSON = [
       chinese: "蚊香泳士",
       french: "Tartard",
     },
-    type: ["Water", "Fighting"],
+    type: ["Água", "Lutador"],
     base: {
       HP: 90,
       Attack: 95,
@@ -2446,14 +2446,14 @@ const POKEDEX_JSON = [
     description:
       "Os músculos que desenvolveu com a natação são grossos e poderosos. Quando ele acerta um soco quadrado, pode transformar enormes pedras em pó.",
     evolution: {
-      prev: ["61", "use Water Stone"],
+      prev: ["61", "use Água Stone"],
     },
     profile: {
       height: "1.3 m",
       weight: "54 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Damp", "false"],
         ["Swift Swim", "true"],
       ],
@@ -2473,7 +2473,7 @@ const POKEDEX_JSON = [
       chinese: "凯西",
       french: "Abra",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 25,
       Attack: 20,
@@ -2513,7 +2513,7 @@ const POKEDEX_JSON = [
       chinese: "勇基拉",
       french: "Kadabra",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 40,
       Attack: 35,
@@ -2554,7 +2554,7 @@ const POKEDEX_JSON = [
       chinese: "胡地",
       french: "Alakazam",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 55,
       Attack: 50,
@@ -2594,7 +2594,7 @@ const POKEDEX_JSON = [
       chinese: "腕力",
       french: "Machoc",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 70,
       Attack: 80,
@@ -2634,7 +2634,7 @@ const POKEDEX_JSON = [
       chinese: "豪力",
       french: "Machopeur",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 80,
       Attack: 100,
@@ -2675,7 +2675,7 @@ const POKEDEX_JSON = [
       chinese: "怪力",
       french: "Mackogneur",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 90,
       Attack: 130,
@@ -2715,7 +2715,7 @@ const POKEDEX_JSON = [
       chinese: "喇叭芽",
       french: "Chétiflor",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 50,
       Attack: 75,
@@ -2733,7 +2733,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "4 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Gluttony", "true"],
@@ -2754,7 +2754,7 @@ const POKEDEX_JSON = [
       chinese: "口呆花",
       french: "Boustiflor",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 65,
       Attack: 90,
@@ -2773,7 +2773,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "6.4 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Gluttony", "true"],
@@ -2794,7 +2794,7 @@ const POKEDEX_JSON = [
       chinese: "大食花",
       french: "Empiflor",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 80,
       Attack: 105,
@@ -2812,7 +2812,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "15.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Gluttony", "true"],
@@ -2833,7 +2833,7 @@ const POKEDEX_JSON = [
       chinese: "玛瑙水母",
       french: "Tentacool",
     },
-    type: ["Water", "Poison"],
+    type: ["Água", "Venenoso"],
     base: {
       HP: 40,
       Attack: 40,
@@ -2851,7 +2851,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "45.5 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Clear Body", "false"],
         ["Liquid Ooze", "false"],
@@ -2873,7 +2873,7 @@ const POKEDEX_JSON = [
       chinese: "毒刺水母",
       french: "Tentacruel",
     },
-    type: ["Water", "Poison"],
+    type: ["Água", "Venenoso"],
     base: {
       HP: 80,
       Attack: 70,
@@ -2891,7 +2891,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "55 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Clear Body", "false"],
         ["Liquid Ooze", "false"],
@@ -2913,7 +2913,7 @@ const POKEDEX_JSON = [
       chinese: "小拳石",
       french: "Racaillou",
     },
-    type: ["Rock", "Ground"],
+    type: ["Rocha", "Terra"],
     base: {
       HP: 40,
       Attack: 80,
@@ -2922,7 +2922,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 30,
       Speed: 20,
     },
-    species: "Rock Pokémon",
+    species: "Rocha Pokémon",
     description:
       "Ele usa ambas as mãos para escalar penhascos íngremes. Sabe-se que as pessoas que o veem em ação passaram a praticar escalada.",
     evolution: {
@@ -2933,7 +2933,7 @@ const POKEDEX_JSON = [
       weight: "20 kg",
       egg: ["Mineral"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sturdy", "false"],
         ["Sand Veil", "true"],
       ],
@@ -2953,7 +2953,7 @@ const POKEDEX_JSON = [
       chinese: "隆隆石",
       french: "Gravalanch",
     },
-    type: ["Rock", "Ground"],
+    type: ["Rocha", "Terra"],
     base: {
       HP: 55,
       Attack: 95,
@@ -2962,7 +2962,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 35,
     },
-    species: "Rock Pokémon",
+    species: "Rocha Pokémon",
     description:
       "Ele viaja rolando pelos penhascos. Se cair em um rio, explodirá com seu último suspiro.",
     evolution: {
@@ -2974,7 +2974,7 @@ const POKEDEX_JSON = [
       weight: "105 kg",
       egg: ["Mineral"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sturdy", "false"],
         ["Sand Veil", "true"],
       ],
@@ -2994,7 +2994,7 @@ const POKEDEX_JSON = [
       chinese: "隆隆岩",
       french: "Grolem",
     },
-    type: ["Rock", "Ground"],
+    type: ["Rocha", "Terra"],
     base: {
       HP: 80,
       Attack: 120,
@@ -3014,7 +3014,7 @@ const POKEDEX_JSON = [
       weight: "300 kg",
       egg: ["Mineral"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sturdy", "false"],
         ["Sand Veil", "true"],
       ],
@@ -3034,7 +3034,7 @@ const POKEDEX_JSON = [
       chinese: "小火马",
       french: "Ponyta",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 50,
       Attack: 85,
@@ -3043,7 +3043,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 90,
     },
-    species: "Fire Horse Pokémon",
+    species: "Fogo Horse Pokémon",
     description:
       "Ponyta é muito fraco ao nascer. Mal consegue ficar de pé. Este Pokémon fica mais forte tropeçando e caindo para acompanhar seu pai.",
     evolution: {
@@ -3055,7 +3055,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Run Away", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Flame Body", "true"],
       ],
       gender: "50:50",
@@ -3074,7 +3074,7 @@ const POKEDEX_JSON = [
       chinese: "烈焰马",
       french: "Galopa",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 65,
       Attack: 100,
@@ -3083,7 +3083,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 80,
       Speed: 105,
     },
-    species: "Fire Horse Pokémon",
+    species: "Fogo Horse Pokémon",
     description:
       "Rapidash geralmente pode ser visto correndo casualmente nos campos e planícies. No entanto, quando este Pokémon fica sério, suas crinas flamejantes acendem e brilham enquanto ele galopa até 150 mph.",
     evolution: {
@@ -3095,7 +3095,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Run Away", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Flame Body", "true"],
       ],
       gender: "50:50",
@@ -3114,7 +3114,7 @@ const POKEDEX_JSON = [
       chinese: "呆呆兽",
       french: "Ramoloss",
     },
-    type: ["Water", "Psychic"],
+    type: ["Água", "Psíquico"],
     base: {
       HP: 90,
       Attack: 65,
@@ -3129,13 +3129,13 @@ const POKEDEX_JSON = [
     evolution: {
       next: [
         ["80", "Level 37"],
-        ["199", "trade holding Kings Rock"],
+        ["199", "trade holding Kings Rocha"],
       ],
     },
     profile: {
       height: "1.2 m",
       weight: "36 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Oblivious", "false"],
         ["Own Tempo", "false"],
@@ -3157,7 +3157,7 @@ const POKEDEX_JSON = [
       chinese: "呆壳兽",
       french: "Flagadoss",
     },
-    type: ["Water", "Psychic"],
+    type: ["Água", "Psíquico"],
     base: {
       HP: 95,
       Attack: 75,
@@ -3175,7 +3175,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "78.5 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Oblivious", "false"],
         ["Own Tempo", "false"],
@@ -3197,7 +3197,7 @@ const POKEDEX_JSON = [
       chinese: "小磁怪",
       french: "Magnéti",
     },
-    type: ["Electric", "Steel"],
+    type: ["Elétrico", "Metal"],
     base: {
       HP: 25,
       Attack: 35,
@@ -3237,7 +3237,7 @@ const POKEDEX_JSON = [
       chinese: "三合一磁怪",
       french: "Magnéton",
     },
-    type: ["Electric", "Steel"],
+    type: ["Elétrico", "Metal"],
     base: {
       HP: 50,
       Attack: 60,
@@ -3278,7 +3278,7 @@ const POKEDEX_JSON = [
       chinese: "大葱鸭",
       french: "Canarticho",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 52,
       Attack: 90,
@@ -3294,7 +3294,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "15 kg",
-      egg: ["Flying", "Field"],
+      egg: ["Voador", "Field"],
       ability: [
         ["Keen Eye", "false"],
         ["Inner Focus", "false"],
@@ -3316,7 +3316,7 @@ const POKEDEX_JSON = [
       chinese: "嘟嘟",
       french: "Doduo",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 35,
       Attack: 85,
@@ -3334,7 +3334,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "39.2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Run Away", "false"],
         ["Early Bird", "false"],
@@ -3356,7 +3356,7 @@ const POKEDEX_JSON = [
       chinese: "嘟嘟利",
       french: "Dodrio",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 60,
       Attack: 110,
@@ -3374,7 +3374,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "85.2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Run Away", "false"],
         ["Early Bird", "false"],
@@ -3396,7 +3396,7 @@ const POKEDEX_JSON = [
       chinese: "小海狮",
       french: "Otaria",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 65,
       Attack: 45,
@@ -3414,11 +3414,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "90 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Thick Fat", "false"],
         ["Hydration", "false"],
-        ["Ice Body", "true"],
+        ["Gelo Body", "true"],
       ],
       gender: "50:50",
     },
@@ -3436,7 +3436,7 @@ const POKEDEX_JSON = [
       chinese: "白海狮",
       french: "Lamantine",
     },
-    type: ["Water", "Ice"],
+    type: ["Água", "Gelo"],
     base: {
       HP: 90,
       Attack: 70,
@@ -3454,11 +3454,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "120 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Thick Fat", "false"],
         ["Hydration", "false"],
-        ["Ice Body", "true"],
+        ["Gelo Body", "true"],
       ],
       gender: "50:50",
     },
@@ -3476,7 +3476,7 @@ const POKEDEX_JSON = [
       chinese: "臭泥",
       french: "Tadmorv",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 80,
       Attack: 80,
@@ -3498,7 +3498,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Stench", "false"],
         ["Sticky Hold", "false"],
-        ["Poison Touch", "true"],
+        ["Venenoso Touch", "true"],
       ],
       gender: "50:50",
     },
@@ -3516,7 +3516,7 @@ const POKEDEX_JSON = [
       chinese: "臭臭泥",
       french: "Grotadmorv",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 105,
       Attack: 105,
@@ -3538,7 +3538,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Stench", "false"],
         ["Sticky Hold", "false"],
-        ["Poison Touch", "true"],
+        ["Venenoso Touch", "true"],
       ],
       gender: "50:50",
     },
@@ -3556,7 +3556,7 @@ const POKEDEX_JSON = [
       chinese: "大舌贝",
       french: "Kokiyas",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 30,
       Attack: 65,
@@ -3569,12 +3569,12 @@ const POKEDEX_JSON = [
     description:
       "Mesmo quando sua casca está fechada, sua língua ainda fica para fora. Se você der um bom puxão na língua dele, o choque fará com que Shellder abra sua casca.",
     evolution: {
-      next: [["91", "use Water Stone"]],
+      next: [["91", "use Água Stone"]],
     },
     profile: {
       height: "0.3 m",
       weight: "4 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Shell Armor", "false"],
         ["Skill Link", "false"],
@@ -3596,7 +3596,7 @@ const POKEDEX_JSON = [
       chinese: "刺甲贝",
       french: "Crustabri",
     },
-    type: ["Water", "Ice"],
+    type: ["Água", "Gelo"],
     base: {
       HP: 50,
       Attack: 95,
@@ -3609,12 +3609,12 @@ const POKEDEX_JSON = [
     description:
       "As caudas de Slowpoke são sua comida favorita. Sabe-se até que ele sobe na terra para procurar Slowpoke de vez em quando.",
     evolution: {
-      prev: ["90", "use Water Stone"],
+      prev: ["90", "use Água Stone"],
     },
     profile: {
       height: "1.5 m",
       weight: "132.5 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Shell Armor", "false"],
         ["Skill Link", "false"],
@@ -3636,7 +3636,7 @@ const POKEDEX_JSON = [
       chinese: "鬼斯",
       french: "Fantominus",
     },
-    type: ["Ghost", "Poison"],
+    type: ["Fantasma", "Venenoso"],
     base: {
       HP: 30,
       Attack: 35,
@@ -3672,7 +3672,7 @@ const POKEDEX_JSON = [
       chinese: "鬼斯通",
       french: "Spectrum",
     },
-    type: ["Ghost", "Poison"],
+    type: ["Fantasma", "Venenoso"],
     base: {
       HP: 45,
       Attack: 50,
@@ -3709,7 +3709,7 @@ const POKEDEX_JSON = [
       chinese: "耿鬼",
       french: "Ectoplasma",
     },
-    type: ["Ghost", "Poison"],
+    type: ["Fantasma", "Venenoso"],
     base: {
       HP: 60,
       Attack: 65,
@@ -3745,7 +3745,7 @@ const POKEDEX_JSON = [
       chinese: "大岩蛇",
       french: "Onix",
     },
-    type: ["Rock", "Ground"],
+    type: ["Rocha", "Terra"],
     base: {
       HP: 35,
       Attack: 45,
@@ -3754,7 +3754,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 70,
     },
-    species: "Rock Snake Pokémon",
+    species: "Rocha Snake Pokémon",
     description:
       "Onix possui um imã em seu cérebro. Ele atua como uma bússola para que este Pokémon não perca a direção enquanto está tunelando. À medida que envelhece, seu corpo fica cada vez mais redondo e liso.",
     evolution: {
@@ -3765,7 +3765,7 @@ const POKEDEX_JSON = [
       weight: "210 kg",
       egg: ["Mineral"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sturdy", "false"],
         ["Weak Armor", "true"],
       ],
@@ -3785,7 +3785,7 @@ const POKEDEX_JSON = [
       chinese: "催眠貘",
       french: "Soporifik",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 60,
       Attack: 48,
@@ -3825,7 +3825,7 @@ const POKEDEX_JSON = [
       chinese: "引梦貘人",
       french: "Hypnomade",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 85,
       Attack: 73,
@@ -3865,7 +3865,7 @@ const POKEDEX_JSON = [
       chinese: "大钳蟹",
       french: "Krabby",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 30,
       Attack: 105,
@@ -3883,7 +3883,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "6.5 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Shell Armor", "false"],
@@ -3905,7 +3905,7 @@ const POKEDEX_JSON = [
       chinese: "巨钳蟹",
       french: "Krabboss",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 130,
@@ -3923,7 +3923,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "60 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Shell Armor", "false"],
@@ -3945,7 +3945,7 @@ const POKEDEX_JSON = [
       chinese: "霹雳电球",
       french: "Voltorbe",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 40,
       Attack: 30,
@@ -3985,7 +3985,7 @@ const POKEDEX_JSON = [
       chinese: "顽皮雷弹",
       french: "Électrode",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 60,
       Attack: 50,
@@ -4025,7 +4025,7 @@ const POKEDEX_JSON = [
       chinese: "蛋蛋",
       french: "Noeunoeuf",
     },
-    type: ["Grass", "Psychic"],
+    type: ["Grama", "Psíquico"],
     base: {
       HP: 60,
       Attack: 40,
@@ -4043,7 +4043,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "2.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Harvest", "true"],
@@ -4064,7 +4064,7 @@ const POKEDEX_JSON = [
       chinese: "椰蛋树",
       french: "Noadkoko",
     },
-    type: ["Grass", "Psychic"],
+    type: ["Grama", "Psíquico"],
     base: {
       HP: 95,
       Attack: 95,
@@ -4082,7 +4082,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "120 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Harvest", "true"],
@@ -4103,7 +4103,7 @@ const POKEDEX_JSON = [
       chinese: "卡拉卡拉",
       french: "Osselait",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 50,
       Attack: 50,
@@ -4123,7 +4123,7 @@ const POKEDEX_JSON = [
       weight: "6.5 kg",
       egg: ["Monster"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Lightning Rod", "false"],
         ["Battle Armor", "true"],
       ],
@@ -4143,7 +4143,7 @@ const POKEDEX_JSON = [
       chinese: "嘎啦嘎啦",
       french: "Ossatueur",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 60,
       Attack: 80,
@@ -4163,7 +4163,7 @@ const POKEDEX_JSON = [
       weight: "45 kg",
       egg: ["Monster"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Lightning Rod", "false"],
         ["Battle Armor", "true"],
       ],
@@ -4183,7 +4183,7 @@ const POKEDEX_JSON = [
       chinese: "飞腿郎",
       french: "Kicklee",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 50,
       Attack: 120,
@@ -4223,7 +4223,7 @@ const POKEDEX_JSON = [
       chinese: "快拳郎",
       french: "Tygnon",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 50,
       Attack: 105,
@@ -4303,7 +4303,7 @@ const POKEDEX_JSON = [
       chinese: "瓦斯弹",
       french: "Smogo",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 40,
       Attack: 65,
@@ -4312,7 +4312,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 35,
     },
-    species: "Poison Gas Pokémon",
+    species: "Venenoso Gas Pokémon",
     description:
       "Koffing incorpora substâncias tóxicas. Ele mistura as toxinas com lixo cru para desencadear uma reação química que resulta em um gás venenoso terrivelmente poderoso. Quanto mais alta a temperatura, mais gás é produzido por este Pokémon.",
     evolution: {
@@ -4339,7 +4339,7 @@ const POKEDEX_JSON = [
       chinese: "双弹瓦斯",
       french: "Smogogo",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 65,
       Attack: 90,
@@ -4348,7 +4348,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 70,
       Speed: 60,
     },
-    species: "Poison Gas Pokémon",
+    species: "Venenoso Gas Pokémon",
     description:
       "Weezing alternadamente encolhe e infla seus corpos gêmeos para misturar gases tóxicos dentro. Quanto mais os gases são misturados, mais poderosos se tornam os venenos. O Pokémon também fica mais podre.",
     evolution: {
@@ -4375,7 +4375,7 @@ const POKEDEX_JSON = [
       chinese: "独角犀牛",
       french: "Rhinocorne",
     },
-    type: ["Ground", "Rock"],
+    type: ["Terra", "Rocha"],
     base: {
       HP: 80,
       Attack: 85,
@@ -4396,7 +4396,7 @@ const POKEDEX_JSON = [
       egg: ["Monster", "Field"],
       ability: [
         ["Lightning Rod", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Reckless", "true"],
       ],
       gender: "50:50",
@@ -4415,7 +4415,7 @@ const POKEDEX_JSON = [
       chinese: "钻角犀兽",
       french: "Rhinoféros",
     },
-    type: ["Ground", "Rock"],
+    type: ["Terra", "Rocha"],
     base: {
       HP: 105,
       Attack: 130,
@@ -4437,7 +4437,7 @@ const POKEDEX_JSON = [
       egg: ["Monster", "Field"],
       ability: [
         ["Lightning Rod", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Reckless", "true"],
       ],
       gender: "50:50",
@@ -4475,7 +4475,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "34.6 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Natural Cure", "false"],
         ["Serene Grace", "false"],
@@ -4497,7 +4497,7 @@ const POKEDEX_JSON = [
       chinese: "蔓藤怪",
       french: "Saquedeneu",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 65,
       Attack: 55,
@@ -4515,7 +4515,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "35 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Leaf Guard", "false"],
@@ -4575,7 +4575,7 @@ const POKEDEX_JSON = [
       chinese: "墨海马",
       french: "Hypotrempe",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 30,
       Attack: 40,
@@ -4584,7 +4584,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 25,
       Speed: 60,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Se Horsea sentir perigo, ele espirrará reflexivamente uma tinta preta densa de sua boca e tentará escapar. Este Pokémon nada batendo inteligentemente a nadadeira nas costas.",
     evolution: {
@@ -4593,7 +4593,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "8 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Swift Swim", "false"],
         ["Sniper", "false"],
@@ -4615,7 +4615,7 @@ const POKEDEX_JSON = [
       chinese: "海刺龙",
       french: "Hypocéan",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 65,
@@ -4624,19 +4624,19 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 85,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Seadra gera redemoinhos girando seu corpo. Os redemoinhos são fortes o suficiente para engolir até mesmo barcos de pesca. Este Pokémon enfraquece as presas com essas correntes e depois as engole inteiras.",
     evolution: {
       prev: ["116", "Level 32"],
-      next: [["230", "trade holding Dragon Scale"]],
+      next: [["230", "trade holding Dragão Scale"]],
     },
     profile: {
       height: "1.2 m",
       weight: "25 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Sniper", "false"],
         ["Damp", "true"],
       ],
@@ -4656,7 +4656,7 @@ const POKEDEX_JSON = [
       chinese: "角金鱼",
       french: "Poissirène",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 45,
       Attack: 67,
@@ -4674,10 +4674,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "15 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Veil", "false"],
+        ["Água Veil", "false"],
         ["Lightning Rod", "true"],
       ],
       gender: "50:50",
@@ -4696,7 +4696,7 @@ const POKEDEX_JSON = [
       chinese: "金鱼王",
       french: "Poissoroy",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 80,
       Attack: 92,
@@ -4714,10 +4714,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "39 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Veil", "false"],
+        ["Água Veil", "false"],
         ["Lightning Rod", "true"],
       ],
       gender: "50:50",
@@ -4736,7 +4736,7 @@ const POKEDEX_JSON = [
       chinese: "海星星",
       french: "Stari",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 30,
       Attack: 45,
@@ -4749,12 +4749,12 @@ const POKEDEX_JSON = [
     description:
       "Nenhum número de ferimentos pode incomodar Staryu. Seus incríveis poderes regenerativos o retornam ao estado anterior em meio dia!",
     evolution: {
-      next: [["121", "use Water Stone"]],
+      next: [["121", "use Água Stone"]],
     },
     profile: {
       height: "0.8 m",
       weight: "34.5 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Illuminate", "false"],
         ["Natural Cure", "false"],
@@ -4776,7 +4776,7 @@ const POKEDEX_JSON = [
       chinese: "宝石海星",
       french: "Staross",
     },
-    type: ["Water", "Psychic"],
+    type: ["Água", "Psíquico"],
     base: {
       HP: 60,
       Attack: 75,
@@ -4789,12 +4789,12 @@ const POKEDEX_JSON = [
     description:
       "Ele gira seu corpo geometricamente formado para nadar pela água. Ele sempre parece estar enviando ondas de rádio misteriosas.",
     evolution: {
-      prev: ["120", "use Water Stone"],
+      prev: ["120", "use Água Stone"],
     },
     profile: {
       height: "1.1 m",
       weight: "80 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Illuminate", "false"],
         ["Natural Cure", "false"],
@@ -4816,7 +4816,7 @@ const POKEDEX_JSON = [
       chinese: "魔墙人偶",
       french: "M. Mime",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     base: {
       HP: 40,
       Attack: 45,
@@ -4856,7 +4856,7 @@ const POKEDEX_JSON = [
       chinese: "飞天螳螂",
       french: "Insécateur",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 70,
       Attack: 110,
@@ -4874,7 +4874,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "56 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Technician", "false"],
@@ -4896,7 +4896,7 @@ const POKEDEX_JSON = [
       chinese: "迷唇姐",
       french: "Lippoutou",
     },
-    type: ["Ice", "Psychic"],
+    type: ["Gelo", "Psíquico"],
     base: {
       HP: 65,
       Attack: 50,
@@ -4936,7 +4936,7 @@ const POKEDEX_JSON = [
       chinese: "电击兽",
       french: "Élektek",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 65,
       Attack: 83,
@@ -4945,7 +4945,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 85,
       Speed: 105,
     },
-    species: "Electric Pokémon",
+    species: "Elétrico Pokémon",
     description:
       "Embora seja frequentemente culpado por quedas de energia, a verdade é que a causa das quedas é mais frequentemente um erro por parte da companhia elétrica.",
     evolution: {
@@ -4976,7 +4976,7 @@ const POKEDEX_JSON = [
       chinese: "鸭嘴火兽",
       french: "Magmar",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 65,
       Attack: 95,
@@ -4985,7 +4985,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 85,
       Speed: 93,
     },
-    species: "Spitfire Pokémon",
+    species: "SpitFogo Pokémon",
     description:
       "Quanto mais quente o lugar, melhor eles se sentem. Magmar em Alola são considerados mais resistentes do que aqueles em outras áreas.",
     evolution: {
@@ -5016,7 +5016,7 @@ const POKEDEX_JSON = [
       chinese: "凯罗斯",
       french: "Scarabrute",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 65,
       Attack: 125,
@@ -5032,7 +5032,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "55 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Mold Breaker", "false"],
@@ -5092,7 +5092,7 @@ const POKEDEX_JSON = [
       chinese: "鲤鱼王",
       french: "Magicarpe",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 20,
       Attack: 10,
@@ -5110,7 +5110,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "10 kg",
-      egg: ["Water 2", "Dragon"],
+      egg: ["Água 2", "Dragão"],
       ability: [
         ["Swift Swim", "false"],
         ["Rattled", "true"],
@@ -5131,7 +5131,7 @@ const POKEDEX_JSON = [
       chinese: "暴鲤龙",
       french: "Léviator",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 95,
       Attack: 125,
@@ -5149,7 +5149,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "6.5 m",
       weight: "235 kg",
-      egg: ["Water 2", "Dragon"],
+      egg: ["Água 2", "Dragão"],
       ability: [
         ["Intimidate", "false"],
         ["Moxie", "true"],
@@ -5170,7 +5170,7 @@ const POKEDEX_JSON = [
       chinese: "拉普拉斯",
       french: "Lokhlass",
     },
-    type: ["Water", "Ice"],
+    type: ["Água", "Gelo"],
     base: {
       HP: 130,
       Attack: 85,
@@ -5186,9 +5186,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.5 m",
       weight: "220 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Shell Armor", "false"],
         ["Hydration", "true"],
       ],
@@ -5259,14 +5259,14 @@ const POKEDEX_JSON = [
       "Seus genes são facilmente influenciados por seu ambiente. Até mesmo seu rosto começa a ficar parecido com o de seu treinador.",
     evolution: {
       next: [
-        ["134", "use Water Stone"],
+        ["134", "use Água Stone"],
         ["135", "use Thunder Stone"],
-        ["136", "use Fire Stone"],
+        ["136", "use Fogo Stone"],
         ["196", "high Friendship, Daytime"],
         ["197", "high Friendship, Nighttime"],
-        ["470", "level up near a Mossy Rock"],
-        ["471", "level up near an Icy Rock"],
-        ["700", "High Affection and knowing Fairy move"],
+        ["470", "level up near a Mossy Rocha"],
+        ["471", "level up near an Icy Rocha"],
+        ["700", "High Affection and knowing Fada move"],
       ],
     },
     profile: {
@@ -5294,7 +5294,7 @@ const POKEDEX_JSON = [
       chinese: "水伊布",
       french: "Aquali",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 130,
       Attack: 65,
@@ -5307,14 +5307,14 @@ const POKEDEX_JSON = [
     description:
       "Ele detecta umidade próxima com sua nadadeira. Quando sua nadadeira começa a tremer rapidamente, isso significa que choverá em algumas horas.",
     evolution: {
-      prev: ["133", "use Water Stone"],
+      prev: ["133", "use Água Stone"],
     },
     profile: {
       height: "1 m",
       weight: "29 kg",
       egg: ["Field"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Hydration", "true"],
       ],
       gender: "87.5:12.5",
@@ -5333,7 +5333,7 @@ const POKEDEX_JSON = [
       chinese: "雷伊布",
       french: "Voltali",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 65,
       Attack: 65,
@@ -5372,7 +5372,7 @@ const POKEDEX_JSON = [
       chinese: "火伊布",
       french: "Pyroli",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 65,
       Attack: 130,
@@ -5385,14 +5385,14 @@ const POKEDEX_JSON = [
     description:
       "A câmara de chama dentro de seu corpo se inflama quando Flareon fica agitado, atingindo temperaturas de até 1.650 graus Fahrenheit.",
     evolution: {
-      prev: ["133", "use Fire Stone"],
+      prev: ["133", "use Fogo Stone"],
     },
     profile: {
       height: "0.9 m",
       weight: "25 kg",
       egg: ["Field"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Guts", "true"],
       ],
       gender: "87.5:12.5",
@@ -5451,7 +5451,7 @@ const POKEDEX_JSON = [
       chinese: "菊石兽",
       french: "Amonita",
     },
-    type: ["Rock", "Water"],
+    type: ["Rocha", "Água"],
     base: {
       HP: 35,
       Attack: 40,
@@ -5469,7 +5469,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "7.5 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Swift Swim", "false"],
         ["Shell Armor", "false"],
@@ -5491,7 +5491,7 @@ const POKEDEX_JSON = [
       chinese: "多刺菊石兽",
       french: "Amonistar",
     },
-    type: ["Rock", "Water"],
+    type: ["Rocha", "Água"],
     base: {
       HP: 70,
       Attack: 60,
@@ -5509,7 +5509,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "35 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Swift Swim", "false"],
         ["Shell Armor", "false"],
@@ -5531,7 +5531,7 @@ const POKEDEX_JSON = [
       chinese: "化石盔",
       french: "Kabuto",
     },
-    type: ["Rock", "Water"],
+    type: ["Rocha", "Água"],
     base: {
       HP: 30,
       Attack: 80,
@@ -5549,7 +5549,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "11.5 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Swift Swim", "false"],
         ["Battle Armor", "false"],
@@ -5571,7 +5571,7 @@ const POKEDEX_JSON = [
       chinese: "镰刀盔",
       french: "Kabutops",
     },
-    type: ["Rock", "Water"],
+    type: ["Rocha", "Água"],
     base: {
       HP: 60,
       Attack: 115,
@@ -5582,14 +5582,14 @@ const POKEDEX_JSON = [
     },
     species: "Shellfish Pokémon",
     description:
-      "Ele nada a velocidades de aproximadamente 29 nós, fechando rapidamente sua presa e cortando-a com suas foices para matá-la.",
+      "Ele nada a velocidades de aproximadamente 29 nós, fechando rapidamente sua presa e cortando-a com suas foGelos para matá-la.",
     evolution: {
       prev: ["140", "Level 40"],
     },
     profile: {
       height: "1.3 m",
       weight: "40.5 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Swift Swim", "false"],
         ["Battle Armor", "false"],
@@ -5611,7 +5611,7 @@ const POKEDEX_JSON = [
       chinese: "化石翼龙",
       french: "Ptéra",
     },
-    type: ["Rock", "Flying"],
+    type: ["Rocha", "Voador"],
     base: {
       HP: 80,
       Attack: 105,
@@ -5627,9 +5627,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "59 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Pressure", "false"],
         ["Unnerve", "true"],
       ],
@@ -5689,7 +5689,7 @@ const POKEDEX_JSON = [
       chinese: "急冻鸟",
       french: "Artikodin",
     },
-    type: ["Ice", "Flying"],
+    type: ["Gelo", "Voador"],
     base: {
       HP: 90,
       Attack: 85,
@@ -5726,7 +5726,7 @@ const POKEDEX_JSON = [
       chinese: "闪电鸟",
       french: "Électhor",
     },
-    type: ["Electric", "Flying"],
+    type: ["Elétrico", "Voador"],
     base: {
       HP: 90,
       Attack: 90,
@@ -5735,7 +5735,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 90,
       Speed: 100,
     },
-    species: "Electric Pokémon",
+    species: "Elétrico Pokémon",
     description:
       "Zapdos é um Pokémon lendário que tem a capacidade de controlar a eletricidade. Geralmente vive em nuvens de tempestade. O Pokémon ganha poder se for atingido por raios.",
     evolution: {},
@@ -5763,7 +5763,7 @@ const POKEDEX_JSON = [
       chinese: "火焰鸟",
       french: "Sulfura",
     },
-    type: ["Fire", "Flying"],
+    type: ["Fogo", "Voador"],
     base: {
       HP: 90,
       Attack: 100,
@@ -5800,7 +5800,7 @@ const POKEDEX_JSON = [
       chinese: "迷你龙",
       french: "Minidraco",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 41,
       Attack: 64,
@@ -5809,7 +5809,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 50,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Ele muda de pele - quase diariamente - e cresce. Sua pele é macia logo após ser derramada.",
     evolution: {
@@ -5818,7 +5818,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "3.3 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Shed Skin", "false"],
         ["Marvel Scale", "true"],
@@ -5834,12 +5834,12 @@ const POKEDEX_JSON = [
   {
     id: 148,
     name: {
-      english: "Dragonair",
+      english: "Dragãoair",
       japanese: "ハクリュー",
       chinese: "哈克龙",
       french: "Draco",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 61,
       Attack: 84,
@@ -5848,7 +5848,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 70,
       Speed: 70,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Alguns dizem que, se você o vir no início do ano, voando pelo céu e torcendo seu corpo, você terá saúde o ano todo.",
     evolution: {
@@ -5858,7 +5858,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "4 m",
       weight: "16.5 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Shed Skin", "false"],
         ["Marvel Scale", "true"],
@@ -5874,12 +5874,12 @@ const POKEDEX_JSON = [
   {
     id: 149,
     name: {
-      english: "Dragonite",
+      english: "Dragãoite",
       japanese: "カイリュー",
       chinese: "快龙",
       french: "Dracolosse",
     },
-    type: ["Dragon", "Flying"],
+    type: ["Dragão", "Voador"],
     base: {
       HP: 91,
       Attack: 134,
@@ -5888,7 +5888,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 100,
       Speed: 80,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Você ouvirá muitas histórias sobre este Pokémon de bom coração resgatando pessoas ou Pokémon que estão se afogando.",
     evolution: {
@@ -5897,7 +5897,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.2 m",
       weight: "210 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Inner Focus", "false"],
         ["Multiscale", "true"],
@@ -5918,7 +5918,7 @@ const POKEDEX_JSON = [
       chinese: "超梦",
       french: "Mewtwo",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 106,
       Attack: 110,
@@ -5955,7 +5955,7 @@ const POKEDEX_JSON = [
       chinese: "梦幻",
       french: "Mew",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 100,
       Attack: 100,
@@ -5989,7 +5989,7 @@ const POKEDEX_JSON = [
       chinese: "菊草叶",
       french: "Germignon",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 45,
       Attack: 49,
@@ -6007,7 +6007,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "6.4 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Leaf Guard", "true"],
@@ -6028,7 +6028,7 @@ const POKEDEX_JSON = [
       chinese: "月桂叶",
       french: "Macronium",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 60,
       Attack: 62,
@@ -6047,7 +6047,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "15.8 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Leaf Guard", "true"],
@@ -6068,7 +6068,7 @@ const POKEDEX_JSON = [
       chinese: "大竺葵",
       french: "Méganium",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 80,
       Attack: 82,
@@ -6086,7 +6086,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "100.5 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Leaf Guard", "true"],
@@ -6105,9 +6105,9 @@ const POKEDEX_JSON = [
       english: "Cyndaquil",
       japanese: "ヒノアラシ",
       chinese: "火球鼠",
-      french: "Héricendre",
+      french: "HérGelondre",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 39,
       Attack: 52,
@@ -6116,7 +6116,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 65,
     },
-    species: "Fire Mouse Pokémon",
+    species: "Fogo Mouse Pokémon",
     description:
       "Cyndaquil se protege acendendo as chamas em suas costas. As chamas são vigorosas se o Pokémon estiver com raiva. No entanto, se estiver cansado, as chamas espirram fitosamente com combustão incompleta.",
     evolution: {
@@ -6128,7 +6128,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Blaze", "false"],
-        ["Flash Fire", "true"],
+        ["Flash Fogo", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -6146,7 +6146,7 @@ const POKEDEX_JSON = [
       chinese: "火岩鼠",
       french: "Feurisson",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 58,
       Attack: 64,
@@ -6168,7 +6168,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Blaze", "false"],
-        ["Flash Fire", "true"],
+        ["Flash Fogo", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -6186,7 +6186,7 @@ const POKEDEX_JSON = [
       chinese: "火暴兽",
       french: "Typhlosion",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 78,
       Attack: 84,
@@ -6207,7 +6207,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Blaze", "false"],
-        ["Flash Fire", "true"],
+        ["Flash Fogo", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -6225,7 +6225,7 @@ const POKEDEX_JSON = [
       chinese: "小锯鳄",
       french: "Kaiminus",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 65,
@@ -6243,7 +6243,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "9.5 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Sheer Force", "true"],
@@ -6264,7 +6264,7 @@ const POKEDEX_JSON = [
       chinese: "蓝鳄",
       french: "Crocrodil",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 65,
       Attack: 80,
@@ -6283,7 +6283,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "25 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Sheer Force", "true"],
@@ -6304,7 +6304,7 @@ const POKEDEX_JSON = [
       chinese: "大力鳄",
       french: "Aligatueur",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 85,
       Attack: 105,
@@ -6322,7 +6322,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.3 m",
       weight: "88.8 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Sheer Force", "true"],
@@ -6423,7 +6423,7 @@ const POKEDEX_JSON = [
       chinese: "咕咕",
       french: "Hoothoot",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 60,
       Attack: 30,
@@ -6441,7 +6441,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "21.2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Insomnia", "false"],
         ["Keen Eye", "false"],
@@ -6463,7 +6463,7 @@ const POKEDEX_JSON = [
       chinese: "猫头夜鹰",
       french: "Noarfang",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 100,
       Attack: 50,
@@ -6481,7 +6481,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "40.8 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Insomnia", "false"],
         ["Keen Eye", "false"],
@@ -6503,7 +6503,7 @@ const POKEDEX_JSON = [
       chinese: "芭瓢虫",
       french: "Coxy",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 40,
       Attack: 20,
@@ -6521,7 +6521,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "10.8 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Early Bird", "false"],
@@ -6543,7 +6543,7 @@ const POKEDEX_JSON = [
       chinese: "安瓢虫",
       french: "Coxyclaque",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 55,
       Attack: 35,
@@ -6561,7 +6561,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "35.6 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Early Bird", "false"],
@@ -6583,7 +6583,7 @@ const POKEDEX_JSON = [
       chinese: "圆丝蛛",
       french: "Mimigal",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 40,
       Attack: 60,
@@ -6601,7 +6601,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "8.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Insomnia", "false"],
@@ -6623,7 +6623,7 @@ const POKEDEX_JSON = [
       chinese: "阿利多斯",
       french: "Migalos",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 70,
       Attack: 90,
@@ -6641,7 +6641,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "33.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Insomnia", "false"],
@@ -6663,7 +6663,7 @@ const POKEDEX_JSON = [
       chinese: "叉字蝠",
       french: "Nostenfer",
     },
-    type: ["Poison", "Flying"],
+    type: ["Venenoso", "Voador"],
     base: {
       HP: 85,
       Attack: 90,
@@ -6681,7 +6681,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "75 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Inner Focus", "false"],
         ["Infiltrator", "true"],
@@ -6702,7 +6702,7 @@ const POKEDEX_JSON = [
       chinese: "灯笼鱼",
       french: "Loupio",
     },
-    type: ["Water", "Electric"],
+    type: ["Água", "Elétrico"],
     base: {
       HP: 75,
       Attack: 38,
@@ -6720,11 +6720,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "12 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Volt Absorb", "false"],
         ["Illuminate", "false"],
-        ["Water Absorb", "true"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -6742,7 +6742,7 @@ const POKEDEX_JSON = [
       chinese: "电灯怪",
       french: "Lanturn",
     },
-    type: ["Water", "Electric"],
+    type: ["Água", "Elétrico"],
     base: {
       HP: 125,
       Attack: 58,
@@ -6760,11 +6760,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "22.5 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Volt Absorb", "false"],
         ["Illuminate", "false"],
-        ["Water Absorb", "true"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -6782,7 +6782,7 @@ const POKEDEX_JSON = [
       chinese: "皮丘",
       french: "Pichu",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 20,
       Attack: 40,
@@ -6821,7 +6821,7 @@ const POKEDEX_JSON = [
       chinese: "皮宝宝",
       french: "Mélo",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 50,
       Attack: 25,
@@ -6861,7 +6861,7 @@ const POKEDEX_JSON = [
       chinese: "宝宝丁",
       french: "Toudoudou",
     },
-    type: ["Normal", "Fairy"],
+    type: ["Normal", "Fada"],
     base: {
       HP: 90,
       Attack: 30,
@@ -6901,7 +6901,7 @@ const POKEDEX_JSON = [
       chinese: "波克比",
       french: "Togepi",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 35,
       Attack: 20,
@@ -6941,7 +6941,7 @@ const POKEDEX_JSON = [
       chinese: "波克基古",
       french: "Togetic",
     },
-    type: ["Fairy", "Flying"],
+    type: ["Fada", "Voador"],
     base: {
       HP: 55,
       Attack: 40,
@@ -6960,7 +6960,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "3.2 kg",
-      egg: ["Flying", "Fairy"],
+      egg: ["Voador", "Fada"],
       ability: [
         ["Hustle", "false"],
         ["Serene Grace", "false"],
@@ -6982,7 +6982,7 @@ const POKEDEX_JSON = [
       chinese: "天然雀",
       french: "Natu",
     },
-    type: ["Psychic", "Flying"],
+    type: ["Psíquico", "Voador"],
     base: {
       HP: 40,
       Attack: 50,
@@ -7000,7 +7000,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Synchronize", "false"],
         ["Early Bird", "false"],
@@ -7022,7 +7022,7 @@ const POKEDEX_JSON = [
       chinese: "天然鸟",
       french: "Xatu",
     },
-    type: ["Psychic", "Flying"],
+    type: ["Psíquico", "Voador"],
     base: {
       HP: 65,
       Attack: 75,
@@ -7040,7 +7040,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "15 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Synchronize", "false"],
         ["Early Bird", "false"],
@@ -7062,7 +7062,7 @@ const POKEDEX_JSON = [
       chinese: "咩利羊",
       french: "Wattouat",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 55,
       Attack: 40,
@@ -7101,7 +7101,7 @@ const POKEDEX_JSON = [
       chinese: "茸茸羊",
       french: "Lainergie",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 70,
       Attack: 55,
@@ -7141,7 +7141,7 @@ const POKEDEX_JSON = [
       chinese: "电龙",
       french: "Pharamp",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 90,
       Attack: 75,
@@ -7180,7 +7180,7 @@ const POKEDEX_JSON = [
       chinese: "美丽花",
       french: "Joliflor",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 75,
       Attack: 80,
@@ -7198,7 +7198,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "5.8 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Healer", "true"],
@@ -7219,7 +7219,7 @@ const POKEDEX_JSON = [
       chinese: "玛力露",
       french: "Marill",
     },
-    type: ["Water", "Fairy"],
+    type: ["Água", "Fada"],
     base: {
       HP: 70,
       Attack: 20,
@@ -7238,7 +7238,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "8.5 kg",
-      egg: ["Water 1", "Fairy"],
+      egg: ["Água 1", "Fada"],
       ability: [
         ["Thick Fat", "false"],
         ["Huge Power", "false"],
@@ -7260,7 +7260,7 @@ const POKEDEX_JSON = [
       chinese: "玛力露丽",
       french: "Azumarill",
     },
-    type: ["Water", "Fairy"],
+    type: ["Água", "Fada"],
     base: {
       HP: 100,
       Attack: 50,
@@ -7278,7 +7278,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "28.5 kg",
-      egg: ["Water 1", "Fairy"],
+      egg: ["Água 1", "Fada"],
       ability: [
         ["Thick Fat", "false"],
         ["Huge Power", "false"],
@@ -7300,7 +7300,7 @@ const POKEDEX_JSON = [
       chinese: "树才怪‎",
       french: "Simularbre",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 70,
       Attack: 100,
@@ -7321,7 +7321,7 @@ const POKEDEX_JSON = [
       egg: ["Mineral"],
       ability: [
         ["Sturdy", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Rattled", "true"],
       ],
       gender: "50:50",
@@ -7340,7 +7340,7 @@ const POKEDEX_JSON = [
       chinese: "蚊香蛙皇",
       french: "Tarpaud",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 90,
       Attack: 75,
@@ -7353,14 +7353,14 @@ const POKEDEX_JSON = [
     description:
       "Quanto mais longo e mais luxuoso o cabelo encaracolado em sua cabeça, maior é o número de Poliwag e Poliwhirl que o obedecerão.",
     evolution: {
-      prev: ["61", "trade holding Kings Rock"],
+      prev: ["61", "trade holding Kings Rocha"],
     },
     profile: {
       height: "1.1 m",
       weight: "33.9 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Damp", "false"],
         ["Drizzle", "true"],
       ],
@@ -7380,7 +7380,7 @@ const POKEDEX_JSON = [
       chinese: "毽子草",
       french: "Granivol",
     },
-    type: ["Grass", "Flying"],
+    type: ["Grama", "Voador"],
     base: {
       HP: 35,
       Attack: 35,
@@ -7398,7 +7398,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "0.5 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Leaf Guard", "false"],
@@ -7420,7 +7420,7 @@ const POKEDEX_JSON = [
       chinese: "毽子花",
       french: "Floravol",
     },
-    type: ["Grass", "Flying"],
+    type: ["Grama", "Voador"],
     base: {
       HP: 55,
       Attack: 45,
@@ -7439,7 +7439,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "1 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Leaf Guard", "false"],
@@ -7461,7 +7461,7 @@ const POKEDEX_JSON = [
       chinese: "毽子棉",
       french: "Cotovol",
     },
-    type: ["Grass", "Flying"],
+    type: ["Grama", "Voador"],
     base: {
       HP: 75,
       Attack: 55,
@@ -7479,7 +7479,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "3 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Leaf Guard", "false"],
@@ -7541,7 +7541,7 @@ const POKEDEX_JSON = [
       chinese: "向日种子",
       french: "Tournegrin",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 30,
       Attack: 30,
@@ -7559,7 +7559,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.8 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Solar Power", "false"],
@@ -7581,7 +7581,7 @@ const POKEDEX_JSON = [
       chinese: "向日花怪",
       french: "Héliatronc",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 75,
       Attack: 75,
@@ -7599,7 +7599,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "8.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Solar Power", "false"],
@@ -7621,7 +7621,7 @@ const POKEDEX_JSON = [
       chinese: "蜻蜻蜓",
       french: "Yanma",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 65,
       Attack: 65,
@@ -7639,7 +7639,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "38 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Speed Boost", "false"],
         ["Compound Eyes", "false"],
@@ -7661,7 +7661,7 @@ const POKEDEX_JSON = [
       chinese: "乌波",
       french: "Axoloto",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 55,
       Attack: 45,
@@ -7670,7 +7670,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 25,
       Speed: 15,
     },
-    species: "Water Fish Pokémon",
+    species: "Água Fish Pokémon",
     description:
       "Wooper geralmente vive na água. No entanto, ocasionalmente sai para a terra em busca de comida. Em terra, ele cobre seu corpo com um filme tóxico pegajoso.",
     evolution: {
@@ -7679,10 +7679,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "8.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Damp", "false"],
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Unaware", "true"],
       ],
       gender: "50:50",
@@ -7701,7 +7701,7 @@ const POKEDEX_JSON = [
       chinese: "沼王",
       french: "Maraiste",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 95,
       Attack: 85,
@@ -7710,7 +7710,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 35,
     },
-    species: "Water Fish Pokémon",
+    species: "Água Fish Pokémon",
     description:
       "Quagsire caça comida deixando a boca aberta na água e esperando que sua presa tropece sem saber. Como o Pokémon não se move, ele não fica com muita fome.",
     evolution: {
@@ -7719,10 +7719,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "75 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Damp", "false"],
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Unaware", "true"],
       ],
       gender: "50:50",
@@ -7741,7 +7741,7 @@ const POKEDEX_JSON = [
       chinese: "太阳伊布",
       french: "Mentali",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 65,
       Attack: 65,
@@ -7780,7 +7780,7 @@ const POKEDEX_JSON = [
       chinese: "月亮伊布",
       french: "Noctali",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 95,
       Attack: 65,
@@ -7819,7 +7819,7 @@ const POKEDEX_JSON = [
       chinese: "黑暗鸦",
       french: "Cornèbre",
     },
-    type: ["Dark", "Flying"],
+    type: ["Sombrio", "Voador"],
     base: {
       HP: 60,
       Attack: 85,
@@ -7828,7 +7828,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 42,
       Speed: 91,
     },
-    species: "Darkness Pokémon",
+    species: "Sombrioness Pokémon",
     description:
       "Ele procura coisas brilhantes para seu chefe. Diz-se que a presença de Murkrow é azarada, por isso muitas pessoas o detestam.",
     evolution: {
@@ -7837,7 +7837,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "2.1 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Insomnia", "false"],
         ["Super Luck", "false"],
@@ -7859,7 +7859,7 @@ const POKEDEX_JSON = [
       chinese: "呆呆王",
       french: "Roigada",
     },
-    type: ["Water", "Psychic"],
+    type: ["Água", "Psíquico"],
     base: {
       HP: 95,
       Attack: 75,
@@ -7872,12 +7872,12 @@ const POKEDEX_JSON = [
     description:
       'É chamado de "o sábio do mar". Ele se envolve em batalhas de inteligência com Oranguru, mas o resultado geralmente é um empate.',
     evolution: {
-      prev: ["79", "trade holding Kings Rock"],
+      prev: ["79", "trade holding Kings Rocha"],
     },
     profile: {
       height: "2 m",
       weight: "79.5 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Oblivious", "false"],
         ["Own Tempo", "false"],
@@ -7899,7 +7899,7 @@ const POKEDEX_JSON = [
       chinese: "梦妖",
       french: "Feuforêve",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 60,
       Attack: 60,
@@ -7935,7 +7935,7 @@ const POKEDEX_JSON = [
       chinese: "未知图腾",
       french: "Zarbi",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 48,
       Attack: 72,
@@ -7969,7 +7969,7 @@ const POKEDEX_JSON = [
       chinese: "果然翁",
       french: "Qulbutoké",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 190,
       Attack: 33,
@@ -8008,7 +8008,7 @@ const POKEDEX_JSON = [
       chinese: "麒麟奇",
       french: "Girafarig",
     },
-    type: ["Normal", "Psychic"],
+    type: ["Normal", "Psíquico"],
     base: {
       HP: 70,
       Attack: 80,
@@ -8046,7 +8046,7 @@ const POKEDEX_JSON = [
       chinese: "榛果球",
       french: "Pomdepik",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 50,
       Attack: 65,
@@ -8064,7 +8064,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "7.2 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Sturdy", "false"],
         ["Overcoat", "true"],
@@ -8085,7 +8085,7 @@ const POKEDEX_JSON = [
       chinese: "佛烈托斯",
       french: "Foretress",
     },
-    type: ["Bug", "Steel"],
+    type: ["Inseto", "Metal"],
     base: {
       HP: 75,
       Attack: 90,
@@ -8103,7 +8103,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "125.8 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Sturdy", "false"],
         ["Overcoat", "true"],
@@ -8162,7 +8162,7 @@ const POKEDEX_JSON = [
       chinese: "天蝎",
       french: "Scorplane",
     },
-    type: ["Ground", "Flying"],
+    type: ["Terra", "Voador"],
     base: {
       HP: 65,
       Attack: 75,
@@ -8180,7 +8180,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "64.8 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Sand Veil", "false"],
@@ -8197,12 +8197,12 @@ const POKEDEX_JSON = [
   {
     id: 208,
     name: {
-      english: "Steelix",
+      english: "Metalix",
       japanese: "ハガネール",
       chinese: "大钢蛇",
-      french: "Steelix",
+      french: "Metalix",
     },
-    type: ["Steel", "Ground"],
+    type: ["Metal", "Terra"],
     base: {
       HP: 75,
       Attack: 85,
@@ -8213,7 +8213,7 @@ const POKEDEX_JSON = [
     },
     species: "Iron Snake Pokémon",
     description:
-      "Steelix vive ainda mais abaixo do solo do que Onix. Sabe-se que este Pokémon cava em direção ao núcleo da Terra. Existem registros de este Pokémon atingindo uma profundidade de mais de seis décimos de uma milha abaixo do solo.",
+      "Metalix vive ainda mais abaixo do solo do que Onix. Sabe-se que este Pokémon cava em direção ao núcleo da Terra. Existem registros de este Pokémon atingindo uma profundidade de mais de seis décimos de uma milha abaixo do solo.",
     evolution: {
       prev: ["95", "trade holding Metal Coat"],
     },
@@ -8222,7 +8222,7 @@ const POKEDEX_JSON = [
       weight: "400 kg",
       egg: ["Mineral"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sturdy", "false"],
         ["Sheer Force", "true"],
       ],
@@ -8242,7 +8242,7 @@ const POKEDEX_JSON = [
       chinese: "布鲁",
       french: "Snubbull",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 60,
       Attack: 80,
@@ -8251,7 +8251,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 40,
       Speed: 30,
     },
-    species: "Fairy Pokémon",
+    species: "Fada Pokémon",
     description:
       "Em contraste com sua aparência, ele é bastante tímido. Quando brinca com outros filhotes de Pokémon, às vezes é intimidado.",
     evolution: {
@@ -8260,7 +8260,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "7.8 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Intimidate", "false"],
         ["Run Away", "false"],
@@ -8282,7 +8282,7 @@ const POKEDEX_JSON = [
       chinese: "布鲁皇",
       french: "Granbull",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 90,
       Attack: 120,
@@ -8291,7 +8291,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 60,
       Speed: 45,
     },
-    species: "Fairy Pokémon",
+    species: "Fada Pokémon",
     description:
       "Embora seja popular entre jovens, Granbull é tímido e sensível, por isso é totalmente incompetente como cão de guarda.",
     evolution: {
@@ -8300,7 +8300,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "48.7 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Intimidate", "false"],
         ["Quick Feet", "false"],
@@ -8322,7 +8322,7 @@ const POKEDEX_JSON = [
       chinese: "千针鱼",
       french: "Qwilfish",
     },
-    type: ["Water", "Poison"],
+    type: ["Água", "Venenoso"],
     base: {
       HP: 65,
       Attack: 95,
@@ -8338,9 +8338,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "3.9 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Swift Swim", "false"],
         ["Intimidate", "true"],
       ],
@@ -8360,7 +8360,7 @@ const POKEDEX_JSON = [
       chinese: "巨钳螳螂",
       french: "Cizayox",
     },
-    type: ["Bug", "Steel"],
+    type: ["Inseto", "Metal"],
     base: {
       HP: 70,
       Attack: 130,
@@ -8378,7 +8378,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "118 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Technician", "false"],
@@ -8400,7 +8400,7 @@ const POKEDEX_JSON = [
       chinese: "壶壶",
       french: "Caratroc",
     },
-    type: ["Bug", "Rock"],
+    type: ["Inseto", "Rocha"],
     base: {
       HP: 20,
       Attack: 10,
@@ -8416,7 +8416,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "20.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Sturdy", "false"],
         ["Gluttony", "false"],
@@ -8438,7 +8438,7 @@ const POKEDEX_JSON = [
       chinese: "赫拉克罗斯",
       french: "Scarhino",
     },
-    type: ["Bug", "Fighting"],
+    type: ["Inseto", "Lutador"],
     base: {
       HP: 80,
       Attack: 125,
@@ -8454,7 +8454,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "54 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Guts", "false"],
@@ -8476,7 +8476,7 @@ const POKEDEX_JSON = [
       chinese: "狃拉",
       french: "Farfuret",
     },
-    type: ["Dark", "Ice"],
+    type: ["Sombrio", "Gelo"],
     base: {
       HP: 55,
       Attack: 95,
@@ -8596,7 +8596,7 @@ const POKEDEX_JSON = [
       chinese: "熔岩虫",
       french: "Limagma",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 40,
       Attack: 40,
@@ -8636,7 +8636,7 @@ const POKEDEX_JSON = [
       chinese: "熔岩蜗牛",
       french: "Volcaropod",
     },
-    type: ["Fire", "Rock"],
+    type: ["Fogo", "Rocha"],
     base: {
       HP: 60,
       Attack: 50,
@@ -8676,7 +8676,7 @@ const POKEDEX_JSON = [
       chinese: "小山猪",
       french: "Marcacrin",
     },
-    type: ["Ice", "Ground"],
+    type: ["Gelo", "Terra"],
     base: {
       HP: 50,
       Attack: 50,
@@ -8716,7 +8716,7 @@ const POKEDEX_JSON = [
       chinese: "长毛猪",
       french: "Cochignon",
     },
-    type: ["Ice", "Ground"],
+    type: ["Gelo", "Terra"],
     base: {
       HP: 100,
       Attack: 100,
@@ -8757,7 +8757,7 @@ const POKEDEX_JSON = [
       chinese: "太阳珊瑚",
       french: "Corayon",
     },
-    type: ["Water", "Rock"],
+    type: ["Água", "Rocha"],
     base: {
       HP: 65,
       Attack: 55,
@@ -8773,7 +8773,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "5 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Hustle", "false"],
         ["Natural Cure", "false"],
@@ -8795,7 +8795,7 @@ const POKEDEX_JSON = [
       chinese: "铁炮鱼",
       french: "Rémoraid",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 35,
       Attack: 65,
@@ -8813,7 +8813,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "12 kg",
-      egg: ["Water 1", "Water 2"],
+      egg: ["Água 1", "Água 2"],
       ability: [
         ["Hustle", "false"],
         ["Sniper", "false"],
@@ -8835,7 +8835,7 @@ const POKEDEX_JSON = [
       chinese: "章鱼桶",
       french: "Octillery",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 75,
       Attack: 105,
@@ -8853,7 +8853,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "28.5 kg",
-      egg: ["Water 1", "Water 2"],
+      egg: ["Água 1", "Água 2"],
       ability: [
         ["Suction Cups", "false"],
         ["Sniper", "false"],
@@ -8875,7 +8875,7 @@ const POKEDEX_JSON = [
       chinese: "信使鸟",
       french: "Cadoizo",
     },
-    type: ["Ice", "Flying"],
+    type: ["Gelo", "Voador"],
     base: {
       HP: 45,
       Attack: 55,
@@ -8891,7 +8891,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "16 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Vital Spirit", "false"],
         ["Hustle", "false"],
@@ -8913,7 +8913,7 @@ const POKEDEX_JSON = [
       chinese: "巨翅飞鱼",
       french: "Démanta",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 85,
       Attack: 40,
@@ -8931,11 +8931,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.1 m",
       weight: "220 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Absorb", "false"],
-        ["Water Veil", "true"],
+        ["Água Absorb", "false"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -8953,7 +8953,7 @@ const POKEDEX_JSON = [
       chinese: "盔甲鸟",
       french: "Airmure",
     },
-    type: ["Steel", "Flying"],
+    type: ["Metal", "Voador"],
     base: {
       HP: 65,
       Attack: 80,
@@ -8969,7 +8969,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "50.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Sturdy", "false"],
@@ -8991,7 +8991,7 @@ const POKEDEX_JSON = [
       chinese: "戴鲁比",
       french: "Malosse",
     },
-    type: ["Dark", "Fire"],
+    type: ["Sombrio", "Fogo"],
     base: {
       HP: 45,
       Attack: 60,
@@ -9000,7 +9000,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 65,
     },
-    species: "Dark Pokémon",
+    species: "Sombrio Pokémon",
     description:
       "Eles fazem uivos sinistros repetidos antes do amanhecer para chamar atenção para seu bando.",
     evolution: {
@@ -9012,7 +9012,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Early Bird", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Unnerve", "true"],
       ],
       gender: "50:50",
@@ -9031,7 +9031,7 @@ const POKEDEX_JSON = [
       chinese: "黑鲁加",
       french: "Démolosse",
     },
-    type: ["Dark", "Fire"],
+    type: ["Sombrio", "Fogo"],
     base: {
       HP: 75,
       Attack: 90,
@@ -9040,7 +9040,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 80,
       Speed: 95,
     },
-    species: "Dark Pokémon",
+    species: "Sombrio Pokémon",
     description:
       "Identificável por seus uivos sinistros, as pessoas há muito tempo pensavam que era o ceifador e o temiam.",
     evolution: {
@@ -9052,7 +9052,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Early Bird", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Unnerve", "true"],
       ],
       gender: "50:50",
@@ -9071,7 +9071,7 @@ const POKEDEX_JSON = [
       chinese: "刺龙王",
       french: "Hyporoi",
     },
-    type: ["Water", "Dragon"],
+    type: ["Água", "Dragão"],
     base: {
       HP: 75,
       Attack: 95,
@@ -9080,16 +9080,16 @@ const POKEDEX_JSON = [
       "Sp. Defense": 95,
       Speed: 85,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Kingdra dorme no fundo do mar onde está desprovido de vida. Quando chega uma tempestade, diz-se que o Pokémon acorda e vagueia em busca de presas.",
     evolution: {
-      prev: ["117", "trade holding Dragon Scale"],
+      prev: ["117", "trade holding Dragão Scale"],
     },
     profile: {
       height: "1.8 m",
       weight: "152 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Swift Swim", "false"],
         ["Sniper", "false"],
@@ -9111,7 +9111,7 @@ const POKEDEX_JSON = [
       chinese: "小小象",
       french: "Phanpy",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 90,
       Attack: 60,
@@ -9150,7 +9150,7 @@ const POKEDEX_JSON = [
       chinese: "顿甲",
       french: "Donphan",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 90,
       Attack: 120,
@@ -9304,9 +9304,9 @@ const POKEDEX_JSON = [
       english: "Tyrogue",
       japanese: "バルキー",
       chinese: "无畏小子",
-      french: "Debugant",
+      french: "DeInsetoant",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 35,
       Attack: 35,
@@ -9350,7 +9350,7 @@ const POKEDEX_JSON = [
       chinese: "战舞郎",
       french: "Kapoera",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 50,
       Attack: 95,
@@ -9390,7 +9390,7 @@ const POKEDEX_JSON = [
       chinese: "迷唇娃",
       french: "Lippouti",
     },
-    type: ["Ice", "Psychic"],
+    type: ["Gelo", "Psíquico"],
     base: {
       HP: 45,
       Attack: 30,
@@ -9430,7 +9430,7 @@ const POKEDEX_JSON = [
       chinese: "电击怪",
       french: "Élekid",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 45,
       Attack: 63,
@@ -9439,7 +9439,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 95,
     },
-    species: "Electric Pokémon",
+    species: "Elétrico Pokémon",
     description:
       "Quando seus chifres brilham de um branco azulado, esse é o sinal de que estão totalmente carregados. Você levará um choque chocante se tocá-lo!",
     evolution: {
@@ -9469,7 +9469,7 @@ const POKEDEX_JSON = [
       chinese: "鸭嘴宝宝",
       french: "Magby",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 45,
       Attack: 75,
@@ -9564,7 +9564,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "46.8 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Natural Cure", "false"],
         ["Serene Grace", "false"],
@@ -9586,7 +9586,7 @@ const POKEDEX_JSON = [
       chinese: "雷公",
       french: "Raikou",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 90,
       Attack: 85,
@@ -9623,7 +9623,7 @@ const POKEDEX_JSON = [
       chinese: "炎帝",
       french: "Entei",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 115,
       Attack: 115,
@@ -9660,7 +9660,7 @@ const POKEDEX_JSON = [
       chinese: "水君",
       french: "Suicune",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 100,
       Attack: 75,
@@ -9697,7 +9697,7 @@ const POKEDEX_JSON = [
       chinese: "幼基拉斯",
       french: "Embrylex",
     },
-    type: ["Rock", "Ground"],
+    type: ["Rocha", "Terra"],
     base: {
       HP: 50,
       Attack: 64,
@@ -9706,7 +9706,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 41,
     },
-    species: "Rock Skin Pokémon",
+    species: "Rocha Skin Pokémon",
     description:
       "Criado com nutrientes que encontra na sujeira, ele come aproximadamente uma montanha de sujeira antes de se tornar uma pupa.",
     evolution: {
@@ -9736,7 +9736,7 @@ const POKEDEX_JSON = [
       chinese: "沙基拉斯",
       french: "Ymphect",
     },
-    type: ["Rock", "Ground"],
+    type: ["Rocha", "Terra"],
     base: {
       HP: 70,
       Attack: 84,
@@ -9773,7 +9773,7 @@ const POKEDEX_JSON = [
       chinese: "班基拉斯",
       french: "Tyranocif",
     },
-    type: ["Rock", "Dark"],
+    type: ["Rocha", "Sombrio"],
     base: {
       HP: 100,
       Attack: 134,
@@ -9812,7 +9812,7 @@ const POKEDEX_JSON = [
       chinese: "洛奇亚",
       french: "Lugia",
     },
-    type: ["Psychic", "Flying"],
+    type: ["Psíquico", "Voador"],
     base: {
       HP: 106,
       Attack: 90,
@@ -9849,7 +9849,7 @@ const POKEDEX_JSON = [
       chinese: "凤王",
       french: "Ho-Oh",
     },
-    type: ["Fire", "Flying"],
+    type: ["Fogo", "Voador"],
     base: {
       HP: 106,
       Attack: 130,
@@ -9886,7 +9886,7 @@ const POKEDEX_JSON = [
       chinese: "时拉比",
       french: "Celebi",
     },
-    type: ["Psychic", "Grass"],
+    type: ["Psíquico", "Grama"],
     base: {
       HP: 100,
       Attack: 100,
@@ -9920,7 +9920,7 @@ const POKEDEX_JSON = [
       chinese: "木守宫",
       french: "Arcko",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 40,
       Attack: 45,
@@ -9938,7 +9938,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "5 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Overgrow", "false"],
         ["Unburden", "true"],
@@ -9959,7 +9959,7 @@ const POKEDEX_JSON = [
       chinese: "森林蜥蜴",
       french: "Massko",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 50,
       Attack: 65,
@@ -9978,7 +9978,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "21.6 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Overgrow", "false"],
         ["Unburden", "true"],
@@ -9999,7 +9999,7 @@ const POKEDEX_JSON = [
       chinese: "蜥蜴王",
       french: "Jungko",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 70,
       Attack: 85,
@@ -10017,7 +10017,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "52.2 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Overgrow", "false"],
         ["Unburden", "true"],
@@ -10038,7 +10038,7 @@ const POKEDEX_JSON = [
       chinese: "火稚鸡",
       french: "Poussifeu",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 45,
       Attack: 60,
@@ -10077,7 +10077,7 @@ const POKEDEX_JSON = [
       chinese: "力壮鸡",
       french: "Galifeu",
     },
-    type: ["Fire", "Fighting"],
+    type: ["Fogo", "Lutador"],
     base: {
       HP: 60,
       Attack: 85,
@@ -10117,7 +10117,7 @@ const POKEDEX_JSON = [
       chinese: "火焰鸡",
       french: "Braségali",
     },
-    type: ["Fire", "Fighting"],
+    type: ["Fogo", "Lutador"],
     base: {
       HP: 80,
       Attack: 120,
@@ -10156,7 +10156,7 @@ const POKEDEX_JSON = [
       chinese: "水跃鱼",
       french: "Gobou",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 70,
@@ -10174,7 +10174,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "7.6 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Damp", "true"],
@@ -10195,7 +10195,7 @@ const POKEDEX_JSON = [
       chinese: "沼跃鱼",
       french: "Flobio",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 70,
       Attack: 85,
@@ -10214,7 +10214,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "28 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Damp", "true"],
@@ -10235,7 +10235,7 @@ const POKEDEX_JSON = [
       chinese: "巨沼怪",
       french: "Laggron",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 100,
       Attack: 110,
@@ -10253,7 +10253,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "81.9 kg",
-      egg: ["Monster", "Water 1"],
+      egg: ["Monster", "Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Damp", "true"],
@@ -10274,7 +10274,7 @@ const POKEDEX_JSON = [
       chinese: "土狼犬",
       french: "Medhyèna",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 35,
       Attack: 55,
@@ -10314,7 +10314,7 @@ const POKEDEX_JSON = [
       chinese: "大狼犬",
       french: "Grahyèna",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 70,
       Attack: 90,
@@ -10435,7 +10435,7 @@ const POKEDEX_JSON = [
       chinese: "刺尾虫",
       french: "Chenipotte",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 45,
       Attack: 45,
@@ -10456,7 +10456,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "3.6 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Run Away", "true"],
@@ -10477,7 +10477,7 @@ const POKEDEX_JSON = [
       chinese: "甲壳茧",
       french: "Armulys",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 50,
       Attack: 35,
@@ -10496,7 +10496,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "10 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Shed Skin", "false"]],
       gender: "50:50",
     },
@@ -10514,7 +10514,7 @@ const POKEDEX_JSON = [
       chinese: "狩猎凤蝶",
       french: "Charmillon",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 60,
       Attack: 70,
@@ -10532,7 +10532,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "28.4 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Rivalry", "true"],
@@ -10553,7 +10553,7 @@ const POKEDEX_JSON = [
       chinese: "盾甲茧",
       french: "Blindalys",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 50,
       Attack: 35,
@@ -10572,7 +10572,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "11.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Shed Skin", "false"]],
       gender: "50:50",
     },
@@ -10590,7 +10590,7 @@ const POKEDEX_JSON = [
       chinese: "毒粉蛾",
       french: "Papinox",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 60,
       Attack: 50,
@@ -10599,7 +10599,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 90,
       Speed: 65,
     },
-    species: "Poison Moth Pokémon",
+    species: "Venenoso Moth Pokémon",
     description:
       "Quando Dustox bate suas asas, uma fina poeira é espalhada por toda parte. Essa poeira é na verdade um veneno poderoso que até fará um lutador profissional ficar doente. Este Pokémon procura comida usando suas antenas como radar.",
     evolution: {
@@ -10608,7 +10608,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "31.6 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Compound Eyes", "true"],
@@ -10629,7 +10629,7 @@ const POKEDEX_JSON = [
       chinese: "莲叶童子",
       french: "Nénupiot",
     },
-    type: ["Water", "Grass"],
+    type: ["Água", "Grama"],
     base: {
       HP: 40,
       Attack: 30,
@@ -10638,7 +10638,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 30,
     },
-    species: "Water Weed Pokémon",
+    species: "Água Weed Pokémon",
     description:
       "Lotad, diz-se, habitou a terra antes. No entanto, acredita-se que este Pokémon tenha retornado à água porque a folha em sua cabeça cresceu grande e pesada. Agora vive flutuando sobre a água.",
     evolution: {
@@ -10647,7 +10647,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "2.6 kg",
-      egg: ["Water 1", "Grass"],
+      egg: ["Água 1", "Grama"],
       ability: [
         ["Swift Swim", "false"],
         ["Rain Dish", "false"],
@@ -10669,7 +10669,7 @@ const POKEDEX_JSON = [
       chinese: "莲帽小童",
       french: "Lombre",
     },
-    type: ["Water", "Grass"],
+    type: ["Água", "Grama"],
     base: {
       HP: 60,
       Attack: 50,
@@ -10683,12 +10683,12 @@ const POKEDEX_JSON = [
       "Todo o corpo de Lombre é coberto por um filme escorregadio e viscoso. É horrível ser tocado pelas mãos deste Pokémon. Lombre é frequentemente confundido com uma criança humana.",
     evolution: {
       prev: ["270", "Level 14"],
-      next: [["272", "use Water Stone"]],
+      next: [["272", "use Água Stone"]],
     },
     profile: {
       height: "1.2 m",
       weight: "32.5 kg",
-      egg: ["Water 1", "Grass"],
+      egg: ["Água 1", "Grama"],
       ability: [
         ["Swift Swim", "false"],
         ["Rain Dish", "false"],
@@ -10710,7 +10710,7 @@ const POKEDEX_JSON = [
       chinese: "乐天河童",
       french: "Ludicolo",
     },
-    type: ["Water", "Grass"],
+    type: ["Água", "Grama"],
     base: {
       HP: 80,
       Attack: 70,
@@ -10723,12 +10723,12 @@ const POKEDEX_JSON = [
     description:
       "Ao ouvir um ritmo animado e alegre, as células do corpo de Ludicolo se tornam muito enérgicas e ativas. Mesmo em batalha, este Pokémon exibirá uma quantidade incrível de poder.",
     evolution: {
-      prev: ["271", "use Water Stone"],
+      prev: ["271", "use Água Stone"],
     },
     profile: {
       height: "1.5 m",
       weight: "55 kg",
-      egg: ["Water 1", "Grass"],
+      egg: ["Água 1", "Grama"],
       ability: [
         ["Swift Swim", "false"],
         ["Rain Dish", "false"],
@@ -10750,7 +10750,7 @@ const POKEDEX_JSON = [
       chinese: "橡实果",
       french: "Grainipiot",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 40,
       Attack: 40,
@@ -10768,7 +10768,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "4 kg",
-      egg: ["Field", "Grass"],
+      egg: ["Field", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Early Bird", "false"],
@@ -10790,7 +10790,7 @@ const POKEDEX_JSON = [
       chinese: "长鼻叶",
       french: "Pifeuil",
     },
-    type: ["Grass", "Dark"],
+    type: ["Grama", "Sombrio"],
     base: {
       HP: 70,
       Attack: 70,
@@ -10809,7 +10809,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "28 kg",
-      egg: ["Field", "Grass"],
+      egg: ["Field", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Early Bird", "false"],
@@ -10829,9 +10829,9 @@ const POKEDEX_JSON = [
       english: "Shiftry",
       japanese: "ダーテング",
       chinese: "狡猾天狗",
-      french: "Tengalice",
+      french: "TengalGelo",
     },
-    type: ["Grass", "Dark"],
+    type: ["Grama", "Sombrio"],
     base: {
       HP: 90,
       Attack: 100,
@@ -10849,7 +10849,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "59.6 kg",
-      egg: ["Field", "Grass"],
+      egg: ["Field", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Early Bird", "false"],
@@ -10871,7 +10871,7 @@ const POKEDEX_JSON = [
       chinese: "傲骨燕",
       french: "Nirondelle",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 40,
       Attack: 55,
@@ -10889,7 +10889,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.3 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Guts", "false"],
         ["Scrappy", "true"],
@@ -10910,7 +10910,7 @@ const POKEDEX_JSON = [
       chinese: "大王燕",
       french: "Hélédelle",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 60,
       Attack: 85,
@@ -10928,7 +10928,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "19.8 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Guts", "false"],
         ["Scrappy", "true"],
@@ -10949,7 +10949,7 @@ const POKEDEX_JSON = [
       chinese: "长翅鸥",
       french: "Goélise",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 40,
       Attack: 30,
@@ -10967,7 +10967,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "9.5 kg",
-      egg: ["Water 1", "Flying"],
+      egg: ["Água 1", "Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Hydration", "false"],
@@ -10989,7 +10989,7 @@ const POKEDEX_JSON = [
       chinese: "大嘴鸥",
       french: "Bekipan",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 60,
       Attack: 50,
@@ -10998,7 +10998,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 70,
       Speed: 65,
     },
-    species: "Water Bird Pokémon",
+    species: "Água Bird Pokémon",
     description:
       "Ele recolhe Wishiwashi em seu enorme bico e os engole inteiros. Ele pode devorar mais de 30 de uma vez!",
     evolution: {
@@ -11007,7 +11007,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "28 kg",
-      egg: ["Water 1", "Flying"],
+      egg: ["Água 1", "Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Drizzle", "false"],
@@ -11029,7 +11029,7 @@ const POKEDEX_JSON = [
       chinese: "拉鲁拉丝",
       french: "Tarsal",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     base: {
       HP: 28,
       Attack: 25,
@@ -11069,7 +11069,7 @@ const POKEDEX_JSON = [
       chinese: "奇鲁莉安",
       french: "Kirlia",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     base: {
       HP: 38,
       Attack: 35,
@@ -11110,7 +11110,7 @@ const POKEDEX_JSON = [
       chinese: "沙奈朵",
       french: "Gardevoir",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     base: {
       HP: 68,
       Attack: 65,
@@ -11150,7 +11150,7 @@ const POKEDEX_JSON = [
       chinese: "溜溜糖球",
       french: "Arakdo",
     },
-    type: ["Bug", "Water"],
+    type: ["Inseto", "Água"],
     base: {
       HP: 40,
       Attack: 30,
@@ -11168,7 +11168,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "1.7 kg",
-      egg: ["Water 1", "Bug"],
+      egg: ["Água 1", "Inseto"],
       ability: [
         ["Swift Swim", "false"],
         ["Rain Dish", "true"],
@@ -11189,7 +11189,7 @@ const POKEDEX_JSON = [
       chinese: "雨翅蛾",
       french: "Maskadra",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 70,
       Attack: 60,
@@ -11207,7 +11207,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "3.6 kg",
-      egg: ["Water 1", "Bug"],
+      egg: ["Água 1", "Inseto"],
       ability: [
         ["Intimidate", "false"],
         ["Unnerve", "true"],
@@ -11228,7 +11228,7 @@ const POKEDEX_JSON = [
       chinese: "蘑蘑菇",
       french: "Balignon",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 60,
       Attack: 40,
@@ -11246,10 +11246,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "4.5 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Effect Spore", "false"],
-        ["Poison Heal", "false"],
+        ["Venenoso Heal", "false"],
         ["Quick Feet", "true"],
       ],
       gender: "50:50",
@@ -11268,7 +11268,7 @@ const POKEDEX_JSON = [
       chinese: "斗笠菇",
       french: "Chapignon",
     },
-    type: ["Grass", "Fighting"],
+    type: ["Grama", "Lutador"],
     base: {
       HP: 60,
       Attack: 130,
@@ -11286,10 +11286,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "39.2 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Effect Spore", "false"],
-        ["Poison Heal", "false"],
+        ["Venenoso Heal", "false"],
         ["Technician", "true"],
       ],
       gender: "50:50",
@@ -11417,7 +11417,7 @@ const POKEDEX_JSON = [
       chinese: "土居忍士",
       french: "Ningale",
     },
-    type: ["Bug", "Ground"],
+    type: ["Inseto", "Terra"],
     base: {
       HP: 31,
       Attack: 45,
@@ -11438,7 +11438,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "5.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Compound Eyes", "false"],
         ["Run Away", "true"],
@@ -11459,7 +11459,7 @@ const POKEDEX_JSON = [
       chinese: "铁面忍者",
       french: "Ninjask",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 61,
       Attack: 90,
@@ -11477,7 +11477,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "12 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Speed Boost", "false"],
         ["Infiltrator", "true"],
@@ -11498,7 +11498,7 @@ const POKEDEX_JSON = [
       chinese: "脱壳忍者",
       french: "Munja",
     },
-    type: ["Bug", "Ghost"],
+    type: ["Inseto", "Fantasma"],
     base: {
       HP: 1,
       Attack: 90,
@@ -11582,7 +11582,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 43,
       Speed: 48,
     },
-    species: "Big Voice Pokémon",
+    species: "Big VoGelo Pokémon",
     description:
       "Loudred grita enquanto pisa com os pés. Depois de terminar de gritar, este Pokémon fica incapaz de ouvir qualquer coisa por um tempo. Isso é considerado um ponto fraco.",
     evolution: {
@@ -11652,7 +11652,7 @@ const POKEDEX_JSON = [
       chinese: "幕下力士",
       french: "Makuhita",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 72,
       Attack: 60,
@@ -11692,7 +11692,7 @@ const POKEDEX_JSON = [
       chinese: "铁掌力士",
       french: "Hariyama",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 144,
       Attack: 120,
@@ -11732,7 +11732,7 @@ const POKEDEX_JSON = [
       chinese: "露力丽",
       french: "Azurill",
     },
-    type: ["Normal", "Fairy"],
+    type: ["Normal", "Fada"],
     base: {
       HP: 50,
       Attack: 20,
@@ -11772,7 +11772,7 @@ const POKEDEX_JSON = [
       chinese: "朝北鼻",
       french: "Tarinor",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 30,
       Attack: 45,
@@ -11830,7 +11830,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "11 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Cute Charm", "false"],
         ["Normalize", "false"],
@@ -11870,7 +11870,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "32.6 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Cute Charm", "false"],
         ["Normalize", "false"],
@@ -11892,7 +11892,7 @@ const POKEDEX_JSON = [
       chinese: "勾魂眼",
       french: "Ténéfix",
     },
-    type: ["Dark", "Ghost"],
+    type: ["Sombrio", "Fantasma"],
     base: {
       HP: 50,
       Attack: 75,
@@ -11901,7 +11901,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 50,
     },
-    species: "Darkness Pokémon",
+    species: "Sombrioness Pokémon",
     description:
       "Materiais de gemas que come flutuam na superfície de seu corpo e podem formar um número infinito de padrões entre indivíduos.",
     evolution: {},
@@ -11930,7 +11930,7 @@ const POKEDEX_JSON = [
       chinese: "大嘴娃",
       french: "Mysdibule",
     },
-    type: ["Steel", "Fairy"],
+    type: ["Metal", "Fada"],
     base: {
       HP: 50,
       Attack: 85,
@@ -11946,7 +11946,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "11.5 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Intimidate", "false"],
@@ -11968,7 +11968,7 @@ const POKEDEX_JSON = [
       chinese: "可可多拉",
       french: "Galekid",
     },
-    type: ["Steel", "Rock"],
+    type: ["Metal", "Rocha"],
     base: {
       HP: 50,
       Attack: 70,
@@ -11989,7 +11989,7 @@ const POKEDEX_JSON = [
       egg: ["Monster"],
       ability: [
         ["Sturdy", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Heavy Metal", "true"],
       ],
       gender: "50:50",
@@ -12008,7 +12008,7 @@ const POKEDEX_JSON = [
       chinese: "可多拉",
       french: "Galegon",
     },
-    type: ["Steel", "Rock"],
+    type: ["Metal", "Rocha"],
     base: {
       HP: 60,
       Attack: 90,
@@ -12030,7 +12030,7 @@ const POKEDEX_JSON = [
       egg: ["Monster"],
       ability: [
         ["Sturdy", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Heavy Metal", "true"],
       ],
       gender: "50:50",
@@ -12049,7 +12049,7 @@ const POKEDEX_JSON = [
       chinese: "波士可多拉",
       french: "Galeking",
     },
-    type: ["Steel", "Rock"],
+    type: ["Metal", "Rocha"],
     base: {
       HP: 70,
       Attack: 110,
@@ -12070,7 +12070,7 @@ const POKEDEX_JSON = [
       egg: ["Monster"],
       ability: [
         ["Sturdy", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Heavy Metal", "true"],
       ],
       gender: "50:50",
@@ -12089,7 +12089,7 @@ const POKEDEX_JSON = [
       chinese: "玛沙那",
       french: "Méditikka",
     },
-    type: ["Fighting", "Psychic"],
+    type: ["Lutador", "Psíquico"],
     base: {
       HP: 30,
       Attack: 40,
@@ -12128,7 +12128,7 @@ const POKEDEX_JSON = [
       chinese: "恰雷姆",
       french: "Charmina",
     },
-    type: ["Fighting", "Psychic"],
+    type: ["Lutador", "Psíquico"],
     base: {
       HP: 60,
       Attack: 60,
@@ -12167,7 +12167,7 @@ const POKEDEX_JSON = [
       chinese: "落雷兽",
       french: "Dynavolt",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 40,
       Attack: 45,
@@ -12207,7 +12207,7 @@ const POKEDEX_JSON = [
       chinese: "雷电兽",
       french: "Élecsprint",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 70,
       Attack: 75,
@@ -12247,7 +12247,7 @@ const POKEDEX_JSON = [
       chinese: "正电拍拍",
       french: "Posipi",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 60,
       Attack: 50,
@@ -12263,7 +12263,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "4.2 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Plus", "false"],
         ["Lightning Rod", "true"],
@@ -12284,7 +12284,7 @@ const POKEDEX_JSON = [
       chinese: "负电拍拍",
       french: "Négapi",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 60,
       Attack: 40,
@@ -12300,7 +12300,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "4.2 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Minus", "false"],
         ["Volt Absorb", "true"],
@@ -12321,7 +12321,7 @@ const POKEDEX_JSON = [
       chinese: "电萤虫",
       french: "Muciole",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 65,
       Attack: 73,
@@ -12330,14 +12330,14 @@ const POKEDEX_JSON = [
       "Sp. Defense": 85,
       Speed: 85,
     },
-    species: "Firefly Pokémon",
+    species: "Fogofly Pokémon",
     description:
       "A cauda de Volbeat brilha como uma lâmpada. Com outros Volbeat, ele usa sua cauda para desenhar formas geométricas no céu noturno. Este Pokémon adora o doce aroma exalado por Illumise.",
     evolution: {},
     profile: {
       height: "0.7 m",
       weight: "17.7 kg",
-      egg: ["Bug", "Human-Like"],
+      egg: ["Inseto", "Human-Like"],
       ability: [
         ["Illuminate", "false"],
         ["Swarm", "false"],
@@ -12359,7 +12359,7 @@ const POKEDEX_JSON = [
       chinese: "甜甜萤",
       french: "Lumivole",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 65,
       Attack: 47,
@@ -12368,14 +12368,14 @@ const POKEDEX_JSON = [
       "Sp. Defense": 85,
       Speed: 85,
     },
-    species: "Firefly Pokémon",
+    species: "Fogofly Pokémon",
     description:
       "Illumise lidera um voo de Volbeat iluminado para desenhar sinais no céu noturno. Diz-se que este Pokémon ganha maior respeito de seus pares compondo designs mais complexos no céu.",
     evolution: {},
     profile: {
       height: "0.6 m",
       weight: "17.7 kg",
-      egg: ["Bug", "Human-Like"],
+      egg: ["Inseto", "Human-Like"],
       ability: [
         ["Oblivious", "false"],
         ["Tinted Lens", "false"],
@@ -12397,7 +12397,7 @@ const POKEDEX_JSON = [
       chinese: "毒蔷薇",
       french: "Rosélia",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 50,
       Attack: 60,
@@ -12416,10 +12416,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Natural Cure", "false"],
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Leaf Guard", "true"],
       ],
       gender: "50:50",
@@ -12438,7 +12438,7 @@ const POKEDEX_JSON = [
       chinese: "溶食兽",
       french: "Gloupti",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 70,
       Attack: 43,
@@ -12478,7 +12478,7 @@ const POKEDEX_JSON = [
       chinese: "吞食兽",
       french: "Avaltout",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 100,
       Attack: 73,
@@ -12487,7 +12487,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 83,
       Speed: 55,
     },
-    species: "Poison Bag Pokémon",
+    species: "Venenoso Bag Pokémon",
     description:
       "Swalot não tem dentes, então o que come, engole inteiro, não importa o quê. Sua boca cavernosa boceja amplamente. Um pneu de automóvel poderia facilmente caber dentro da boca deste Pokémon.",
     evolution: {
@@ -12518,7 +12518,7 @@ const POKEDEX_JSON = [
       chinese: "利牙鱼",
       french: "Carvanha",
     },
-    type: ["Water", "Dark"],
+    type: ["Água", "Sombrio"],
     base: {
       HP: 45,
       Attack: 90,
@@ -12536,7 +12536,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "20.8 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Rough Skin", "false"],
         ["Speed Boost", "true"],
@@ -12557,7 +12557,7 @@ const POKEDEX_JSON = [
       chinese: "巨牙鲨",
       french: "Sharpedo",
     },
-    type: ["Water", "Dark"],
+    type: ["Água", "Sombrio"],
     base: {
       HP: 70,
       Attack: 120,
@@ -12575,7 +12575,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "88.8 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Rough Skin", "false"],
         ["Speed Boost", "true"],
@@ -12596,7 +12596,7 @@ const POKEDEX_JSON = [
       chinese: "吼吼鲸",
       french: "Wailmer",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 130,
       Attack: 70,
@@ -12614,9 +12614,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "130 kg",
-      egg: ["Field", "Water 2"],
+      egg: ["Field", "Água 2"],
       ability: [
-        ["Water Veil", "false"],
+        ["Água Veil", "false"],
         ["Oblivious", "false"],
         ["Pressure", "true"],
       ],
@@ -12636,7 +12636,7 @@ const POKEDEX_JSON = [
       chinese: "吼鲸王",
       french: "Wailord",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 170,
       Attack: 90,
@@ -12654,9 +12654,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "14.5 m",
       weight: "398 kg",
-      egg: ["Field", "Water 2"],
+      egg: ["Field", "Água 2"],
       ability: [
-        ["Water Veil", "false"],
+        ["Água Veil", "false"],
         ["Oblivious", "false"],
         ["Pressure", "true"],
       ],
@@ -12676,7 +12676,7 @@ const POKEDEX_JSON = [
       chinese: "呆火驼",
       french: "Chamallot",
     },
-    type: ["Fire", "Ground"],
+    type: ["Fogo", "Terra"],
     base: {
       HP: 60,
       Attack: 60,
@@ -12716,7 +12716,7 @@ const POKEDEX_JSON = [
       chinese: "喷火驼",
       french: "Camérupt",
     },
-    type: ["Fire", "Ground"],
+    type: ["Fogo", "Terra"],
     base: {
       HP: 70,
       Attack: 100,
@@ -12737,7 +12737,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Magma Armor", "false"],
-        ["Solid Rock", "false"],
+        ["Solid Rocha", "false"],
         ["Anger Point", "true"],
       ],
       gender: "50:50",
@@ -12756,7 +12756,7 @@ const POKEDEX_JSON = [
       chinese: "煤炭龟",
       french: "Chartor",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 70,
       Attack: 85,
@@ -12794,7 +12794,7 @@ const POKEDEX_JSON = [
       chinese: "跳跳猪",
       french: "Spoink",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 60,
       Attack: 25,
@@ -12834,7 +12834,7 @@ const POKEDEX_JSON = [
       chinese: "噗噗猪",
       french: "Groret",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 80,
       Attack: 45,
@@ -12912,7 +12912,7 @@ const POKEDEX_JSON = [
       chinese: "大颚蚁",
       french: "Kraknoix",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 45,
       Attack: 100,
@@ -12930,7 +12930,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "15 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Arena Trap", "false"],
@@ -12952,7 +12952,7 @@ const POKEDEX_JSON = [
       chinese: "超音波幼虫",
       french: "Vibraninf",
     },
-    type: ["Ground", "Dragon"],
+    type: ["Terra", "Dragão"],
     base: {
       HP: 50,
       Attack: 70,
@@ -12971,7 +12971,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "15.3 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Levitate", "false"]],
       gender: "50:50",
     },
@@ -12989,7 +12989,7 @@ const POKEDEX_JSON = [
       chinese: "沙漠蜻蜓",
       french: "Libégon",
     },
-    type: ["Ground", "Dragon"],
+    type: ["Terra", "Dragão"],
     base: {
       HP: 80,
       Attack: 100,
@@ -13007,7 +13007,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "82 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Levitate", "false"]],
       gender: "50:50",
     },
@@ -13025,7 +13025,7 @@ const POKEDEX_JSON = [
       chinese: "刺球仙人掌",
       french: "Cacnea",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 50,
       Attack: 85,
@@ -13043,10 +13043,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "51.3 kg",
-      egg: ["Grass", "Human-Like"],
+      egg: ["Grama", "Human-Like"],
       ability: [
         ["Sand Veil", "false"],
-        ["Water Absorb", "true"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -13064,7 +13064,7 @@ const POKEDEX_JSON = [
       chinese: "梦歌仙人掌",
       french: "Cacturne",
     },
-    type: ["Grass", "Dark"],
+    type: ["Grama", "Sombrio"],
     base: {
       HP: 70,
       Attack: 115,
@@ -13082,10 +13082,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "77.4 kg",
-      egg: ["Grass", "Human-Like"],
+      egg: ["Grama", "Human-Like"],
       ability: [
         ["Sand Veil", "false"],
-        ["Water Absorb", "true"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -13103,7 +13103,7 @@ const POKEDEX_JSON = [
       chinese: "青绵鸟",
       french: "Tylton",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 45,
       Attack: 40,
@@ -13121,7 +13121,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "1.2 kg",
-      egg: ["Flying", "Dragon"],
+      egg: ["Voador", "Dragão"],
       ability: [
         ["Natural Cure", "false"],
         ["Cloud Nine", "true"],
@@ -13142,7 +13142,7 @@ const POKEDEX_JSON = [
       chinese: "七夕青鸟",
       french: "Altaria",
     },
-    type: ["Dragon", "Flying"],
+    type: ["Dragão", "Voador"],
     base: {
       HP: 75,
       Attack: 70,
@@ -13160,7 +13160,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "20.6 kg",
-      egg: ["Flying", "Dragon"],
+      egg: ["Voador", "Dragão"],
       ability: [
         ["Natural Cure", "false"],
         ["Cloud Nine", "true"],
@@ -13218,7 +13218,7 @@ const POKEDEX_JSON = [
       chinese: "饭匙蛇",
       french: "Séviper",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 73,
       Attack: 100,
@@ -13234,7 +13234,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.7 m",
       weight: "52.5 kg",
-      egg: ["Field", "Dragon"],
+      egg: ["Field", "Dragão"],
       ability: [
         ["Shed Skin", "false"],
         ["Infiltrator", "true"],
@@ -13255,7 +13255,7 @@ const POKEDEX_JSON = [
       chinese: "月石",
       french: "Séléroc",
     },
-    type: ["Rock", "Psychic"],
+    type: ["Rocha", "Psíquico"],
     base: {
       HP: 90,
       Attack: 55,
@@ -13289,7 +13289,7 @@ const POKEDEX_JSON = [
       chinese: "太阳岩",
       french: "Solaroc",
     },
-    type: ["Rock", "Psychic"],
+    type: ["Rocha", "Psíquico"],
     base: {
       HP: 90,
       Attack: 95,
@@ -13323,7 +13323,7 @@ const POKEDEX_JSON = [
       chinese: "泥泥鳅",
       french: "Barloche",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 50,
       Attack: 48,
@@ -13341,7 +13341,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "1.9 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Oblivious", "false"],
         ["Anticipation", "false"],
@@ -13363,7 +13363,7 @@ const POKEDEX_JSON = [
       chinese: "鲶鱼王",
       french: "Barbicha",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 110,
       Attack: 78,
@@ -13381,7 +13381,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "23.6 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Oblivious", "false"],
         ["Anticipation", "false"],
@@ -13403,7 +13403,7 @@ const POKEDEX_JSON = [
       chinese: "龙虾小兵",
       french: "Écrapince",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 43,
       Attack: 80,
@@ -13421,7 +13421,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "11.5 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Shell Armor", "false"],
@@ -13443,7 +13443,7 @@ const POKEDEX_JSON = [
       chinese: "铁螯龙虾",
       french: "Colhomard",
     },
-    type: ["Water", "Dark"],
+    type: ["Água", "Sombrio"],
     base: {
       HP: 63,
       Attack: 120,
@@ -13461,7 +13461,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "32.8 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Shell Armor", "false"],
@@ -13483,7 +13483,7 @@ const POKEDEX_JSON = [
       chinese: "天秤偶",
       french: "Balbuto",
     },
-    type: ["Ground", "Psychic"],
+    type: ["Terra", "Psíquico"],
     base: {
       HP: 40,
       Attack: 40,
@@ -13519,7 +13519,7 @@ const POKEDEX_JSON = [
       chinese: "念力土偶",
       french: "Kaorine",
     },
-    type: ["Ground", "Psychic"],
+    type: ["Terra", "Psíquico"],
     base: {
       HP: 60,
       Attack: 70,
@@ -13555,7 +13555,7 @@ const POKEDEX_JSON = [
       chinese: "触手百合",
       french: "Lilia",
     },
-    type: ["Rock", "Grass"],
+    type: ["Rocha", "Grama"],
     base: {
       HP: 66,
       Attack: 41,
@@ -13573,7 +13573,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "23.8 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Suction Cups", "false"],
         ["Storm Drain", "true"],
@@ -13594,7 +13594,7 @@ const POKEDEX_JSON = [
       chinese: "摇篮百合",
       french: "Vacilys",
     },
-    type: ["Rock", "Grass"],
+    type: ["Rocha", "Grama"],
     base: {
       HP: 86,
       Attack: 81,
@@ -13612,7 +13612,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "60.4 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Suction Cups", "false"],
         ["Storm Drain", "true"],
@@ -13633,7 +13633,7 @@ const POKEDEX_JSON = [
       chinese: "太古羽虫",
       french: "Anorith",
     },
-    type: ["Rock", "Bug"],
+    type: ["Rocha", "Inseto"],
     base: {
       HP: 45,
       Attack: 95,
@@ -13651,7 +13651,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "12.5 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Battle Armor", "false"],
         ["Swift Swim", "true"],
@@ -13672,7 +13672,7 @@ const POKEDEX_JSON = [
       chinese: "太古盔甲",
       french: "Armaldo",
     },
-    type: ["Rock", "Bug"],
+    type: ["Rocha", "Inseto"],
     base: {
       HP: 75,
       Attack: 125,
@@ -13690,7 +13690,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "68.2 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Battle Armor", "false"],
         ["Swift Swim", "true"],
@@ -13711,7 +13711,7 @@ const POKEDEX_JSON = [
       chinese: "丑丑鱼",
       french: "Barpau",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 20,
       Attack: 15,
@@ -13729,7 +13729,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "7.4 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Swift Swim", "false"],
         ["Oblivious", "false"],
@@ -13751,7 +13751,7 @@ const POKEDEX_JSON = [
       chinese: "美纳斯",
       french: "Milobellus",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 95,
       Attack: 60,
@@ -13769,7 +13769,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "6.2 m",
       weight: "162 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
         ["Marvel Scale", "false"],
         ["Competitive", "false"],
@@ -13807,7 +13807,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "0.8 kg",
-      egg: ["Fairy", "Amorphous"],
+      egg: ["Fada", "Amorphous"],
       ability: [["Forecast", "false"]],
       gender: "50:50",
     },
@@ -13862,7 +13862,7 @@ const POKEDEX_JSON = [
       chinese: "怨影娃娃",
       french: "Polichombr",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 44,
       Attack: 75,
@@ -13902,7 +13902,7 @@ const POKEDEX_JSON = [
       chinese: "诅咒娃娃",
       french: "Branette",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 64,
       Attack: 115,
@@ -13942,7 +13942,7 @@ const POKEDEX_JSON = [
       chinese: "夜巡灵",
       french: "Skelénox",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 20,
       Attack: 40,
@@ -13981,7 +13981,7 @@ const POKEDEX_JSON = [
       chinese: "彷徨夜灵",
       french: "Téraclope",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 40,
       Attack: 70,
@@ -14021,7 +14021,7 @@ const POKEDEX_JSON = [
       chinese: "热带龙",
       french: "Tropius",
     },
-    type: ["Grass", "Flying"],
+    type: ["Grama", "Voador"],
     base: {
       HP: 99,
       Attack: 68,
@@ -14037,7 +14037,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "100 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Solar Power", "false"],
@@ -14059,7 +14059,7 @@ const POKEDEX_JSON = [
       chinese: "风铃铃",
       french: "Éoko",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 75,
       Attack: 50,
@@ -14095,7 +14095,7 @@ const POKEDEX_JSON = [
       chinese: "阿勃梭鲁",
       french: "Absol",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 65,
       Attack: 130,
@@ -14133,7 +14133,7 @@ const POKEDEX_JSON = [
       chinese: "小果然",
       french: "Okéoké",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 95,
       Attack: 23,
@@ -14172,7 +14172,7 @@ const POKEDEX_JSON = [
       chinese: "雪童子",
       french: "Stalgamin",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 50,
       Attack: 50,
@@ -14193,10 +14193,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "16.8 kg",
-      egg: ["Fairy", "Mineral"],
+      egg: ["Fada", "Mineral"],
       ability: [
         ["Inner Focus", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Moody", "true"],
       ],
       gender: "50:50",
@@ -14215,7 +14215,7 @@ const POKEDEX_JSON = [
       chinese: "冰鬼护",
       french: "Oniglali",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 80,
       Attack: 80,
@@ -14233,10 +14233,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "256.5 kg",
-      egg: ["Fairy", "Mineral"],
+      egg: ["Fada", "Mineral"],
       ability: [
         ["Inner Focus", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Moody", "true"],
       ],
       gender: "50:50",
@@ -14255,7 +14255,7 @@ const POKEDEX_JSON = [
       chinese: "海豹球",
       french: "Obalie",
     },
-    type: ["Ice", "Water"],
+    type: ["Gelo", "Água"],
     base: {
       HP: 70,
       Attack: 40,
@@ -14266,17 +14266,17 @@ const POKEDEX_JSON = [
     },
     species: "Clap Pokémon",
     description:
-      "Spheal sempre viaja rolando em seu corpo semelhante a uma bola. Quando chega a estação dos icebergs, este Pokémon pode ser visto rolando sobre o gelo e cruzando o mar.",
+      "Spheal sempre viaja rolando em seu corpo semelhante a uma bola. Quando chega a estação dos Gelobergs, este Pokémon pode ser visto rolando sobre o gelo e cruzando o mar.",
     evolution: {
       next: [["364", "Level 32"]],
     },
     profile: {
       height: "0.8 m",
       weight: "39.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Thick Fat", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Oblivious", "true"],
       ],
       gender: "50:50",
@@ -14295,7 +14295,7 @@ const POKEDEX_JSON = [
       chinese: "海魔狮",
       french: "Phogleur",
     },
-    type: ["Ice", "Water"],
+    type: ["Gelo", "Água"],
     base: {
       HP: 90,
       Attack: 60,
@@ -14314,10 +14314,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "87.6 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Thick Fat", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Oblivious", "true"],
       ],
       gender: "50:50",
@@ -14336,7 +14336,7 @@ const POKEDEX_JSON = [
       chinese: "帝牙海狮",
       french: "Kaimorse",
     },
-    type: ["Ice", "Water"],
+    type: ["Gelo", "Água"],
     base: {
       HP: 110,
       Attack: 80,
@@ -14345,19 +14345,19 @@ const POKEDEX_JSON = [
       "Sp. Defense": 90,
       Speed: 65,
     },
-    species: "Ice Break Pokémon",
+    species: "Gelo Break Pokémon",
     description:
-      "Walrein nada por toda parte em água gelada enquanto esmaga icebergs com seus grandes e imponentes presas. Sua espessa camada de gordura faz com que os ataques inimigos ricocheteiem inofensivamente.",
+      "Walrein nada por toda parte em água gelada enquanto esmaga Gelobergs com seus grandes e imponentes presas. Sua espessa camada de gordura faz com que os ataques inimigos ricocheteiem inofensivamente.",
     evolution: {
       prev: ["364", "Level 44"],
     },
     profile: {
       height: "1.4 m",
       weight: "150.6 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Thick Fat", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Oblivious", "true"],
       ],
       gender: "50:50",
@@ -14376,7 +14376,7 @@ const POKEDEX_JSON = [
       chinese: "珍珠贝",
       french: "Coquiperl",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 35,
       Attack: 64,
@@ -14397,7 +14397,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "52.5 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Shell Armor", "false"],
         ["Rattled", "true"],
@@ -14418,7 +14418,7 @@ const POKEDEX_JSON = [
       chinese: "猎斑鱼",
       french: "Serpang",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 104,
@@ -14436,10 +14436,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "27 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Veil", "true"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -14457,7 +14457,7 @@ const POKEDEX_JSON = [
       chinese: "樱花鱼",
       french: "Rosabyss",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 84,
@@ -14475,7 +14475,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "22.6 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Swift Swim", "false"],
         ["Hydration", "true"],
@@ -14496,7 +14496,7 @@ const POKEDEX_JSON = [
       chinese: "古空棘鱼",
       french: "Relicanth",
     },
-    type: ["Water", "Rock"],
+    type: ["Água", "Rocha"],
     base: {
       HP: 100,
       Attack: 90,
@@ -14512,10 +14512,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "23.4 kg",
-      egg: ["Water 1", "Water 2"],
+      egg: ["Água 1", "Água 2"],
       ability: [
         ["Swift Swim", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sturdy", "true"],
       ],
       gender: "87.5:12.5",
@@ -14534,7 +14534,7 @@ const POKEDEX_JSON = [
       chinese: "爱心鱼",
       french: "Lovdisc",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 43,
       Attack: 30,
@@ -14550,7 +14550,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "8.7 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Swift Swim", "false"],
         ["Hydration", "true"],
@@ -14571,7 +14571,7 @@ const POKEDEX_JSON = [
       chinese: "宝贝龙",
       french: "Draby",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 45,
       Attack: 75,
@@ -14580,7 +14580,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 30,
       Speed: 50,
     },
-    species: "Rock Head Pokémon",
+    species: "Rocha Head Pokémon",
     description:
       "Algumas teorias sugerem que seu comportamento de bater a cabeça fortemente nas coisas estimula células que afetam sua evolução.",
     evolution: {
@@ -14589,9 +14589,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "42.1 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Sheer Force", "true"],
       ],
       gender: "50:50",
@@ -14610,7 +14610,7 @@ const POKEDEX_JSON = [
       chinese: "甲壳龙",
       french: "Drackhaus",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 65,
       Attack: 95,
@@ -14629,9 +14629,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "110.5 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Overcoat", "true"],
       ],
       gender: "50:50",
@@ -14650,7 +14650,7 @@ const POKEDEX_JSON = [
       chinese: "暴飞龙",
       french: "Drattak",
     },
-    type: ["Dragon", "Flying"],
+    type: ["Dragão", "Voador"],
     base: {
       HP: 95,
       Attack: 135,
@@ -14659,7 +14659,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 80,
       Speed: 100,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Graças a seus fervorosos desejos, as células em seu corpo finalmente mutaram e, finalmente, ele tem o desejo de seu coração - asas.",
     evolution: {
@@ -14668,7 +14668,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "102.6 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Intimidate", "false"],
         ["Moxie", "true"],
@@ -14689,7 +14689,7 @@ const POKEDEX_JSON = [
       chinese: "铁哑铃",
       french: "Terhal",
     },
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 40,
       Attack: 55,
@@ -14728,7 +14728,7 @@ const POKEDEX_JSON = [
       chinese: "金属怪",
       french: "Métang",
     },
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 60,
       Attack: 75,
@@ -14768,7 +14768,7 @@ const POKEDEX_JSON = [
       chinese: "巨金怪",
       french: "Métalosse",
     },
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 80,
       Attack: 135,
@@ -14807,7 +14807,7 @@ const POKEDEX_JSON = [
       chinese: "雷吉洛克",
       french: "Regirock",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 80,
       Attack: 100,
@@ -14816,7 +14816,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 100,
       Speed: 50,
     },
-    species: "Rock Peak Pokémon",
+    species: "Rocha Peak Pokémon",
     description:
       "O corpo de Regirock é composto inteiramente de rochas. Recentemente, um estudo fez a surpreendente descoberta de que as rochas foram todas desenterradas de locais diferentes.",
     evolution: {},
@@ -14839,12 +14839,12 @@ const POKEDEX_JSON = [
   {
     id: 378,
     name: {
-      english: "Regice",
+      english: "RegGelo",
       japanese: "レジアイス",
       chinese: "雷吉艾斯",
-      french: "Regice",
+      french: "RegGelo",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 80,
       Attack: 50,
@@ -14853,9 +14853,9 @@ const POKEDEX_JSON = [
       "Sp. Defense": 200,
       Speed: 50,
     },
-    species: "Iceberg Pokémon",
+    species: "Geloberg Pokémon",
     description:
-      "Regice se cobre com ar gelado de -328 graus Fahrenheit. As coisas congelarão sólidas apenas por se aproximar deste Pokémon. Seu corpo gelado é tão frio que não derreterá mesmo que esteja imerso em magma.",
+      "RegGelo se cobre com ar gelado de -328 graus Fahrenheit. As coisas congelarão sólidas apenas por se aproximar deste Pokémon. Seu corpo gelado é tão frio que não derreterá mesmo que esteja imerso em magma.",
     evolution: {},
     profile: {
       height: "1.8 m",
@@ -14863,7 +14863,7 @@ const POKEDEX_JSON = [
       egg: ["Undiscovered"],
       ability: [
         ["Clear Body", "false"],
-        ["Ice Body", "true"],
+        ["Gelo Body", "true"],
       ],
       gender: "Genderless",
     },
@@ -14881,7 +14881,7 @@ const POKEDEX_JSON = [
       chinese: "雷吉斯奇鲁",
       french: "Registeel",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 80,
       Attack: 75,
@@ -14918,7 +14918,7 @@ const POKEDEX_JSON = [
       chinese: "拉帝亚斯",
       french: "Latias",
     },
-    type: ["Dragon", "Psychic"],
+    type: ["Dragão", "Psíquico"],
     base: {
       HP: 80,
       Attack: 80,
@@ -14952,7 +14952,7 @@ const POKEDEX_JSON = [
       chinese: "拉帝欧斯",
       french: "Latios",
     },
-    type: ["Dragon", "Psychic"],
+    type: ["Dragão", "Psíquico"],
     base: {
       HP: 80,
       Attack: 90,
@@ -14986,7 +14986,7 @@ const POKEDEX_JSON = [
       chinese: "盖欧卡",
       french: "Kyogre",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 100,
       Attack: 100,
@@ -15020,7 +15020,7 @@ const POKEDEX_JSON = [
       chinese: "固拉多",
       french: "Groudon",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 100,
       Attack: 150,
@@ -15054,7 +15054,7 @@ const POKEDEX_JSON = [
       chinese: "烈空坐",
       french: "Rayquaza",
     },
-    type: ["Dragon", "Flying"],
+    type: ["Dragão", "Voador"],
     base: {
       HP: 105,
       Attack: 150,
@@ -15088,7 +15088,7 @@ const POKEDEX_JSON = [
       chinese: "基拉祈",
       french: "Jirachi",
     },
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 100,
       Attack: 100,
@@ -15122,7 +15122,7 @@ const POKEDEX_JSON = [
       chinese: "代欧奇希斯",
       french: "Deoxys",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 50,
       Attack: 150,
@@ -15156,7 +15156,7 @@ const POKEDEX_JSON = [
       chinese: "草苗龟",
       french: "Tortipouss",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 55,
       Attack: 68,
@@ -15174,7 +15174,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "10.2 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Shell Armor", "true"],
@@ -15195,7 +15195,7 @@ const POKEDEX_JSON = [
       chinese: "树林龟",
       french: "Boskara",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 75,
       Attack: 89,
@@ -15214,7 +15214,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "97 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Shell Armor", "true"],
@@ -15235,7 +15235,7 @@ const POKEDEX_JSON = [
       chinese: "土台龟",
       french: "Torterra",
     },
-    type: ["Grass", "Ground"],
+    type: ["Grama", "Terra"],
     base: {
       HP: 95,
       Attack: 109,
@@ -15253,7 +15253,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.2 m",
       weight: "310 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Shell Armor", "true"],
@@ -15274,7 +15274,7 @@ const POKEDEX_JSON = [
       chinese: "小火焰猴",
       french: "Ouisticram",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 44,
       Attack: 58,
@@ -15313,7 +15313,7 @@ const POKEDEX_JSON = [
       chinese: "猛火猴",
       french: "Chimpenfeu",
     },
-    type: ["Fire", "Fighting"],
+    type: ["Fogo", "Lutador"],
     base: {
       HP: 64,
       Attack: 78,
@@ -15353,7 +15353,7 @@ const POKEDEX_JSON = [
       chinese: "烈焰猴",
       french: "Simiabraz",
     },
-    type: ["Fire", "Fighting"],
+    type: ["Fogo", "Lutador"],
     base: {
       HP: 76,
       Attack: 104,
@@ -15392,7 +15392,7 @@ const POKEDEX_JSON = [
       chinese: "波加曼",
       french: "Tiplouf",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 53,
       Attack: 51,
@@ -15410,7 +15410,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "5.2 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Torrent", "false"],
         ["Defiant", "true"],
@@ -15431,7 +15431,7 @@ const POKEDEX_JSON = [
       chinese: "波皇子",
       french: "Prinplouf",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 64,
       Attack: 66,
@@ -15450,7 +15450,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "23 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Torrent", "false"],
         ["Defiant", "true"],
@@ -15471,7 +15471,7 @@ const POKEDEX_JSON = [
       chinese: "帝王拿波",
       french: "Pingoléon",
     },
-    type: ["Water", "Steel"],
+    type: ["Água", "Metal"],
     base: {
       HP: 84,
       Attack: 86,
@@ -15489,7 +15489,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "84.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Torrent", "false"],
         ["Defiant", "true"],
@@ -15510,7 +15510,7 @@ const POKEDEX_JSON = [
       chinese: "姆克儿",
       french: "Étourmi",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 40,
       Attack: 55,
@@ -15528,7 +15528,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Reckless", "true"],
@@ -15549,7 +15549,7 @@ const POKEDEX_JSON = [
       chinese: "姆克鸟",
       french: "Étourvol",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 55,
       Attack: 75,
@@ -15568,7 +15568,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "15.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Intimidate", "false"],
         ["Reckless", "true"],
@@ -15589,7 +15589,7 @@ const POKEDEX_JSON = [
       chinese: "姆克鹰",
       french: "Étouraptor",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 85,
       Attack: 120,
@@ -15607,7 +15607,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "24.9 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Intimidate", "false"],
         ["Reckless", "true"],
@@ -15646,7 +15646,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "20 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Simple", "false"],
         ["Unaware", "false"],
@@ -15668,7 +15668,7 @@ const POKEDEX_JSON = [
       chinese: "大尾狸",
       french: "Castorno",
     },
-    type: ["Normal", "Water"],
+    type: ["Normal", "Água"],
     base: {
       HP: 79,
       Attack: 85,
@@ -15686,7 +15686,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "31.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Simple", "false"],
         ["Unaware", "false"],
@@ -15708,7 +15708,7 @@ const POKEDEX_JSON = [
       chinese: "圆法师",
       french: "Crikzik",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 37,
       Attack: 25,
@@ -15726,7 +15726,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.2 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shed Skin", "false"],
         ["Run Away", "true"],
@@ -15747,7 +15747,7 @@ const POKEDEX_JSON = [
       chinese: "音箱蟀",
       french: "Mélokrik",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 77,
       Attack: 85,
@@ -15765,7 +15765,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "25.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Technician", "true"],
@@ -15786,7 +15786,7 @@ const POKEDEX_JSON = [
       chinese: "小猫怪",
       french: "Lixy",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 45,
       Attack: 65,
@@ -15826,7 +15826,7 @@ const POKEDEX_JSON = [
       chinese: "勒克猫",
       french: "Luxio",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 60,
       Attack: 85,
@@ -15867,7 +15867,7 @@ const POKEDEX_JSON = [
       chinese: "伦琴猫",
       french: "Luxray",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 80,
       Attack: 120,
@@ -15907,7 +15907,7 @@ const POKEDEX_JSON = [
       chinese: "含羞苞",
       french: "Rozbouton",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 40,
       Attack: 30,
@@ -15928,7 +15928,7 @@ const POKEDEX_JSON = [
       egg: ["Undiscovered"],
       ability: [
         ["Natural Cure", "false"],
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Leaf Guard", "true"],
       ],
       gender: "50:50",
@@ -15947,7 +15947,7 @@ const POKEDEX_JSON = [
       chinese: "罗丝雷朵",
       french: "Roserade",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 60,
       Attack: 70,
@@ -15965,10 +15965,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "14.5 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Natural Cure", "false"],
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Technician", "true"],
       ],
       gender: "50:50",
@@ -15987,7 +15987,7 @@ const POKEDEX_JSON = [
       chinese: "头盖龙",
       french: "Kranidos",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 67,
       Attack: 125,
@@ -16026,7 +16026,7 @@ const POKEDEX_JSON = [
       chinese: "战槌龙",
       french: "Charkos",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 97,
       Attack: 165,
@@ -16065,7 +16065,7 @@ const POKEDEX_JSON = [
       chinese: "盾甲龙",
       french: "Dinoclier",
     },
-    type: ["Rock", "Steel"],
+    type: ["Rocha", "Metal"],
     base: {
       HP: 30,
       Attack: 42,
@@ -16104,7 +16104,7 @@ const POKEDEX_JSON = [
       chinese: "护城龙",
       french: "Bastiodon",
     },
-    type: ["Rock", "Steel"],
+    type: ["Rocha", "Metal"],
     base: {
       HP: 60,
       Attack: 52,
@@ -16143,7 +16143,7 @@ const POKEDEX_JSON = [
       chinese: "结草儿",
       french: "Cheniti",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 40,
       Attack: 29,
@@ -16164,7 +16164,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "3.4 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shed Skin", "false"],
         ["Overcoat", "true"],
@@ -16185,7 +16185,7 @@ const POKEDEX_JSON = [
       chinese: "结草贵妇",
       french: "Cheniselle",
     },
-    type: ["Bug", "Grass"],
+    type: ["Inseto", "Grama"],
     base: {
       HP: 60,
       Attack: 59,
@@ -16203,7 +16203,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "6.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Anticipation", "false"],
         ["Overcoat", "true"],
@@ -16224,7 +16224,7 @@ const POKEDEX_JSON = [
       chinese: "绅士蛾",
       french: "Papilord",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 70,
       Attack: 94,
@@ -16241,7 +16241,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "23.3 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Tinted Lens", "true"],
@@ -16262,7 +16262,7 @@ const POKEDEX_JSON = [
       chinese: "三蜜蜂",
       french: "Apitrini",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 30,
       Attack: 30,
@@ -16280,7 +16280,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "5.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Honey Gather", "false"],
         ["Hustle", "true"],
@@ -16301,7 +16301,7 @@ const POKEDEX_JSON = [
       chinese: "蜂女王",
       french: "Apireine",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 70,
       Attack: 80,
@@ -16319,7 +16319,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "38.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Pressure", "false"],
         ["Unnerve", "true"],
@@ -16340,7 +16340,7 @@ const POKEDEX_JSON = [
       chinese: "帕奇利兹",
       french: "Pachirisu",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 60,
       Attack: 45,
@@ -16356,7 +16356,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "3.9 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Run Away", "false"],
         ["Pickup", "false"],
@@ -16378,7 +16378,7 @@ const POKEDEX_JSON = [
       chinese: "泳圈鼬",
       french: "Mustébouée",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 65,
@@ -16396,10 +16396,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "29.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Veil", "true"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -16417,7 +16417,7 @@ const POKEDEX_JSON = [
       chinese: "浮潜鼬",
       french: "Mustéflott",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 85,
       Attack: 105,
@@ -16435,10 +16435,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "33.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Veil", "true"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -16456,7 +16456,7 @@ const POKEDEX_JSON = [
       chinese: "樱花宝",
       french: "Ceribou",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 45,
       Attack: 35,
@@ -16474,7 +16474,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "3.3 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [["Chlorophyll", "false"]],
       gender: "50:50",
     },
@@ -16492,7 +16492,7 @@ const POKEDEX_JSON = [
       chinese: "樱花儿",
       french: "Ceriflor",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 70,
       Attack: 60,
@@ -16510,7 +16510,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "9.3 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [["Flower Gift", "false"]],
       gender: "50:50",
     },
@@ -16528,7 +16528,7 @@ const POKEDEX_JSON = [
       chinese: "无壳海兔",
       french: "Sancoki",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 76,
       Attack: 48,
@@ -16546,7 +16546,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "6.3 kg",
-      egg: ["Water 1", "Amorphous"],
+      egg: ["Água 1", "Amorphous"],
       ability: [
         ["Sticky Hold", "false"],
         ["Storm Drain", "false"],
@@ -16568,7 +16568,7 @@ const POKEDEX_JSON = [
       chinese: "海兔兽",
       french: "Tritosor",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 111,
       Attack: 83,
@@ -16586,7 +16586,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "29.9 kg",
-      egg: ["Water 1", "Amorphous"],
+      egg: ["Água 1", "Amorphous"],
       ability: [
         ["Sticky Hold", "false"],
         ["Storm Drain", "false"],
@@ -16648,7 +16648,7 @@ const POKEDEX_JSON = [
       chinese: "飘飘球",
       french: "Baudrive",
     },
-    type: ["Ghost", "Flying"],
+    type: ["Fantasma", "Voador"],
     base: {
       HP: 90,
       Attack: 50,
@@ -16688,7 +16688,7 @@ const POKEDEX_JSON = [
       chinese: "随风球",
       french: "Grodrive",
     },
-    type: ["Ghost", "Flying"],
+    type: ["Fantasma", "Voador"],
     base: {
       HP: 150,
       Attack: 80,
@@ -16808,7 +16808,7 @@ const POKEDEX_JSON = [
       chinese: "梦妖魔",
       french: "Magirêve",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 60,
       Attack: 60,
@@ -16844,7 +16844,7 @@ const POKEDEX_JSON = [
       chinese: "乌鸦头头",
       french: "Corboss",
     },
-    type: ["Dark", "Flying"],
+    type: ["Sombrio", "Voador"],
     base: {
       HP: 100,
       Attack: 125,
@@ -16862,7 +16862,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "27.3 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Insomnia", "false"],
         ["Super Luck", "false"],
@@ -16964,7 +16964,7 @@ const POKEDEX_JSON = [
       chinese: "铃铛响",
       french: "Korillon",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 45,
       Attack: 30,
@@ -17000,7 +17000,7 @@ const POKEDEX_JSON = [
       chinese: "臭鼬噗",
       french: "Moufouette",
     },
-    type: ["Poison", "Dark"],
+    type: ["Venenoso", "Sombrio"],
     base: {
       HP: 63,
       Attack: 63,
@@ -17040,7 +17040,7 @@ const POKEDEX_JSON = [
       chinese: "坦克臭鼬",
       french: "Moufflair",
     },
-    type: ["Poison", "Dark"],
+    type: ["Venenoso", "Sombrio"],
     base: {
       HP: 103,
       Attack: 93,
@@ -17080,7 +17080,7 @@ const POKEDEX_JSON = [
       chinese: "铜镜怪",
       french: "Archéomire",
     },
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 57,
       Attack: 24,
@@ -17120,7 +17120,7 @@ const POKEDEX_JSON = [
       chinese: "青铜钟",
       french: "Archéodong",
     },
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 67,
       Attack: 89,
@@ -17160,7 +17160,7 @@ const POKEDEX_JSON = [
       chinese: "盆才怪",
       french: "Manzaï",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 50,
       Attack: 80,
@@ -17181,7 +17181,7 @@ const POKEDEX_JSON = [
       egg: ["Undiscovered"],
       ability: [
         ["Sturdy", "false"],
-        ["Rock Head", "false"],
+        ["Rocha Head", "false"],
         ["Rattled", "true"],
       ],
       gender: "50:50",
@@ -17200,7 +17200,7 @@ const POKEDEX_JSON = [
       chinese: "魔尼尼",
       french: "Mime Jr",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     base: {
       HP: 20,
       Attack: 25,
@@ -17280,7 +17280,7 @@ const POKEDEX_JSON = [
       chinese: "聒噪鸟",
       french: "Pijako",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 76,
       Attack: 65,
@@ -17296,7 +17296,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "1.9 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Tangled Feet", "false"],
@@ -17318,7 +17318,7 @@ const POKEDEX_JSON = [
       chinese: "花岩怪",
       french: "Spiritomb",
     },
-    type: ["Ghost", "Dark"],
+    type: ["Fantasma", "Sombrio"],
     base: {
       HP: 50,
       Attack: 92,
@@ -17355,7 +17355,7 @@ const POKEDEX_JSON = [
       chinese: "圆陆鲨",
       french: "Griknot",
     },
-    type: ["Dragon", "Ground"],
+    type: ["Dragão", "Terra"],
     base: {
       HP: 58,
       Attack: 70,
@@ -17373,7 +17373,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "20.5 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Sand Veil", "false"],
         ["Rough Skin", "true"],
@@ -17394,7 +17394,7 @@ const POKEDEX_JSON = [
       chinese: "尖牙陆鲨",
       french: "Carmache",
     },
-    type: ["Dragon", "Ground"],
+    type: ["Dragão", "Terra"],
     base: {
       HP: 68,
       Attack: 90,
@@ -17413,7 +17413,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "56 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Sand Veil", "false"],
         ["Rough Skin", "true"],
@@ -17434,7 +17434,7 @@ const POKEDEX_JSON = [
       chinese: "烈咬陆鲨",
       french: "Carchacrok",
     },
-    type: ["Dragon", "Ground"],
+    type: ["Dragão", "Terra"],
     base: {
       HP: 108,
       Attack: 130,
@@ -17452,7 +17452,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.9 m",
       weight: "95 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Sand Veil", "false"],
         ["Rough Skin", "true"],
@@ -17513,7 +17513,7 @@ const POKEDEX_JSON = [
       chinese: "利欧路",
       french: "Riolu",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 40,
       Attack: 70,
@@ -17553,7 +17553,7 @@ const POKEDEX_JSON = [
       chinese: "路卡利欧",
       french: "Lucario",
     },
-    type: ["Fighting", "Steel"],
+    type: ["Lutador", "Metal"],
     base: {
       HP: 70,
       Attack: 110,
@@ -17593,7 +17593,7 @@ const POKEDEX_JSON = [
       chinese: "沙河马",
       french: "Hippopotas",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 68,
       Attack: 72,
@@ -17632,7 +17632,7 @@ const POKEDEX_JSON = [
       chinese: "河马兽",
       french: "Hippodocus",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 108,
       Attack: 112,
@@ -17671,7 +17671,7 @@ const POKEDEX_JSON = [
       chinese: "钳尾蝎",
       french: "Rapion",
     },
-    type: ["Poison", "Bug"],
+    type: ["Venenoso", "Inseto"],
     base: {
       HP: 40,
       Attack: 50,
@@ -17689,7 +17689,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "12 kg",
-      egg: ["Bug", "Water 3"],
+      egg: ["Inseto", "Água 3"],
       ability: [
         ["Battle Armor", "false"],
         ["Sniper", "false"],
@@ -17711,7 +17711,7 @@ const POKEDEX_JSON = [
       chinese: "龙王蝎",
       french: "Drascore",
     },
-    type: ["Poison", "Dark"],
+    type: ["Venenoso", "Sombrio"],
     base: {
       HP: 70,
       Attack: 90,
@@ -17729,7 +17729,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "61.5 kg",
-      egg: ["Bug", "Water 3"],
+      egg: ["Inseto", "Água 3"],
       ability: [
         ["Battle Armor", "false"],
         ["Sniper", "false"],
@@ -17751,7 +17751,7 @@ const POKEDEX_JSON = [
       chinese: "不良蛙",
       french: "Cradopaud",
     },
-    type: ["Poison", "Fighting"],
+    type: ["Venenoso", "Lutador"],
     base: {
       HP: 48,
       Attack: 61,
@@ -17773,7 +17773,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Anticipation", "false"],
         ["Dry Skin", "false"],
-        ["Poison Touch", "true"],
+        ["Venenoso Touch", "true"],
       ],
       gender: "50:50",
     },
@@ -17791,7 +17791,7 @@ const POKEDEX_JSON = [
       chinese: "毒骷蛙",
       french: "Coatox",
     },
-    type: ["Poison", "Fighting"],
+    type: ["Venenoso", "Lutador"],
     base: {
       HP: 83,
       Attack: 106,
@@ -17813,7 +17813,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Anticipation", "false"],
         ["Dry Skin", "false"],
-        ["Poison Touch", "true"],
+        ["Venenoso Touch", "true"],
       ],
       gender: "50:50",
     },
@@ -17831,7 +17831,7 @@ const POKEDEX_JSON = [
       chinese: "尖牙笼",
       french: "Vortente",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 74,
       Attack: 100,
@@ -17840,14 +17840,14 @@ const POKEDEX_JSON = [
       "Sp. Defense": 72,
       Speed: 46,
     },
-    species: "Bug Catcher Pokémon",
+    species: "Inseto Catcher Pokémon",
     description:
       "Ele se liga a árvores em pântanos. Ele atrai presas com sua baba de cheiro doce e as engole.",
     evolution: {},
     profile: {
       height: "1.4 m",
       weight: "27 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [["Levitate", "false"]],
       gender: "50:50",
     },
@@ -17865,7 +17865,7 @@ const POKEDEX_JSON = [
       chinese: "荧光鱼",
       french: "Écayon",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 49,
       Attack: 49,
@@ -17883,11 +17883,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "7 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Swift Swim", "false"],
         ["Storm Drain", "false"],
-        ["Water Veil", "true"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -17905,7 +17905,7 @@ const POKEDEX_JSON = [
       chinese: "霓虹鱼",
       french: "Luminéon",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 69,
       Attack: 69,
@@ -17923,11 +17923,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "24 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Swift Swim", "false"],
         ["Storm Drain", "false"],
-        ["Water Veil", "true"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -17945,7 +17945,7 @@ const POKEDEX_JSON = [
       chinese: "小球飞鱼",
       french: "Babimanta",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 45,
       Attack: 20,
@@ -17966,8 +17966,8 @@ const POKEDEX_JSON = [
       egg: ["Undiscovered"],
       ability: [
         ["Swift Swim", "false"],
-        ["Water Absorb", "false"],
-        ["Water Veil", "true"],
+        ["Água Absorb", "false"],
+        ["Água Veil", "true"],
       ],
       gender: "50:50",
     },
@@ -17985,7 +17985,7 @@ const POKEDEX_JSON = [
       chinese: "雪笠怪",
       french: "Blizzi",
     },
-    type: ["Grass", "Ice"],
+    type: ["Grama", "Gelo"],
     base: {
       HP: 60,
       Attack: 62,
@@ -18003,7 +18003,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "50.5 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Snow Warning", "false"],
         ["Soundproof", "true"],
@@ -18024,7 +18024,7 @@ const POKEDEX_JSON = [
       chinese: "暴雪王",
       french: "Blizzaroi",
     },
-    type: ["Grass", "Ice"],
+    type: ["Grama", "Gelo"],
     base: {
       HP: 90,
       Attack: 92,
@@ -18042,7 +18042,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.2 m",
       weight: "135.5 kg",
-      egg: ["Monster", "Grass"],
+      egg: ["Monster", "Grama"],
       ability: [
         ["Snow Warning", "false"],
         ["Soundproof", "true"],
@@ -18063,7 +18063,7 @@ const POKEDEX_JSON = [
       chinese: "玛狃拉",
       french: "Dimoret",
     },
-    type: ["Dark", "Ice"],
+    type: ["Sombrio", "Gelo"],
     base: {
       HP: 70,
       Attack: 120,
@@ -18102,7 +18102,7 @@ const POKEDEX_JSON = [
       chinese: "自爆磁怪",
       french: "Magnézone",
     },
-    type: ["Electric", "Steel"],
+    type: ["Elétrico", "Metal"],
     base: {
       HP: 70,
       Attack: 70,
@@ -18182,7 +18182,7 @@ const POKEDEX_JSON = [
       chinese: "超甲狂犀",
       french: "Rhinastoc",
     },
-    type: ["Ground", "Rock"],
+    type: ["Terra", "Rocha"],
     base: {
       HP: 115,
       Attack: 140,
@@ -18203,7 +18203,7 @@ const POKEDEX_JSON = [
       egg: ["Monster", "Field"],
       ability: [
         ["Lightning Rod", "false"],
-        ["Solid Rock", "false"],
+        ["Solid Rocha", "false"],
         ["Reckless", "true"],
       ],
       gender: "50:50",
@@ -18222,7 +18222,7 @@ const POKEDEX_JSON = [
       chinese: "巨蔓藤",
       french: "Bouldeneu",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 100,
       Attack: 100,
@@ -18240,7 +18240,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "128.6 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Leaf Guard", "false"],
@@ -18262,7 +18262,7 @@ const POKEDEX_JSON = [
       chinese: "电击魔兽",
       french: "Élekable",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 75,
       Attack: 123,
@@ -18301,7 +18301,7 @@ const POKEDEX_JSON = [
       chinese: "鸭嘴炎兽",
       french: "Maganon",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 75,
       Attack: 95,
@@ -18340,7 +18340,7 @@ const POKEDEX_JSON = [
       chinese: "波克基斯",
       french: "Togekiss",
     },
-    type: ["Fairy", "Flying"],
+    type: ["Fada", "Voador"],
     base: {
       HP: 85,
       Attack: 50,
@@ -18358,7 +18358,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "38 kg",
-      egg: ["Flying", "Fairy"],
+      egg: ["Voador", "Fada"],
       ability: [
         ["Hustle", "false"],
         ["Serene Grace", "false"],
@@ -18380,7 +18380,7 @@ const POKEDEX_JSON = [
       chinese: "远古巨蜓",
       french: "Yanmega",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 86,
       Attack: 76,
@@ -18398,7 +18398,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.9 m",
       weight: "51.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Speed Boost", "false"],
         ["Tinted Lens", "false"],
@@ -18420,7 +18420,7 @@ const POKEDEX_JSON = [
       chinese: "叶伊布",
       french: "Phyllali",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 65,
       Attack: 110,
@@ -18433,7 +18433,7 @@ const POKEDEX_JSON = [
     description:
       "Ele obtém sua nutrição da fotossíntese. Ele vive uma vida tranquila nas profundezas das florestas onde correm rios limpos.",
     evolution: {
-      prev: ["133", "level up near a Mossy Rock"],
+      prev: ["133", "level up near a Mossy Rocha"],
     },
     profile: {
       height: "1 m",
@@ -18459,7 +18459,7 @@ const POKEDEX_JSON = [
       chinese: "冰伊布",
       french: "Givrali",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 65,
       Attack: 60,
@@ -18472,7 +18472,7 @@ const POKEDEX_JSON = [
     description:
       "Ele pode congelar instantaneamente qualquer umidade que esteja ao seu redor, criando pellets de gelo para atirar em sua presa.",
     evolution: {
-      prev: ["133", "level up near an Icy Rock"],
+      prev: ["133", "level up near an Icy Rocha"],
     },
     profile: {
       height: "0.8 m",
@@ -18480,7 +18480,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Snow Cloak", "false"],
-        ["Ice Body", "true"],
+        ["Gelo Body", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -18498,7 +18498,7 @@ const POKEDEX_JSON = [
       chinese: "天蝎王",
       french: "Scorvol",
     },
-    type: ["Ground", "Flying"],
+    type: ["Terra", "Voador"],
     base: {
       HP: 75,
       Attack: 95,
@@ -18516,11 +18516,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "42.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Sand Veil", "false"],
-        ["Poison Heal", "true"],
+        ["Venenoso Heal", "true"],
       ],
       gender: "50:50",
     },
@@ -18538,7 +18538,7 @@ const POKEDEX_JSON = [
       chinese: "象牙猪",
       french: "Mammochon",
     },
-    type: ["Ice", "Ground"],
+    type: ["Gelo", "Terra"],
     base: {
       HP: 110,
       Attack: 130,
@@ -18618,7 +18618,7 @@ const POKEDEX_JSON = [
       chinese: "艾路雷朵",
       french: "Gallame",
     },
-    type: ["Psychic", "Fighting"],
+    type: ["Psíquico", "Lutador"],
     base: {
       HP: 68,
       Attack: 125,
@@ -18657,7 +18657,7 @@ const POKEDEX_JSON = [
       chinese: "大朝北鼻",
       french: "Tarinorme",
     },
-    type: ["Rock", "Steel"],
+    type: ["Rocha", "Metal"],
     base: {
       HP: 60,
       Attack: 55,
@@ -18697,7 +18697,7 @@ const POKEDEX_JSON = [
       chinese: "黑夜魔灵",
       french: "Noctunoir",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 45,
       Attack: 100,
@@ -18736,7 +18736,7 @@ const POKEDEX_JSON = [
       chinese: "雪妖女",
       french: "Momartik",
     },
-    type: ["Ice", "Ghost"],
+    type: ["Gelo", "Fantasma"],
     base: {
       HP: 70,
       Attack: 80,
@@ -18754,7 +18754,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "26.6 kg",
-      egg: ["Fairy", "Mineral"],
+      egg: ["Fada", "Mineral"],
       ability: [
         ["Snow Cloak", "false"],
         ["Cursed Body", "true"],
@@ -18775,7 +18775,7 @@ const POKEDEX_JSON = [
       chinese: "洛托姆",
       french: "Motisma",
     },
-    type: ["Electric", "Ghost"],
+    type: ["Elétrico", "Fantasma"],
     base: {
       HP: 50,
       Attack: 50,
@@ -18809,7 +18809,7 @@ const POKEDEX_JSON = [
       chinese: "由克希",
       french: "Créhelf",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 75,
       Attack: 75,
@@ -18843,7 +18843,7 @@ const POKEDEX_JSON = [
       chinese: "艾姆利多",
       french: "Créfollet",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 80,
       Attack: 105,
@@ -18877,7 +18877,7 @@ const POKEDEX_JSON = [
       chinese: "亚克诺姆",
       french: "Créfadet",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 75,
       Attack: 125,
@@ -18911,7 +18911,7 @@ const POKEDEX_JSON = [
       chinese: "帝牙卢卡",
       french: "Dialga",
     },
-    type: ["Steel", "Dragon"],
+    type: ["Metal", "Dragão"],
     base: {
       HP: 100,
       Attack: 120,
@@ -18948,7 +18948,7 @@ const POKEDEX_JSON = [
       chinese: "帕路奇亚",
       french: "Palkia",
     },
-    type: ["Water", "Dragon"],
+    type: ["Água", "Dragão"],
     base: {
       HP: 90,
       Attack: 120,
@@ -18985,7 +18985,7 @@ const POKEDEX_JSON = [
       chinese: "席多蓝恩",
       french: "Heatran",
     },
-    type: ["Fire", "Steel"],
+    type: ["Fogo", "Metal"],
     base: {
       HP: 91,
       Attack: 90,
@@ -19003,7 +19003,7 @@ const POKEDEX_JSON = [
       weight: "430 kg",
       egg: ["Undiscovered"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Flame Body", "true"],
       ],
       gender: "50:50",
@@ -19056,7 +19056,7 @@ const POKEDEX_JSON = [
       chinese: "骑拉帝纳",
       french: "Giratina",
     },
-    type: ["Ghost", "Dragon"],
+    type: ["Fantasma", "Dragão"],
     base: {
       HP: 150,
       Attack: 100,
@@ -19093,7 +19093,7 @@ const POKEDEX_JSON = [
       chinese: "克雷色利亚",
       french: "Cresselia",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 120,
       Attack: 70,
@@ -19127,7 +19127,7 @@ const POKEDEX_JSON = [
       chinese: "霏欧纳",
       french: "Phione",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 80,
       Attack: 80,
@@ -19143,7 +19143,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "3.1 kg",
-      egg: ["Water 1", "Fairy"],
+      egg: ["Água 1", "Fada"],
       ability: [["Hydration", "false"]],
       gender: "Genderless",
     },
@@ -19161,7 +19161,7 @@ const POKEDEX_JSON = [
       chinese: "玛纳霏",
       french: "Manaphy",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 100,
       Attack: 100,
@@ -19177,7 +19177,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.4 kg",
-      egg: ["Water 1", "Fairy"],
+      egg: ["Água 1", "Fada"],
       ability: [["Hydration", "false"]],
       gender: "Genderless",
     },
@@ -19190,12 +19190,12 @@ const POKEDEX_JSON = [
   {
     id: 491,
     name: {
-      english: "Darkrai",
+      english: "Sombriorai",
       japanese: "ダークライ",
       chinese: "达克莱伊",
-      french: "Darkrai",
+      french: "Sombriorai",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 70,
       Attack: 90,
@@ -19229,7 +19229,7 @@ const POKEDEX_JSON = [
       chinese: "谢米",
       french: "Shaymin",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 100,
       Attack: 100,
@@ -19297,7 +19297,7 @@ const POKEDEX_JSON = [
       chinese: "比克提尼",
       french: "Victini",
     },
-    type: ["Psychic", "Fire"],
+    type: ["Psíquico", "Fogo"],
     base: {
       HP: 100,
       Attack: 100,
@@ -19331,7 +19331,7 @@ const POKEDEX_JSON = [
       chinese: "藤藤蛇",
       french: "Vipélierre",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 45,
       Attack: 45,
@@ -19340,7 +19340,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 63,
     },
-    species: "Grass Snake Pokémon",
+    species: "Grama Snake Pokémon",
     description:
       "Eles fazem fotossíntese banhando suas caudas na luz do sol. Quando não estão se sentindo bem, suas caudas caem.",
     evolution: {
@@ -19349,7 +19349,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "8.1 kg",
-      egg: ["Field", "Grass"],
+      egg: ["Field", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Contrary", "true"],
@@ -19370,7 +19370,7 @@ const POKEDEX_JSON = [
       chinese: "青藤蛇",
       french: "Lianaja",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 60,
       Attack: 60,
@@ -19379,7 +19379,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 75,
       Speed: 83,
     },
-    species: "Grass Snake Pokémon",
+    species: "Grama Snake Pokémon",
     description:
       "Quando fica sujo, suas folhas não podem ser usadas na fotossíntese, por isso ele sempre se mantém limpo.",
     evolution: {
@@ -19389,7 +19389,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "16 kg",
-      egg: ["Field", "Grass"],
+      egg: ["Field", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Contrary", "true"],
@@ -19410,7 +19410,7 @@ const POKEDEX_JSON = [
       chinese: "君主蛇",
       french: "Majaspic",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 75,
       Attack: 75,
@@ -19428,7 +19428,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "3.3 m",
       weight: "63 kg",
-      egg: ["Field", "Grass"],
+      egg: ["Field", "Grama"],
       ability: [
         ["Overgrow", "false"],
         ["Contrary", "true"],
@@ -19449,7 +19449,7 @@ const POKEDEX_JSON = [
       chinese: "暖暖猪",
       french: "Gruikui",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 65,
       Attack: 63,
@@ -19458,7 +19458,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 45,
     },
-    species: "Fire Pig Pokémon",
+    species: "Fogo Pig Pokémon",
     description:
       "Ele adora comer bagas torradas, mas às vezes fica muito animado e as queima até o limite.",
     evolution: {
@@ -19488,7 +19488,7 @@ const POKEDEX_JSON = [
       chinese: "炒炒猪",
       french: "Grotichon",
     },
-    type: ["Fire", "Fighting"],
+    type: ["Fogo", "Lutador"],
     base: {
       HP: 90,
       Attack: 93,
@@ -19497,7 +19497,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 55,
     },
-    species: "Fire Pig Pokémon",
+    species: "Fogo Pig Pokémon",
     description:
       "Quando seu fogo interno aumenta, seus movimentos ficam mais nítidos e rápidos. Quando está com problemas, ele emite fumaça.",
     evolution: {
@@ -19528,7 +19528,7 @@ const POKEDEX_JSON = [
       chinese: "炎武王",
       french: "Roitiflam",
     },
-    type: ["Fire", "Fighting"],
+    type: ["Fogo", "Lutador"],
     base: {
       HP: 110,
       Attack: 123,
@@ -19537,7 +19537,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 65,
     },
-    species: "Mega Fire Pig Pokémon",
+    species: "Mega Fogo Pig Pokémon",
     description:
       "Ele dominou movimentos de luta rápidos e poderosos. Ele cultiva uma barba de fogo.",
     evolution: {
@@ -19567,7 +19567,7 @@ const POKEDEX_JSON = [
       chinese: "水水獭",
       french: "Moustillon",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 55,
@@ -19606,7 +19606,7 @@ const POKEDEX_JSON = [
       chinese: "双刃丸",
       french: "Mateloutre",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 75,
       Attack: 75,
@@ -19646,7 +19646,7 @@ const POKEDEX_JSON = [
       chinese: "大剑鬼",
       french: "Clamiral",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 95,
       Attack: 100,
@@ -19886,7 +19886,7 @@ const POKEDEX_JSON = [
       chinese: "扒手猫",
       french: "Chacripan",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 41,
       Attack: 50,
@@ -19926,7 +19926,7 @@ const POKEDEX_JSON = [
       chinese: "酷豹",
       french: "Léopardus",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 64,
       Attack: 88,
@@ -19966,7 +19966,7 @@ const POKEDEX_JSON = [
       chinese: "花椰猴",
       french: "Feuillajou",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 50,
       Attack: 53,
@@ -19975,7 +19975,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 48,
       Speed: 64,
     },
-    species: "Grass Monkey Pokémon",
+    species: "Grama Monkey Pokémon",
     description:
       "Ele é bom em encontrar bagas e as coleta de todos os lugares. Ele é gentil o suficiente para compartilhá-las com amigos.",
     evolution: {
@@ -20005,7 +20005,7 @@ const POKEDEX_JSON = [
       chinese: "花椰猿",
       french: "Feuiloutan",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 75,
       Attack: 98,
@@ -20044,7 +20044,7 @@ const POKEDEX_JSON = [
       chinese: "爆香猴",
       french: "Flamajou",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 50,
       Attack: 53,
@@ -20057,7 +20057,7 @@ const POKEDEX_JSON = [
     description:
       "Este Pokémon vive em cavernas em vulcões. O fogo dentro do tufo em sua cabeça pode atingir 600 graus Fahrenheit.",
     evolution: {
-      next: [["514", "use Fire Stone"]],
+      next: [["514", "use Fogo Stone"]],
     },
     profile: {
       height: "0.6 m",
@@ -20083,7 +20083,7 @@ const POKEDEX_JSON = [
       chinese: "爆香猿",
       french: "Flamoutan",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 75,
       Attack: 98,
@@ -20096,7 +20096,7 @@ const POKEDEX_JSON = [
     description:
       "Quando fica animado, brasas saem de sua cabeça e cauda e ele fica quente. Por alguma razão, ele adora doces.",
     evolution: {
-      prev: ["513", "use Fire Stone"],
+      prev: ["513", "use Fogo Stone"],
     },
     profile: {
       height: "1 m",
@@ -20122,7 +20122,7 @@ const POKEDEX_JSON = [
       chinese: "冷水猴",
       french: "Flotajou",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 53,
@@ -20135,7 +20135,7 @@ const POKEDEX_JSON = [
     description:
       "A água armazenada dentro do tufo em sua cabeça está cheia de nutrientes. Plantas que recebem sua água crescem grandes.",
     evolution: {
-      next: [["516", "use Water Stone"]],
+      next: [["516", "use Água Stone"]],
     },
     profile: {
       height: "0.6 m",
@@ -20161,7 +20161,7 @@ const POKEDEX_JSON = [
       chinese: "冷水猿",
       french: "Flotoutan",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 75,
       Attack: 98,
@@ -20174,7 +20174,7 @@ const POKEDEX_JSON = [
     description:
       "Ele prefere lugares com água limpa. Quando seu tufo fica baixo, ele o reabastece sifonando água com sua cauda.",
     evolution: {
-      prev: ["515", "use Water Stone"],
+      prev: ["515", "use Água Stone"],
     },
     profile: {
       height: "1 m",
@@ -20200,7 +20200,7 @@ const POKEDEX_JSON = [
       chinese: "食梦梦",
       french: "Munna",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 76,
       Attack: 25,
@@ -20240,7 +20240,7 @@ const POKEDEX_JSON = [
       chinese: "梦梦蚀",
       french: "Mushana",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 116,
       Attack: 55,
@@ -20280,7 +20280,7 @@ const POKEDEX_JSON = [
       chinese: "豆豆鸽",
       french: "Poichigeon",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 50,
       Attack: 55,
@@ -20298,7 +20298,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.1 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big Pecks", "false"],
         ["Super Luck", "false"],
@@ -20320,7 +20320,7 @@ const POKEDEX_JSON = [
       chinese: "咕咕鸽",
       french: "Colombeau",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 62,
       Attack: 77,
@@ -20339,7 +20339,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "15 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big Pecks", "false"],
         ["Super Luck", "false"],
@@ -20361,7 +20361,7 @@ const POKEDEX_JSON = [
       chinese: "高傲雉鸡",
       french: "Déflaisan",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 80,
       Attack: 115,
@@ -20379,7 +20379,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "29 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big Pecks", "false"],
         ["Super Luck", "false"],
@@ -20401,7 +20401,7 @@ const POKEDEX_JSON = [
       chinese: "斑斑马",
       french: "Zébibron",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 45,
       Attack: 60,
@@ -20441,7 +20441,7 @@ const POKEDEX_JSON = [
       chinese: "雷电斑马",
       french: "Zéblitz",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 75,
       Attack: 100,
@@ -20481,7 +20481,7 @@ const POKEDEX_JSON = [
       chinese: "石丸子",
       french: "Nodulithe",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 55,
       Attack: 75,
@@ -20521,7 +20521,7 @@ const POKEDEX_JSON = [
       chinese: "地幔岩",
       french: "Géolithe",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 70,
       Attack: 105,
@@ -20562,7 +20562,7 @@ const POKEDEX_JSON = [
       chinese: "庞岩怪",
       french: "Gigalithe",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 85,
       Attack: 135,
@@ -20602,7 +20602,7 @@ const POKEDEX_JSON = [
       chinese: "滚滚蝙蝠",
       french: "Chovsourir",
     },
-    type: ["Psychic", "Flying"],
+    type: ["Psíquico", "Voador"],
     base: {
       HP: 65,
       Attack: 45,
@@ -20620,7 +20620,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "2.1 kg",
-      egg: ["Flying", "Field"],
+      egg: ["Voador", "Field"],
       ability: [
         ["Unaware", "false"],
         ["Klutz", "false"],
@@ -20642,7 +20642,7 @@ const POKEDEX_JSON = [
       chinese: "心蝙蝠",
       french: "Rhinolove",
     },
-    type: ["Psychic", "Flying"],
+    type: ["Psíquico", "Voador"],
     base: {
       HP: 67,
       Attack: 57,
@@ -20660,7 +20660,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "10.5 kg",
-      egg: ["Flying", "Field"],
+      egg: ["Voador", "Field"],
       ability: [
         ["Unaware", "false"],
         ["Klutz", "false"],
@@ -20682,7 +20682,7 @@ const POKEDEX_JSON = [
       chinese: "螺钉地鼠",
       french: "Rototaupe",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 60,
       Attack: 85,
@@ -20722,7 +20722,7 @@ const POKEDEX_JSON = [
       chinese: "龙头地鼠",
       french: "Minotaupe",
     },
-    type: ["Ground", "Steel"],
+    type: ["Terra", "Metal"],
     base: {
       HP: 110,
       Attack: 135,
@@ -20778,7 +20778,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "31 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Healer", "false"],
         ["Regenerator", "false"],
@@ -20800,7 +20800,7 @@ const POKEDEX_JSON = [
       chinese: "搬运小匠",
       french: "Charpenti",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 75,
       Attack: 80,
@@ -20840,7 +20840,7 @@ const POKEDEX_JSON = [
       chinese: "铁骨土人",
       french: "Ouvrifier",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 85,
       Attack: 105,
@@ -20881,7 +20881,7 @@ const POKEDEX_JSON = [
       chinese: "修建老匠",
       french: "Bétochef",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 105,
       Attack: 140,
@@ -20921,7 +20921,7 @@ const POKEDEX_JSON = [
       chinese: "圆蝌蚪",
       french: "Tritonde",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 50,
@@ -20939,11 +20939,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "4.5 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Swift Swim", "false"],
         ["Hydration", "false"],
-        ["Water Absorb", "true"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -20961,7 +20961,7 @@ const POKEDEX_JSON = [
       chinese: "蓝蟾蜍",
       french: "Batracné",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 75,
       Attack: 65,
@@ -20980,11 +20980,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "17 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Swift Swim", "false"],
         ["Hydration", "false"],
-        ["Water Absorb", "true"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -21002,7 +21002,7 @@ const POKEDEX_JSON = [
       chinese: "蟾蜍王",
       french: "Crapustule",
     },
-    type: ["Water", "Ground"],
+    type: ["Água", "Terra"],
     base: {
       HP: 105,
       Attack: 95,
@@ -21020,11 +21020,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "62 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Swift Swim", "false"],
-        ["Poison Touch", "false"],
-        ["Water Absorb", "true"],
+        ["Venenoso Touch", "false"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -21042,7 +21042,7 @@ const POKEDEX_JSON = [
       chinese: "投摔鬼",
       french: "Judokrak",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 120,
       Attack: 100,
@@ -21080,7 +21080,7 @@ const POKEDEX_JSON = [
       chinese: "打击鬼",
       french: "Karaclée",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 75,
       Attack: 125,
@@ -21118,7 +21118,7 @@ const POKEDEX_JSON = [
       chinese: "虫宝包",
       french: "Larveyette",
     },
-    type: ["Bug", "Grass"],
+    type: ["Inseto", "Grama"],
     base: {
       HP: 45,
       Attack: 53,
@@ -21136,7 +21136,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Chlorophyll", "false"],
@@ -21158,7 +21158,7 @@ const POKEDEX_JSON = [
       chinese: "宝包茧",
       french: "Couverdure",
     },
-    type: ["Bug", "Grass"],
+    type: ["Inseto", "Grama"],
     base: {
       HP: 55,
       Attack: 63,
@@ -21177,7 +21177,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "7.3 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Leaf Guard", "false"],
         ["Chlorophyll", "false"],
@@ -21199,7 +21199,7 @@ const POKEDEX_JSON = [
       chinese: "保姆虫",
       french: "Manternel",
     },
-    type: ["Bug", "Grass"],
+    type: ["Inseto", "Grama"],
     base: {
       HP: 75,
       Attack: 103,
@@ -21217,7 +21217,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "20.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Chlorophyll", "false"],
@@ -21239,7 +21239,7 @@ const POKEDEX_JSON = [
       chinese: "百足蜈蚣",
       french: "Venipatte",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 30,
       Attack: 45,
@@ -21257,9 +21257,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "5.3 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Swarm", "false"],
         ["Speed Boost", "true"],
       ],
@@ -21279,7 +21279,7 @@ const POKEDEX_JSON = [
       chinese: "车轮球",
       french: "Scobolide",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 40,
       Attack: 55,
@@ -21298,9 +21298,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "58.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Swarm", "false"],
         ["Speed Boost", "true"],
       ],
@@ -21320,7 +21320,7 @@ const POKEDEX_JSON = [
       chinese: "蜈蚣王",
       french: "Brutapode",
     },
-    type: ["Bug", "Poison"],
+    type: ["Inseto", "Venenoso"],
     base: {
       HP: 60,
       Attack: 100,
@@ -21338,9 +21338,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.5 m",
       weight: "200.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
-        ["Poison Point", "false"],
+        ["Venenoso Point", "false"],
         ["Swarm", "false"],
         ["Speed Boost", "true"],
       ],
@@ -21360,7 +21360,7 @@ const POKEDEX_JSON = [
       chinese: "木棉球",
       french: "Doudouvet",
     },
-    type: ["Grass", "Fairy"],
+    type: ["Grama", "Fada"],
     base: {
       HP: 40,
       Attack: 27,
@@ -21378,7 +21378,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "0.6 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Prankster", "false"],
         ["Infiltrator", "false"],
@@ -21400,7 +21400,7 @@ const POKEDEX_JSON = [
       chinese: "风妖精",
       french: "Farfaduvet",
     },
-    type: ["Grass", "Fairy"],
+    type: ["Grama", "Fada"],
     base: {
       HP: 60,
       Attack: 67,
@@ -21418,7 +21418,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "6.6 kg",
-      egg: ["Fairy", "Grass"],
+      egg: ["Fada", "Grama"],
       ability: [
         ["Prankster", "false"],
         ["Infiltrator", "false"],
@@ -21440,7 +21440,7 @@ const POKEDEX_JSON = [
       chinese: "百合根娃娃",
       french: "Chlorobule",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 45,
       Attack: 35,
@@ -21458,7 +21458,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "6.6 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Own Tempo", "false"],
@@ -21480,7 +21480,7 @@ const POKEDEX_JSON = [
       chinese: "裙儿小姐",
       french: "Fragilady",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 70,
       Attack: 60,
@@ -21498,7 +21498,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "16.3 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Chlorophyll", "false"],
         ["Own Tempo", "false"],
@@ -21520,7 +21520,7 @@ const POKEDEX_JSON = [
       chinese: "野蛮鲈鱼",
       french: "Bargantua",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 70,
       Attack: 92,
@@ -21536,7 +21536,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "18 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Reckless", "false"],
         ["Adaptability", "false"],
@@ -21558,7 +21558,7 @@ const POKEDEX_JSON = [
       chinese: "黑眼鳄",
       french: "Mascaïman",
     },
-    type: ["Ground", "Dark"],
+    type: ["Terra", "Sombrio"],
     base: {
       HP: 50,
       Attack: 72,
@@ -21598,7 +21598,7 @@ const POKEDEX_JSON = [
       chinese: "混混鳄",
       french: "Escroco",
     },
-    type: ["Ground", "Dark"],
+    type: ["Terra", "Sombrio"],
     base: {
       HP: 60,
       Attack: 82,
@@ -21639,7 +21639,7 @@ const POKEDEX_JSON = [
       chinese: "流氓鳄",
       french: "Crocorible",
     },
-    type: ["Ground", "Dark"],
+    type: ["Terra", "Sombrio"],
     base: {
       HP: 95,
       Attack: 117,
@@ -21679,7 +21679,7 @@ const POKEDEX_JSON = [
       chinese: "火红不倒翁",
       french: "Darumarond",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 70,
       Attack: 90,
@@ -21692,7 +21692,7 @@ const POKEDEX_JSON = [
     description:
       "Quando dorme, puxa seus membros para dentro de seu corpo e seu fogo interno desce para 1.100 graus Fahrenheit.",
     evolution: {
-      next: [["555", "use Ice Stone"]],
+      next: [["555", "use Gelo Stone"]],
     },
     profile: {
       height: "0.6 m",
@@ -21718,7 +21718,7 @@ const POKEDEX_JSON = [
       chinese: "达摩狒狒",
       french: "Darumacho",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 105,
       Attack: 140,
@@ -21731,7 +21731,7 @@ const POKEDEX_JSON = [
     description:
       "Seu fogo interno queima a 2.500 graus Fahrenheit, produzindo energia suficiente para destruir um caminhão basculante com um soco.",
     evolution: {
-      prev: ["554", "use Ice Stone"],
+      prev: ["554", "use Gelo Stone"],
     },
     profile: {
       height: "1.3 m",
@@ -21757,7 +21757,7 @@ const POKEDEX_JSON = [
       chinese: "沙铃仙人掌",
       french: "Maracachi",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 75,
       Attack: 86,
@@ -21773,9 +21773,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "28 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Chlorophyll", "false"],
         ["Storm Drain", "true"],
       ],
@@ -21795,7 +21795,7 @@ const POKEDEX_JSON = [
       chinese: "石居蟹",
       french: "Crabicoque",
     },
-    type: ["Bug", "Rock"],
+    type: ["Inseto", "Rocha"],
     base: {
       HP: 50,
       Attack: 65,
@@ -21804,7 +21804,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 35,
       Speed: 55,
     },
-    species: "Rock Inn Pokémon",
+    species: "Rocha Inn Pokémon",
     description:
       "Quando encontra uma pedra de tamanho adequado, ele secreta um líquido de sua boca para abrir um buraco para entrar.",
     evolution: {
@@ -21813,7 +21813,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "14.5 kg",
-      egg: ["Bug", "Mineral"],
+      egg: ["Inseto", "Mineral"],
       ability: [
         ["Sturdy", "false"],
         ["Shell Armor", "false"],
@@ -21835,7 +21835,7 @@ const POKEDEX_JSON = [
       chinese: "岩殿居蟹",
       french: "Crabaraque",
     },
-    type: ["Bug", "Rock"],
+    type: ["Inseto", "Rocha"],
     base: {
       HP: 70,
       Attack: 105,
@@ -21853,7 +21853,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "200 kg",
-      egg: ["Bug", "Mineral"],
+      egg: ["Inseto", "Mineral"],
       ability: [
         ["Sturdy", "false"],
         ["Shell Armor", "false"],
@@ -21875,7 +21875,7 @@ const POKEDEX_JSON = [
       chinese: "滑滑小子",
       french: "Baggiguane",
     },
-    type: ["Dark", "Fighting"],
+    type: ["Sombrio", "Lutador"],
     base: {
       HP: 50,
       Attack: 75,
@@ -21893,7 +21893,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "11.8 kg",
-      egg: ["Field", "Dragon"],
+      egg: ["Field", "Dragão"],
       ability: [
         ["Shed Skin", "false"],
         ["Moxie", "false"],
@@ -21915,7 +21915,7 @@ const POKEDEX_JSON = [
       chinese: "头巾混混",
       french: "Baggaïd",
     },
-    type: ["Dark", "Fighting"],
+    type: ["Sombrio", "Lutador"],
     base: {
       HP: 65,
       Attack: 90,
@@ -21933,7 +21933,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "30 kg",
-      egg: ["Field", "Dragon"],
+      egg: ["Field", "Dragão"],
       ability: [
         ["Shed Skin", "false"],
         ["Moxie", "false"],
@@ -21955,7 +21955,7 @@ const POKEDEX_JSON = [
       chinese: "象征鸟",
       french: "Cryptéro",
     },
-    type: ["Psychic", "Flying"],
+    type: ["Psíquico", "Voador"],
     base: {
       HP: 72,
       Attack: 58,
@@ -21971,7 +21971,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "14 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Wonder Skin", "false"],
         ["Magic Guard", "false"],
@@ -21993,7 +21993,7 @@ const POKEDEX_JSON = [
       chinese: "哭哭面具",
       french: "Tutafeh",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 38,
       Attack: 30,
@@ -22029,7 +22029,7 @@ const POKEDEX_JSON = [
       chinese: "死神棺",
       french: "Tutankafer",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 58,
       Attack: 50,
@@ -22065,7 +22065,7 @@ const POKEDEX_JSON = [
       chinese: "原盖海龟",
       french: "Carapagos",
     },
-    type: ["Water", "Rock"],
+    type: ["Água", "Rocha"],
     base: {
       HP: 54,
       Attack: 78,
@@ -22083,9 +22083,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "16.5 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
-        ["Solid Rock", "false"],
+        ["Solid Rocha", "false"],
         ["Sturdy", "false"],
         ["Swift Swim", "true"],
       ],
@@ -22105,7 +22105,7 @@ const POKEDEX_JSON = [
       chinese: "肋骨海龟",
       french: "Mégapagos",
     },
-    type: ["Water", "Rock"],
+    type: ["Água", "Rocha"],
     base: {
       HP: 74,
       Attack: 108,
@@ -22123,9 +22123,9 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "81 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [
-        ["Solid Rock", "false"],
+        ["Solid Rocha", "false"],
         ["Sturdy", "false"],
         ["Swift Swim", "true"],
       ],
@@ -22145,7 +22145,7 @@ const POKEDEX_JSON = [
       chinese: "始祖小鸟",
       french: "Arkéapti",
     },
-    type: ["Rock", "Flying"],
+    type: ["Rocha", "Voador"],
     base: {
       HP: 55,
       Attack: 112,
@@ -22163,7 +22163,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "9.5 kg",
-      egg: ["Flying", "Water 3"],
+      egg: ["Voador", "Água 3"],
       ability: [["Defeatist", "false"]],
       gender: "87.5:12.5",
     },
@@ -22181,7 +22181,7 @@ const POKEDEX_JSON = [
       chinese: "始祖大鸟",
       french: "Aéroptéryx",
     },
-    type: ["Rock", "Flying"],
+    type: ["Rocha", "Voador"],
     base: {
       HP: 75,
       Attack: 140,
@@ -22199,7 +22199,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "32 kg",
-      egg: ["Flying", "Water 3"],
+      egg: ["Voador", "Água 3"],
       ability: [["Defeatist", "false"]],
       gender: "87.5:12.5",
     },
@@ -22217,7 +22217,7 @@ const POKEDEX_JSON = [
       chinese: "破破袋",
       french: "Miamiasme",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 50,
       Attack: 50,
@@ -22257,7 +22257,7 @@ const POKEDEX_JSON = [
       chinese: "灰尘山",
       french: "Miasmax",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 80,
       Attack: 95,
@@ -22297,7 +22297,7 @@ const POKEDEX_JSON = [
       chinese: "索罗亚",
       french: "Zorua",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 40,
       Attack: 65,
@@ -22333,7 +22333,7 @@ const POKEDEX_JSON = [
       chinese: "索罗亚克",
       french: "Zoroark",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 60,
       Attack: 105,
@@ -22449,7 +22449,7 @@ const POKEDEX_JSON = [
       chinese: "哥德宝宝",
       french: "Scrutella",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 45,
       Attack: 30,
@@ -22489,7 +22489,7 @@ const POKEDEX_JSON = [
       chinese: "哥德小童",
       french: "Mesmérella",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 60,
       Attack: 45,
@@ -22530,7 +22530,7 @@ const POKEDEX_JSON = [
       chinese: "哥德小姐",
       french: "Sidérella",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 70,
       Attack: 55,
@@ -22570,7 +22570,7 @@ const POKEDEX_JSON = [
       chinese: "单卵细胞球",
       french: "Nucléos",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 45,
       Attack: 30,
@@ -22610,7 +22610,7 @@ const POKEDEX_JSON = [
       chinese: "双卵细胞球",
       french: "Méios",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 65,
       Attack: 40,
@@ -22651,7 +22651,7 @@ const POKEDEX_JSON = [
       chinese: "人造细胞卵",
       french: "Symbios",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 110,
       Attack: 65,
@@ -22691,7 +22691,7 @@ const POKEDEX_JSON = [
       chinese: "鸭宝宝",
       french: "Couaneton",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 62,
       Attack: 44,
@@ -22700,7 +22700,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 55,
     },
-    species: "Water Bird Pokémon",
+    species: "Água Bird Pokémon",
     description:
       "Eles são melhores em nadar do que voar e comem com prazer sua comida favorita, musgo de turfa, enquanto mergulham debaixo d'água.",
     evolution: {
@@ -22709,7 +22709,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "5.5 kg",
-      egg: ["Water 1", "Flying"],
+      egg: ["Água 1", "Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Big Pecks", "false"],
@@ -22731,7 +22731,7 @@ const POKEDEX_JSON = [
       chinese: "舞天鹅",
       french: "Lakmécygne",
     },
-    type: ["Water", "Flying"],
+    type: ["Água", "Voador"],
     base: {
       HP: 75,
       Attack: 87,
@@ -22749,7 +22749,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "24.2 kg",
-      egg: ["Water 1", "Flying"],
+      egg: ["Água 1", "Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Big Pecks", "false"],
@@ -22771,7 +22771,7 @@ const POKEDEX_JSON = [
       chinese: "迷你冰",
       french: "Sorbébé",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 36,
       Attack: 50,
@@ -22791,7 +22791,7 @@ const POKEDEX_JSON = [
       weight: "5.7 kg",
       egg: ["Mineral"],
       ability: [
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Snow Cloak", "false"],
         ["Weak Armor", "true"],
       ],
@@ -22811,7 +22811,7 @@ const POKEDEX_JSON = [
       chinese: "多多冰",
       french: "Sorboul",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 51,
       Attack: 65,
@@ -22832,7 +22832,7 @@ const POKEDEX_JSON = [
       weight: "41 kg",
       egg: ["Mineral"],
       ability: [
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Snow Cloak", "false"],
         ["Weak Armor", "true"],
       ],
@@ -22852,7 +22852,7 @@ const POKEDEX_JSON = [
       chinese: "双倍多多冰",
       french: "Sorbouboul",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 71,
       Attack: 95,
@@ -22872,7 +22872,7 @@ const POKEDEX_JSON = [
       weight: "57.5 kg",
       egg: ["Mineral"],
       ability: [
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Snow Warning", "false"],
         ["Weak Armor", "true"],
       ],
@@ -22892,7 +22892,7 @@ const POKEDEX_JSON = [
       chinese: "四季鹿",
       french: "Vivaldaim",
     },
-    type: ["Normal", "Grass"],
+    type: ["Normal", "Grama"],
     base: {
       HP: 60,
       Attack: 60,
@@ -22932,7 +22932,7 @@ const POKEDEX_JSON = [
       chinese: "萌芽鹿",
       french: "Haydaim",
     },
-    type: ["Normal", "Grass"],
+    type: ["Normal", "Grama"],
     base: {
       HP: 80,
       Attack: 100,
@@ -22972,7 +22972,7 @@ const POKEDEX_JSON = [
       chinese: "电飞鼠",
       french: "Emolga",
     },
-    type: ["Electric", "Flying"],
+    type: ["Elétrico", "Voador"],
     base: {
       HP: 55,
       Attack: 75,
@@ -23009,7 +23009,7 @@ const POKEDEX_JSON = [
       chinese: "盖盖虫",
       french: "Carabing",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 50,
       Attack: 75,
@@ -23027,7 +23027,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "5.9 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Shed Skin", "false"],
@@ -23049,7 +23049,7 @@ const POKEDEX_JSON = [
       chinese: "骑士蜗牛",
       french: "Lançargot",
     },
-    type: ["Bug", "Steel"],
+    type: ["Inseto", "Metal"],
     base: {
       HP: 70,
       Attack: 135,
@@ -23067,7 +23067,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "33 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Shell Armor", "false"],
@@ -23089,7 +23089,7 @@ const POKEDEX_JSON = [
       chinese: "哎呀球菇",
       french: "Trompignon",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 69,
       Attack: 55,
@@ -23107,7 +23107,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "1 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Effect Spore", "false"],
         ["Regenerator", "true"],
@@ -23128,7 +23128,7 @@ const POKEDEX_JSON = [
       chinese: "败露球菇",
       french: "Gaulet",
     },
-    type: ["Grass", "Poison"],
+    type: ["Grama", "Venenoso"],
     base: {
       HP: 114,
       Attack: 85,
@@ -23146,7 +23146,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "10.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Effect Spore", "false"],
         ["Regenerator", "true"],
@@ -23167,7 +23167,7 @@ const POKEDEX_JSON = [
       chinese: "轻飘飘",
       french: "Viskuse",
     },
-    type: ["Water", "Ghost"],
+    type: ["Água", "Fantasma"],
     base: {
       HP: 55,
       Attack: 40,
@@ -23187,7 +23187,7 @@ const POKEDEX_JSON = [
       weight: "33 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Cursed Body", "false"],
         ["Damp", "true"],
       ],
@@ -23202,12 +23202,12 @@ const POKEDEX_JSON = [
   {
     id: 593,
     name: {
-      english: "Jellicent",
+      english: "JellGelont",
       japanese: "ブルンゲル",
       chinese: "胖嘟嘟",
       french: "Moyade",
     },
-    type: ["Water", "Ghost"],
+    type: ["Água", "Fantasma"],
     base: {
       HP: 100,
       Attack: 60,
@@ -23218,7 +23218,7 @@ const POKEDEX_JSON = [
     },
     species: "Floating Pokémon",
     description:
-      "Pescadores têm medo de Jellicent. Diz-se que ele os arrasta para o mar e rouba suas vidas.",
+      "Pescadores têm medo de JellGelont. Diz-se que ele os arrasta para o mar e rouba suas vidas.",
     evolution: {
       prev: ["592", "Level 40"],
     },
@@ -23227,7 +23227,7 @@ const POKEDEX_JSON = [
       weight: "135 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Water Absorb", "false"],
+        ["Água Absorb", "false"],
         ["Cursed Body", "false"],
         ["Damp", "true"],
       ],
@@ -23247,7 +23247,7 @@ const POKEDEX_JSON = [
       chinese: "保姆曼波",
       french: "Mamanbo",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 165,
       Attack: 75,
@@ -23263,7 +23263,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "31.6 kg",
-      egg: ["Water 1", "Water 2"],
+      egg: ["Água 1", "Água 2"],
       ability: [
         ["Healer", "false"],
         ["Hydration", "false"],
@@ -23285,7 +23285,7 @@ const POKEDEX_JSON = [
       chinese: "电电虫",
       french: "Statitik",
     },
-    type: ["Bug", "Electric"],
+    type: ["Inseto", "Elétrico"],
     base: {
       HP: 50,
       Attack: 47,
@@ -23303,7 +23303,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.1 m",
       weight: "0.6 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Compound Eyes", "false"],
         ["Unnerve", "false"],
@@ -23325,7 +23325,7 @@ const POKEDEX_JSON = [
       chinese: "电蜘蛛",
       french: "Mygavolt",
     },
-    type: ["Bug", "Electric"],
+    type: ["Inseto", "Elétrico"],
     base: {
       HP: 70,
       Attack: 77,
@@ -23343,7 +23343,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "14.3 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Compound Eyes", "false"],
         ["Unnerve", "false"],
@@ -23365,7 +23365,7 @@ const POKEDEX_JSON = [
       chinese: "种子铁球",
       french: "Grindur",
     },
-    type: ["Grass", "Steel"],
+    type: ["Grama", "Metal"],
     base: {
       HP: 44,
       Attack: 50,
@@ -23383,7 +23383,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "18.8 kg",
-      egg: ["Grass", "Mineral"],
+      egg: ["Grama", "Mineral"],
       ability: [["Iron Barbs", "false"]],
       gender: "50:50",
     },
@@ -23401,7 +23401,7 @@ const POKEDEX_JSON = [
       chinese: "坚果哑铃",
       french: "Noacier",
     },
-    type: ["Grass", "Steel"],
+    type: ["Grama", "Metal"],
     base: {
       HP: 74,
       Attack: 94,
@@ -23419,7 +23419,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "110 kg",
-      egg: ["Grass", "Mineral"],
+      egg: ["Grama", "Mineral"],
       ability: [
         ["Iron Barbs", "false"],
         ["Anticipation", "true"],
@@ -23440,7 +23440,7 @@ const POKEDEX_JSON = [
       chinese: "齿轮儿",
       french: "Tic",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 40,
       Attack: 55,
@@ -23480,7 +23480,7 @@ const POKEDEX_JSON = [
       chinese: "齿轮组",
       french: "Clic",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 60,
       Attack: 80,
@@ -23521,7 +23521,7 @@ const POKEDEX_JSON = [
       chinese: "齿轮怪",
       french: "Cliticlic",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 60,
       Attack: 100,
@@ -23561,7 +23561,7 @@ const POKEDEX_JSON = [
       chinese: "麻麻小鱼",
       french: "Anchwatt",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 35,
       Attack: 55,
@@ -23597,7 +23597,7 @@ const POKEDEX_JSON = [
       chinese: "麻麻鳗",
       french: "Lampéroie",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 65,
       Attack: 85,
@@ -23634,7 +23634,7 @@ const POKEDEX_JSON = [
       chinese: "麻麻鳗鱼王",
       french: "Ohmassacre",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 85,
       Attack: 115,
@@ -23670,7 +23670,7 @@ const POKEDEX_JSON = [
       chinese: "小灰怪",
       french: "Lewsor",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 55,
       Attack: 55,
@@ -23710,7 +23710,7 @@ const POKEDEX_JSON = [
       chinese: "大宇怪",
       french: "Neitram",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 75,
       Attack: 75,
@@ -23750,7 +23750,7 @@ const POKEDEX_JSON = [
       chinese: "烛光灵",
       french: "Funécire",
     },
-    type: ["Ghost", "Fire"],
+    type: ["Fantasma", "Fogo"],
     base: {
       HP: 50,
       Attack: 30,
@@ -23770,7 +23770,7 @@ const POKEDEX_JSON = [
       weight: "3.1 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Flame Body", "false"],
         ["Infiltrator", "true"],
       ],
@@ -23790,7 +23790,7 @@ const POKEDEX_JSON = [
       chinese: "灯火幽灵",
       french: "Mélancolux",
     },
-    type: ["Ghost", "Fire"],
+    type: ["Fantasma", "Fogo"],
     base: {
       HP: 60,
       Attack: 40,
@@ -23811,7 +23811,7 @@ const POKEDEX_JSON = [
       weight: "13 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Flame Body", "false"],
         ["Infiltrator", "true"],
       ],
@@ -23831,7 +23831,7 @@ const POKEDEX_JSON = [
       chinese: "水晶灯火灵",
       french: "Lugulabre",
     },
-    type: ["Ghost", "Fire"],
+    type: ["Fantasma", "Fogo"],
     base: {
       HP: 60,
       Attack: 55,
@@ -23851,7 +23851,7 @@ const POKEDEX_JSON = [
       weight: "34.3 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["Flame Body", "false"],
         ["Infiltrator", "true"],
       ],
@@ -23871,7 +23871,7 @@ const POKEDEX_JSON = [
       chinese: "牙牙",
       french: "Coupenotte",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 46,
       Attack: 87,
@@ -23889,7 +23889,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "18 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Rivalry", "false"],
         ["Mold Breaker", "false"],
@@ -23911,7 +23911,7 @@ const POKEDEX_JSON = [
       chinese: "斧牙龙",
       french: "Incisache",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 66,
       Attack: 117,
@@ -23930,7 +23930,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "36 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Rivalry", "false"],
         ["Mold Breaker", "false"],
@@ -23952,7 +23952,7 @@ const POKEDEX_JSON = [
       chinese: "双斧战龙",
       french: "Tranchodon",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 76,
       Attack: 147,
@@ -23970,7 +23970,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "105.5 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Rivalry", "false"],
         ["Mold Breaker", "false"],
@@ -23992,7 +23992,7 @@ const POKEDEX_JSON = [
       chinese: "喷嚏熊",
       french: "Polarhume",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 55,
       Attack: 70,
@@ -24032,7 +24032,7 @@ const POKEDEX_JSON = [
       chinese: "冻原熊",
       french: "Polagriffe",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 95,
       Attack: 130,
@@ -24072,7 +24072,7 @@ const POKEDEX_JSON = [
       chinese: "几何雪花",
       french: "Hexagel",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 80,
       Attack: 50,
@@ -24106,7 +24106,7 @@ const POKEDEX_JSON = [
       chinese: "小嘴蜗",
       french: "Escargaume",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 50,
       Attack: 40,
@@ -24124,7 +24124,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "7.7 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Hydration", "false"],
         ["Shell Armor", "false"],
@@ -24146,7 +24146,7 @@ const POKEDEX_JSON = [
       chinese: "敏捷虫",
       french: "Limaspeed",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 80,
       Attack: 70,
@@ -24164,7 +24164,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "25.3 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Hydration", "false"],
         ["Sticky Hold", "false"],
@@ -24186,7 +24186,7 @@ const POKEDEX_JSON = [
       chinese: "泥巴鱼",
       french: "Limonde",
     },
-    type: ["Ground", "Electric"],
+    type: ["Terra", "Elétrico"],
     base: {
       HP: 109,
       Attack: 66,
@@ -24202,7 +24202,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "11 kg",
-      egg: ["Water 1", "Amorphous"],
+      egg: ["Água 1", "Amorphous"],
       ability: [
         ["Static", "false"],
         ["Limber", "false"],
@@ -24224,7 +24224,7 @@ const POKEDEX_JSON = [
       chinese: "功夫鼬",
       french: "Kungfouine",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 45,
       Attack: 85,
@@ -24264,7 +24264,7 @@ const POKEDEX_JSON = [
       chinese: "师父鼬",
       french: "Shaofouine",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 65,
       Attack: 125,
@@ -24304,7 +24304,7 @@ const POKEDEX_JSON = [
       chinese: "赤面龙",
       french: "Drakkarmin",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 77,
       Attack: 120,
@@ -24320,7 +24320,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "139 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Rough Skin", "false"],
         ["Sheer Force", "false"],
@@ -24342,7 +24342,7 @@ const POKEDEX_JSON = [
       chinese: "泥偶小人",
       french: "Gringolem",
     },
-    type: ["Ground", "Ghost"],
+    type: ["Terra", "Fantasma"],
     base: {
       HP: 59,
       Attack: 74,
@@ -24382,7 +24382,7 @@ const POKEDEX_JSON = [
       chinese: "泥偶巨人",
       french: "Golemastoc",
     },
-    type: ["Ground", "Ghost"],
+    type: ["Terra", "Fantasma"],
     base: {
       HP: 89,
       Attack: 124,
@@ -24422,7 +24422,7 @@ const POKEDEX_JSON = [
       chinese: "驹刀小兵",
       french: "Scalpion",
     },
-    type: ["Dark", "Steel"],
+    type: ["Sombrio", "Metal"],
     base: {
       HP: 45,
       Attack: 85,
@@ -24462,7 +24462,7 @@ const POKEDEX_JSON = [
       chinese: "劈斩司令",
       french: "Scalproie",
     },
-    type: ["Dark", "Steel"],
+    type: ["Sombrio", "Metal"],
     base: {
       HP: 65,
       Attack: 125,
@@ -24540,7 +24540,7 @@ const POKEDEX_JSON = [
       chinese: "毛头小鹰",
       french: "Furaiglon",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 70,
       Attack: 83,
@@ -24558,7 +24558,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "10.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Sheer Force", "false"],
@@ -24580,7 +24580,7 @@ const POKEDEX_JSON = [
       chinese: "勇士雄鹰",
       french: "Gueriaigle",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 100,
       Attack: 123,
@@ -24598,7 +24598,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "41 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Sheer Force", "false"],
@@ -24620,7 +24620,7 @@ const POKEDEX_JSON = [
       chinese: "秃鹰丫头",
       french: "Vostourno",
     },
-    type: ["Dark", "Flying"],
+    type: ["Sombrio", "Voador"],
     base: {
       HP: 70,
       Attack: 55,
@@ -24638,7 +24638,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "9 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big Pecks", "false"],
         ["Overcoat", "false"],
@@ -24658,9 +24658,9 @@ const POKEDEX_JSON = [
       english: "Mandibuzz",
       japanese: "バルジーナ",
       chinese: "秃鹰娜",
-      french: "Vaututrice",
+      french: "VaututrGelo",
     },
-    type: ["Dark", "Flying"],
+    type: ["Sombrio", "Voador"],
     base: {
       HP: 110,
       Attack: 65,
@@ -24678,7 +24678,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "39.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big Pecks", "false"],
         ["Overcoat", "false"],
@@ -24700,7 +24700,7 @@ const POKEDEX_JSON = [
       chinese: "熔蚁兽",
       french: "Aflamanoir",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 85,
       Attack: 97,
@@ -24719,7 +24719,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Gluttony", "false"],
-        ["Flash Fire", "false"],
+        ["Flash Fogo", "false"],
         ["White Smoke", "true"],
       ],
       gender: "50:50",
@@ -24738,7 +24738,7 @@ const POKEDEX_JSON = [
       chinese: "铁蚁",
       french: "Fermite",
     },
-    type: ["Bug", "Steel"],
+    type: ["Inseto", "Metal"],
     base: {
       HP: 58,
       Attack: 109,
@@ -24754,7 +24754,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "33 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", "false"],
         ["Hustle", "false"],
@@ -24776,7 +24776,7 @@ const POKEDEX_JSON = [
       chinese: "单首龙",
       french: "Solochi",
     },
-    type: ["Dark", "Dragon"],
+    type: ["Sombrio", "Dragão"],
     base: {
       HP: 52,
       Attack: 65,
@@ -24794,7 +24794,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "17.3 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [["Hustle", "false"]],
       gender: "50:50",
     },
@@ -24812,7 +24812,7 @@ const POKEDEX_JSON = [
       chinese: "双首暴龙",
       french: "Diamat",
     },
-    type: ["Dark", "Dragon"],
+    type: ["Sombrio", "Dragão"],
     base: {
       HP: 72,
       Attack: 85,
@@ -24831,7 +24831,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "50 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [["Hustle", "false"]],
       gender: "50:50",
     },
@@ -24849,7 +24849,7 @@ const POKEDEX_JSON = [
       chinese: "三首恶龙",
       french: "Trioxhydre",
     },
-    type: ["Dark", "Dragon"],
+    type: ["Sombrio", "Dragão"],
     base: {
       HP: 92,
       Attack: 105,
@@ -24867,7 +24867,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "160 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [["Levitate", "false"]],
       gender: "50:50",
     },
@@ -24885,7 +24885,7 @@ const POKEDEX_JSON = [
       chinese: "燃烧虫",
       french: "Pyronille",
     },
-    type: ["Bug", "Fire"],
+    type: ["Inseto", "Fogo"],
     base: {
       HP: 55,
       Attack: 85,
@@ -24903,7 +24903,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "28.8 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Flame Body", "false"],
         ["Swarm", "true"],
@@ -24924,7 +24924,7 @@ const POKEDEX_JSON = [
       chinese: "火神蛾",
       french: "Pyrax",
     },
-    type: ["Bug", "Fire"],
+    type: ["Inseto", "Fogo"],
     base: {
       HP: 85,
       Attack: 60,
@@ -24942,7 +24942,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "46 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Flame Body", "false"],
         ["Swarm", "true"],
@@ -24963,7 +24963,7 @@ const POKEDEX_JSON = [
       chinese: "勾帕路翁",
       french: "Cobaltium",
     },
-    type: ["Steel", "Fighting"],
+    type: ["Metal", "Lutador"],
     base: {
       HP: 91,
       Attack: 90,
@@ -24997,7 +24997,7 @@ const POKEDEX_JSON = [
       chinese: "代拉基翁",
       french: "Terrakium",
     },
-    type: ["Rock", "Fighting"],
+    type: ["Rocha", "Lutador"],
     base: {
       HP: 91,
       Attack: 129,
@@ -25031,7 +25031,7 @@ const POKEDEX_JSON = [
       chinese: "毕力吉翁",
       french: "Viridium",
     },
-    type: ["Grass", "Fighting"],
+    type: ["Grama", "Lutador"],
     base: {
       HP: 91,
       Attack: 90,
@@ -25040,7 +25040,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 129,
       Speed: 108,
     },
-    species: "Grassland Pokémon",
+    species: "Gramaland Pokémon",
     description:
       "Lendas dizem que este Pokémon confundiu oponentes com seus movimentos rápidos.",
     evolution: {},
@@ -25065,7 +25065,7 @@ const POKEDEX_JSON = [
       chinese: "龙卷云",
       french: "Boréas",
     },
-    type: ["Flying"],
+    type: ["Voador"],
     base: {
       HP: 79,
       Attack: 115,
@@ -25102,7 +25102,7 @@ const POKEDEX_JSON = [
       chinese: "雷电云",
       french: "Fulguris",
     },
-    type: ["Electric", "Flying"],
+    type: ["Elétrico", "Voador"],
     base: {
       HP: 79,
       Attack: 115,
@@ -25139,7 +25139,7 @@ const POKEDEX_JSON = [
       chinese: "莱希拉姆",
       french: "Reshiram",
     },
-    type: ["Dragon", "Fire"],
+    type: ["Dragão", "Fogo"],
     base: {
       HP: 100,
       Attack: 120,
@@ -25173,7 +25173,7 @@ const POKEDEX_JSON = [
       chinese: "捷克罗姆",
       french: "Zekrom",
     },
-    type: ["Dragon", "Electric"],
+    type: ["Dragão", "Elétrico"],
     base: {
       HP: 100,
       Attack: 150,
@@ -25207,7 +25207,7 @@ const POKEDEX_JSON = [
       chinese: "土地云",
       french: "Démétéros",
     },
-    type: ["Ground", "Flying"],
+    type: ["Terra", "Voador"],
     base: {
       HP: 89,
       Attack: 125,
@@ -25244,7 +25244,7 @@ const POKEDEX_JSON = [
       chinese: "酋雷姆",
       french: "Kyurem",
     },
-    type: ["Dragon", "Ice"],
+    type: ["Dragão", "Gelo"],
     base: {
       HP: 125,
       Attack: 130,
@@ -25278,7 +25278,7 @@ const POKEDEX_JSON = [
       chinese: "凯路迪欧",
       french: "Keldeo",
     },
-    type: ["Water", "Fighting"],
+    type: ["Água", "Lutador"],
     base: {
       HP: 91,
       Attack: 72,
@@ -25312,7 +25312,7 @@ const POKEDEX_JSON = [
       chinese: "美洛耶塔",
       french: "Meloetta",
     },
-    type: ["Normal", "Psychic"],
+    type: ["Normal", "Psíquico"],
     base: {
       HP: 100,
       Attack: 77,
@@ -25346,7 +25346,7 @@ const POKEDEX_JSON = [
       chinese: "盖诺赛克特",
       french: "Genesect",
     },
-    type: ["Bug", "Steel"],
+    type: ["Inseto", "Metal"],
     base: {
       HP: 71,
       Attack: 120,
@@ -25380,7 +25380,7 @@ const POKEDEX_JSON = [
       chinese: "哈力栗",
       french: "Marisson",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 56,
       Attack: 61,
@@ -25419,7 +25419,7 @@ const POKEDEX_JSON = [
       chinese: "胖胖哈力",
       french: "Boguérisse",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 61,
       Attack: 78,
@@ -25459,7 +25459,7 @@ const POKEDEX_JSON = [
       chinese: "布里卡隆",
       french: "Blindépique",
     },
-    type: ["Grass", "Fighting"],
+    type: ["Grama", "Lutador"],
     base: {
       HP: 88,
       Attack: 107,
@@ -25498,7 +25498,7 @@ const POKEDEX_JSON = [
       chinese: "火狐狸",
       french: "Feunnec",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 40,
       Attack: 45,
@@ -25537,7 +25537,7 @@ const POKEDEX_JSON = [
       chinese: "长尾火狐",
       french: "Roussil",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 59,
       Attack: 59,
@@ -25577,7 +25577,7 @@ const POKEDEX_JSON = [
       chinese: "妖火红狐",
       french: "Goupelin",
     },
-    type: ["Fire", "Psychic"],
+    type: ["Fogo", "Psíquico"],
     base: {
       HP: 75,
       Attack: 69,
@@ -25588,7 +25588,7 @@ const POKEDEX_JSON = [
     },
     species: "Fox Pokémon",
     description:
-      "Usando poder psíquico, ele gera um vórtice de fogo de 5.400 graus Fahrenheit, incinerando inimigos varridos neste redemoinho de chama.",
+      "Usando poder psíquico, ele gera um vórtGelo de fogo de 5.400 graus Fahrenheit, incinerando inimigos varridos neste redemoinho de chama.",
     evolution: {
       prev: ["654", "Level 36"],
     },
@@ -25616,7 +25616,7 @@ const POKEDEX_JSON = [
       chinese: "呱呱泡蛙",
       french: "Grenousse",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 41,
       Attack: 56,
@@ -25634,7 +25634,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "7 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Protean", "true"],
@@ -25655,7 +25655,7 @@ const POKEDEX_JSON = [
       chinese: "呱头蛙",
       french: "Croâporal",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 54,
       Attack: 63,
@@ -25674,7 +25674,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "10.9 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Protean", "true"],
@@ -25695,7 +25695,7 @@ const POKEDEX_JSON = [
       chinese: "甲贺忍蛙",
       french: "Amphinobi",
     },
-    type: ["Water", "Dark"],
+    type: ["Água", "Sombrio"],
     base: {
       HP: 72,
       Attack: 95,
@@ -25713,7 +25713,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "40 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Torrent", "false"],
         ["Protean", "true"],
@@ -25774,7 +25774,7 @@ const POKEDEX_JSON = [
       chinese: "掘地兔",
       french: "Excavarenne",
     },
-    type: ["Normal", "Ground"],
+    type: ["Normal", "Terra"],
     base: {
       HP: 85,
       Attack: 56,
@@ -25814,7 +25814,7 @@ const POKEDEX_JSON = [
       chinese: "小箭雀",
       french: "Passerouge",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 45,
       Attack: 50,
@@ -25832,7 +25832,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.7 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big Pecks", "false"],
         ["Gale Wings", "true"],
@@ -25853,7 +25853,7 @@ const POKEDEX_JSON = [
       chinese: "火箭雀",
       french: "Braisillon",
     },
-    type: ["Fire", "Flying"],
+    type: ["Fogo", "Voador"],
     base: {
       HP: 62,
       Attack: 73,
@@ -25872,7 +25872,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "16 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Flame Body", "false"],
         ["Gale Wings", "true"],
@@ -25893,7 +25893,7 @@ const POKEDEX_JSON = [
       chinese: "烈箭鹰",
       french: "Flambusard",
     },
-    type: ["Fire", "Flying"],
+    type: ["Fogo", "Voador"],
     base: {
       HP: 78,
       Attack: 81,
@@ -25911,7 +25911,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "24.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Flame Body", "false"],
         ["Gale Wings", "true"],
@@ -25927,12 +25927,12 @@ const POKEDEX_JSON = [
   {
     id: 664,
     name: {
-      english: "Scatterbug",
+      english: "ScatterInseto",
       japanese: "コフキムシ",
       chinese: "粉蝶虫",
       french: "Lépidonille",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 38,
       Attack: 35,
@@ -25950,7 +25950,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Compound Eyes", "false"],
@@ -25972,7 +25972,7 @@ const POKEDEX_JSON = [
       chinese: "粉蝶蛹",
       french: "Pérégrain",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 45,
       Attack: 22,
@@ -25991,7 +25991,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "8.4 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shed Skin", "false"],
         ["Friend Guard", "true"],
@@ -26012,7 +26012,7 @@ const POKEDEX_JSON = [
       chinese: "彩粉蝶",
       french: "Prismillon",
     },
-    type: ["Bug", "Flying"],
+    type: ["Inseto", "Voador"],
     base: {
       HP: 80,
       Attack: 52,
@@ -26030,7 +26030,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "17 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Shield Dust", "false"],
         ["Compound Eyes", "false"],
@@ -26052,7 +26052,7 @@ const POKEDEX_JSON = [
       chinese: "小狮狮",
       french: "Hélionceau",
     },
-    type: ["Fire", "Normal"],
+    type: ["Fogo", "Normal"],
     base: {
       HP: 62,
       Attack: 50,
@@ -26092,7 +26092,7 @@ const POKEDEX_JSON = [
       chinese: "火炎狮",
       french: "Némélios",
     },
-    type: ["Fire", "Normal"],
+    type: ["Fogo", "Normal"],
     base: {
       HP: 86,
       Attack: 68,
@@ -26132,7 +26132,7 @@ const POKEDEX_JSON = [
       chinese: "花蓓蓓",
       french: "Flabébé",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 44,
       Attack: 38,
@@ -26150,7 +26150,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.1 m",
       weight: "0.1 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Flower Veil", "false"],
         ["Symbiosis", "true"],
@@ -26171,7 +26171,7 @@ const POKEDEX_JSON = [
       chinese: "花叶蒂",
       french: "FLOETTE",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 54,
       Attack: 45,
@@ -26190,7 +26190,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "0.9 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Flower Veil", "false"],
         ["Symbiosis", "true"],
@@ -26211,7 +26211,7 @@ const POKEDEX_JSON = [
       chinese: "花洁夫人",
       french: "Florges",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 78,
       Attack: 65,
@@ -26229,7 +26229,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "10 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Flower Veil", "false"],
         ["Symbiosis", "true"],
@@ -26250,7 +26250,7 @@ const POKEDEX_JSON = [
       chinese: "坐骑小羊",
       french: "Cabriolaine",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 66,
       Attack: 65,
@@ -26271,7 +26271,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Sap Sipper", "false"],
-        ["Grass Pelt", "true"],
+        ["Grama Pelt", "true"],
       ],
       gender: "50:50",
     },
@@ -26289,7 +26289,7 @@ const POKEDEX_JSON = [
       chinese: "坐骑山羊",
       french: "Chevroum",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 123,
       Attack: 100,
@@ -26310,7 +26310,7 @@ const POKEDEX_JSON = [
       egg: ["Field"],
       ability: [
         ["Sap Sipper", "false"],
-        ["Grass Pelt", "true"],
+        ["Grama Pelt", "true"],
       ],
       gender: "50:50",
     },
@@ -26328,7 +26328,7 @@ const POKEDEX_JSON = [
       chinese: "顽皮熊猫",
       french: "Pandespiègle",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 67,
       Attack: 82,
@@ -26341,7 +26341,7 @@ const POKEDEX_JSON = [
     description:
       "Ele está desesperado para intimidar seus oponentes. Seja gentil e finja estar assustado se você o pegar olhando para você intensamente.",
     evolution: {
-      next: [["675", "Level 32, Dark type Pokémon in party"]],
+      next: [["675", "Level 32, Sombrio type Pokémon in party"]],
     },
     profile: {
       height: "0.6 m",
@@ -26368,7 +26368,7 @@ const POKEDEX_JSON = [
       chinese: "流氓熊猫",
       french: "Pandarbare",
     },
-    type: ["Fighting", "Dark"],
+    type: ["Lutador", "Sombrio"],
     base: {
       HP: 95,
       Attack: 124,
@@ -26381,7 +26381,7 @@ const POKEDEX_JSON = [
     description:
       "Pangoro é do tipo que fala com os punhos. Ele não diz muito enquanto golpeia oponentes com força suficiente para enviar um caminhão basculante voando.",
     evolution: {
-      prev: ["674", "Level 32, Dark type Pokémon in party"],
+      prev: ["674", "Level 32, Sombrio type Pokémon in party"],
     },
     profile: {
       height: "2.1 m",
@@ -26442,7 +26442,7 @@ const POKEDEX_JSON = [
       chinese: "妙喵",
       french: "Psystigri",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 62,
       Attack: 48,
@@ -26482,7 +26482,7 @@ const POKEDEX_JSON = [
       chinese: "超能妙喵",
       french: "Mistigrix",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 74,
       Attack: 48,
@@ -26522,7 +26522,7 @@ const POKEDEX_JSON = [
       chinese: "独剑鞘",
       french: "Monorpale",
     },
-    type: ["Steel", "Ghost"],
+    type: ["Metal", "Fantasma"],
     base: {
       HP: 45,
       Attack: 80,
@@ -26558,7 +26558,7 @@ const POKEDEX_JSON = [
       chinese: "双剑鞘",
       french: "Dimoclès",
     },
-    type: ["Steel", "Ghost"],
+    type: ["Metal", "Fantasma"],
     base: {
       HP: 59,
       Attack: 110,
@@ -26595,7 +26595,7 @@ const POKEDEX_JSON = [
       chinese: "坚盾剑怪",
       french: "Exagide",
     },
-    type: ["Steel", "Ghost"],
+    type: ["Metal", "Fantasma"],
     base: {
       HP: 60,
       Attack: 50,
@@ -26631,7 +26631,7 @@ const POKEDEX_JSON = [
       chinese: "粉香香",
       french: "Fluvetin",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 78,
       Attack: 52,
@@ -26649,7 +26649,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "0.5 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Healer", "false"],
         ["Aroma Veil", "true"],
@@ -26670,7 +26670,7 @@ const POKEDEX_JSON = [
       chinese: "芳香精",
       french: "Cocotine",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 101,
       Attack: 72,
@@ -26688,7 +26688,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "15.5 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Healer", "false"],
         ["Aroma Veil", "true"],
@@ -26709,7 +26709,7 @@ const POKEDEX_JSON = [
       chinese: "绵绵泡芙",
       french: "Sucroquin",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 62,
       Attack: 48,
@@ -26726,7 +26726,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "3.5 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Sweet Veil", "false"],
         ["Unburden", "true"],
@@ -26747,7 +26747,7 @@ const POKEDEX_JSON = [
       chinese: "胖甜妮",
       french: "Cupcanaille",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 82,
       Attack: 80,
@@ -26765,7 +26765,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "5 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Sweet Veil", "false"],
         ["Unburden", "true"],
@@ -26786,7 +26786,7 @@ const POKEDEX_JSON = [
       chinese: "好啦鱿",
       french: "Sepiatop",
     },
-    type: ["Dark", "Psychic"],
+    type: ["Sombrio", "Psíquico"],
     base: {
       HP: 53,
       Attack: 54,
@@ -26804,7 +26804,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "3.5 kg",
-      egg: ["Water 1", "Water 2"],
+      egg: ["Água 1", "Água 2"],
       ability: [
         ["Contrary", "false"],
         ["Suction Cups", "false"],
@@ -26826,7 +26826,7 @@ const POKEDEX_JSON = [
       chinese: "乌贼王",
       french: "Sepiatroce",
     },
-    type: ["Dark", "Psychic"],
+    type: ["Sombrio", "Psíquico"],
     base: {
       HP: 86,
       Attack: 92,
@@ -26844,7 +26844,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "47 kg",
-      egg: ["Water 1", "Water 2"],
+      egg: ["Água 1", "Água 2"],
       ability: [
         ["Contrary", "false"],
         ["Suction Cups", "false"],
@@ -26866,7 +26866,7 @@ const POKEDEX_JSON = [
       chinese: "龟脚脚",
       french: "Opermine",
     },
-    type: ["Rock", "Water"],
+    type: ["Rocha", "Água"],
     base: {
       HP: 42,
       Attack: 52,
@@ -26884,7 +26884,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "31 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Tough Claws", "false"],
         ["Sniper", "false"],
@@ -26906,7 +26906,7 @@ const POKEDEX_JSON = [
       chinese: "龟足巨铠",
       french: "Golgopathe",
     },
-    type: ["Rock", "Water"],
+    type: ["Rocha", "Água"],
     base: {
       HP: 72,
       Attack: 105,
@@ -26924,7 +26924,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "96 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Tough Claws", "false"],
         ["Sniper", "false"],
@@ -26946,7 +26946,7 @@ const POKEDEX_JSON = [
       chinese: "垃垃藻",
       french: "Venalgue",
     },
-    type: ["Poison", "Water"],
+    type: ["Venenoso", "Água"],
     base: {
       HP: 50,
       Attack: 60,
@@ -26964,10 +26964,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "7.3 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
-        ["Poison Point", "false"],
-        ["Poison Touch", "false"],
+        ["Venenoso Point", "false"],
+        ["Venenoso Touch", "false"],
         ["Adaptability", "true"],
       ],
       gender: "50:50",
@@ -26986,7 +26986,7 @@ const POKEDEX_JSON = [
       chinese: "毒藻龙",
       french: "Kravarech",
     },
-    type: ["Poison", "Dragon"],
+    type: ["Venenoso", "Dragão"],
     base: {
       HP: 65,
       Attack: 75,
@@ -27004,10 +27004,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "81.5 kg",
-      egg: ["Water 1", "Dragon"],
+      egg: ["Água 1", "Dragão"],
       ability: [
-        ["Poison Point", "false"],
-        ["Poison Touch", "false"],
+        ["Venenoso Point", "false"],
+        ["Venenoso Touch", "false"],
         ["Adaptability", "true"],
       ],
       gender: "50:50",
@@ -27026,7 +27026,7 @@ const POKEDEX_JSON = [
       chinese: "铁臂枪虾",
       french: "Flingouste",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 53,
@@ -27035,7 +27035,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 63,
       Speed: 44,
     },
-    species: "Water Gun Pokémon",
+    species: "Água Gun Pokémon",
     description:
       "Ele se move jantando água de sua pinça direita. Ele tem um fraco senso de equilíbrio, por isso é péssimo em nadar direto.",
     evolution: {
@@ -27044,7 +27044,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "8.3 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [["Mega Launcher", "false"]],
       gender: "50:50",
     },
@@ -27062,7 +27062,7 @@ const POKEDEX_JSON = [
       chinese: "钢炮臂虾",
       french: "Gamblast",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 71,
       Attack: 73,
@@ -27080,7 +27080,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "35.3 kg",
-      egg: ["Water 1", "Water 3"],
+      egg: ["Água 1", "Água 3"],
       ability: [["Mega Launcher", "false"]],
       gender: "50:50",
     },
@@ -27098,7 +27098,7 @@ const POKEDEX_JSON = [
       chinese: "伞电蜥",
       french: "Galvaran",
     },
-    type: ["Electric", "Normal"],
+    type: ["Elétrico", "Normal"],
     base: {
       HP: 44,
       Attack: 38,
@@ -27116,7 +27116,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "6 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Dry Skin", "false"],
         ["Sand Veil", "false"],
@@ -27138,7 +27138,7 @@ const POKEDEX_JSON = [
       chinese: "光电伞蜥",
       french: "Iguolta",
     },
-    type: ["Electric", "Normal"],
+    type: ["Elétrico", "Normal"],
     base: {
       HP: 62,
       Attack: 55,
@@ -27156,7 +27156,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "21 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Dry Skin", "false"],
         ["Sand Veil", "false"],
@@ -27178,7 +27178,7 @@ const POKEDEX_JSON = [
       chinese: "宝宝暴龙",
       french: "Ptyranidur",
     },
-    type: ["Rock", "Dragon"],
+    type: ["Rocha", "Dragão"],
     base: {
       HP: 58,
       Attack: 89,
@@ -27196,7 +27196,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "26 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Strong Jaw", "false"],
         ["Sturdy", "true"],
@@ -27217,7 +27217,7 @@ const POKEDEX_JSON = [
       chinese: "怪颚龙",
       french: "Rexillius",
     },
-    type: ["Rock", "Dragon"],
+    type: ["Rocha", "Dragão"],
     base: {
       HP: 82,
       Attack: 121,
@@ -27235,10 +27235,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.5 m",
       weight: "270 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Strong Jaw", "false"],
-        ["Rock Head", "true"],
+        ["Rocha Head", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -27256,7 +27256,7 @@ const POKEDEX_JSON = [
       chinese: "冰雪龙",
       french: "Amagara",
     },
-    type: ["Rock", "Ice"],
+    type: ["Rocha", "Gelo"],
     base: {
       HP: 77,
       Attack: 59,
@@ -27295,7 +27295,7 @@ const POKEDEX_JSON = [
       chinese: "冰雪巨龙",
       french: "Dragmara",
     },
-    type: ["Rock", "Ice"],
+    type: ["Rocha", "Gelo"],
     base: {
       HP: 123,
       Attack: 77,
@@ -27334,7 +27334,7 @@ const POKEDEX_JSON = [
       chinese: "仙子伊布",
       french: "Nymphali",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 95,
       Attack: 65,
@@ -27347,7 +27347,7 @@ const POKEDEX_JSON = [
     description:
       "Sylveon envolve seus tentáculos semelhantes a fitas ao redor do braço de seu treinador porque esse toque permite que ele leia os sentimentos de seu treinador.",
     evolution: {
-      prev: ["133", "High Affection, knowing Fairy move"],
+      prev: ["133", "High Affection, knowing Fada move"],
     },
     profile: {
       height: "1 m",
@@ -27373,7 +27373,7 @@ const POKEDEX_JSON = [
       chinese: "摔角鹰人",
       french: "Brutalibré",
     },
-    type: ["Fighting", "Flying"],
+    type: ["Lutador", "Voador"],
     base: {
       HP: 78,
       Attack: 92,
@@ -27411,7 +27411,7 @@ const POKEDEX_JSON = [
       chinese: "咚咚鼠",
       french: "DEDENNE",
     },
-    type: ["Electric", "Fairy"],
+    type: ["Elétrico", "Fada"],
     base: {
       HP: 67,
       Attack: 58,
@@ -27427,7 +27427,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "2.2 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Cheek Pouch", "false"],
         ["Pickup", "false"],
@@ -27449,7 +27449,7 @@ const POKEDEX_JSON = [
       chinese: "小碎钻",
       french: "Strassie",
     },
-    type: ["Rock", "Fairy"],
+    type: ["Rocha", "Fada"],
     base: {
       HP: 50,
       Attack: 50,
@@ -27465,7 +27465,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "5.7 kg",
-      egg: ["Fairy", "Mineral"],
+      egg: ["Fada", "Mineral"],
       ability: [
         ["Clear Body", "false"],
         ["Sturdy", "true"],
@@ -27486,7 +27486,7 @@ const POKEDEX_JSON = [
       chinese: "黏黏宝",
       french: "Mucuscule",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 45,
       Attack: 50,
@@ -27504,7 +27504,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.8 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Sap Sipper", "false"],
         ["Hydration", "false"],
@@ -27526,7 +27526,7 @@ const POKEDEX_JSON = [
       chinese: "黏美儿",
       french: "Colimucus",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 68,
       Attack: 75,
@@ -27545,7 +27545,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.8 m",
       weight: "17.5 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Sap Sipper", "false"],
         ["Hydration", "false"],
@@ -27567,7 +27567,7 @@ const POKEDEX_JSON = [
       chinese: "黏美龙",
       french: "Muplodocus",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 90,
       Attack: 100,
@@ -27576,7 +27576,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 150,
       Speed: 80,
     },
-    species: "Dragon Pokémon",
+    species: "Dragão Pokémon",
     description:
       "Debaixo de sua pele viscosa há uma camada espessa de gordura, e a combinação dos dois faz com que os ataques dos inimigos deslizem para fora.",
     evolution: {
@@ -27585,7 +27585,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "150.5 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Sap Sipper", "false"],
         ["Hydration", "false"],
@@ -27607,7 +27607,7 @@ const POKEDEX_JSON = [
       chinese: "钥圈儿",
       french: "Trousselin",
     },
-    type: ["Steel", "Fairy"],
+    type: ["Metal", "Fada"],
     base: {
       HP: 57,
       Attack: 80,
@@ -27644,7 +27644,7 @@ const POKEDEX_JSON = [
       chinese: "小木灵",
       french: "Brocélôme",
     },
-    type: ["Ghost", "Grass"],
+    type: ["Fantasma", "Grama"],
     base: {
       HP: 43,
       Attack: 70,
@@ -27662,7 +27662,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "7 kg",
-      egg: ["Grass", "Amorphous"],
+      egg: ["Grama", "Amorphous"],
       ability: [
         ["Natural Cure", "false"],
         ["Frisk", "false"],
@@ -27684,7 +27684,7 @@ const POKEDEX_JSON = [
       chinese: "朽木妖",
       french: "Desséliande",
     },
-    type: ["Ghost", "Grass"],
+    type: ["Fantasma", "Grama"],
     base: {
       HP: 85,
       Attack: 110,
@@ -27702,7 +27702,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "71 kg",
-      egg: ["Grass", "Amorphous"],
+      egg: ["Grama", "Amorphous"],
       ability: [
         ["Natural Cure", "false"],
         ["Frisk", "false"],
@@ -27724,7 +27724,7 @@ const POKEDEX_JSON = [
       chinese: "南瓜精",
       french: "Pitrouille",
     },
-    type: ["Ghost", "Grass"],
+    type: ["Fantasma", "Grama"],
     base: {
       HP: 59,
       Attack: 66,
@@ -27764,7 +27764,7 @@ const POKEDEX_JSON = [
       chinese: "南瓜怪人",
       french: "Banshitrouye",
     },
-    type: ["Ghost", "Grass"],
+    type: ["Fantasma", "Grama"],
     base: {
       HP: 85,
       Attack: 100,
@@ -27804,7 +27804,7 @@ const POKEDEX_JSON = [
       chinese: "冰宝",
       french: "Grelaçon",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 55,
       Attack: 69,
@@ -27813,7 +27813,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 35,
       Speed: 28,
     },
-    species: "Ice Chunk Pokémon",
+    species: "Gelo Chunk Pokémon",
     description:
       "Usando ar de -150 graus Fahrenheit, eles congelam oponentes sólidos. Eles vivem em rebanhos acima da linha de neve nas montanhas.",
     evolution: {
@@ -27825,7 +27825,7 @@ const POKEDEX_JSON = [
       egg: ["Monster"],
       ability: [
         ["Own Tempo", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Sturdy", "true"],
       ],
       gender: "50:50",
@@ -27844,7 +27844,7 @@ const POKEDEX_JSON = [
       chinese: "冰岩怪",
       french: "Séracrawl",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 95,
       Attack: 117,
@@ -27853,7 +27853,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 46,
       Speed: 28,
     },
-    species: "Iceberg Pokémon",
+    species: "Geloberg Pokémon",
     description:
       "A maneira como vários Bergmite se aglomeram em suas costas faz com que pareça um porta-aviões feito de gelo.",
     evolution: {
@@ -27865,7 +27865,7 @@ const POKEDEX_JSON = [
       egg: ["Monster"],
       ability: [
         ["Own Tempo", "false"],
-        ["Ice Body", "false"],
+        ["Gelo Body", "false"],
         ["Sturdy", "true"],
       ],
       gender: "50:50",
@@ -27884,7 +27884,7 @@ const POKEDEX_JSON = [
       chinese: "嗡蝠",
       french: "Sonistrelle",
     },
-    type: ["Flying", "Dragon"],
+    type: ["Voador", "Dragão"],
     base: {
       HP: 40,
       Attack: 30,
@@ -27902,7 +27902,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "8 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Frisk", "false"],
         ["Infiltrator", "false"],
@@ -27924,7 +27924,7 @@ const POKEDEX_JSON = [
       chinese: "音波龙",
       french: "Bruyverne",
     },
-    type: ["Flying", "Dragon"],
+    type: ["Voador", "Dragão"],
     base: {
       HP: 85,
       Attack: 70,
@@ -27942,7 +27942,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "85 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Frisk", "false"],
         ["Infiltrator", "false"],
@@ -27964,7 +27964,7 @@ const POKEDEX_JSON = [
       chinese: "哲尔尼亚斯",
       french: "Xerneas",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 126,
       Attack: 131,
@@ -27981,7 +27981,7 @@ const POKEDEX_JSON = [
       height: "3 m",
       weight: "215 kg",
       egg: ["Undiscovered"],
-      ability: [["Fairy Aura", "false"]],
+      ability: [["Fada Aura", "false"]],
       gender: "Genderless",
     },
     image: {
@@ -27998,7 +27998,7 @@ const POKEDEX_JSON = [
       chinese: "伊裴尔塔尔",
       french: "Yveltal",
     },
-    type: ["Dark", "Flying"],
+    type: ["Sombrio", "Voador"],
     base: {
       HP: 126,
       Attack: 131,
@@ -28015,7 +28015,7 @@ const POKEDEX_JSON = [
       height: "5.8 m",
       weight: "203 kg",
       egg: ["Undiscovered"],
-      ability: [["Dark Aura", "false"]],
+      ability: [["Sombrio Aura", "false"]],
       gender: "Genderless",
     },
     image: {
@@ -28032,7 +28032,7 @@ const POKEDEX_JSON = [
       chinese: "基格尔德",
       french: "Zygarde",
     },
-    type: ["Dragon", "Ground"],
+    type: ["Dragão", "Terra"],
     base: {
       HP: 108,
       Attack: 100,
@@ -28066,7 +28066,7 @@ const POKEDEX_JSON = [
       chinese: "蒂安希",
       french: "Diancie",
     },
-    type: ["Rock", "Fairy"],
+    type: ["Rocha", "Fada"],
     base: {
       HP: 50,
       Attack: 100,
@@ -28100,7 +28100,7 @@ const POKEDEX_JSON = [
       chinese: "胡帕",
       french: "Hoopa",
     },
-    type: ["Psychic", "Ghost"],
+    type: ["Psíquico", "Fantasma"],
     base: {
       HP: 80,
       Attack: 110,
@@ -28134,7 +28134,7 @@ const POKEDEX_JSON = [
       chinese: "波尔凯尼恩",
       french: "Volcanion",
     },
-    type: ["Fire", "Water"],
+    type: ["Fogo", "Água"],
     base: {
       HP: 80,
       Attack: 110,
@@ -28151,7 +28151,7 @@ const POKEDEX_JSON = [
       height: "1.7 m",
       weight: "195 kg",
       egg: ["Undiscovered"],
-      ability: [["Water Absorb", "false"]],
+      ability: [["Água Absorb", "false"]],
       gender: "Genderless",
     },
     image: {
@@ -28168,7 +28168,7 @@ const POKEDEX_JSON = [
       chinese: "木木枭",
       french: "Brindibou",
     },
-    type: ["Grass", "Flying"],
+    type: ["Grama", "Voador"],
     base: {
       HP: 68,
       Attack: 55,
@@ -28177,7 +28177,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 42,
     },
-    species: "Grass Quill Pokémon",
+    species: "Grama Quill Pokémon",
     description:
       "Ele se sente relaxado em lugares apertados e escuros e é conhecido por usar o bolso ou bolsa de seu treinador como um ninho.",
     evolution: {
@@ -28186,7 +28186,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Overgrow", "false"],
         ["Long Reach", "true"],
@@ -28207,7 +28207,7 @@ const POKEDEX_JSON = [
       chinese: "投羽枭",
       french: "Efflèche",
     },
-    type: ["Grass", "Flying"],
+    type: ["Grama", "Voador"],
     base: {
       HP: 78,
       Attack: 75,
@@ -28226,7 +28226,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "16 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Overgrow", "false"],
         ["Long Reach", "true"],
@@ -28247,7 +28247,7 @@ const POKEDEX_JSON = [
       chinese: "狙射树枭",
       french: "Archéduc",
     },
-    type: ["Grass", "Ghost"],
+    type: ["Grama", "Fantasma"],
     base: {
       HP: 78,
       Attack: 107,
@@ -28265,7 +28265,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "36.6 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Overgrow", "false"],
         ["Long Reach", "true"],
@@ -28286,7 +28286,7 @@ const POKEDEX_JSON = [
       chinese: "火斑喵",
       french: "Flamiaou",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 45,
       Attack: 65,
@@ -28295,7 +28295,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 40,
       Speed: 70,
     },
-    species: "Fire Cat Pokémon",
+    species: "Fogo Cat Pokémon",
     description:
       "Seu casaco cresce duas vezes por ano. Quando chega a hora, Litten incendeia seu próprio corpo e queima o pelo velho.",
     evolution: {
@@ -28325,7 +28325,7 @@ const POKEDEX_JSON = [
       chinese: "炎热喵",
       french: "Matoufeu",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 65,
       Attack: 85,
@@ -28334,7 +28334,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 90,
     },
-    species: "Fire Cat Pokémon",
+    species: "Fogo Cat Pokémon",
     description:
       "Quando sua juba está de pé, você pode dizer que está se sentindo bem. Quando não está se sentindo bem, sua pelagem ficará deitada.",
     evolution: {
@@ -28365,7 +28365,7 @@ const POKEDEX_JSON = [
       chinese: "炽焰咆哮虎",
       french: "Félinferno",
     },
-    type: ["Fire", "Dark"],
+    type: ["Fogo", "Sombrio"],
     base: {
       HP: 95,
       Attack: 115,
@@ -28404,7 +28404,7 @@ const POKEDEX_JSON = [
       chinese: "球球海狮",
       french: "Otaquin",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 50,
       Attack: 54,
@@ -28422,10 +28422,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "7.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Torrent", "false"],
-        ["Liquid Voice", "true"],
+        ["Liquid VoGelo", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -28443,7 +28443,7 @@ const POKEDEX_JSON = [
       chinese: "花漾海狮",
       french: "Otarlette",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 60,
       Attack: 69,
@@ -28462,10 +28462,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "17.5 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Torrent", "false"],
-        ["Liquid Voice", "true"],
+        ["Liquid VoGelo", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -28483,7 +28483,7 @@ const POKEDEX_JSON = [
       chinese: "西狮海壬",
       french: "Oratoria",
     },
-    type: ["Water", "Fairy"],
+    type: ["Água", "Fada"],
     base: {
       HP: 80,
       Attack: 74,
@@ -28501,10 +28501,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "44 kg",
-      egg: ["Water 1", "Field"],
+      egg: ["Água 1", "Field"],
       ability: [
         ["Torrent", "false"],
-        ["Liquid Voice", "true"],
+        ["Liquid VoGelo", "true"],
       ],
       gender: "87.5:12.5",
     },
@@ -28522,7 +28522,7 @@ const POKEDEX_JSON = [
       chinese: "小笃儿",
       french: "Picassaut",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 35,
       Attack: 75,
@@ -28540,7 +28540,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.2 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Skill Link", "false"],
@@ -28562,7 +28562,7 @@ const POKEDEX_JSON = [
       chinese: "喇叭啄鸟",
       french: "Piclairon",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 55,
       Attack: 85,
@@ -28571,7 +28571,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 50,
       Speed: 75,
     },
-    species: "Bugle Beak Pokémon",
+    species: "Insetole Beak Pokémon",
     description:
       "De sua boca, ele dispara as sementes de bagas que comeu. As sementes espalhadas dão origem a novas plantas.",
     evolution: {
@@ -28581,7 +28581,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "14.8 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Skill Link", "false"],
@@ -28603,7 +28603,7 @@ const POKEDEX_JSON = [
       chinese: "铳嘴大鸟",
       french: "Bazoucan",
     },
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 80,
       Attack: 120,
@@ -28621,7 +28621,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "26 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Keen Eye", "false"],
         ["Skill Link", "false"],
@@ -28723,7 +28723,7 @@ const POKEDEX_JSON = [
       chinese: "强颚鸡母虫",
       french: "Larvibule",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 47,
       Attack: 62,
@@ -28741,7 +28741,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "4.4 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Swarm", "false"]],
       gender: "50:50",
     },
@@ -28754,12 +28754,12 @@ const POKEDEX_JSON = [
   {
     id: 737,
     name: {
-      english: "Charjabug",
+      english: "CharjaInseto",
       japanese: "デンヂムシ",
       chinese: "虫电宝",
       french: "Chrysapile",
     },
-    type: ["Bug", "Electric"],
+    type: ["Inseto", "Elétrico"],
     base: {
       HP: 57,
       Attack: 82,
@@ -28778,7 +28778,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "10.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Battery", "false"]],
       gender: "50:50",
     },
@@ -28796,7 +28796,7 @@ const POKEDEX_JSON = [
       chinese: "锹农炮虫",
       french: "Lucanon",
     },
-    type: ["Bug", "Electric"],
+    type: ["Inseto", "Elétrico"],
     base: {
       HP: 77,
       Attack: 70,
@@ -28817,7 +28817,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "45 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [["Levitate", "false"]],
       gender: "50:50",
     },
@@ -28835,7 +28835,7 @@ const POKEDEX_JSON = [
       chinese: "好胜蟹",
       french: "Crabagarre",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 47,
       Attack: 82,
@@ -28853,7 +28853,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "7 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Iron Fist", "false"],
@@ -28875,7 +28875,7 @@ const POKEDEX_JSON = [
       chinese: "好胜毛蟹",
       french: "Crabominable",
     },
-    type: ["Fighting", "Ice"],
+    type: ["Lutador", "Gelo"],
     base: {
       HP: 97,
       Attack: 132,
@@ -28893,7 +28893,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.7 m",
       weight: "180 kg",
-      egg: ["Water 3"],
+      egg: ["Água 3"],
       ability: [
         ["Hyper Cutter", "false"],
         ["Iron Fist", "false"],
@@ -28915,7 +28915,7 @@ const POKEDEX_JSON = [
       chinese: "花舞鸟",
       french: "Plumeline",
     },
-    type: ["Fire", "Flying"],
+    type: ["Fogo", "Voador"],
     base: {
       HP: 75,
       Attack: 70,
@@ -28931,7 +28931,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "3.4 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [["Dancer", "false"]],
       gender: "25:75",
     },
@@ -28949,7 +28949,7 @@ const POKEDEX_JSON = [
       chinese: "萌虻",
       french: "Bombydou",
     },
-    type: ["Bug", "Fairy"],
+    type: ["Inseto", "Fada"],
     base: {
       HP: 40,
       Attack: 45,
@@ -28967,7 +28967,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.1 m",
       weight: "0.2 kg",
-      egg: ["Bug", "Fairy"],
+      egg: ["Inseto", "Fada"],
       ability: [
         ["Honey Gather", "false"],
         ["Shield Dust", "false"],
@@ -28989,7 +28989,7 @@ const POKEDEX_JSON = [
       chinese: "蝶结萌虻",
       french: "Rubombelle",
     },
-    type: ["Bug", "Fairy"],
+    type: ["Inseto", "Fada"],
     base: {
       HP: 60,
       Attack: 55,
@@ -29007,7 +29007,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "0.5 kg",
-      egg: ["Bug", "Fairy"],
+      egg: ["Inseto", "Fada"],
       ability: [
         ["Honey Gather", "false"],
         ["Shield Dust", "false"],
@@ -29024,12 +29024,12 @@ const POKEDEX_JSON = [
   {
     id: 744,
     name: {
-      english: "Rockruff",
+      english: "Rocharuff",
       japanese: "イワンコ",
       chinese: "岩狗狗",
       french: "Rocabot",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 45,
       Attack: 65,
@@ -29069,7 +29069,7 @@ const POKEDEX_JSON = [
       chinese: "鬃岩狼人",
       french: "Lougaroc",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 75,
       Attack: 115,
@@ -29109,7 +29109,7 @@ const POKEDEX_JSON = [
       chinese: "弱丁鱼",
       french: "Froussardine",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 45,
       Attack: 20,
@@ -29125,7 +29125,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "0.3 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [["Schooling", "false"]],
       gender: "50:50",
     },
@@ -29143,7 +29143,7 @@ const POKEDEX_JSON = [
       chinese: "好坏星",
       french: "Vorastérie",
     },
-    type: ["Poison", "Water"],
+    type: ["Venenoso", "Água"],
     base: {
       HP: 50,
       Attack: 53,
@@ -29161,7 +29161,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "8 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Merciless", "false"],
         ["Limber", "false"],
@@ -29183,7 +29183,7 @@ const POKEDEX_JSON = [
       chinese: "超坏星",
       french: "Prédastérie",
     },
-    type: ["Poison", "Water"],
+    type: ["Venenoso", "Água"],
     base: {
       HP: 50,
       Attack: 63,
@@ -29201,7 +29201,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "14.5 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Merciless", "false"],
         ["Limber", "false"],
@@ -29223,7 +29223,7 @@ const POKEDEX_JSON = [
       chinese: "泥驴仔",
       french: "Tiboudet",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 70,
       Attack: 100,
@@ -29263,7 +29263,7 @@ const POKEDEX_JSON = [
       chinese: "重泥挽马",
       french: "Bourrinos",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     base: {
       HP: 100,
       Attack: 125,
@@ -29303,7 +29303,7 @@ const POKEDEX_JSON = [
       chinese: "滴蛛",
       french: "Araqua",
     },
-    type: ["Water", "Bug"],
+    type: ["Água", "Inseto"],
     base: {
       HP: 38,
       Attack: 40,
@@ -29312,7 +29312,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 72,
       Speed: 27,
     },
-    species: "Water Bubble Pokémon",
+    species: "Água Bubble Pokémon",
     description:
       "Ele só pode respirar oxigênio que se dissolveu na água, por isso usa uma bolha de água na cabeça quando caminha na terra.",
     evolution: {
@@ -29321,10 +29321,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "4 kg",
-      egg: ["Water 1", "Bug"],
+      egg: ["Água 1", "Inseto"],
       ability: [
-        ["Water Bubble", "false"],
-        ["Water Absorb", "true"],
+        ["Água Bubble", "false"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -29342,7 +29342,7 @@ const POKEDEX_JSON = [
       chinese: "滴蛛霸",
       french: "Tarenbulle",
     },
-    type: ["Water", "Bug"],
+    type: ["Água", "Inseto"],
     base: {
       HP: 68,
       Attack: 70,
@@ -29351,7 +29351,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 132,
       Speed: 42,
     },
-    species: "Water Bubble Pokémon",
+    species: "Água Bubble Pokémon",
     description:
       "Ele tem o hábito de armazenar coisas que valoriza em sua bolha de água. Se seu treinador não tomar cuidado, Araquanid tentará colocá-los em sua bolha!",
     evolution: {
@@ -29360,10 +29360,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "82 kg",
-      egg: ["Water 1", "Bug"],
+      egg: ["Água 1", "Inseto"],
       ability: [
-        ["Water Bubble", "false"],
-        ["Water Absorb", "true"],
+        ["Água Bubble", "false"],
+        ["Água Absorb", "true"],
       ],
       gender: "50:50",
     },
@@ -29381,7 +29381,7 @@ const POKEDEX_JSON = [
       chinese: "伪螳草",
       french: "Mimantis",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 40,
       Attack: 55,
@@ -29390,7 +29390,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 35,
       Speed: 35,
     },
-    species: "Sickle Grass Pokémon",
+    species: "Sickle Grama Pokémon",
     description:
       "Ele adora o sol. Quando toma banho de sol regularmente, cresce com coloração vívida.",
     evolution: {
@@ -29399,7 +29399,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Leaf Guard", "false"],
         ["Contrary", "true"],
@@ -29420,7 +29420,7 @@ const POKEDEX_JSON = [
       chinese: "兰螳花",
       french: "Floramantis",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 70,
       Attack: 105,
@@ -29438,7 +29438,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "18.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Leaf Guard", "false"],
         ["Contrary", "true"],
@@ -29459,7 +29459,7 @@ const POKEDEX_JSON = [
       chinese: "睡睡菇",
       french: "Spododo",
     },
-    type: ["Grass", "Fairy"],
+    type: ["Grama", "Fada"],
     base: {
       HP: 40,
       Attack: 35,
@@ -29477,7 +29477,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "1.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Illuminate", "false"],
         ["Effect Spore", "false"],
@@ -29499,7 +29499,7 @@ const POKEDEX_JSON = [
       chinese: "灯罩夜菇",
       french: "Lampignon",
     },
-    type: ["Grass", "Fairy"],
+    type: ["Grama", "Fada"],
     base: {
       HP: 60,
       Attack: 45,
@@ -29517,7 +29517,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "11.5 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Illuminate", "false"],
         ["Effect Spore", "false"],
@@ -29539,7 +29539,7 @@ const POKEDEX_JSON = [
       chinese: "夜盗火蜥",
       french: "Tritox",
     },
-    type: ["Poison", "Fire"],
+    type: ["Venenoso", "Fogo"],
     base: {
       HP: 48,
       Attack: 44,
@@ -29557,7 +29557,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "4.8 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Corrosion", "false"],
         ["Oblivious", "true"],
@@ -29578,7 +29578,7 @@ const POKEDEX_JSON = [
       chinese: "焰后蜥",
       french: "Malamandre",
     },
-    type: ["Poison", "Fire"],
+    type: ["Venenoso", "Fogo"],
     base: {
       HP: 68,
       Attack: 64,
@@ -29596,7 +29596,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "22.2 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Corrosion", "false"],
         ["Oblivious", "true"],
@@ -29617,7 +29617,7 @@ const POKEDEX_JSON = [
       chinese: "童偶熊",
       french: "Nounourson",
     },
-    type: ["Normal", "Fighting"],
+    type: ["Normal", "Lutador"],
     base: {
       HP: 70,
       Attack: 75,
@@ -29657,7 +29657,7 @@ const POKEDEX_JSON = [
       chinese: "穿着熊",
       french: "Chelours",
     },
-    type: ["Normal", "Fighting"],
+    type: ["Normal", "Lutador"],
     base: {
       HP: 120,
       Attack: 125,
@@ -29697,7 +29697,7 @@ const POKEDEX_JSON = [
       chinese: "甜竹竹",
       french: "Croquine",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 42,
       Attack: 30,
@@ -29715,7 +29715,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "3.2 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Leaf Guard", "false"],
         ["Oblivious", "false"],
@@ -29737,7 +29737,7 @@ const POKEDEX_JSON = [
       chinese: "甜舞妮",
       french: "Candine",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 52,
       Attack: 40,
@@ -29756,7 +29756,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "8.2 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Leaf Guard", "false"],
         ["Oblivious", "false"],
@@ -29778,7 +29778,7 @@ const POKEDEX_JSON = [
       chinese: "甜冷美后",
       french: "Sucreine",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 72,
       Attack: 120,
@@ -29796,7 +29796,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "21.4 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Leaf Guard", "false"],
         ["Queenly Majesty", "false"],
@@ -29818,7 +29818,7 @@ const POKEDEX_JSON = [
       chinese: "花疗环环",
       french: "Guérilande",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 51,
       Attack: 52,
@@ -29834,7 +29834,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.1 m",
       weight: "0.3 kg",
-      egg: ["Grass"],
+      egg: ["Grama"],
       ability: [
         ["Flower Veil", "false"],
         ["Triage", "false"],
@@ -29856,7 +29856,7 @@ const POKEDEX_JSON = [
       chinese: "智挥猩",
       french: "Gouroutan",
     },
-    type: ["Normal", "Psychic"],
+    type: ["Normal", "Psíquico"],
     base: {
       HP: 90,
       Attack: 60,
@@ -29894,7 +29894,7 @@ const POKEDEX_JSON = [
       chinese: "投掷猴",
       french: "Quartermac",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     base: {
       HP: 100,
       Attack: 120,
@@ -29931,7 +29931,7 @@ const POKEDEX_JSON = [
       chinese: "胆小虫",
       french: "Sovkipou",
     },
-    type: ["Bug", "Water"],
+    type: ["Inseto", "Água"],
     base: {
       HP: 25,
       Attack: 35,
@@ -29949,7 +29949,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "12 kg",
-      egg: ["Bug", "Water 3"],
+      egg: ["Inseto", "Água 3"],
       ability: [["Wimp Out", "false"]],
       gender: "50:50",
     },
@@ -29967,7 +29967,7 @@ const POKEDEX_JSON = [
       chinese: "具甲武者",
       french: "Sarmuraï",
     },
-    type: ["Bug", "Water"],
+    type: ["Inseto", "Água"],
     base: {
       HP: 75,
       Attack: 125,
@@ -29985,7 +29985,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "108 kg",
-      egg: ["Bug", "Water 3"],
+      egg: ["Inseto", "Água 3"],
       ability: [["Emergency Exit", "false"]],
       gender: "50:50",
     },
@@ -30003,7 +30003,7 @@ const POKEDEX_JSON = [
       chinese: "沙丘娃",
       french: "Bacabouh",
     },
-    type: ["Ghost", "Ground"],
+    type: ["Fantasma", "Terra"],
     base: {
       HP: 55,
       Attack: 55,
@@ -30023,7 +30023,7 @@ const POKEDEX_JSON = [
       weight: "70 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Water Compaction", "false"],
+        ["Água Compaction", "false"],
         ["Sand Veil", "true"],
       ],
       gender: "50:50",
@@ -30042,7 +30042,7 @@ const POKEDEX_JSON = [
       chinese: "噬沙堡爷",
       french: "Trépassable",
     },
-    type: ["Ghost", "Ground"],
+    type: ["Fantasma", "Terra"],
     base: {
       HP: 85,
       Attack: 75,
@@ -30062,7 +30062,7 @@ const POKEDEX_JSON = [
       weight: "250 kg",
       egg: ["Amorphous"],
       ability: [
-        ["Water Compaction", "false"],
+        ["Água Compaction", "false"],
         ["Sand Veil", "true"],
       ],
       gender: "50:50",
@@ -30081,7 +30081,7 @@ const POKEDEX_JSON = [
       chinese: "拳海参",
       french: "Concombaffe",
     },
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 60,
@@ -30097,7 +30097,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.2 kg",
-      egg: ["Water 1"],
+      egg: ["Água 1"],
       ability: [
         ["Innards Out", "false"],
         ["Unaware", "true"],
@@ -30190,7 +30190,7 @@ const POKEDEX_JSON = [
       chinese: "小陨星",
       french: "Dodoala",
     },
-    type: ["Rock", "Flying"],
+    type: ["Rocha", "Voador"],
     base: {
       HP: 60,
       Attack: 60,
@@ -30258,7 +30258,7 @@ const POKEDEX_JSON = [
       chinese: "爆焰龟兽",
       french: "Togedemaru",
     },
-    type: ["Fire", "Dragon"],
+    type: ["Fogo", "Dragão"],
     base: {
       HP: 60,
       Attack: 78,
@@ -30274,7 +30274,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2 m",
       weight: "212 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [["Shell Armor", "false"]],
       gender: "50:50",
     },
@@ -30292,7 +30292,7 @@ const POKEDEX_JSON = [
       chinese: "托戈德玛尔",
       french: "Mimiqui",
     },
-    type: ["Electric", "Steel"],
+    type: ["Elétrico", "Metal"],
     base: {
       HP: 65,
       Attack: 98,
@@ -30308,7 +30308,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "3.3 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Iron Barbs", "false"],
         ["Lightning Rod", "false"],
@@ -30330,7 +30330,7 @@ const POKEDEX_JSON = [
       chinese: "谜拟Ｑ",
       french: "Denticrisse",
     },
-    type: ["Ghost", "Fairy"],
+    type: ["Fantasma", "Fada"],
     base: {
       HP: 55,
       Attack: 90,
@@ -30364,7 +30364,7 @@ const POKEDEX_JSON = [
       chinese: "磨牙彩皮鱼",
       french: "Draïeul",
     },
-    type: ["Water", "Psychic"],
+    type: ["Água", "Psíquico"],
     base: {
       HP: 68,
       Attack: 105,
@@ -30380,7 +30380,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "19 kg",
-      egg: ["Water 2"],
+      egg: ["Água 2"],
       ability: [
         ["Dazzling", "false"],
         ["Strong Jaw", "false"],
@@ -30402,7 +30402,7 @@ const POKEDEX_JSON = [
       chinese: "老翁龙",
       french: "Sinistrail",
     },
-    type: ["Normal", "Dragon"],
+    type: ["Normal", "Dragão"],
     base: {
       HP: 78,
       Attack: 60,
@@ -30418,7 +30418,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "3 m",
       weight: "185 kg",
-      egg: ["Monster", "Dragon"],
+      egg: ["Monster", "Dragão"],
       ability: [
         ["Berserk", "false"],
         ["Sap Sipper", "false"],
@@ -30440,7 +30440,7 @@ const POKEDEX_JSON = [
       chinese: "破破舵轮",
       french: "Bébécaille",
     },
-    type: ["Ghost", "Grass"],
+    type: ["Fantasma", "Grama"],
     base: {
       HP: 70,
       Attack: 131,
@@ -30457,7 +30457,7 @@ const POKEDEX_JSON = [
       height: "3.9 m",
       weight: "210 kg",
       egg: ["Mineral"],
-      ability: [["Steelworker", "false"]],
+      ability: [["Metalworker", "false"]],
       gender: "Genderless",
     },
     image: {
@@ -30474,7 +30474,7 @@ const POKEDEX_JSON = [
       chinese: "心鳞宝",
       french: "Écaïd",
     },
-    type: ["Dragon"],
+    type: ["Dragão"],
     base: {
       HP: 45,
       Attack: 55,
@@ -30492,7 +30492,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "29.7 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Bulletproof", "false"],
         ["Soundproof", "false"],
@@ -30514,7 +30514,7 @@ const POKEDEX_JSON = [
       chinese: "鳞甲龙",
       french: "Ékaïser",
     },
-    type: ["Dragon", "Fighting"],
+    type: ["Dragão", "Lutador"],
     base: {
       HP: 55,
       Attack: 75,
@@ -30533,7 +30533,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "47 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Bulletproof", "false"],
         ["Soundproof", "false"],
@@ -30555,7 +30555,7 @@ const POKEDEX_JSON = [
       chinese: "杖尾鳞甲龙",
       french: "Tokorico",
     },
-    type: ["Dragon", "Fighting"],
+    type: ["Dragão", "Lutador"],
     base: {
       HP: 75,
       Attack: 110,
@@ -30573,7 +30573,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "78.2 kg",
-      egg: ["Dragon"],
+      egg: ["Dragão"],
       ability: [
         ["Bulletproof", "false"],
         ["Soundproof", "false"],
@@ -30595,7 +30595,7 @@ const POKEDEX_JSON = [
       chinese: "卡璞・鸣鸣",
       french: "Tokopiyon",
     },
-    type: ["Electric", "Fairy"],
+    type: ["Elétrico", "Fada"],
     base: {
       HP: 70,
       Attack: 115,
@@ -30613,7 +30613,7 @@ const POKEDEX_JSON = [
       weight: "20.5 kg",
       egg: ["Undiscovered"],
       ability: [
-        ["Electric Surge", "false"],
+        ["Elétrico Surge", "false"],
         ["Telepathy", "true"],
       ],
       gender: "Genderless",
@@ -30632,7 +30632,7 @@ const POKEDEX_JSON = [
       chinese: "卡璞・蝶蝶",
       french: "Tokotoro",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     base: {
       HP: 70,
       Attack: 85,
@@ -30650,7 +30650,7 @@ const POKEDEX_JSON = [
       weight: "18.6 kg",
       egg: ["Undiscovered"],
       ability: [
-        ["Psychic Surge", "false"],
+        ["Psíquico Surge", "false"],
         ["Telepathy", "true"],
       ],
       gender: "Genderless",
@@ -30669,7 +30669,7 @@ const POKEDEX_JSON = [
       chinese: "卡璞・哞哞",
       french: "Tokopisco",
     },
-    type: ["Grass", "Fairy"],
+    type: ["Grama", "Fada"],
     base: {
       HP: 70,
       Attack: 130,
@@ -30687,7 +30687,7 @@ const POKEDEX_JSON = [
       weight: "45.5 kg",
       egg: ["Undiscovered"],
       ability: [
-        ["Grassy Surge", "false"],
+        ["Gramay Surge", "false"],
         ["Telepathy", "true"],
       ],
       gender: "Genderless",
@@ -30706,7 +30706,7 @@ const POKEDEX_JSON = [
       chinese: "卡璞・鳍鳍",
       french: "Tokopisco",
     },
-    type: ["Water", "Fairy"],
+    type: ["Água", "Fada"],
     base: {
       HP: 70,
       Attack: 75,
@@ -30743,7 +30743,7 @@ const POKEDEX_JSON = [
       chinese: "科斯莫古",
       french: "Cosmog",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 43,
       Attack: 29,
@@ -30779,7 +30779,7 @@ const POKEDEX_JSON = [
       chinese: "科斯莫姆",
       french: "Cosmovum",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 43,
       Attack: 29,
@@ -30819,7 +30819,7 @@ const POKEDEX_JSON = [
       chinese: "索尔迦雷欧",
       french: "Solgaleo",
     },
-    type: ["Psychic", "Steel"],
+    type: ["Psíquico", "Metal"],
     base: {
       HP: 137,
       Attack: 137,
@@ -30855,7 +30855,7 @@ const POKEDEX_JSON = [
       chinese: "露奈雅拉",
       french: "Lunala",
     },
-    type: ["Psychic", "Ghost"],
+    type: ["Psíquico", "Fantasma"],
     base: {
       HP: 137,
       Attack: 113,
@@ -30891,7 +30891,7 @@ const POKEDEX_JSON = [
       chinese: "虚吾伊德",
       french: "Zéroïd",
     },
-    type: ["Rock", "Poison"],
+    type: ["Rocha", "Venenoso"],
     base: {
       HP: 109,
       Attack: 53,
@@ -30925,7 +30925,7 @@ const POKEDEX_JSON = [
       chinese: "爆肌蚊",
       french: "Mouscoto",
     },
-    type: ["Bug", "Fighting"],
+    type: ["Inseto", "Lutador"],
     base: {
       HP: 107,
       Attack: 139,
@@ -30959,7 +30959,7 @@ const POKEDEX_JSON = [
       chinese: "费洛美螂",
       french: "Cancrelove",
     },
-    type: ["Bug", "Fighting"],
+    type: ["Inseto", "Lutador"],
     base: {
       HP: 71,
       Attack: 137,
@@ -30993,7 +30993,7 @@ const POKEDEX_JSON = [
       chinese: "电束木",
       french: "Câblifère",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 83,
       Attack: 89,
@@ -31027,7 +31027,7 @@ const POKEDEX_JSON = [
       chinese: "铁火辉夜",
       french: "Bamboiselle",
     },
-    type: ["Steel", "Flying"],
+    type: ["Metal", "Voador"],
     base: {
       HP: 97,
       Attack: 101,
@@ -31061,7 +31061,7 @@ const POKEDEX_JSON = [
       chinese: "纸御剑",
       french: "Katagami",
     },
-    type: ["Grass", "Steel"],
+    type: ["Grama", "Metal"],
     base: {
       HP: 59,
       Attack: 181,
@@ -31095,7 +31095,7 @@ const POKEDEX_JSON = [
       chinese: "恶食大王",
       french: "Engloutyran",
     },
-    type: ["Dark", "Dragon"],
+    type: ["Sombrio", "Dragão"],
     base: {
       HP: 223,
       Attack: 101,
@@ -31129,7 +31129,7 @@ const POKEDEX_JSON = [
       chinese: "奈克洛兹玛",
       french: "Necrozma",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 97,
       Attack: 107,
@@ -31163,7 +31163,7 @@ const POKEDEX_JSON = [
       chinese: "玛机雅娜",
       french: "Magearna",
     },
-    type: ["Steel", "Fairy"],
+    type: ["Metal", "Fada"],
     base: {
       HP: 80,
       Attack: 95,
@@ -31197,7 +31197,7 @@ const POKEDEX_JSON = [
       chinese: "玛夏多",
       french: "Marshadow",
     },
-    type: ["Fighting", "Ghost"],
+    type: ["Lutador", "Fantasma"],
     base: {
       HP: 90,
       Attack: 125,
@@ -31231,7 +31231,7 @@ const POKEDEX_JSON = [
       chinese: "毒贝比",
       french: "Vémini",
     },
-    type: ["Poison"],
+    type: ["Venenoso"],
     base: {
       HP: 67,
       Attack: 73,
@@ -31240,11 +31240,11 @@ const POKEDEX_JSON = [
       "Sp. Defense": 67,
       Speed: 73,
     },
-    species: "Poison Pin Pokémon",
+    species: "Venenoso Pin Pokémon",
     description:
       "Uma Ultra Beast que vive em um mundo diferente, ela cacareja selvagemente enquanto pulveriza seus oponentes com veneno das agulhas em sua cabeça.",
     evolution: {
-      next: [["804", "after Dragon Pulse learned"]],
+      next: [["804", "after Dragão Pulse learned"]],
     },
     profile: {
       height: "0.6 m",
@@ -31267,7 +31267,7 @@ const POKEDEX_JSON = [
       chinese: "四颚针龙",
       french: "Mandrillon",
     },
-    type: ["Poison", "Dragon"],
+    type: ["Venenoso", "Dragão"],
     base: {
       HP: 73,
       Attack: 73,
@@ -31276,11 +31276,11 @@ const POKEDEX_JSON = [
       "Sp. Defense": 73,
       Speed: 121,
     },
-    species: "Poison Pin Pokémon",
+    species: "Venenoso Pin Pokémon",
     description:
       "Um tipo de Ultra Beast, ele dispara um líquido venenoso brilhante de suas agulhas. Esse líquido também é extremamente adesivo.",
     evolution: {
-      prev: ["803", "after Dragon Pulse learned"],
+      prev: ["803", "after Dragão Pulse learned"],
     },
     profile: {
       height: "3.6 m",
@@ -31303,7 +31303,7 @@ const POKEDEX_JSON = [
       chinese: "垒磊石",
       french: "Ama - Ama",
     },
-    type: ["Rock", "Steel"],
+    type: ["Rocha", "Metal"],
     base: {
       HP: 61,
       Attack: 131,
@@ -31337,7 +31337,7 @@ const POKEDEX_JSON = [
       chinese: "砰头小丑",
       french: "Pierroteknik",
     },
-    type: ["Fire", "Ghost"],
+    type: ["Fogo", "Fantasma"],
     base: {
       HP: 53,
       Attack: 127,
@@ -31346,7 +31346,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 79,
       Speed: 107,
     },
-    species: "Fireworks Pokémon",
+    species: "Fogoworks Pokémon",
     description:
       "Um UB que apareceu de um Ultra Wormhole, ele causa explosões, depois tira proveito da surpresa dos oponentes para roubar sua vitalidade.",
     evolution: {},
@@ -31371,7 +31371,7 @@ const POKEDEX_JSON = [
       chinese: "捷拉奥拉",
       french: "Zeraora",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 88,
       Attack: 112,
@@ -31405,7 +31405,7 @@ const POKEDEX_JSON = [
       chinese: "美录坦",
       french: "Meltan",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 46,
       Attack: 65,
@@ -31441,7 +31441,7 @@ const POKEDEX_JSON = [
       chinese: "美录梅塔",
       french: "Melmetal",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 135,
       Attack: 143,
@@ -31477,7 +31477,7 @@ const POKEDEX_JSON = [
       chinese: "敲音猴",
       french: "Ouistempo",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     species: "Chimp Pokémon",
     description:
       "Ele ataca com batidas rápidas de seu bastão. Enquanto ataca com velocidade incrível, ele fica cada vez mais animado.",
@@ -31490,7 +31490,7 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
       ability: [
         ["Overgrow", "false"],
-        ["Grassy-surge", "true"],
+        ["Gramay-surge", "true"],
       ],
     },
     image: {
@@ -31507,7 +31507,7 @@ const POKEDEX_JSON = [
       chinese: "啪咚猴",
       french: "Badabouin",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     species: "Beat Pokémon",
     description:
       "Quando está batendo ritmos rápidos em batalha, ele fica tão envolvido no ritmo que nem percebe que já derrubou seu oponente.",
@@ -31521,7 +31521,7 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
       ability: [
         ["Overgrow", "false"],
-        ["Grassy-surge", "true"],
+        ["Gramay-surge", "true"],
       ],
     },
     image: {
@@ -31538,7 +31538,7 @@ const POKEDEX_JSON = [
       chinese: "轰擂金刚猩",
       french: "Gorythmic",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     species: "Drummer Pokémon",
     description:
       "Aquele com as melhores técnicas de bateria se torna o chefe da tropa. Ele tem uma disposição gentil e valoriza a harmonia entre seu grupo.",
@@ -31551,7 +31551,7 @@ const POKEDEX_JSON = [
       gender: "87.5:12.5",
       ability: [
         ["Overgrow", "false"],
-        ["Grassy-surge", "true"],
+        ["Gramay-surge", "true"],
       ],
     },
     image: {
@@ -31568,7 +31568,7 @@ const POKEDEX_JSON = [
       chinese: "炎兔儿",
       french: "Flambino",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     species: "Rabbit Pokémon",
     description:
       "Ele tem almofadas especiais nas costas dos pés e uma no nariz. Uma vez que está ansioso para lutar, essas almofadas irradiam calor tremendo.",
@@ -31598,7 +31598,7 @@ const POKEDEX_JSON = [
       chinese: "腾蹴小将",
       french: "Lapyro",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     species: "Rabbit Pokémon",
     description:
       "Ele chuta bagas diretamente dos galhos das árvores e depois as malabarismos com os pés, praticando seu trabalho de pés.",
@@ -31629,7 +31629,7 @@ const POKEDEX_JSON = [
       chinese: "闪焰王牌",
       french: "Pyrobut",
     },
-    type: ["Fire"],
+    type: ["Fogo"],
     species: "Striker Pokémon",
     description:
       "Ele é habilidoso tanto na ofensiva quanto na defesa e fica animado quando torcido. Mas se começar a exibir, pode se colocar em uma situação difícil.",
@@ -31659,8 +31659,8 @@ const POKEDEX_JSON = [
       chinese: "泪眼蜥",
       french: "Larméléon",
     },
-    type: ["Water"],
-    species: "Water Lizard Pokémon",
+    type: ["Água"],
+    species: "Água Lizard Pokémon",
     description:
       "Quando fica molhado, sua pele muda de cor e este Pokémon se torna invisível como se estivesse camuflado.",
     evolution: {
@@ -31689,8 +31689,8 @@ const POKEDEX_JSON = [
       chinese: "变涩蜥",
       french: "Arrozard",
     },
-    type: ["Water"],
-    species: "Water lizard Pokémon",
+    type: ["Água"],
+    species: "Água lizard Pokémon",
     description:
       "Altamente inteligente, mas também muito preguiçoso, ele mantém inimigos fora de seu território colocando armadilhas em todos os lugares.",
     evolution: {
@@ -31720,7 +31720,7 @@ const POKEDEX_JSON = [
       chinese: "千面避役",
       french: "Lézargus",
     },
-    type: ["Water"],
+    type: ["Água"],
     species: "Secret Agent Pokémon",
     description:
       "Suas membranas nictitantes permitem que ele escolha os pontos fracos de seus inimigos para que ele possa atingi-los precisamente com água que dispara de seus dedos em Mach 3.",
@@ -31810,7 +31810,7 @@ const POKEDEX_JSON = [
       chinese: "稚山雀",
       french: "Minisange",
     },
-    type: ["Flying"],
+    type: ["Voador"],
     species: "Tiny Bird Pokémon",
     description:
       "Pulando ágilmente, este Pokémon de corpo pequeno tira proveito até mesmo da menor oportunidade para desorientar oponentes maiores.",
@@ -31841,7 +31841,7 @@ const POKEDEX_JSON = [
       chinese: "蓝鸦",
       french: "Bleuseille",
     },
-    type: ["Flying"],
+    type: ["Voador"],
     species: "Raven Pokémon",
     description:
       "As lições de muitas batalhas duras ensinaram-lhe como julgar com precisão a força de um oponente.",
@@ -31873,7 +31873,7 @@ const POKEDEX_JSON = [
       chinese: "钢铠鸦",
       french: "Corvaillus",
     },
-    type: ["Flying", "Steel"],
+    type: ["Voador", "Metal"],
     species: "Raven Pokémon",
     description:
       "Com seu grande intelecto e habilidades de vôo, esses Pokémon atuam com muito sucesso como serviço de táxi aéreo da região de Galar.",
@@ -31899,12 +31899,12 @@ const POKEDEX_JSON = [
   {
     id: 824,
     name: {
-      english: "Blipbug",
+      english: "BlipInseto",
       japanese: "サッチムシ",
       chinese: "索侦虫",
       french: "Larvadar",
     },
-    type: ["Bug"],
+    type: ["Inseto"],
     species: "Larva Pokémon",
     description:
       "Comumente encontrado em jardins, este Pokémon tem pelos em seu corpo que ele usa para avaliar seus arredores.",
@@ -31935,7 +31935,7 @@ const POKEDEX_JSON = [
       chinese: "天罩虫",
       french: "Coléodôme",
     },
-    type: ["Bug", "Psychic"],
+    type: ["Inseto", "Psíquico"],
     species: "Radome Pokémon",
     description:
       "Enquanto cresce dentro de sua concha, ele usa suas habilidades psíquicas para monitorar o mundo exterior e se preparar para a evolução.",
@@ -31967,7 +31967,7 @@ const POKEDEX_JSON = [
       chinese: "以欧路普",
       french: "Astronelle",
     },
-    type: ["Bug", "Psychic"],
+    type: ["Inseto", "Psíquico"],
     species: "Seven Spot Pokémon",
     description:
       "Ele emite energia psíquica para observar e estudar o que está ao seu redor - e o que está ao seu redor pode incluir coisas a mais de seis milhas de distância.",
@@ -31998,7 +31998,7 @@ const POKEDEX_JSON = [
       chinese: "偷儿狐",
       french: "Goupilou",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     species: "Fox Pokémon",
     description:
       "Astuto e cauteloso, este Pokémon sobrevive roubando comida dos outros. Ele apaga suas trilhas com golpes de sua cauda enquanto faz sua pilhagem.",
@@ -32029,7 +32029,7 @@ const POKEDEX_JSON = [
       chinese: "狐大盗",
       french: "Roublenard",
     },
-    type: ["Dark"],
+    type: ["Sombrio"],
     species: "Fox Pokémon",
     description:
       "Com um corpo lithe e garras afiadas, ele anda roubando comida e ovos. Boltund é seu inimigo natural.",
@@ -32060,7 +32060,7 @@ const POKEDEX_JSON = [
       chinese: "幼棉棉",
       french: "Tournicoton",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     species: "Flowering Pokémon",
     description:
       "Ele gira no vento enquanto canta uma música alegre. Essa exibição deliciosa encantou muitos a criar este Pokémon.",
@@ -32091,7 +32091,7 @@ const POKEDEX_JSON = [
       chinese: "白蓬蓬",
       french: "Blancoton",
     },
-    type: ["Grass"],
+    type: ["Grama"],
     species: "Cotton Bloom Pokémon",
     description:
       "O algodão na cabeça deste Pokémon pode ser fiado em um fio brilhante e lindo - uma especialidade regional de Galar.",
@@ -32184,7 +32184,7 @@ const POKEDEX_JSON = [
       chinese: "咬咬龟 ",
       french: "Khélocrok",
     },
-    type: ["Water"],
+    type: ["Água"],
     species: "Snapping Pokémon",
     description:
       "Ele começa as batalhas atacando com seu chifre duro como uma rocha, mas assim que o oponente recua, este Pokémon morde e nunca solta.",
@@ -32215,7 +32215,7 @@ const POKEDEX_JSON = [
       chinese: "暴噬龟",
       french: "Torgamord",
     },
-    type: ["Water", "Rock"],
+    type: ["Água", "Rocha"],
     species: "Bite Pokémon",
     description:
       "Este Pokémon estende rapidamente seu pescoço retrátil para afundar suas presas afiadas em inimigos distantes e derrubá-los.",
@@ -32246,7 +32246,7 @@ const POKEDEX_JSON = [
       chinese: "来电汪",
       french: "Voltoutou",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     species: "Puppy Pokémon",
     description:
       "Este Pokémon guloso só ajuda as pessoas com seu trabalho porque quer guloseimas. Enquanto corre, ele crepita com eletricidade.",
@@ -32276,7 +32276,7 @@ const POKEDEX_JSON = [
       chinese: "逐电犬",
       french: "Fulgudog",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     species: "Dog Pokémon",
     description:
       "Ele envia eletricidade através de suas pernas para aumentar sua força. Correndo em velocidade máxima, ele facilmente quebra 50 mph.",
@@ -32306,7 +32306,7 @@ const POKEDEX_JSON = [
       chinese: "小炭仔",
       french: "Charbi",
     },
-    type: ["Rock"],
+    type: ["Rocha"],
     species: "Coal Pokémon",
     description:
       "Ele pode correr como um monociclo, mesmo em terrenos acidentados e rochosos. O carvão em chamas o sustenta.",
@@ -32320,7 +32320,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Steam-engine", "false"],
         ["Heatproof", "false"],
-        ["Flash-fire", "true"],
+        ["Flash-Fogo", "true"],
       ],
     },
     image: {
@@ -32337,7 +32337,7 @@ const POKEDEX_JSON = [
       chinese: "大炭车",
       french: "Wagomine",
     },
-    type: ["Rock", "Fire"],
+    type: ["Rocha", "Fogo"],
     species: "Coal Pokémon",
     description:
       "Girando rapidamente as pernas, ele pode viajar a mais de 18 mph. A temperatura das chamas que ele respira excede 1.800 graus Fahrenheit.",
@@ -32352,7 +32352,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Steam-engine", "false"],
         ["Flame-body", "false"],
-        ["Flash-fire", "true"],
+        ["Flash-Fogo", "true"],
       ],
     },
     image: {
@@ -32369,7 +32369,7 @@ const POKEDEX_JSON = [
       chinese: "巨炭山",
       french: "Monthracite",
     },
-    type: ["Rock", "Fire"],
+    type: ["Rocha", "Fogo"],
     species: "Coal Pokémon",
     description:
       "Enquanto está envolvido em batalha, sua montanha de carvão queimará vermelho brilhante, enviando faíscas que queimam a área circundante.",
@@ -32383,7 +32383,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Steam-engine", "false"],
         ["Flame-body", "false"],
-        ["Flash-fire", "true"],
+        ["Flash-Fogo", "true"],
       ],
     },
     image: {
@@ -32400,7 +32400,7 @@ const POKEDEX_JSON = [
       chinese: "啃果虫",
       french: "Verpom",
     },
-    type: ["Grass", "Dragon"],
+    type: ["Grama", "Dragão"],
     species: "Apple Core Pokémon",
     description:
       "Assim que nasce, ele se enterra em uma maçã. Não só a maçã serve como fonte de alimento, mas o sabor da fruta determina sua evolução.",
@@ -32434,7 +32434,7 @@ const POKEDEX_JSON = [
       chinese: "苹裹龙",
       french: "Pomdrapi",
     },
-    type: ["Grass", "Dragon"],
+    type: ["Grama", "Dragão"],
     species: "Apple Wing Pokémon",
     description:
       "Ele voa em asas de casca de maçã e cospe um ácido poderoso. Ele também pode mudar sua forma para a de uma maçã.",
@@ -32465,7 +32465,7 @@ const POKEDEX_JSON = [
       chinese: "丰蜜龙",
       french: "Dratatin",
     },
-    type: ["Grass", "Dragon"],
+    type: ["Grama", "Dragão"],
     species: "Apple Nectar Pokémon",
     description:
       "Seu corpo é coberto de néctar doce e a pele nas costas é especialmente gostosa. Crianças costumavam comê-lo como lanche.",
@@ -32496,7 +32496,7 @@ const POKEDEX_JSON = [
       chinese: "沙包蛇",
       french: "Dunaja",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     species: "Sand Snake Pokémon",
     description:
       "Ele cospe areia de suas narinas. Enquanto o inimigo está cego, ele se esconde no chão para se esconder.",
@@ -32527,7 +32527,7 @@ const POKEDEX_JSON = [
       chinese: "沙螺蟒",
       french: "Dunaconda",
     },
-    type: ["Ground"],
+    type: ["Terra"],
     species: "Sand Snake Pokémon",
     description:
       "Seu estilo único de enrolamento permite que ele expulse areia de seu saco de areia com mais eficiência.",
@@ -32558,7 +32558,7 @@ const POKEDEX_JSON = [
       chinese: "古月鸟",
       french: "Nigosier",
     },
-    type: ["Flying", "Water"],
+    type: ["Voador", "Água"],
     species: "Gulp Pokémon",
     description:
       "Este Pokémon faminto engole Arrokuda inteiro. Ocasionalmente, ele comete um erro e tenta engolir um Pokémon diferente de sua presa preferida.",
@@ -32583,7 +32583,7 @@ const POKEDEX_JSON = [
       chinese: "刺梭鱼",
       french: "Embrochet",
     },
-    type: ["Water"],
+    type: ["Água"],
     species: "Rush Pokémon",
     description:
       "Depois de comer o suficiente, seus movimentos se tornam extremamente lentos. É quando Cramorant o engole.",
@@ -32613,7 +32613,7 @@ const POKEDEX_JSON = [
       chinese: "戽斗尖梭",
       french: "Hastacuda",
     },
-    type: ["Water"],
+    type: ["Água"],
     species: "Skewer Pokémon",
     description:
       "Ele gira suas nadadeiras caudais para se impulsionar, surgindo para frente em velocidades superiores a 100 nós antes de bater na presa e lançar-se neles.",
@@ -32643,7 +32643,7 @@ const POKEDEX_JSON = [
       chinese: "毒电婴",
       french: "Toxizap",
     },
-    type: ["Electric", "Poison"],
+    type: ["Elétrico", "Venenoso"],
     species: "Baby Pokémon",
     description:
       "Ele manipula a composição química de seu veneno para produzir eletricidade. A voltagem é fraca, mas pode causar uma paralisia formigante.",
@@ -32674,7 +32674,7 @@ const POKEDEX_JSON = [
       chinese: "颤弦蝾螈",
       french: "Salarsen",
     },
-    type: ["Electric", "Poison"],
+    type: ["Elétrico", "Venenoso"],
     species: "Punk Pokémon",
     description:
       "Este Pokémon de temperamento curto e agressivo bebe água estagnada para absorver quaisquer toxinas que possa conter.",
@@ -32705,7 +32705,7 @@ const POKEDEX_JSON = [
       chinese: "烧火蚣",
       french: "Grillepattes",
     },
-    type: ["Fire", "Bug"],
+    type: ["Fogo", "Inseto"],
     species: "Radiator Pokémon",
     description:
       "Ele envolve a presa com seu corpo aquecido, cozinhando-os em suas bobinas. Uma vez bem cozidos, ele os mordiscará vorazmente até o último pedaço.",
@@ -32717,7 +32717,7 @@ const POKEDEX_JSON = [
       weight: "1 kg",
       gender: "50.0:50.0",
       ability: [
-        ["Flash-fire", "false"],
+        ["Flash-Fogo", "false"],
         ["White-smoke", "false"],
         ["Flame-body", "true"],
       ],
@@ -32736,7 +32736,7 @@ const POKEDEX_JSON = [
       chinese: "焚焰蚣",
       french: "Scolocendre",
     },
-    type: ["Fire", "Bug"],
+    type: ["Fogo", "Inseto"],
     species: "Radiator Pokémon",
     description:
       "Enquanto seu corpo em chamas já é perigoso por si só, este Pokémon excessivamente hostil também tem presas grandes e muito afiadas.",
@@ -32748,7 +32748,7 @@ const POKEDEX_JSON = [
       weight: "120 kg",
       gender: "50.0:50.0",
       ability: [
-        ["Flash-fire", "false"],
+        ["Flash-Fogo", "false"],
         ["White-smoke", "false"],
         ["Flame-body", "true"],
       ],
@@ -32767,7 +32767,7 @@ const POKEDEX_JSON = [
       chinese: "拳拳蛸",
       french: "Poulpaf",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     species: "Tantrum Pokémon",
     description:
       "Seus tentáculos se desprendem facilmente, mas ele não fica alarmado quando isso acontece - ele sabe que eles voltarão a crescer. É tão inteligente quanto uma criança de três anos.",
@@ -32797,7 +32797,7 @@ const POKEDEX_JSON = [
       chinese: "八爪武师",
       french: "Krakos",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     species: "Tantrum Pokémon",
     description:
       "Procurando um oponente para testar suas habilidades, ele emerge na terra. Uma vez que a batalha acabou, ele retorna para o mar.",
@@ -32827,7 +32827,7 @@ const POKEDEX_JSON = [
       chinese: "来悲茶",
       french: "Théffroi",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     species: "Black Tea Pokémon",
     description:
       "A xícara de chá em que este Pokémon faz sua casa é uma famosa peça de louça antiga. Muitas falsificações estão em circulação.",
@@ -32857,7 +32857,7 @@ const POKEDEX_JSON = [
       chinese: "怖思壶",
       french: "Polthégeist",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     species: "Black Tea Pokémon",
     description:
       "Deixar o chá preto restante desatendido é pedir para este Pokémon aparecer e despejá-lo nele, transformando o chá em um novo Polteageist.",
@@ -32887,7 +32887,7 @@ const POKEDEX_JSON = [
       chinese: "迷布莉姆",
       french: "Bibichut",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     species: "Calm Pokémon",
     description:
       "Se este Pokémon sentir uma emoção forte, ele fugirá o mais rápido que puder. Ele prefere áreas sem pessoas.",
@@ -32918,7 +32918,7 @@ const POKEDEX_JSON = [
       chinese: "提布莉姆",
       french: "Chapotus",
     },
-    type: ["Psychic"],
+    type: ["Psíquico"],
     species: "Serene Pokémon",
     description:
       "Usando as tranças em sua cabeça, ele golpeia inimigos para fazê-los calar a boca. Um golpe dessas tranças nocautearia um boxeador profissional.",
@@ -32950,7 +32950,7 @@ const POKEDEX_JSON = [
       chinese: "布莉姆温",
       french: "Sorcilence",
     },
-    type: ["Psychic", "Fairy"],
+    type: ["Psíquico", "Fada"],
     species: "Silent Pokémon",
     description:
       "Se você for muito alto ao seu redor, corre o risco de ser dilacerado pelas garras de seu tentáculo. Este Pokémon também é conhecido como Bruxa da Floresta.",
@@ -32981,7 +32981,7 @@ const POKEDEX_JSON = [
       chinese: "捣蛋小妖",
       french: "Grimalin",
     },
-    type: ["Dark", "Fairy"],
+    type: ["Sombrio", "Fada"],
     species: "Wily Pokémon",
     description:
       "Ele se esgueira nas casas das pessoas, roubando coisas e festejando com a energia negativa dos ocupantes frustrados.",
@@ -33012,7 +33012,7 @@ const POKEDEX_JSON = [
       chinese: "诈唬魔",
       french: "Fourbelin",
     },
-    type: ["Dark", "Fairy"],
+    type: ["Sombrio", "Fada"],
     species: "Devious Pokémon",
     description:
       "Com astúcia astuta, ele tenta atrair as pessoas para a floresta. Alguns acreditam que ele tem o poder de fazer as plantações crescerem.",
@@ -33044,7 +33044,7 @@ const POKEDEX_JSON = [
       chinese: "长毛巨魔",
       french: "Angoliath",
     },
-    type: ["Dark", "Fairy"],
+    type: ["Sombrio", "Fada"],
     species: "Bulk Up Pokémon",
     description:
       "Seus cabelos funcionam como fibras musculares. Quando seus cabelos se desenrolam, eles se agarram aos oponentes, prendendo-os como tentáculos.",
@@ -33075,7 +33075,7 @@ const POKEDEX_JSON = [
       chinese: "堵拦熊",
       french: "Ixon",
     },
-    type: ["Dark", "Normal"],
+    type: ["Sombrio", "Normal"],
     species: "Blocking Pokémon",
     description:
       "Ele evoluiu após experimentar inúmeras lutas. Enquanto cruza os braços, ele deixa escapar um grito que faria qualquer oponente recuar.",
@@ -33106,7 +33106,7 @@ const POKEDEX_JSON = [
       chinese: "喵头目",
       french: "Berserkatt",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     species: "Viking Pokémon",
     description:
       "Após muitas batalhas, ele evoluiu garras perigosas que se unem para formar adagas quando estendidas.",
@@ -33120,7 +33120,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Battle-armor", "false"],
         ["Tough-claws", "false"],
-        ["Steely-spirit", "true"],
+        ["Metaly-spirit", "true"],
       ],
     },
     image: {
@@ -33137,7 +33137,7 @@ const POKEDEX_JSON = [
       chinese: "魔灵珊瑚",
       french: "Corayôme",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     species: "Coral Pokémon",
     description:
       "Cuidado com o corpo ectoplasmático que envolve sua alma. Você ficará rígido como pedra se tocá-lo.",
@@ -33167,7 +33167,7 @@ const POKEDEX_JSON = [
       chinese: "葱游兵",
       french: "Palarticho",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     species: "Wild Duck Pokémon",
     description:
       "Após desviar ataques com seu escudo de folhas duras, ele ataca de volta com seu talo de alho-poró afiado. O talo de alho-poró é arma e alimento.",
@@ -33197,7 +33197,7 @@ const POKEDEX_JSON = [
       chinese: "踏冰人偶",
       french: "M. Glaquette",
     },
-    type: ["Ice", "Psychic"],
+    type: ["Gelo", "Psíquico"],
     species: "Comedian Pokémon",
     description:
       "Seus movimentos divertidos o tornam muito popular. Ele libera seu poder psíquico do padrão em seu ventre.",
@@ -33211,7 +33211,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Tangled-feet", "false"],
         ["Screen-cleaner", "false"],
-        ["Ice-body", "true"],
+        ["Gelo-body", "true"],
       ],
     },
     image: {
@@ -33228,7 +33228,7 @@ const POKEDEX_JSON = [
       chinese: "死神板",
       french: "Tutétékri",
     },
-    type: ["Ground", "Ghost"],
+    type: ["Terra", "Fantasma"],
     species: "Grudge Pokémon",
     description:
       "Nunca toque em seu corpo semelhante a uma sombra, ou você verá as horríveis memórias por trás da imagem esculpida nele.",
@@ -33255,7 +33255,7 @@ const POKEDEX_JSON = [
       chinese: "小仙奶",
       french: "Crèmy",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     species: "Cream Pokémon",
     description:
       "Diz-se que qualquer pastelaria visitada por Milcery é garantida sucesso e boa sorte.",
@@ -33285,7 +33285,7 @@ const POKEDEX_JSON = [
       chinese: "霜奶仙",
       french: "Charmilly",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     species: "Cream Pokémon",
     description:
       "Quando Alcremie está contente, o creme que secreta de suas mãos fica mais doce e rico.",
@@ -33315,7 +33315,7 @@ const POKEDEX_JSON = [
       chinese: "列阵兵",
       french: "Hexadron",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     species: "Formation Pokémon",
     description:
       "Os seis deles trabalham juntos como um Pokémon. O trabalho em equipe também é sua estratégia de batalha e eles mudam constantemente sua formação enquanto lutam.",
@@ -33343,7 +33343,7 @@ const POKEDEX_JSON = [
       chinese: "啪嚓海胆",
       french: "Wattapik",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     species: "Sea Urchin Pokémon",
     description:
       "Ele armazena eletricidade em cada espinha. Mesmo que um se quebre, ele ainda continua emitindo eletricidade por pelo menos três horas.",
@@ -33354,7 +33354,7 @@ const POKEDEX_JSON = [
       gender: "50.0:50.0",
       ability: [
         ["Lightning-rod", "false"],
-        ["Electric-surge", "true"],
+        ["Elétrico-surge", "true"],
       ],
     },
     image: {
@@ -33371,7 +33371,7 @@ const POKEDEX_JSON = [
       chinese: "雪吞虫",
       french: "Frissonille",
     },
-    type: ["Ice", "Bug"],
+    type: ["Gelo", "Inseto"],
     species: "Worm Pokémon",
     description:
       "Ele come neve que se acumula no chão. Quanto mais neve comer, maiores e mais impressionantes ficarão os espinhos nas costas.",
@@ -33384,7 +33384,7 @@ const POKEDEX_JSON = [
       gender: "50.0:50.0",
       ability: [
         ["Shield-dust", "false"],
-        ["Ice-scales", "true"],
+        ["Gelo-scales", "true"],
       ],
     },
     image: {
@@ -33401,7 +33401,7 @@ const POKEDEX_JSON = [
       chinese: "雪绒蛾",
       french: "Beldeneige",
     },
-    type: ["Ice", "Bug"],
+    type: ["Gelo", "Inseto"],
     species: "Frost Moth Pokémon",
     description:
       "Ele não mostra nenhuma misericórdia para qualquer um que desconsagre campos e montanhas. Ele voará em suas asas geladas, causando uma nevasca para afastar os infratores.",
@@ -33414,7 +33414,7 @@ const POKEDEX_JSON = [
       gender: "50.0:50.0",
       ability: [
         ["Shield-dust", "false"],
-        ["Ice-scales", "true"],
+        ["Gelo-scales", "true"],
       ],
     },
     image: {
@@ -33431,8 +33431,8 @@ const POKEDEX_JSON = [
       chinese: "巨石丁",
       french: "Dolman",
     },
-    type: ["Rock"],
-    species: "Big Rock Pokémon",
+    type: ["Rocha"],
+    species: "Big Rocha Pokémon",
     description:
       "Uma vez por ano, em uma data específica e em um horário específico, eles se reúnem do nada e formam um círculo.",
     evolution: {},
@@ -33456,7 +33456,7 @@ const POKEDEX_JSON = [
       chinese: "冰砌鹅",
       french: "Bekaglaçon",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     species: "Penguin Pokémon",
     description:
       "Este Pokémon mantém sua cabeça sensível ao calor fria com gelo. Ele pesca para sua comida, pendurando seu único cabelo no mar para atrair presas.",
@@ -33465,7 +33465,7 @@ const POKEDEX_JSON = [
       height: "1 m",
       weight: "89 kg",
       gender: "50.0:50.0",
-      ability: [["Ice-face", "false"]],
+      ability: [["Gelo-face", "false"]],
     },
     image: {
       sprite: "./Imagens/Pokedex/sprites/875.png",
@@ -33481,7 +33481,7 @@ const POKEDEX_JSON = [
       chinese: "爱管侍",
       french: "Wimessir",
     },
-    type: ["Psychic", "Normal"],
+    type: ["Psíquico", "Normal"],
     species: "Emotion Pokémon",
     description:
       "Através de seus chifres, ele pode captar as emoções das criaturas ao seu redor. Emoções positivas são a fonte de sua força.",
@@ -33493,7 +33493,7 @@ const POKEDEX_JSON = [
       ability: [
         ["Inner-focus", "false"],
         ["Synchronize", "false"],
-        ["Psychic-surge", "true"],
+        ["Psíquico-surge", "true"],
       ],
     },
     image: {
@@ -33510,7 +33510,7 @@ const POKEDEX_JSON = [
       chinese: "莫鲁贝可",
       french: "Morpeko",
     },
-    type: ["Electric", "Dark"],
+    type: ["Elétrico", "Sombrio"],
     species: "Two-Sided Pokémon",
     description:
       "Ele carrega sementes eletricamente torradas consigo como se fossem tesouros preciosos. Não importa quanto coma, sempre fica com fome novamente em pouco tempo.",
@@ -33534,7 +33534,7 @@ const POKEDEX_JSON = [
       chinese: "铜象",
       french: "Charibari",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     species: "Copperderm Pokémon",
     description:
       "Se um trabalho exigir muita força, este Pokémon se destacará nele. Seu corpo de cobre mancha na chuva, ficando verde vibrante.",
@@ -33564,7 +33564,7 @@ const POKEDEX_JSON = [
       chinese: "大王铜象",
       french: "Pachyradjah",
     },
-    type: ["Steel"],
+    type: ["Metal"],
     species: "Copperderm Pokémon",
     description:
       "Esses Pokémon vivem em rebanhos. Suas trombas têm força de aderência incrível, forte o suficiente para esmagar rochas gigantes em pó.",
@@ -33594,7 +33594,7 @@ const POKEDEX_JSON = [
       chinese: "雷鸟龙",
       french: "Galvagon",
     },
-    type: ["Electric", "Dragon"],
+    type: ["Elétrico", "Dragão"],
     species: "Fossil Pokémon",
     description:
       "Os poderosos músculos de sua cauda geram sua eletricidade. Em comparação com sua parte inferior do corpo, sua metade superior é inteiramente pequena.",
@@ -33623,7 +33623,7 @@ const POKEDEX_JSON = [
       chinese: "雷鸟海兽",
       french: "Galvagla",
     },
-    type: ["Electric", "Ice"],
+    type: ["Elétrico", "Gelo"],
     species: "Fossil Pokémon",
     description:
       "Este Pokémon vivia em praias pré-históricas e era capaz de preservar alimentos com o gelo em seu corpo. Ele se extinguiu porque se movia tão lentamente.",
@@ -33652,7 +33652,7 @@ const POKEDEX_JSON = [
       chinese: "鳃鱼龙",
       french: "Hydragon",
     },
-    type: ["Water", "Dragon"],
+    type: ["Água", "Dragão"],
     species: "Fossil Pokémon",
     description:
       "Suas poderosas pernas são capazes de correr em velocidades superiores a 40 mph, mas este Pokémon não pode respirar a menos que esteja debaixo d'água.",
@@ -33662,7 +33662,7 @@ const POKEDEX_JSON = [
       weight: "215 kg",
       gender: "Genderless",
       ability: [
-        ["Water-absorb", "false"],
+        ["Água-absorb", "false"],
         ["Strong-jaw", "false"],
         ["Sand-rush", "true"],
       ],
@@ -33681,7 +33681,7 @@ const POKEDEX_JSON = [
       chinese: "鳃鱼海兽",
       french: "Hydragla",
     },
-    type: ["Water", "Ice"],
+    type: ["Água", "Gelo"],
     species: "Fossil Pokémon",
     description:
       "A pele em seu rosto é impenetrável ao ataque, mas as dificuldades respiratórias fizeram este Pokémon se extinguir de qualquer maneira.",
@@ -33691,8 +33691,8 @@ const POKEDEX_JSON = [
       weight: "175 kg",
       gender: "Genderless",
       ability: [
-        ["Water-absorb", "false"],
-        ["Ice-body", "false"],
+        ["Água-absorb", "false"],
+        ["Gelo-body", "false"],
         ["Slush-rush", "true"],
       ],
     },
@@ -33710,7 +33710,7 @@ const POKEDEX_JSON = [
       chinese: "铝钢龙",
       french: "Duralugon",
     },
-    type: ["Steel", "Dragon"],
+    type: ["Metal", "Dragão"],
     species: "Alloy Pokémon",
     description:
       "O metal especial que compõe seu corpo é muito leve, por isso este Pokémon tem agilidade considerável. Ele vive em cavernas porque não gosta da chuva.",
@@ -33739,7 +33739,7 @@ const POKEDEX_JSON = [
       chinese: "多龙梅西亚",
       french: "Fantyrm",
     },
-    type: ["Dragon", "Ghost"],
+    type: ["Dragão", "Fantasma"],
     species: "Lingering Pokémon",
     description:
       "Se este Pokémon fraco estiver sozinho, uma mera criança poderia derrotá-lo. Mas se Dreepy tiver amigos para ajudá-lo a treinar, ele pode evoluir e se tornar muito mais forte.",
@@ -33770,7 +33770,7 @@ const POKEDEX_JSON = [
       chinese: "多龙奇",
       french: "Dispareptil",
     },
-    type: ["Dragon", "Ghost"],
+    type: ["Dragão", "Fantasma"],
     species: "Caretaker Pokémon",
     description:
       "Sem um Dreepy para colocar em sua cabeça e cuidar, ele fica tão desconfortável que tentará substituir qualquer Pokémon que encontrar pelo Dreepy desaparecido.",
@@ -33802,7 +33802,7 @@ const POKEDEX_JSON = [
       chinese: "多龙巴鲁托",
       french: "Lanssorien",
     },
-    type: ["Dragon", "Ghost"],
+    type: ["Dragão", "Fantasma"],
     species: "Stealth Pokémon",
     description:
       "Aparentemente, o Dreepy dentro das cornas de Dragapult ansiosamente espera ser lançado em velocidades Mach.",
@@ -33833,7 +33833,7 @@ const POKEDEX_JSON = [
       chinese: "苍响",
       french: "Zacian",
     },
-    type: ["Fairy"],
+    type: ["Fada"],
     species: "Warrior Pokémon",
     description:
       "Este Pokémon está adormecido há muitos anos. Alguns dizem que é a irmã mais velha de Zamazenta - outros dizem que os dois Pokémon são rivais.",
@@ -33858,7 +33858,7 @@ const POKEDEX_JSON = [
       chinese: "藏玛然特",
       french: "Zamazent",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     species: "Warrior Pokémon",
     description:
       "Este Pokémon dormiu por éons enquanto estava na forma de uma estátua. Ele estava dormindo há tanto tempo que as pessoas esqueceram que ele já existia.",
@@ -33883,7 +33883,7 @@ const POKEDEX_JSON = [
       chinese: "无极汰那",
       french: "Éthernatos",
     },
-    type: ["Poison", "Dragon"],
+    type: ["Venenoso", "Dragão"],
     species: "Gigantic Pokémon",
     description:
       "Estava dentro de um meteorito que caiu há 20.000 anos. Parece haver uma conexão entre este Pokémon e o fenômeno Dynamax.",
@@ -33908,14 +33908,14 @@ const POKEDEX_JSON = [
       chinese: "熊徒弟",
       french: "Wushours",
     },
-    type: ["Fighting"],
+    type: ["Lutador"],
     species: "Wushu Pokémon",
     description:
       "Se Kubfu puxar o longo cabelo branco em sua cabeça, seu espírito de luta aumenta e o poder brota das profundezas de seu ventre.",
     evolution: {
       next: [
-        ["892", "Scroll of Darkness"],
-        ["892", "Scroll of Waters"],
+        ["892", "Scroll of Sombrioness"],
+        ["892", "Scroll of Águas"],
       ],
     },
     profile: {
@@ -33938,12 +33938,12 @@ const POKEDEX_JSON = [
       chinese: "武道熊师",
       french: "Shifours",
     },
-    type: ["Fighting", "Dark"],
+    type: ["Lutador", "Sombrio"],
     species: "Wushu Pokémon",
     description:
       "Habitando as montanhas de uma região distante, este Pokémon corre por penhascos íngremes, treinando suas pernas e refinando seus movimentos.",
     evolution: {
-      prev: ["892", "Scroll of Darkness"],
+      prev: ["892", "Scroll of Sombrioness"],
     },
     profile: {
       height: "2 m",
@@ -33965,7 +33965,7 @@ const POKEDEX_JSON = [
       chinese: "萨戮德",
       french: "Zarude",
     },
-    type: ["Dark", "Grass"],
+    type: ["Sombrio", "Grama"],
     species: "Rogue Monkey Pokémon",
     description:
       "Uma vez que as videiras no corpo de Zarude se desprendem, elas se tornam nutrientes no solo. Isso ajuda as plantas da floresta a crescer.",
@@ -33990,7 +33990,7 @@ const POKEDEX_JSON = [
       chinese: "雷吉艾勒奇",
       french: "Regieleki",
     },
-    type: ["Electric"],
+    type: ["Elétrico"],
     species: "Electron Pokémon",
     description:
       "Seu corpo inteiro é composto de um único órgão que gera energia elétrica. Regieleki é capaz de criar toda a eletricidade de Galar.",
@@ -34015,8 +34015,8 @@ const POKEDEX_JSON = [
       chinese: "雷吉铎拉戈",
       french: "Regidrago",
     },
-    type: ["Dragon"],
-    species: "Dragon Orb Pokémon",
+    type: ["Dragão"],
+    species: "Dragão Orb Pokémon",
     description:
       "Seu corpo é composto de energia de dragão cristalizada. Regidrago diz-se que tem os poderes de todos os Pokémon dragão.",
     evolution: {},
@@ -34024,7 +34024,7 @@ const POKEDEX_JSON = [
       height: "2 m",
       weight: "200 kg",
       gender: "Genderless",
-      ability: [["Dragons-maw", "false"]],
+      ability: [["Dragãos-maw", "false"]],
     },
     image: {
       sprite: "./Imagens/Pokedex/sprites/895.png",
@@ -34040,7 +34040,7 @@ const POKEDEX_JSON = [
       chinese: "雪暴马",
       french: "Blizzeval",
     },
-    type: ["Ice"],
+    type: ["Gelo"],
     species: "Wild Horse Pokémon",
     description:
       "Glastrier tem uma força física tremenda, e a máscara de gelo que cobre seu rosto é 100 vezes mais dura que o diamante.",
@@ -34065,7 +34065,7 @@ const POKEDEX_JSON = [
       chinese: "灵幽马",
       french: "Spectreval",
     },
-    type: ["Ghost"],
+    type: ["Fantasma"],
     species: "Swift Horse Pokémon",
     description:
       "Enquanto corre pela noite, Spectrier absorve a força vital das criaturas adormecidas. Ele anseia por silêncio e solidão.",
@@ -34090,7 +34090,7 @@ const POKEDEX_JSON = [
       chinese: "蕾冠王",
       french: "Sylveroy",
     },
-    type: ["Psychic", "Grass"],
+    type: ["Psíquico", "Grama"],
     species: "King Pokémon",
     description:
       "Calyrex é conhecido na lenda como um rei que governou Galar nos tempos antigos. Ele tem o poder de fazer corações se curarem e plantas brotarem.",
@@ -34116,7 +34116,7 @@ const POKEDEX_JSON = [
       french: "Poussacha",
     },
     id: 906,
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 40,
       Attack: 61,
@@ -34125,13 +34125,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 65,
     },
-    species: "Grass Cat Pokémon",
+    species: "Grama Cat Pokémon",
     description:
       "Sua pelagem macia é similar em composição às plantas. Este Pokémon costuma lavar o rosto para evitar que ele resseque.",
     profile: {
       height: "0.4 m",
       weight: "4.1 kg",
-      egg: ["Ground", "Plant"],
+      egg: ["Terra", "Plant"],
       ability: [
         ["Overgrow", false],
         ["Protean", true],
@@ -34160,7 +34160,7 @@ const POKEDEX_JSON = [
       french: "Matourgeon",
     },
     id: 907,
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 61,
       Attack: 80,
@@ -34169,13 +34169,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 63,
       Speed: 83,
     },
-    species: "Grass Cat Pokémon",
+    species: "Grama Cat Pokémon",
     description:
       "Floragato maneja habilmente a videira escondida sob sua longa pelagem, golpeando seus oponentes com a dura flor.",
     profile: {
       height: "0.9 m",
       weight: "12.2 kg",
-      egg: ["Ground", "Plant"],
+      egg: ["Terra", "Plant"],
       ability: [
         ["Overgrow", false],
         ["Protean", true],
@@ -34202,7 +34202,7 @@ const POKEDEX_JSON = [
       french: "Miascarade",
     },
     id: 908,
-    type: ["Grass", "Dark"],
+    type: ["Grama", "Sombrio"],
     base: {
       HP: 76,
       Attack: 110,
@@ -34217,7 +34217,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "31.2 kg",
-      egg: ["Ground", "Plant"],
+      egg: ["Terra", "Plant"],
       ability: [
         ["Overgrow", false],
         ["Protean", true],
@@ -34243,7 +34243,7 @@ const POKEDEX_JSON = [
       french: "Chochodile",
     },
     id: 909,
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 67,
       Attack: 45,
@@ -34252,13 +34252,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 40,
       Speed: 36,
     },
-    species: "Fire Croc Pokémon",
+    species: "Fogo Croc Pokémon",
     description:
       "Ele deita em rochas quentes e usa o calor absorvido por suas escamas quadradas para criar energia de fogo.",
     profile: {
       height: "0.4 m",
       weight: "9.8 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Blaze", false],
         ["Unaware", true],
@@ -34287,7 +34287,7 @@ const POKEDEX_JSON = [
       french: "Crocogril",
     },
     id: 910,
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 81,
       Attack: 55,
@@ -34296,13 +34296,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 58,
       Speed: 49,
     },
-    species: "Fire Croc Pokémon",
+    species: "Fogo Croc Pokémon",
     description:
       "A combinação da energia de fogo de Crocalor e sua vitalidade transbordante fez com que uma bola de fogo em forma de ovo aparecesse na cabeça do Pokémon.",
     profile: {
       height: "1 m",
       weight: "30.7 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Blaze", false],
         ["Unaware", true],
@@ -34329,7 +34329,7 @@ const POKEDEX_JSON = [
       french: "Flâmigator",
     },
     id: 911,
-    type: ["Fire", "Ghost"],
+    type: ["Fogo", "Fantasma"],
     base: {
       HP: 104,
       Attack: 75,
@@ -34344,7 +34344,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "326.5 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Blaze", false],
         ["Unaware", true],
@@ -34370,7 +34370,7 @@ const POKEDEX_JSON = [
       french: "Coiffeton",
     },
     id: 912,
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 55,
       Attack: 65,
@@ -34385,7 +34385,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "6.1 kg",
-      egg: ["Flying", "Water1"],
+      egg: ["Voador", "Água1"],
       ability: [
         ["Torrent", false],
         ["Moxie", true],
@@ -34414,7 +34414,7 @@ const POKEDEX_JSON = [
       french: "Canarbello",
     },
     id: 913,
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 70,
       Attack: 85,
@@ -34429,7 +34429,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "21.5 kg",
-      egg: ["Flying", "Water1"],
+      egg: ["Voador", "Água1"],
       ability: [
         ["Torrent", false],
         ["Moxie", true],
@@ -34456,7 +34456,7 @@ const POKEDEX_JSON = [
       french: "Palmaval",
     },
     id: 914,
-    type: ["Water", "Fighting"],
+    type: ["Água", "Lutador"],
     base: {
       HP: 85,
       Attack: 120,
@@ -34471,7 +34471,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "61.9 kg",
-      egg: ["Flying", "Water1"],
+      egg: ["Voador", "Água1"],
       ability: [
         ["Torrent", false],
         ["Moxie", true],
@@ -34512,7 +34512,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "10.2 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Aroma-veil", false],
         ["Gluttony", false],
@@ -34577,7 +34577,7 @@ const POKEDEX_JSON = [
       french: "Tissenboule",
     },
     id: 917,
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 35,
       Attack: 41,
@@ -34588,11 +34588,11 @@ const POKEDEX_JSON = [
     },
     species: "String Ball Pokémon",
     description:
-      "A bola de fios enrolada em seu corpo é elástica o suficiente para desviar as foices de Scyther, o inimigo natural deste Pokémon.",
+      "A bola de fios enrolada em seu corpo é elástica o suficiente para desviar as foGelos de Scyther, o inimigo natural deste Pokémon.",
     profile: {
       height: "0.3 m",
       weight: "4 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Insomnia", false],
         ["Stakeout", true],
@@ -34617,7 +34617,7 @@ const POKEDEX_JSON = [
       french: "Filentrappe",
     },
     id: 918,
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 60,
       Attack: 79,
@@ -34632,7 +34632,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1 m",
       weight: "16.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Insomnia", false],
         ["Stakeout", true],
@@ -34657,7 +34657,7 @@ const POKEDEX_JSON = [
       french: "Lilliterelle",
     },
     id: 919,
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 33,
       Attack: 46,
@@ -34666,13 +34666,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 25,
       Speed: 45,
     },
-    species: "Grasshopper Pokémon",
+    species: "Gramahopper Pokémon",
     description:
       "Ele tem seu terceiro par de pernas dobrado. Quando está em uma situação difícil, este Pokémon pula mais de 9 metros usando a força de suas pernas.",
     profile: {
       height: "0.2 m",
       weight: "1 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", false],
         ["Tinted-lens", true],
@@ -34697,7 +34697,7 @@ const POKEDEX_JSON = [
       french: "Gambex",
     },
     id: 920,
-    type: ["Bug", "Dark"],
+    type: ["Inseto", "Sombrio"],
     base: {
       HP: 71,
       Attack: 102,
@@ -34706,13 +34706,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 92,
     },
-    species: "Grasshopper Pokémon",
+    species: "Gramahopper Pokémon",
     description:
       "Quando decide lutar com tudo, ele se coloca em pé sobre suas pernas anteriormente dobradas para entrar no Modo de Confronto. Ele neutraliza seus inimigos em pouco tempo.",
     profile: {
       height: "1 m",
       weight: "17.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Swarm", false],
         ["Tinted-lens", true],
@@ -34737,7 +34737,7 @@ const POKEDEX_JSON = [
       french: "Pohm",
     },
     id: 921,
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 45,
       Attack: 50,
@@ -34752,7 +34752,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.5 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Static", false],
         ["Natural-cure", false],
@@ -34778,7 +34778,7 @@ const POKEDEX_JSON = [
       french: "Pohmotte",
     },
     id: 922,
-    type: ["Electric", "Fighting"],
+    type: ["Elétrico", "Lutador"],
     base: {
       HP: 60,
       Attack: 75,
@@ -34793,7 +34793,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "6.5 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Volt-absorb", false],
         ["Natural-cure", false],
@@ -34820,7 +34820,7 @@ const POKEDEX_JSON = [
       french: "Pohmarmotte",
     },
     id: 923,
-    type: ["Electric", "Fighting"],
+    type: ["Elétrico", "Lutador"],
     base: {
       HP: 70,
       Attack: 115,
@@ -34835,7 +34835,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.9 m",
       weight: "41 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Volt-absorb", false],
         ["Natural-cure", false],
@@ -34876,7 +34876,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "1.8 kg",
-      egg: ["Ground", "Fairy"],
+      egg: ["Terra", "Fada"],
       ability: [
         ["Run-away", false],
         ["Pickup", false],
@@ -34917,7 +34917,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "2.8 kg",
-      egg: ["Field", "Fairy"],
+      egg: ["Field", "Fada"],
       ability: [
         ["Tackle", false],
         ["Tail Whip", true],
@@ -34941,7 +34941,7 @@ const POKEDEX_JSON = [
       french: "Pâtachiot",
     },
     id: 926,
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 37,
       Attack: 55,
@@ -34956,7 +34956,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "10.9 kg",
-      egg: ["Ground", "Mineral"],
+      egg: ["Terra", "Mineral"],
       ability: [
         ["Own-tempo", false],
         ["Klutz", true],
@@ -34981,7 +34981,7 @@ const POKEDEX_JSON = [
       french: "Briochien",
     },
     id: 927,
-    type: ["Fairy"],
+    type: ["Fada"],
     base: {
       HP: 57,
       Attack: 80,
@@ -34996,7 +34996,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "14.9 kg",
-      egg: ["Ground", "Mineral"],
+      egg: ["Terra", "Mineral"],
       ability: [
         ["Well-baked-body", false],
         ["Aroma-veil", true],
@@ -35021,7 +35021,7 @@ const POKEDEX_JSON = [
       french: "Olivini",
     },
     id: 928,
-    type: ["Grass", "Normal"],
+    type: ["Grama", "Normal"],
     base: {
       HP: 41,
       Attack: 35,
@@ -35064,7 +35064,7 @@ const POKEDEX_JSON = [
       french: "Olivado",
     },
     id: 929,
-    type: ["Grass", "Normal"],
+    type: ["Grama", "Normal"],
     base: {
       HP: 52,
       Attack: 53,
@@ -35105,7 +35105,7 @@ const POKEDEX_JSON = [
       french: "Arboliva",
     },
     id: 930,
-    type: ["Grass", "Normal"],
+    type: ["Grama", "Normal"],
     base: {
       HP: 78,
       Attack: 69,
@@ -35145,7 +35145,7 @@ const POKEDEX_JSON = [
       french: "Tapatoès",
     },
     id: 931,
-    type: ["Normal", "Flying"],
+    type: ["Normal", "Voador"],
     base: {
       HP: 82,
       Attack: 96,
@@ -35160,7 +35160,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.6 m",
       weight: "2.4 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Tackle", false],
         ["Tail Whip", true],
@@ -35181,7 +35181,7 @@ const POKEDEX_JSON = [
       french: "Selutin",
     },
     id: 932,
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 55,
       Attack: 55,
@@ -35190,7 +35190,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 35,
       Speed: 25,
     },
-    species: "Rock Salt Pokémon",
+    species: "Rocha Salt Pokémon",
     description:
       "Ele nasceu em uma camada de sal-gema no fundo da terra. Esta espécie era particularmente apreciada nos tempos antigos, pois compartilhava sal precioso.",
     profile: {
@@ -35225,7 +35225,7 @@ const POKEDEX_JSON = [
       french: "Amassel",
     },
     id: 933,
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 60,
       Attack: 60,
@@ -35234,7 +35234,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 35,
     },
-    species: "Rock Salt Pokémon",
+    species: "Rocha Salt Pokémon",
     description:
       "Este Pokémon seca sua presa borrifando sal sobre ela. O processo de cura rouba a água do corpo da presa.",
     profile: {
@@ -35267,7 +35267,7 @@ const POKEDEX_JSON = [
       french: "Gigansel",
     },
     id: 934,
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 100,
       Attack: 100,
@@ -35276,7 +35276,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 90,
       Speed: 35,
     },
-    species: "Rock Salt Pokémon",
+    species: "Rocha Salt Pokémon",
     description:
       "Garganacl esfregará as pontas dos dedos e aspergirá sal sobre Pokémon feridos. Mesmo ferimentos graves cicatrizarão prontamente depois.",
     profile: {
@@ -35308,7 +35308,7 @@ const POKEDEX_JSON = [
       french: "Charbambin",
     },
     id: 935,
-    type: ["Fire"],
+    type: ["Fogo"],
     base: {
       HP: 40,
       Attack: 50,
@@ -35317,7 +35317,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 40,
       Speed: 35,
     },
-    species: "Fire Child Pokémon",
+    species: "Fogo Child Pokémon",
     description:
       "Carvão queimado ganhou vida e se tornou um Pokémon. Possuindo um espírito de luta fervoroso, Charcadet lutará até mesmo contra oponentes difíceis.",
     profile: {
@@ -35325,7 +35325,7 @@ const POKEDEX_JSON = [
       weight: "10.5 kg",
       egg: ["Humanshape"],
       ability: [
-        ["Flash-fire", false],
+        ["Flash-Fogo", false],
         ["Flame-body", true],
       ],
     },
@@ -35351,7 +35351,7 @@ const POKEDEX_JSON = [
       french: "Carmadura",
     },
     id: 936,
-    type: ["Fire", "Psychic"],
+    type: ["Fogo", "Psíquico"],
     base: {
       HP: 85,
       Attack: 60,
@@ -35360,7 +35360,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 80,
       Speed: 75,
     },
-    species: "Fire Warrior Pokémon",
+    species: "Fogo Warrior Pokémon",
     description:
       "Armarouge evoluiu por meio do uso de um conjunto de armadura que pertencia a um guerreiro distinto. Este Pokémon é incrivelmente leal.",
     profile: {
@@ -35368,7 +35368,7 @@ const POKEDEX_JSON = [
       weight: "85 kg",
       egg: ["Humanshape"],
       ability: [
-        ["Flash-fire", false],
+        ["Flash-Fogo", false],
         ["Weak-armor", true],
       ],
     },
@@ -35391,7 +35391,7 @@ const POKEDEX_JSON = [
       french: "Malvalame",
     },
     id: 937,
-    type: ["Fire", "Ghost"],
+    type: ["Fogo", "Fantasma"],
     base: {
       HP: 75,
       Attack: 125,
@@ -35400,7 +35400,7 @@ const POKEDEX_JSON = [
       "Sp. Defense": 100,
       Speed: 85,
     },
-    species: "Fire Blades Pokémon",
+    species: "Fogo Blades Pokémon",
     description:
       "As lâminas de fogo em seus braços queimam ferozmente com o ressentimento persistente de um portador de espada que caiu antes de atingir seu objetivo.",
     profile: {
@@ -35408,7 +35408,7 @@ const POKEDEX_JSON = [
       weight: "62 kg",
       egg: ["Humanshape"],
       ability: [
-        ["Flash-fire", false],
+        ["Flash-Fogo", false],
         ["Weak-armor", true],
       ],
     },
@@ -35431,7 +35431,7 @@ const POKEDEX_JSON = [
       french: "Têtampoule",
     },
     id: 938,
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 61,
       Attack: 31,
@@ -35446,7 +35446,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "0.4 kg",
-      egg: ["Water1"],
+      egg: ["Água1"],
       ability: [
         ["Own-tempo", false],
         ["Static", false],
@@ -35472,7 +35472,7 @@ const POKEDEX_JSON = [
       french: "Ampibidou",
     },
     id: 939,
-    type: ["Electric"],
+    type: ["Elétrico"],
     base: {
       HP: 109,
       Attack: 64,
@@ -35487,7 +35487,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "113 kg",
-      egg: ["Water1"],
+      egg: ["Água1"],
       ability: [
         ["Electromorphosis", false],
         ["Static", false],
@@ -35513,7 +35513,7 @@ const POKEDEX_JSON = [
       french: "Zapétrel",
     },
     id: 940,
-    type: ["Electric", "Flying"],
+    type: ["Elétrico", "Voador"],
     base: {
       HP: 40,
       Attack: 40,
@@ -35528,7 +35528,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "3.6 kg",
-      egg: ["Water1", "Flying"],
+      egg: ["Água1", "Voador"],
       ability: [
         ["Wind-power", false],
         ["Volt-absorb", false],
@@ -35554,7 +35554,7 @@ const POKEDEX_JSON = [
       french: "Fulgulairo",
     },
     id: 941,
-    type: ["Electric", "Flying"],
+    type: ["Elétrico", "Voador"],
     base: {
       HP: 70,
       Attack: 70,
@@ -35569,7 +35569,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.4 m",
       weight: "38.6 kg",
-      egg: ["Water1", "Flying"],
+      egg: ["Água1", "Voador"],
       ability: [
         ["Wind-power", false],
         ["Volt-absorb", false],
@@ -35595,7 +35595,7 @@ const POKEDEX_JSON = [
       french: "Grondogue",
     },
     id: 942,
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 60,
       Attack: 78,
@@ -35610,7 +35610,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.5 m",
       weight: "16 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Intimidate", false],
         ["Run-away", false],
@@ -35636,7 +35636,7 @@ const POKEDEX_JSON = [
       french: "Dogrino",
     },
     id: 943,
-    type: ["Dark"],
+    type: ["Sombrio"],
     base: {
       HP: 80,
       Attack: 120,
@@ -35651,7 +35651,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.1 m",
       weight: "61 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Intimidate", false],
         ["Guard-dog", false],
@@ -35677,7 +35677,7 @@ const POKEDEX_JSON = [
       french: "Gribouraigne",
     },
     id: 944,
-    type: ["Poison", "Normal"],
+    type: ["Venenoso", "Normal"],
     base: {
       HP: 40,
       Attack: 65,
@@ -35692,7 +35692,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "0.7 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Unburden", false],
         ["Pickpocket", false],
@@ -35718,7 +35718,7 @@ const POKEDEX_JSON = [
       french: "Tag-Tag",
     },
     id: 945,
-    type: ["Poison", "Normal"],
+    type: ["Venenoso", "Normal"],
     base: {
       HP: 63,
       Attack: 95,
@@ -35733,10 +35733,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "27.2 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Unburden", false],
-        ["Poison-touch", false],
+        ["Venenoso-touch", false],
         ["Prankster", true],
       ],
     },
@@ -35759,7 +35759,7 @@ const POKEDEX_JSON = [
       french: "Virovent",
     },
     id: 946,
-    type: ["Grass", "Ghost"],
+    type: ["Grama", "Fantasma"],
     base: {
       HP: 40,
       Attack: 65,
@@ -35799,7 +35799,7 @@ const POKEDEX_JSON = [
       french: "Virevorreur",
     },
     id: 947,
-    type: ["Grass", "Ghost"],
+    type: ["Grama", "Fantasma"],
     base: {
       HP: 55,
       Attack: 115,
@@ -35839,7 +35839,7 @@ const POKEDEX_JSON = [
       french: "Terracool",
     },
     id: 948,
-    type: ["Ground", "Grass"],
+    type: ["Terra", "Grama"],
     base: {
       HP: 40,
       Attack: 40,
@@ -35879,7 +35879,7 @@ const POKEDEX_JSON = [
       french: "Terracruel",
     },
     id: 949,
-    type: ["Ground", "Grass"],
+    type: ["Terra", "Grama"],
     base: {
       HP: 80,
       Attack: 70,
@@ -35919,7 +35919,7 @@ const POKEDEX_JSON = [
       french: "Craparoi",
     },
     id: 950,
-    type: ["Rock"],
+    type: ["Rocha"],
     base: {
       HP: 70,
       Attack: 100,
@@ -35934,7 +35934,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "79 kg",
-      egg: ["Water3"],
+      egg: ["Água3"],
       ability: [
         ["Anger-shell", false],
         ["Shell-armor", false],
@@ -35957,7 +35957,7 @@ const POKEDEX_JSON = [
       french: "Pimito",
     },
     id: 951,
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 50,
       Attack: 62,
@@ -35980,7 +35980,7 @@ const POKEDEX_JSON = [
       ],
     },
     evolution: {
-      next: [["952", "use fire-stone"]],
+      next: [["952", "use Fogo-stone"]],
     },
     image: {
       sprite: null,
@@ -35998,7 +35998,7 @@ const POKEDEX_JSON = [
       french: "Scovilain",
     },
     id: 952,
-    type: ["Grass", "Fire"],
+    type: ["Grama", "Fogo"],
     base: {
       HP: 65,
       Attack: 108,
@@ -36039,7 +36039,7 @@ const POKEDEX_JSON = [
       french: "Léboulérou",
     },
     id: 953,
-    type: ["Bug"],
+    type: ["Inseto"],
     base: {
       HP: 41,
       Attack: 50,
@@ -36054,7 +36054,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "1 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Compound-eyes", false],
         ["Shed-skin", true],
@@ -36079,7 +36079,7 @@ const POKEDEX_JSON = [
       french: "Bérasca",
     },
     id: 954,
-    type: ["Bug", "Psychic"],
+    type: ["Inseto", "Psíquico"],
     base: {
       HP: 75,
       Attack: 50,
@@ -36094,7 +36094,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.3 m",
       weight: "3.5 kg",
-      egg: ["Bug"],
+      egg: ["Inseto"],
       ability: [
         ["Synchronize", false],
         ["Telepathy", true],
@@ -36119,7 +36119,7 @@ const POKEDEX_JSON = [
       french: "Flotillon",
     },
     id: 955,
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 30,
       Attack: 35,
@@ -36134,7 +36134,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.2 m",
       weight: "1.5 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Anticipation", false],
         ["Frisk", false],
@@ -36160,7 +36160,7 @@ const POKEDEX_JSON = [
       french: "Cléopsytra",
     },
     id: 956,
-    type: ["Psychic"],
+    type: ["Psíquico"],
     base: {
       HP: 95,
       Attack: 60,
@@ -36175,7 +36175,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.9 m",
       weight: "90 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Opportunist", false],
         ["Frisk", false],
@@ -36201,7 +36201,7 @@ const POKEDEX_JSON = [
       french: "Forgerette",
     },
     id: 957,
-    type: ["Fairy", "Steel"],
+    type: ["Fada", "Metal"],
     base: {
       HP: 50,
       Attack: 45,
@@ -36216,7 +36216,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.4 m",
       weight: "8.9 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Mold-breaker", false],
         ["Own-tempo", false],
@@ -36245,7 +36245,7 @@ const POKEDEX_JSON = [
       french: "Forgella",
     },
     id: 958,
-    type: ["Fairy", "Steel"],
+    type: ["Fada", "Metal"],
     base: {
       HP: 65,
       Attack: 55,
@@ -36260,7 +36260,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "59.1 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Mold-breaker", false],
         ["Own-tempo", false],
@@ -36287,7 +36287,7 @@ const POKEDEX_JSON = [
       french: "Forgelina",
     },
     id: 959,
-    type: ["Fairy", "Steel"],
+    type: ["Fada", "Metal"],
     base: {
       HP: 85,
       Attack: 75,
@@ -36302,7 +36302,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "0.7 m",
       weight: "112.8 kg",
-      egg: ["Fairy"],
+      egg: ["Fada"],
       ability: [
         ["Mold-breaker", false],
         ["Own-tempo", false],
@@ -36328,7 +36328,7 @@ const POKEDEX_JSON = [
       french: "Taupikeau",
     },
     id: 960,
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 10,
       Attack: 55,
@@ -36343,7 +36343,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "1.8 kg",
-      egg: ["Water3"],
+      egg: ["Água3"],
       ability: [
         ["Gooey", false],
         ["Rattled", false],
@@ -36369,7 +36369,7 @@ const POKEDEX_JSON = [
       french: "Triopikeau",
     },
     id: 961,
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 35,
       Attack: 100,
@@ -36384,7 +36384,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "5.4 kg",
-      egg: ["Water3"],
+      egg: ["Água3"],
       ability: [
         ["Gooey", false],
         ["Rattled", false],
@@ -36410,7 +36410,7 @@ const POKEDEX_JSON = [
       french: "Lestombaile",
     },
     id: 962,
-    type: ["Flying", "Dark"],
+    type: ["Voador", "Sombrio"],
     base: {
       HP: 70,
       Attack: 103,
@@ -36425,11 +36425,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.5 m",
       weight: "42.9 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Big-pecks", false],
         ["Keen-eye", false],
-        ["Rocky-payload", true],
+        ["Rochay-payload", true],
       ],
     },
     image: {
@@ -36448,7 +36448,7 @@ const POKEDEX_JSON = [
       french: "Dofin",
     },
     id: 963,
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 70,
       Attack: 45,
@@ -36463,10 +36463,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.3 m",
       weight: "60.2 kg",
-      egg: ["Ground", "Water2"],
+      egg: ["Terra", "Água2"],
       ability: [
-        ["Water-veil", false],
-        ["Water-veil", true],
+        ["Água-veil", false],
+        ["Água-veil", true],
       ],
     },
     evolution: {
@@ -36488,7 +36488,7 @@ const POKEDEX_JSON = [
       french: "Vrombi",
     },
     id: 965,
-    type: ["Steel", "Poison"],
+    type: ["Metal", "Venenoso"],
     base: {
       HP: 45,
       Attack: 70,
@@ -36528,7 +36528,7 @@ const POKEDEX_JSON = [
       french: "Vrombotor",
     },
     id: 966,
-    type: ["Steel", "Poison"],
+    type: ["Metal", "Venenoso"],
     base: {
       HP: 80,
       Attack: 119,
@@ -36568,7 +36568,7 @@ const POKEDEX_JSON = [
       french: "Motorizard",
     },
     id: 967,
-    type: ["Dragon", "Normal"],
+    type: ["Dragão", "Normal"],
     base: {
       HP: 70,
       Attack: 95,
@@ -36583,7 +36583,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "63 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Shed-skin", false],
         ["Regenerator", true],
@@ -36605,7 +36605,7 @@ const POKEDEX_JSON = [
       french: "Ferdeter",
     },
     id: 968,
-    type: ["Steel"],
+    type: ["Metal"],
     base: {
       HP: 70,
       Attack: 85,
@@ -36620,7 +36620,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.5 m",
       weight: "310 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Earth-eater", false],
         ["Sand-veil", true],
@@ -36642,7 +36642,7 @@ const POKEDEX_JSON = [
       french: "Germéclat",
     },
     id: 969,
-    type: ["Rock", "Poison"],
+    type: ["Rocha", "Venenoso"],
     base: {
       HP: 48,
       Attack: 35,
@@ -36682,7 +36682,7 @@ const POKEDEX_JSON = [
       french: "Floréclat",
     },
     id: 970,
-    type: ["Rock", "Poison"],
+    type: ["Rocha", "Venenoso"],
     base: {
       HP: 83,
       Attack: 55,
@@ -36722,7 +36722,7 @@ const POKEDEX_JSON = [
       french: "Toutombe",
     },
     id: 971,
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 50,
       Attack: 61,
@@ -36731,13 +36731,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 55,
       Speed: 34,
     },
-    species: "Ghost Dog Pokémon",
+    species: "Fantasma Dog Pokémon",
     description:
       "Dizem que um Pokémon cão que morreu na natureza sem jamais interagir com um humano renasceu como este Pokémon.",
     profile: {
       height: "0.6 m",
       weight: "35 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Pickup", false],
         ["Fluffy", true],
@@ -36762,7 +36762,7 @@ const POKEDEX_JSON = [
       french: "Tomberro",
     },
     id: 972,
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 72,
       Attack: 101,
@@ -36771,13 +36771,13 @@ const POKEDEX_JSON = [
       "Sp. Defense": 97,
       Speed: 68,
     },
-    species: "Ghost Dog Pokémon",
+    species: "Fantasma Dog Pokémon",
     description:
       "Houndstone passa a maior parte do tempo dormindo em cemitérios. Entre todos os Pokémon cães, este é o mais leal a seu mestre.",
     profile: {
       height: "2 m",
       weight: "15 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Sand-rush", false],
         ["Fluffy", true],
@@ -36802,7 +36802,7 @@ const POKEDEX_JSON = [
       french: "Flamenroule",
     },
     id: 973,
-    type: ["Flying", "Fighting"],
+    type: ["Voador", "Lutador"],
     base: {
       HP: 82,
       Attack: 115,
@@ -36817,7 +36817,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.6 m",
       weight: "37 kg",
-      egg: ["Flying"],
+      egg: ["Voador"],
       ability: [
         ["Scrappy", false],
         ["Tangled-feet", false],
@@ -36840,7 +36840,7 @@ const POKEDEX_JSON = [
       french: "Piétacé",
     },
     id: 974,
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 108,
       Attack: 68,
@@ -36855,7 +36855,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "45 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Thick-fat", false],
         ["Snow-cloak", false],
@@ -36863,7 +36863,7 @@ const POKEDEX_JSON = [
       ],
     },
     evolution: {
-      next: [["975", "use ice-stone"]],
+      next: [["975", "use Gelo-stone"]],
     },
     image: {
       sprite: null,
@@ -36881,7 +36881,7 @@ const POKEDEX_JSON = [
       french: "Balbalèze",
     },
     id: 975,
-    type: ["Ice"],
+    type: ["Gelo"],
     base: {
       HP: 170,
       Attack: 113,
@@ -36896,7 +36896,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "4.5 m",
       weight: "700 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Thick-fat", false],
         ["Slush-rush", false],
@@ -36922,7 +36922,7 @@ const POKEDEX_JSON = [
       french: "Délestin",
     },
     id: 976,
-    type: ["Water", "Psychic"],
+    type: ["Água", "Psíquico"],
     base: {
       HP: 90,
       Attack: 102,
@@ -36937,7 +36937,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "2.5 m",
       weight: "90 kg",
-      egg: ["Water2"],
+      egg: ["Água2"],
       ability: [
         ["Mold-breaker", false],
         ["Sharpness", true],
@@ -36959,7 +36959,7 @@ const POKEDEX_JSON = [
       french: "Oyacata",
     },
     id: 977,
-    type: ["Water"],
+    type: ["Água"],
     base: {
       HP: 150,
       Attack: 100,
@@ -36974,11 +36974,11 @@ const POKEDEX_JSON = [
     profile: {
       height: "12 m",
       weight: "220 kg",
-      egg: ["Water2"],
+      egg: ["Água2"],
       ability: [
         ["Unaware", false],
         ["Oblivious", false],
-        ["Water-veil", true],
+        ["Água-veil", true],
       ],
     },
     image: {
@@ -36997,7 +36997,7 @@ const POKEDEX_JSON = [
       french: "Courrousinge",
     },
     id: 979,
-    type: ["Fighting", "Ghost"],
+    type: ["Lutador", "Fantasma"],
     base: {
       HP: 110,
       Attack: 115,
@@ -37012,7 +37012,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.2 m",
       weight: "56 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Vital-spirit", false],
         ["Inner-focus", false],
@@ -37038,7 +37038,7 @@ const POKEDEX_JSON = [
       french: "Terraiste",
     },
     id: 980,
-    type: ["Poison", "Ground"],
+    type: ["Venenoso", "Terra"],
     base: {
       HP: 130,
       Attack: 75,
@@ -37053,10 +37053,10 @@ const POKEDEX_JSON = [
     profile: {
       height: "1.8 m",
       weight: "223 kg",
-      egg: ["Water1", "Ground"],
+      egg: ["Água1", "Terra"],
       ability: [
-        ["Poison-point", false],
-        ["Water-absorb", false],
+        ["Venenoso-point", false],
+        ["Água-absorb", false],
         ["Unaware", true],
       ],
     },
@@ -37079,7 +37079,7 @@ const POKEDEX_JSON = [
       french: "Farigiraf",
     },
     id: 981,
-    type: ["Normal", "Psychic"],
+    type: ["Normal", "Psíquico"],
     base: {
       HP: 120,
       Attack: 90,
@@ -37094,7 +37094,7 @@ const POKEDEX_JSON = [
     profile: {
       height: "3.2 m",
       weight: "160 kg",
-      egg: ["Ground"],
+      egg: ["Terra"],
       ability: [
         ["Cud-chew", false],
         ["Armor-tail", false],
@@ -37120,7 +37120,7 @@ const POKEDEX_JSON = [
       french: "Scalpereur",
     },
     id: 983,
-    type: ["Dark", "Steel"],
+    type: ["Sombrio", "Metal"],
     base: {
       HP: 100,
       Attack: 135,
@@ -37161,7 +37161,7 @@ const POKEDEX_JSON = [
       french: "Fort-Ivoire",
     },
     id: 984,
-    type: ["Ground", "Fighting"],
+    type: ["Terra", "Lutador"],
     base: {
       HP: 115,
       Attack: 131,
@@ -37198,7 +37198,7 @@ const POKEDEX_JSON = [
       french: "Hurle-Queue",
     },
     id: 985,
-    type: ["Fairy", "Psychic"],
+    type: ["Fada", "Psíquico"],
     base: {
       HP: 115,
       Attack: 65,
@@ -37235,7 +37235,7 @@ const POKEDEX_JSON = [
       french: "Fongus-Furie",
     },
     id: 986,
-    type: ["Grass", "Dark"],
+    type: ["Grama", "Sombrio"],
     base: {
       HP: 111,
       Attack: 127,
@@ -37272,7 +37272,7 @@ const POKEDEX_JSON = [
       french: "Flotte-Mèche",
     },
     id: 987,
-    type: ["Ghost", "Fairy"],
+    type: ["Fantasma", "Fada"],
     base: {
       HP: 55,
       Attack: 55,
@@ -37309,7 +37309,7 @@ const POKEDEX_JSON = [
       french: "Rampe-Ailes",
     },
     id: 988,
-    type: ["Bug", "Fighting"],
+    type: ["Inseto", "Lutador"],
     base: {
       HP: 85,
       Attack: 135,
@@ -37346,7 +37346,7 @@ const POKEDEX_JSON = [
       french: "Pelage-Sablé",
     },
     id: 989,
-    type: ["Electric", "Ground"],
+    type: ["Elétrico", "Terra"],
     base: {
       HP: 85,
       Attack: 81,
@@ -37383,7 +37383,7 @@ const POKEDEX_JSON = [
       french: "Roue-de-Fer",
     },
     id: 990,
-    type: ["Ground", "Steel"],
+    type: ["Terra", "Metal"],
     base: {
       HP: 90,
       Attack: 112,
@@ -37420,7 +37420,7 @@ const POKEDEX_JSON = [
       french: "Hotte-de-Fer",
     },
     id: 991,
-    type: ["Ice", "Water"],
+    type: ["Gelo", "Água"],
     base: {
       HP: 56,
       Attack: 80,
@@ -37457,7 +37457,7 @@ const POKEDEX_JSON = [
       french: "Paume-de-Fer",
     },
     id: 992,
-    type: ["Fighting", "Electric"],
+    type: ["Lutador", "Elétrico"],
     base: {
       HP: 154,
       Attack: 140,
@@ -37494,7 +37494,7 @@ const POKEDEX_JSON = [
       french: "Têtes-de-Fer",
     },
     id: 993,
-    type: ["Dark", "Flying"],
+    type: ["Sombrio", "Voador"],
     base: {
       HP: 94,
       Attack: 80,
@@ -37531,7 +37531,7 @@ const POKEDEX_JSON = [
       french: "Mite-de-Fer",
     },
     id: 994,
-    type: ["Fire", "Poison"],
+    type: ["Fogo", "Venenoso"],
     base: {
       HP: 80,
       Attack: 70,
@@ -37568,7 +37568,7 @@ const POKEDEX_JSON = [
       french: "Épine-de-Fer",
     },
     id: 995,
-    type: ["Rock", "Electric"],
+    type: ["Rocha", "Elétrico"],
     base: {
       HP: 100,
       Attack: 134,
@@ -37605,7 +37605,7 @@ const POKEDEX_JSON = [
       french: "Frigodo",
     },
     id: 996,
-    type: ["Dragon", "Ice"],
+    type: ["Dragão", "Gelo"],
     base: {
       HP: 65,
       Attack: 75,
@@ -37614,16 +37614,16 @@ const POKEDEX_JSON = [
       "Sp. Defense": 45,
       Speed: 55,
     },
-    species: "Ice Fin Pokémon",
+    species: "Gelo Fin Pokémon",
     description:
       "Frigibax absorve calor através de sua barbatana dorsal e converte o calor em energia de gelo. Quanto maior a temperatura, mais energia Frigibax armazena.",
     profile: {
       height: "0.5 m",
       weight: "17 kg",
-      egg: ["Dragon", "Mineral"],
+      egg: ["Dragão", "Mineral"],
       ability: [
         ["Thermal-exchange", false],
-        ["Ice-body", true],
+        ["Gelo-body", true],
       ],
     },
     evolution: {
@@ -37648,7 +37648,7 @@ const POKEDEX_JSON = [
       french: "Cryodo",
     },
     id: 997,
-    type: ["Dragon", "Ice"],
+    type: ["Dragão", "Gelo"],
     base: {
       HP: 90,
       Attack: 95,
@@ -37657,16 +37657,16 @@ const POKEDEX_JSON = [
       "Sp. Defense": 65,
       Speed: 62,
     },
-    species: "Ice Fin Pokémon",
+    species: "Gelo Fin Pokémon",
     description:
       "Arctibax congela o ar ao seu redor, protegendo seu rosto com uma máscara de gelo e transformando sua barbatana dorsal em uma lâmina de gelo.",
     profile: {
       height: "0.8 m",
       weight: "30 kg",
-      egg: ["Dragon", "Mineral"],
+      egg: ["Dragão", "Mineral"],
       ability: [
         ["Thermal-exchange", false],
-        ["Ice-body", true],
+        ["Gelo-body", true],
       ],
     },
     evolution: {
@@ -37689,7 +37689,7 @@ const POKEDEX_JSON = [
       french: "Glaivodo",
     },
     id: 998,
-    type: ["Dragon", "Ice"],
+    type: ["Dragão", "Gelo"],
     base: {
       HP: 115,
       Attack: 145,
@@ -37698,16 +37698,16 @@ const POKEDEX_JSON = [
       "Sp. Defense": 86,
       Speed: 87,
     },
-    species: "Ice Dragon Pokémon",
+    species: "Gelo Dragão Pokémon",
     description:
       "Este Pokémon lança ar criogênico de sua boca. Este ar pode congelar instantaneamente até mesmo lava quente líquida.",
     profile: {
       height: "2.1 m",
       weight: "210 kg",
-      egg: ["Dragon", "Mineral"],
+      egg: ["Dragão", "Mineral"],
       ability: [
         ["Thermal-exchange", false],
-        ["Ice-body", true],
+        ["Gelo-body", true],
       ],
     },
     evolution: {
@@ -37729,7 +37729,7 @@ const POKEDEX_JSON = [
       french: "Mordudor",
     },
     id: 999,
-    type: ["Ghost"],
+    type: ["Fantasma"],
     base: {
       HP: 45,
       Attack: 30,
@@ -37769,7 +37769,7 @@ const POKEDEX_JSON = [
       french: "Gromago",
     },
     id: 1000,
-    type: ["Steel", "Ghost"],
+    type: ["Metal", "Fantasma"],
     base: {
       HP: 87,
       Attack: 60,
@@ -37809,7 +37809,7 @@ const POKEDEX_JSON = [
       french: "Chongjian",
     },
     id: 1001,
-    type: ["Dark", "Grass"],
+    type: ["Sombrio", "Grama"],
     base: {
       HP: 85,
       Attack: 85,
@@ -37846,7 +37846,7 @@ const POKEDEX_JSON = [
       french: "Baojian",
     },
     id: 1002,
-    type: ["Dark", "Ice"],
+    type: ["Sombrio", "Gelo"],
     base: {
       HP: 80,
       Attack: 120,
@@ -37883,7 +37883,7 @@ const POKEDEX_JSON = [
       french: "Dinglu",
     },
     id: 1003,
-    type: ["Dark", "Ground"],
+    type: ["Sombrio", "Terra"],
     base: {
       HP: 155,
       Attack: 110,
@@ -37920,7 +37920,7 @@ const POKEDEX_JSON = [
       french: "Yuyu",
     },
     id: 1004,
-    type: ["Dark", "Fire"],
+    type: ["Sombrio", "Fogo"],
     base: {
       HP: 55,
       Attack: 80,
@@ -37957,7 +37957,7 @@ const POKEDEX_JSON = [
       french: "Rugit-Lune",
     },
     id: 1005,
-    type: ["Dragon", "Dark"],
+    type: ["Dragão", "Sombrio"],
     base: {
       HP: 105,
       Attack: 139,
@@ -37994,7 +37994,7 @@ const POKEDEX_JSON = [
       french: "Garde-de-Fer",
     },
     id: 1006,
-    type: ["Fairy", "Fighting"],
+    type: ["Fada", "Lutador"],
     base: {
       HP: 74,
       Attack: 130,
@@ -38031,7 +38031,7 @@ const POKEDEX_JSON = [
       french: "Koraidon",
     },
     id: 1007,
-    type: ["Fighting", "Dragon"],
+    type: ["Lutador", "Dragão"],
     base: {
       HP: 100,
       Attack: 135,
@@ -38068,7 +38068,7 @@ const POKEDEX_JSON = [
       french: "Miraidon",
     },
     id: 1008,
-    type: ["Electric", "Dragon"],
+    type: ["Elétrico", "Dragão"],
     base: {
       HP: 100,
       Attack: 85,
@@ -38105,7 +38105,7 @@ const POKEDEX_JSON = [
       french: "Serpente-Eau",
     },
     id: 1009,
-    type: ["Water", "Dragon"],
+    type: ["Água", "Dragão"],
     base: {
       HP: 99,
       Attack: 83,
@@ -38142,7 +38142,7 @@ const POKEDEX_JSON = [
       french: "Vert-de-Fer",
     },
     id: 1010,
-    type: ["Grass", "Psychic"],
+    type: ["Grama", "Psíquico"],
     base: {
       HP: 90,
       Attack: 130,
@@ -38179,7 +38179,7 @@ const POKEDEX_JSON = [
       french: "Pomdramour",
     },
     id: 1011,
-    type: ["Grass", "Dragon"],
+    type: ["Grama", "Dragão"],
     base: {
       HP: 80,
       Attack: 80,
@@ -38203,7 +38203,7 @@ const POKEDEX_JSON = [
     },
     evolution: {
       prev: ["840", "Level INITIAL"],
-      next: [["1019", "Level up depois de aprender Dragon Cheer"]],
+      next: [["1019", "Level up depois de aprender Dragão Cheer"]],
     },
     image: {
       sprite: null,
@@ -38221,7 +38221,7 @@ const POKEDEX_JSON = [
       french: "Poltchageist",
     },
     id: 1012,
-    type: ["Grass", "Ghost"],
+    type: ["Grama", "Fantasma"],
     base: {
       HP: 40,
       Attack: 45,
@@ -38261,7 +38261,7 @@ const POKEDEX_JSON = [
       french: "Théffroyable",
     },
     id: 1013,
-    type: ["Grass", "Ghost"],
+    type: ["Grama", "Fantasma"],
     base: {
       HP: 71,
       Attack: 60,
@@ -38301,7 +38301,7 @@ const POKEDEX_JSON = [
       french: "Félicanis",
     },
     id: 1014,
-    type: ["Poison", "Fighting"],
+    type: ["Venenoso", "Lutador"],
     base: {
       HP: 88,
       Attack: 128,
@@ -38338,7 +38338,7 @@ const POKEDEX_JSON = [
       french: "Fortusimia",
     },
     id: 1015,
-    type: ["Poison", "Psychic"],
+    type: ["Venenoso", "Psíquico"],
     base: {
       HP: 88,
       Attack: 75,
@@ -38375,7 +38375,7 @@ const POKEDEX_JSON = [
       french: "Favianos",
     },
     id: 1016,
-    type: ["Poison", "Fairy"],
+    type: ["Venenoso", "Fada"],
     base: {
       HP: 88,
       Attack: 91,
@@ -38412,7 +38412,7 @@ const POKEDEX_JSON = [
       french: "Ogerpon",
     },
     id: 1017,
-    type: ["Grass"],
+    type: ["Grama"],
     base: {
       HP: 80,
       Attack: 120,
@@ -38446,7 +38446,7 @@ const POKEDEX_JSON = [
       french: "Pondralugon",
     },
     id: 1018,
-    type: ["Steel", "Dragon"],
+    type: ["Metal", "Dragão"],
     base: {
       HP: 90,
       Attack: 105,
@@ -38487,7 +38487,7 @@ const POKEDEX_JSON = [
       french: "Pomdorochi",
     },
     id: 1019,
-    type: ["Grass", "Dragon"],
+    type: ["Grama", "Dragão"],
     base: {
       HP: 106,
       Attack: 80,
@@ -38510,7 +38510,7 @@ const POKEDEX_JSON = [
       ],
     },
     evolution: {
-      prev: ["1011", "Level up depois de aprender Dragon Cheer"],
+      prev: ["1011", "Level up depois de aprender Dragão Cheer"],
     },
     image: {
       sprite: null,
@@ -38522,13 +38522,13 @@ const POKEDEX_JSON = [
   },
   {
     name: {
-      english: "Gouging Fire",
+      english: "Gouging Fogo",
       japanese: "ウガツホムラ",
       chinese: "破空焰",
       french: "Feu-Perçant",
     },
     id: 1020,
-    type: ["Fire", "Dragon"],
+    type: ["Fogo", "Dragão"],
     base: {
       HP: 105,
       Attack: 115,
@@ -38562,7 +38562,7 @@ const POKEDEX_JSON = [
       french: "Ire-Foudre",
     },
     id: 1021,
-    type: ["Electric", "Dragon"],
+    type: ["Elétrico", "Dragão"],
     base: {
       HP: 125,
       Attack: 73,
@@ -38596,7 +38596,7 @@ const POKEDEX_JSON = [
       french: "Roc-de-Fer",
     },
     id: 1022,
-    type: ["Rock", "Psychic"],
+    type: ["Rocha", "Psíquico"],
     base: {
       HP: 90,
       Attack: 120,
@@ -38630,7 +38630,7 @@ const POKEDEX_JSON = [
       french: "Chef-de-Fer",
     },
     id: 1023,
-    type: ["Steel", "Psychic"],
+    type: ["Metal", "Psíquico"],
     base: {
       HP: 90,
       Attack: 72,
@@ -38698,7 +38698,7 @@ const POKEDEX_JSON = [
       french: "Pêchaminus",
     },
     id: 1025,
-    type: ["Poison", "Ghost"],
+    type: ["Venenoso", "Fantasma"],
     base: {
       HP: 88,
       Attack: 88,
@@ -38714,7 +38714,7 @@ const POKEDEX_JSON = [
       height: "0.3 m",
       weight: "0.3 kg",
       egg: [],
-      ability: [["Poison-puppeteer", false]],
+      ability: [["Venenoso-puppeteer", false]],
     },
     image: {
       sprite: null,
