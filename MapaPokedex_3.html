@@ -24,18 +24,42 @@
 
         .pokedex-container {
             position: relative;
-            width: 600px;
-            height: 450px;
+            width: 19.5%;
+            height: 40%;
+            max-width: 1200px;
         }
 
         .map-frame {
             position: absolute;
-            top: 20%;
-            left: 29%;
-            width: 41.5%;
-            height: 50%;
+            top: 3%;
+            left: 5%;
+            width: 90%;
+            height: 80%;
             border: none;
             border-radius: 5px;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            .map-frame {
+                top: 5%;
+                left: 5%;
+                width: 90%;
+                height: 70%;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .map-frame {
+                top: 5%;
+                left: 5%;
+                width: 90%;
+                height: 60%;
+            }
+
+            body {
+                flex-direction: column;
+            }
         }
     </style>
 </head>
