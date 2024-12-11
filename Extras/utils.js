@@ -124,7 +124,7 @@ function pokemon_type_color(pokemon_type)
     case "Inseto":
       return "#a7b821";
 
-   case "Rock":
+   case "Rocha":
     return "#bbaa66";
 
     case "Fantasma":
