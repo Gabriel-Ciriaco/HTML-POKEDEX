@@ -25,13 +25,15 @@ window.onload = () => {
         
         let nome_pokemon = pokemon.name;
         let image_src = pokemon.image.hires;
+        let num_pokemon = String(i).padStart(4, '0');
+
 
         let div = document.createElement('div');
         div.className = 'item_repeat';
         
         let title = document.createElement("h3");
-        title.textContent = nome_pokemon;
-
+        title.textContent = `${num_pokemon} ${nome_pokemon}`; 
+        
         let image = document.createElement("img");
         image.className = "imageHome";
         image.src = image_src;
