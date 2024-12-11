@@ -62,7 +62,9 @@ main {
   padding-bottom: 3px;
 }
 
-.pesq_poke{
+.pesq_poke{ 
+  font-family: 'Fantasy', sans-serif;
+  font-size: small;
   color: white;
   text-align: center;
 }
@@ -83,6 +85,9 @@ main {
 }
 
 .EspacoAlinha{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: medium;
+  margin-top: 4px;
   margin-left: 15px;
   display: inline-block;
 }
@@ -106,6 +111,7 @@ main {
 
 .bordaCampoNome {
   border: 5px solid white;
+  font-family: 'Courier', 'Courier New', monospace;  /* Fontes monoespaçadas com estilo pixelado */
   border-radius: 20px;
   width: 38%;
   padding: 15px;
@@ -113,6 +119,7 @@ main {
   background-color: white;
   display: inline-block;
   vertical-align: middle; /* Alinha verticalmente ao texto */
+  text-align: center;
 }
 
 .bordaCampoNome2 {

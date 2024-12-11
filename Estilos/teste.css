@@ -32,6 +32,10 @@
     color: red;
 }
 
+.fontenav{
+  font-family: 'Low Batt', sans-serif;
+}
+
 #pokemon_imagem {
   margin-top: 25px;
   width: 30em;
@@ -44,6 +48,8 @@
   background-color: #2d3142;
   color: white;
   text-align: center;
+  font-size: 8vw;
+  font-family: 'Low Batt', sans-serif;
 }
 
 .border{
@@ -67,7 +73,23 @@
 
 .box_align{
   text-align: center;
+  font-family: 'Low Batt', sans-serif;
+  font-size: 2.5vh;
 }
+
+.box_alignInfo{
+  text-align: center;
+  font-family: 'Low Batt', sans-serif;
+  font-size: 6.5vh;
+}
+
+.box_align2{
+  text-align: center;
+  font-family: 'Low Batt', sans-serif;
+  font-size: 6.5vh;
+}
+
+
 
 .borda1{
   border: 5px solid white;
@@ -98,21 +120,35 @@
   overflow-x: auto;
 }
 
-.stats_name,
-.stats_value,
+.stats_name, 
+.stats_value{
+  text-align: start;
+  font-family: "ＭＳ Ｐゴシック";
+  font-size: large;
+}
+
 .stats_bar {
-  color: black;
+  color: #e71d36;
   text-align: start;
 }
 
 .stats_bar {
-  accent-color: rgb(123, 0, 15);
+  accent-color: rgb(240, 33, 57);
+  padding: 11px;
 }
 
 .EspacoAlinha{
     margin-left: 37vh;
     display: inline-block;
     width: 126px;
+}
+
+.EspacoAlinha2{
+  margin-left: 37vh;
+  display: inline-block;
+  width: 126px;
+  font-family: 'Low Batt', sans-serif;
+  font-size: 2.7vh
 }
 
 .bordaCampoNome {
@@ -235,6 +271,7 @@ body{
 }
 
 .bordaDesc{
+    font-family: "ＭＳ Ｐゴシック";
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -244,6 +281,7 @@ body{
     border-radius: 20px;
     padding: 15px;
     background-color: white;
+    font-size:larger
 }
 
 @media (max-width: 1024px) {

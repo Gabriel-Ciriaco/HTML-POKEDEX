@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./Estilos/Forms.css">
     <link rel="shortcut icon" type="image/jpg" href="Favicon.png"/>
+    <link href="https://fonts.cdnfonts.com/css/low-batt" rel="stylesheet">
+                
     <title>Bug Report</title>
 </head>
 
@@ -30,24 +32,34 @@
     
     <div class="div_center">
     <h1 class="title">Encontrou algo de estranho?</h1>
-    <h2 class="subtitle">Conte para nós!</h2>
+    <h2 class="subtitle">Conte para nos!</h2>
 
     <img src="PokeComputer.png" alt="Bug_Psyduck" class="psyduck_error">
 
     <form class="bug_form">
         <table>
-            <caption>Formulário para Bugs</caption>
+            <caption class = "CapFont">Formulario para Bugs</caption>
             <tr>
-                <th>Informe onde ocorreu o problema.</th>
-                <td><input type="text" name="BugReport" id="BR"></td>
+                <th class = "CentralizaTexto">Informe onde ocorreu o problema.</th>
+                <td class = ><input type="text" name="BugReport" id="BR"></td>
             </tr>
             <tr>
-                <th>Descreva-o detalhadamente.</th>
-                <td><textarea name="BugDescription" id="BD" rows="5" placeholder="Descreva o bug"></textarea></td>
+                <th class = "CentralizaTexto" >Descreva detalhadamente</th>
+                <td ><textarea class = "font" name="BugDescription" id="BD" rows="5" placeholder="Descreva o bug"></textarea></td>
+            </tr>
+            <th class = "CentralizaTexto">Data de Ocorrencia</th>
+                <td><input type="date" name="DataDoBug" id="DDB"></td> 
             </tr>
             <tr>
-              <td>
-                <button>Enviar</button>
+                <th class = "CentralizaTexto">Telefone para contato</th>
+                <td>
+                    <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" class = "font2"placeholder="(XX) XXXX-XXXX">
+                </td>
+            </tr>
+            <tr>
+              <td class = "EspacamentoSubRes">
+                <input class = "CheckboxSubmit" type = "submit" value = "Enviar">
+                <input class = "CheckboxReset" type="reset" value="Reset">
               </td>
             </tr>
         </table>

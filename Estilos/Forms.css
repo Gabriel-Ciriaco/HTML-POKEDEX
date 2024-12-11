@@ -10,17 +10,66 @@ body {
   text-align: center;
 }
 
+.CentralizaTexto{
+    text-align: center;
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: larger;
+}
+
+.font{
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: large;
+}
+
+.font2{
+    font-family: "ＭＳ Ｐゴシック";
+    font-size: large;
+}
+.CheckboxReset{
+    border-radius: 5px;
+    
+}
+
+.EspacamentoSubRes{
+    display:flex;
+    justify-content:space-around; 
+    align-items: center; 
+    border-width: 0px;
+    margin: auto;
+}
+
+.CheckboxReset:hover {
+    background-color: rgb(230, 20, 20); 
+    transform: scale(1.2);
+}
+
+.CheckboxSubmit:hover {
+    background-color: rgb(143, 235, 5); 
+    transform: scale(1.2);
+
+}
+
+.CheckboxSubmit{
+    border-radius: 5px;
+}
+
 .title {
   margin: 0;
-  background-color: rgb(69, 5, 5);
+  background-color: rgb(243, 28, 28);
   color: white;
   padding: 30px;
+  font-family: 'Low Batt', sans-serif;
 }
 .subtitle {
   margin: 0;
   background-color: rgb(90, 16, 16);
   color: white;
   padding: 30px;
+  font-family: 'Low Batt', sans-serif;
+}
+
+.CapFont{
+    font-family: 'Low Batt', sans-serif;
 }
 
 .psyduck_error {
@@ -148,7 +197,7 @@ body{
   width: 80%;
   margin-left: auto;
   margin-right: auto;
-  background-color: #2d3142;
+  background-color: #878787;
   padding-bottom: 25px;
 }
 
