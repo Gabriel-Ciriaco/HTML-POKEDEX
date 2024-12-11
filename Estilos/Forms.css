@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(210, 210, 210);
+  background-color: #FFFDf2;
   text-align: center;
 }
 
@@ -82,7 +82,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: red;
+    background-color: #e71d36;
 }
 
 li {
@@ -141,6 +141,15 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
+}
+
+.div_center
+{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #2d3142;
+  padding-bottom: 25px;
 }
 
 .active{

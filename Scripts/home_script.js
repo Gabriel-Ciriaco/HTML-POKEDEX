@@ -99,7 +99,7 @@ window.onload = () => {
     displayPokemons(CUR_GEN);
 
     $(".more_pokemons").on("click", () => {
-      CUR_GEN += NEW_QTD_POKE;
+      CUR_GEN += (NEW_QTD_POKE+2);
       displayPokemons(CUR_GEN)
     })
 

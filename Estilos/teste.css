@@ -41,7 +41,7 @@
 .pesq_poke{
   margin-top: 0px;
   padding: 25px;
-  background-color: black;
+  background-color: #2d3142;
   color: white;
   text-align: center;
 }
@@ -137,7 +137,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: red;
+    background-color: #e71d36;
 }
 
 li {
@@ -196,10 +196,8 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
-}
+    background-color: #FFFDf2;
 
-.active{
-    background-color:black;
 }
 
 .iframe-container {
